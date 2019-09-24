@@ -1,7 +1,7 @@
 {
     "C09023E4-E1BF-4BF7-8798-5C240AAEF026": {
-        "scrollOrigin": "{787, 598}",
-        "zoomValue": 1
+        "scrollOrigin": "{264, 3}",
+        "zoomValue": 0.1372761267467034
     },
     "FBFF5DEE-B523-4923-9FE7-618B5F5D1381": {
         "scrollOrigin": "{939, 672}",
@@ -12,16 +12,16 @@
         "zoomValue": 0.305941270202595
     },
     "3F68ACDF-0B48-4C9A-8DED-475A144D8781": {
-        "scrollOrigin": "{-8343, 123}",
-        "zoomValue": 0.6212024225712739
+        "scrollOrigin": "{-4288, -366}",
+        "zoomValue": 1
     },
     "BB8348B6-BE02-4A9A-8B4C-059DB964DAAE": {
         "scrollOrigin": "{805, 615}",
         "zoomValue": 1
     },
     "A3AA90D9-830A-4E81-9D1B-3F7DE28A4BF0": {
-        "scrollOrigin": "{226, 274}",
-        "zoomValue": 0.336552312863469
+        "scrollOrigin": "{-6614, 43}",
+        "zoomValue": 0.5
     },
     "C739B898-E28B-4F61-A2FA-FB0A825CFE25": {
         "scrollOrigin": "{70, 376}",
@@ -44,8 +44,8 @@
         "zoomValue": 1
     },
     "BE285DE0-154A-4F3B-882C-8F46F82C2694": {
-        "scrollOrigin": "{-1967, -114}",
-        "zoomValue": 0.2661603375527427
+        "scrollOrigin": "{355, 315}",
+        "zoomValue": 0.125
     },
     "496804D2-8291-486C-8729-0B132CCCA194": {
         "scrollOrigin": "{0, 505}",
@@ -64,8 +64,8 @@
         "zoomValue": 0.5031823287158368
     },
     "CD190E3E-9BAC-4100-A609-215A307BA740": {
-        "scrollOrigin": "{158, 372}",
-        "zoomValue": 1
+        "scrollOrigin": "{-2991, -4523}",
+        "zoomValue": 2
     },
     "0219A9B2-6F0C-4E3E-9021-C0642B8F3F75": {
         "scrollOrigin": "{-0, 120}",
@@ -88,8 +88,8 @@
         "zoomValue": 1
     },
     "B7608404-6BBD-46EA-9238-DF783D2F4516": {
-        "scrollOrigin": "{328, 149}",
-        "zoomValue": 0.409340967778152
+        "scrollOrigin": "{697, 760}",
+        "zoomValue": 0.5
     },
     "F9FDF1F0-F76C-4E85-962F-96227DF6F669": {
         "scrollOrigin": "{78, -501}",
@@ -136,7 +136,7 @@
         "zoomValue": 0.3806287170773152
     },
     "3E31F239-C0B3-46C7-B4A4-B704FB3C3325": {
-        "scrollOrigin": "{584, 19}",
+        "scrollOrigin": "{584, 122}",
         "zoomValue": 0.7610419026047565
     },
     "4DD6BB32-4A62-402C-B140-6C51138A3BCB": {

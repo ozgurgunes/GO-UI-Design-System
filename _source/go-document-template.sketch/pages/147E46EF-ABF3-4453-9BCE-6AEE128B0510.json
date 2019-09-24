@@ -1,0 +1,367 @@
+{
+    "_class": "page",
+    "do_objectID": "147E46EF-ABF3-4453-9BCE-6AEE128B0510",
+    "booleanOperation": -1,
+    "exportOptions": {
+        "_class": "exportOptions",
+        "exportFormats": [],
+        "includedLayerIds": [],
+        "layerOptions": 0,
+        "shouldTrim": false
+    },
+    "frame": {
+        "_class": "rect",
+        "constrainProportions": false,
+        "height": 0,
+        "width": 0,
+        "x": 0,
+        "y": 0
+    },
+    "isFixedToViewport": false,
+    "isFlippedHorizontal": false,
+    "isFlippedVertical": false,
+    "isLocked": false,
+    "isVisible": true,
+    "layerListExpandedType": 0,
+    "name": "Architecture",
+    "nameIsFixed": true,
+    "resizingConstraint": 63,
+    "resizingType": 0,
+    "rotation": 0,
+    "shouldBreakMaskChain": false,
+    "clippingMaskMode": 0,
+    "hasClippingMask": false,
+    "style": {
+        "_class": "style",
+        "endMarkerType": 0,
+        "miterLimit": 10,
+        "startMarkerType": 0,
+        "windingRule": 1
+    },
+    "groupLayout": {
+        "_class": "MSImmutableFreeformGroupLayout"
+    },
+    "hasClickThrough": true,
+    "layers": [
+        {
+            "_class": "artboard",
+            "do_objectID": "535E911B-9EA1-453E-AD99-BE8FB82E0308",
+            "booleanOperation": 0,
+            "exportOptions": {
+                "_class": "exportOptions",
+                "do_objectID": "7D12DFC3-2485-45B5-91F7-E856A0192801",
+                "exportFormats": [],
+                "includedLayerIds": [],
+                "layerOptions": 0,
+                "shouldTrim": false
+            },
+            "frame": {
+                "_class": "rect",
+                "do_objectID": "2DA070DE-50ED-4549-94F6-E11150A7C2CF",
+                "constrainProportions": false,
+                "height": 1440,
+                "width": 2560,
+                "x": -270,
+                "y": -720
+            },
+            "isFixedToViewport": false,
+            "isFlippedHorizontal": false,
+            "isFlippedVertical": false,
+            "isLocked": false,
+            "isVisible": true,
+            "layerListExpandedType": 2,
+            "name": "2560 x 1440",
+            "nameIsFixed": true,
+            "resizingConstraint": 63,
+            "resizingType": 0,
+            "rotation": 0,
+            "shouldBreakMaskChain": true,
+            "userInfo": {
+                "com.animaapp.stc-sketch-plugin": {
+                    "kModelPropertiesKey": {}
+                }
+            },
+            "clippingMaskMode": 0,
+            "hasClippingMask": false,
+            "style": {
+                "_class": "style",
+                "do_objectID": "D5064F1E-229E-40CC-978D-8EDFD3C62280",
+                "endMarkerType": 0,
+                "fills": [
+                    {
+                        "_class": "fill",
+                        "isEnabled": true,
+                        "color": {
+                            "_class": "color",
+                            "alpha": 1,
+                            "blue": 1,
+                            "green": 1,
+                            "red": 1
+                        },
+                        "fillType": 0,
+                        "noiseIndex": 0,
+                        "noiseIntensity": 0,
+                        "patternFillType": 1,
+                        "patternTileScale": 1
+                    }
+                ],
+                "miterLimit": 10,
+                "startMarkerType": 0,
+                "windingRule": 1
+            },
+            "groupLayout": {
+                "_class": "MSImmutableFreeformGroupLayout",
+                "do_objectID": "90691F3F-B54A-4CAA-960C-EDF4A78B5A47"
+            },
+            "hasClickThrough": false,
+            "layers": [],
+            "backgroundColor": {
+                "_class": "color",
+                "do_objectID": "4294A50D-7EBE-4CD9-AE9F-DB197C9CF977",
+                "alpha": 1,
+                "blue": 0.9725490196078431,
+                "green": 0.9725490196078431,
+                "red": 0.9725490196078431
+            },
+            "grid": {
+                "_class": "simpleGrid",
+                "do_objectID": "198714A7-2D8E-4CAC-8630-88F27868A2F1",
+                "isEnabled": false,
+                "gridSize": 10,
+                "thickGridTimes": 10
+            },
+            "hasBackgroundColor": true,
+            "horizontalRulerData": {
+                "_class": "rulerData",
+                "do_objectID": "6E7D3926-9D9B-4AE4-902C-256F26D84949",
+                "base": 0,
+                "guides": []
+            },
+            "includeBackgroundColorInExport": true,
+            "includeInCloudUpload": true,
+            "isFlowHome": false,
+            "layout": {
+                "_class": "layoutGrid",
+                "do_objectID": "32B6349E-C5C0-4088-8F9D-6B48DA91578E",
+                "isEnabled": false,
+                "columnWidth": 50,
+                "drawHorizontal": true,
+                "drawHorizontalLines": false,
+                "drawVertical": true,
+                "gutterHeight": 50,
+                "gutterWidth": 50,
+                "guttersOutside": true,
+                "horizontalOffset": -25,
+                "numberOfColumns": 50,
+                "rowHeightMultiplication": 1,
+                "totalWidth": 5000
+            },
+            "resizesContent": true,
+            "verticalRulerData": {
+                "_class": "rulerData",
+                "do_objectID": "6E82C2C9-F81F-437C-B48E-C163E4F4D194",
+                "base": 0,
+                "guides": []
+            }
+        },
+        {
+            "_class": "artboard",
+            "do_objectID": "031DF35F-F1B6-421B-9581-C7B2D0290346",
+            "booleanOperation": 0,
+            "exportOptions": {
+                "_class": "exportOptions",
+                "do_objectID": "4C5EEEB3-022E-45F2-A5F8-4C552E914235",
+                "exportFormats": [],
+                "includedLayerIds": [],
+                "layerOptions": 0,
+                "shouldTrim": false
+            },
+            "frame": {
+                "_class": "rect",
+                "do_objectID": "1E7EC598-3A7F-4193-A826-2586EF7F1EB8",
+                "constrainProportions": false,
+                "height": 1080,
+                "width": 1920,
+                "x": -2290,
+                "y": -720
+            },
+            "isFixedToViewport": false,
+            "isFlippedHorizontal": false,
+            "isFlippedVertical": false,
+            "isLocked": false,
+            "isVisible": true,
+            "layerListExpandedType": 2,
+            "name": "- Architecture",
+            "nameIsFixed": true,
+            "resizingConstraint": 63,
+            "resizingType": 0,
+            "rotation": 0,
+            "shouldBreakMaskChain": true,
+            "userInfo": {
+                "com.animaapp.stc-sketch-plugin": {
+                    "kModelPropertiesKey": {}
+                }
+            },
+            "clippingMaskMode": 0,
+            "hasClippingMask": false,
+            "style": {
+                "_class": "style",
+                "do_objectID": "B0379D73-CA1F-4C0B-8D59-940D16835110",
+                "endMarkerType": 0,
+                "miterLimit": 10,
+                "startMarkerType": 0,
+                "windingRule": 1
+            },
+            "groupLayout": {
+                "_class": "MSImmutableFreeformGroupLayout",
+                "do_objectID": "FA01C991-27E2-4991-8919-E841C1258CD0"
+            },
+            "hasClickThrough": true,
+            "layers": [
+                {
+                    "_class": "symbolInstance",
+                    "do_objectID": "F0510FA0-8E51-494F-AA08-267886057F80",
+                    "booleanOperation": -1,
+                    "exportOptions": {
+                        "_class": "exportOptions",
+                        "exportFormats": [],
+                        "includedLayerIds": [],
+                        "layerOptions": 0,
+                        "shouldTrim": false
+                    },
+                    "frame": {
+                        "_class": "rect",
+                        "constrainProportions": false,
+                        "height": 1080,
+                        "width": 1920,
+                        "x": 0,
+                        "y": 0
+                    },
+                    "isFixedToViewport": false,
+                    "isFlippedHorizontal": false,
+                    "isFlippedVertical": false,
+                    "isLocked": false,
+                    "isVisible": true,
+                    "layerListExpandedType": 0,
+                    "name": "6 - Guides / Cover / Base / 1080",
+                    "nameIsFixed": false,
+                    "resizingConstraint": 63,
+                    "resizingType": 0,
+                    "rotation": 0,
+                    "shouldBreakMaskChain": false,
+                    "clippingMaskMode": 0,
+                    "hasClippingMask": false,
+                    "style": {
+                        "_class": "style",
+                        "endMarkerType": 0,
+                        "miterLimit": 10,
+                        "startMarkerType": 0,
+                        "windingRule": 1
+                    },
+                    "horizontalSpacing": 0,
+                    "overrideValues": [
+                        {
+                            "_class": "overrideValue",
+                            "do_objectID": "D47685B7-44CC-4751-A379-F29083D5ABED",
+                            "overrideName": "77971A1C-C53F-41A3-919A-D4EA9DF2E939_stringValue",
+                            "value": " "
+                        },
+                        {
+                            "_class": "overrideValue",
+                            "do_objectID": "CD1CA171-BDBF-42A6-9BB1-2F194A1FF009",
+                            "overrideName": "6F3B29D1-91BB-4D27-89DC-B14D7F878DBA_stringValue",
+                            "value": "Information Architecture"
+                        },
+                        {
+                            "_class": "overrideValue",
+                            "do_objectID": "E0C8E5E5-CBD5-4AA0-A6AC-1ECC5A1D38A0",
+                            "overrideName": "4B6DDAC1-AE14-46B6-86DF-8B2C2E16E180_stringValue",
+                            "value": " "
+                        },
+                        {
+                            "_class": "overrideValue",
+                            "do_objectID": "997D0188-9EDD-4D95-8350-42752463ACE5",
+                            "overrideName": "47237CD6-4E2E-41AB-A242-4BF851A3E7FE_stringValue",
+                            "value": " "
+                        },
+                        {
+                            "_class": "overrideValue",
+                            "do_objectID": "CC8321C5-5522-4BF2-A3C5-5BFB453F4CEC",
+                            "overrideName": "037DDDF1-820D-4666-BB64-1209183C4D98_stringValue",
+                            "value": " "
+                        }
+                    ],
+                    "scale": 1,
+                    "symbolID": "AD33866D-4B5B-4D25-99B1-E967E084E564",
+                    "verticalSpacing": 0
+                }
+            ],
+            "backgroundColor": {
+                "_class": "color",
+                "do_objectID": "866A8521-67DB-4E8F-ADF2-918BBC4D7544",
+                "alpha": 1,
+                "blue": 1,
+                "green": 1,
+                "red": 1
+            },
+            "grid": {
+                "_class": "simpleGrid",
+                "do_objectID": "E2E13D58-3564-40F5-9A27-43B36BFAD67F",
+                "isEnabled": false,
+                "gridSize": 10,
+                "thickGridTimes": 10
+            },
+            "hasBackgroundColor": true,
+            "horizontalRulerData": {
+                "_class": "rulerData",
+                "do_objectID": "CF8F7C83-BDC2-4B3B-B2A4-D500C3F7696A",
+                "base": 0,
+                "guides": []
+            },
+            "includeBackgroundColorInExport": true,
+            "includeInCloudUpload": true,
+            "isFlowHome": false,
+            "layout": {
+                "_class": "layoutGrid",
+                "do_objectID": "7FF89E0B-1DCB-4DAC-8FB5-283F4F86C3EC",
+                "isEnabled": false,
+                "columnWidth": 60,
+                "drawHorizontal": false,
+                "drawHorizontalLines": false,
+                "drawVertical": true,
+                "gutterHeight": 12,
+                "gutterWidth": 20,
+                "guttersOutside": true,
+                "horizontalOffset": 480,
+                "numberOfColumns": 12,
+                "rowHeightMultiplication": 5,
+                "totalWidth": 960
+            },
+            "presetDictionary": {
+                "name": "Apple TV",
+                "offersLandscapeVariant": 0,
+                "height": 1080,
+                "allowResizedMatching": 0,
+                "width": 1920
+            },
+            "resizesContent": true,
+            "verticalRulerData": {
+                "_class": "rulerData",
+                "do_objectID": "D5E7FAD7-F251-4D81-879E-6A6367CFA4FC",
+                "base": 0,
+                "guides": []
+            }
+        }
+    ],
+    "horizontalRulerData": {
+        "_class": "rulerData",
+        "base": -1025,
+        "guides": []
+    },
+    "includeInCloudUpload": true,
+    "verticalRulerData": {
+        "_class": "rulerData",
+        "base": -686,
+        "guides": []
+    }
+}

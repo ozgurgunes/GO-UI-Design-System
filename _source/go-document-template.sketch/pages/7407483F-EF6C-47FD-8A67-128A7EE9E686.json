@@ -1,0 +1,63 @@
+{
+    "_class": "page",
+    "do_objectID": "7407483F-EF6C-47FD-8A67-128A7EE9E686",
+    "booleanOperation": 0,
+    "exportOptions": {
+        "_class": "exportOptions",
+        "do_objectID": "38329680-91F7-4BC8-BFD7-B657D4994DB9",
+        "exportFormats": [],
+        "includedLayerIds": [],
+        "layerOptions": 0,
+        "shouldTrim": false
+    },
+    "frame": {
+        "_class": "rect",
+        "do_objectID": "B9FFC394-6882-4243-9554-5C555DCB7F36",
+        "constrainProportions": false,
+        "height": 300,
+        "width": 300,
+        "x": 0,
+        "y": 0
+    },
+    "isFixedToViewport": false,
+    "isFlippedHorizontal": false,
+    "isFlippedVertical": false,
+    "isLocked": false,
+    "isVisible": true,
+    "layerListExpandedType": 0,
+    "name": "----------",
+    "nameIsFixed": true,
+    "resizingConstraint": 63,
+    "resizingType": 0,
+    "rotation": 0,
+    "shouldBreakMaskChain": false,
+    "clippingMaskMode": 0,
+    "hasClippingMask": false,
+    "style": {
+        "_class": "style",
+        "do_objectID": "503BB5B0-14D4-4287-B3AA-5421A49B3A49",
+        "endMarkerType": 0,
+        "miterLimit": 10,
+        "startMarkerType": 0,
+        "windingRule": 1
+    },
+    "groupLayout": {
+        "_class": "MSImmutableFreeformGroupLayout",
+        "do_objectID": "B7A34562-F62E-44E6-A912-85CB38403FC3"
+    },
+    "hasClickThrough": true,
+    "layers": [],
+    "horizontalRulerData": {
+        "_class": "rulerData",
+        "do_objectID": "9707F129-139D-41E6-A1FA-F4500A27CA6D",
+        "base": -531,
+        "guides": []
+    },
+    "includeInCloudUpload": true,
+    "verticalRulerData": {
+        "_class": "rulerData",
+        "do_objectID": "E69BF921-4172-44D8-814C-F7C24D377480",
+        "base": -354,
+        "guides": []
+    }
+}

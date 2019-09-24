@@ -1,44 +1,128 @@
 {
-    "commit": "0181c02ffae4f4e24c433b7bb014e1093089547e",
+    "commit": "32d82bc13ec208b5231884cb572bf6df9cd04b38",
     "pagesAndArtboards": {
         "BE285DE0-154A-4F3B-882C-8F46F82C2694": {
             "name": "Views",
             "artboards": {
-                "0CF3E3D4-7933-4E9B-96CF-015C1F2B73F1": {
-                    "name": "4 - Views / Generic / Web - Small / Accordion"
-                },
-                "51A5DDB8-21FB-478B-A354-D3FAD568EB44": {
-                    "name": "4 - Views / Generic / Web - Large / Card Bullets"
-                },
-                "F0C2A116-3C89-44F2-8DDC-A6FADDE624C6": {
-                    "name": "4 - Views / System / Web - Large / Alert - Bar"
-                },
-                "BF990DBD-4561-44E4-A72C-68B38AC26A25": {
-                    "name": "4 - Views / Generic / Web - Large / Card Index"
-                },
-                "466C9B32-2420-4419-BED8-2B5DFDDB3923": {
-                    "name": "4 - Views / Generic / Web - Large / Carousel"
-                },
-                "D2700C4E-87C1-4DF7-81DE-0E7A5D9BBC91": {
-                    "name": "4 - Views / Hero / Web - Large / Hero - Search"
+                "BA0C3850-D8C1-4B71-BDD2-680AEA5D67C7": {
+                    "name": "4 - Views / Generic / Web - Large / Accordion"
                 },
                 "92F98A6E-41CF-4C66-B7E0-A77AC2729710": {
                     "name": "4 - Views / System / Web - Small / Error - 500"
                 },
-                "901F4259-8AEB-41EF-93AA-663E4A058FF6": {
-                    "name": "4 - Views / Hero / Web - Small / Map - Intro"
+                "96E6B326-558B-4414-8BE9-0324A99DB51C": {
+                    "name": "4 - Views / Hero / Web - Large / Map - Intro"
                 },
-                "1EB31399-8997-4CB8-8DC1-7D53E34BAB8A": {
-                    "name": "4 - Views / Hero / Web - Small / Hero - Search"
+                "22ADD1C8-6298-4900-A42C-1B9DA47AC024": {
+                    "name": "4 - Views / Nav / Web - Large / Page - Footer"
+                },
+                "C98B457C-B9F8-4E3D-BC01-DFED9780977E": {
+                    "name": "4 - Views / Hero / Web - Small / Hero - Base"
+                },
+                "FE888256-F501-4D76-91D4-4830104E3161": {
+                    "name": "4 - Views / Auth / Web - Large / Set Password"
+                },
+                "A3E67014-D012-415F-885D-FDAA000CB07E": {
+                    "name": "4 - Views / Generic / Web - Small / Carousel"
+                },
+                "840E510B-D24D-416A-9082-BDB0B6375C40": {
+                    "name": "4 - Views / App / Web - Large / Comments"
                 },
                 "5C5F1B02-4036-4A06-A5D9-40E40B2009A5": {
                     "name": "4 - Views / Nav / Web - Small / Page - Footer"
                 },
+                "1D6C26FD-50A7-4320-A4CB-541662BA0EC2": {
+                    "name": "4 - Views / Auth / Web - Small / Sign Up"
+                },
+                "8DA94B50-55AB-4C99-BB58-6BD8A47072C7": {
+                    "name": "4 - Views / Hero / Web - Large / Hero - Base"
+                },
+                "466C9B32-2420-4419-BED8-2B5DFDDB3923": {
+                    "name": "4 - Views / Generic / Web - Large / Carousel"
+                },
+                "901F4259-8AEB-41EF-93AA-663E4A058FF6": {
+                    "name": "4 - Views / Hero / Web - Small / Map - Intro"
+                },
+                "F832FD9D-F193-42E3-BC17-B9FE053D10E0": {
+                    "name": "4 - Views / Auth / Web - Small / Verify GSM"
+                },
+                "0CF3E3D4-7933-4E9B-96CF-015C1F2B73F1": {
+                    "name": "4 - Views / Generic / Web - Small / Accordion"
+                },
+                "648200B6-CC15-4E5E-84D0-311939295119": {
+                    "name": "4 - Views / System / Web - Small / Alert - Bar"
+                },
+                "51A5DDB8-21FB-478B-A354-D3FAD568EB44": {
+                    "name": "4 - Views / Generic / Web - Large / Card Bullets"
+                },
+                "1EB31399-8997-4CB8-8DC1-7D53E34BAB8A": {
+                    "name": "4 - Views / Hero / Web - Small / Hero - Search"
+                },
+                "B083281D-60C0-471B-BB54-B2AE4C2A6852": {
+                    "name": "4 - Views / App / Web - Small / Comments"
+                },
+                "F1C4D523-6394-4663-9E24-BAE5D3175067": {
+                    "name": "4 - Views / Auth / Web - Large / Reset Password"
+                },
+                "07B6A970-E637-48A2-AE71-DE171F7C3756": {
+                    "name": "4 - Views / Nav / Web - Large / Page - Header"
+                },
+                "8CFC5F57-365B-44D1-B4A1-8C8506D9B90F": {
+                    "name": "4 - Views / Nav / Web - Small / Page - Base"
+                },
+                "0D3E29BD-27AD-45A9-8F14-678376DEF279": {
+                    "name": "4 - Views / Auth / Web - Large / Verify GSM"
+                },
+                "B28EB7D9-B434-4086-B2A4-EC9ADC8E649C": {
+                    "name": "4 - Views / Auth / Web - Large / Sign In"
+                },
+                "32B2B678-0FED-497B-B7B7-3D963067D456": {
+                    "name": "4 - Views / Generic / Web - Small / Card Bullets"
+                },
                 "47A0D0A0-9B5D-4B46-8F61-8D4DCADFE2C0": {
                     "name": "4 - Views / Generic / Web - Small / Card Thumbs"
                 },
-                "11E96881-D058-4385-AAE5-B33C06A402B4": {
-                    "name": "4 - Views / Auth / Web - Small / Change Password"
+                "D2700C4E-87C1-4DF7-81DE-0E7A5D9BBC91": {
+                    "name": "4 - Views / Hero / Web - Large / Hero - Search"
+                },
+                "F0C2A116-3C89-44F2-8DDC-A6FADDE624C6": {
+                    "name": "4 - Views / System / Web - Large / Alert - Bar"
+                },
+                "2734FFC7-7120-47B2-939C-EDB4DF455F0D": {
+                    "name": "4 - Views / Auth / Web - Small / Sign In"
+                },
+                "C1F218C2-52BE-4255-9D2C-6DF850383186": {
+                    "name": "4 - Views / App / Web - Large / Calendar"
+                },
+                "08A86E99-351E-408B-801D-17C108352868": {
+                    "name": "4 - Views / App / Web - Small / Base"
+                },
+                "E2A9BBFB-403E-441E-8BA9-1B058214D98E": {
+                    "name": "4 - Views / Generic / Web - Large / Search Results"
+                },
+                "EC161FAE-C2AD-4F6E-AF75-679A7079FAEE": {
+                    "name": "4 - Views / System / Web - Large / Error - 404"
+                },
+                "71249A6B-3531-4408-9D5D-32E40167E707": {
+                    "name": "4 - Views / Auth / Web - Small / Reset Password"
+                },
+                "3E7BAAA6-CCAF-403B-8335-8EC44FE778DA": {
+                    "name": "4 - Views / System / Web - Small / Alert - Page"
+                },
+                "C5DE6499-736A-4692-AB8E-134CCABC66FC": {
+                    "name": "4 - Views / Nav / Web - Small / Page - Header"
+                },
+                "DDEDC6C6-74C9-400C-8132-207F469B162B": {
+                    "name": "4 - Views / Auth / Web - Small / Reset Sent"
+                },
+                "162C60B1-B662-45F0-A7C4-D1D334AD1697": {
+                    "name": "4 - Views / System / Web - Large / Error - 500"
+                },
+                "57FD9577-8780-41C4-A3E6-41D7894D898C": {
+                    "name": "4 - Views / Auth / Web - Large / Change Password"
+                },
+                "4DF42C23-A47C-46B3-A45C-F283E82328B2": {
+                    "name": "4 - Views / Auth / Web - Small / Set Password"
                 },
                 "66D7B14B-BE53-428E-B692-36DA87B4C0AF": {
                     "name": "4 - Views / System / Web - Large / Alert - Page"
@@ -46,125 +130,35 @@
                 "E889D700-9225-4103-B3E6-8287A957D1E6": {
                     "name": "4 - Views / Generic / Web - Large / Card Thumbs"
                 },
-                "C5DE6499-736A-4692-AB8E-134CCABC66FC": {
-                    "name": "4 - Views / Nav / Web - Small / Page - Header"
-                },
-                "2922DFB0-AF6C-4969-862C-DDD9C73B6393": {
-                    "name": "4 - Views / Auth / Web - Large / Sign Up"
-                },
-                "0D3E29BD-27AD-45A9-8F14-678376DEF279": {
-                    "name": "4 - Views / Auth / Web - Large / Verify GSM"
-                },
-                "E2A9BBFB-403E-441E-8BA9-1B058214D98E": {
-                    "name": "4 - Views / Generic / Web - Large / Search Results"
-                },
-                "22ADD1C8-6298-4900-A42C-1B9DA47AC024": {
-                    "name": "4 - Views / Nav / Web - Large / Page - Footer"
-                },
-                "E466E1A4-DF55-4837-9581-530F8594580E": {
-                    "name": "4 - Views / Auth / Web - Large / Change Password"
-                },
-                "F5FA2698-C960-416A-AFB4-1EE857188844": {
-                    "name": "4 - Views / App / Web - Large / Base"
-                },
-                "1D6C26FD-50A7-4320-A4CB-541662BA0EC2": {
-                    "name": "4 - Views / Auth / Web - Small / Sign Up"
-                },
-                "23AE437A-0988-4AAA-AA0D-1D4DECD1DC34": {
-                    "name": "4 - Views / System / Web - Small / Error - 404"
-                },
-                "8DA94B50-55AB-4C99-BB58-6BD8A47072C7": {
-                    "name": "4 - Views / Hero / Web - Large / Hero - Base"
-                },
-                "C1F218C2-52BE-4255-9D2C-6DF850383186": {
-                    "name": "4 - Views / App / Web - Large / Calendar"
-                },
-                "F832FD9D-F193-42E3-BC17-B9FE053D10E0": {
-                    "name": "4 - Views / Auth / Web - Small / Verify GSM"
-                },
-                "08A86E99-351E-408B-801D-17C108352868": {
-                    "name": "4 - Views / App / Web - Small / Base"
-                },
-                "4DF42C23-A47C-46B3-A45C-F283E82328B2": {
-                    "name": "4 - Views / Auth / Web - Small / Set Password"
-                },
-                "648200B6-CC15-4E5E-84D0-311939295119": {
-                    "name": "4 - Views / System / Web - Small / Alert - Bar"
-                },
                 "07E895C7-502C-4671-B4BB-E66C315F2401": {
                     "name": "4 - Views / Generic / Web - Small / Card Index"
-                },
-                "07B6A970-E637-48A2-AE71-DE171F7C3756": {
-                    "name": "4 - Views / Nav / Web - Large / Page - Header"
-                },
-                "96E6B326-558B-4414-8BE9-0324A99DB51C": {
-                    "name": "4 - Views / Hero / Web - Large / Map - Intro"
-                },
-                "8CFC5F57-365B-44D1-B4A1-8C8506D9B90F": {
-                    "name": "4 - Views / Nav / Web - Small / Page - Base"
                 },
                 "EC9D7939-8B32-402E-B916-49C5FF8A9440": {
                     "name": "4 - Views / Generic / Web - Small / Search Results"
                 },
-                "A3E67014-D012-415F-885D-FDAA000CB07E": {
-                    "name": "4 - Views / Generic / Web - Small / Carousel"
-                },
-                "FE888256-F501-4D76-91D4-4830104E3161": {
-                    "name": "4 - Views / Auth / Web - Large / Set Password"
-                },
-                "162C60B1-B662-45F0-A7C4-D1D334AD1697": {
-                    "name": "4 - Views / System / Web - Large / Error - 500"
-                },
-                "2734FFC7-7120-47B2-939C-EDB4DF455F0D": {
-                    "name": "4 - Views / Auth / Web - Small / Sign In"
-                },
-                "3E7BAAA6-CCAF-403B-8335-8EC44FE778DA": {
-                    "name": "4 - Views / System / Web - Small / Alert - Page"
-                },
-                "B28EB7D9-B434-4086-B2A4-EC9ADC8E649C": {
-                    "name": "4 - Views / Auth / Web - Large / Sign In"
-                },
                 "A5915181-B05B-4F88-A568-931638447A23": {
                     "name": "4 - Views / Nav / Web - Large / Page - Base"
                 },
-                "F1C4D523-6394-4663-9E24-BAE5D3175067": {
-                    "name": "4 - Views / Auth / Web - Large / Reset Password"
+                "F5FA2698-C960-416A-AFB4-1EE857188844": {
+                    "name": "4 - Views / App / Web - Large / Base"
                 },
-                "EC161FAE-C2AD-4F6E-AF75-679A7079FAEE": {
-                    "name": "4 - Views / System / Web - Large / Error - 404"
+                "2922DFB0-AF6C-4969-862C-DDD9C73B6393": {
+                    "name": "4 - Views / Auth / Web - Large / Sign Up"
                 },
-                "32B2B678-0FED-497B-B7B7-3D963067D456": {
-                    "name": "4 - Views / Generic / Web - Small / Card Bullets"
+                "BF990DBD-4561-44E4-A72C-68B38AC26A25": {
+                    "name": "4 - Views / Generic / Web - Large / Card Index"
                 },
-                "DDEDC6C6-74C9-400C-8132-207F469B162B": {
-                    "name": "4 - Views / Auth / Web - Small / Reset Sent"
-                },
-                "B908288B-E5F6-4984-89EB-30BB1DFB79E6": {
-                    "name": "4 - Views / Auth / Web - Small / Change Password"
-                },
-                "C98B457C-B9F8-4E3D-BC01-DFED9780977E": {
-                    "name": "4 - Views / Hero / Web - Small / Hero - Base"
-                },
-                "57FD9577-8780-41C4-A3E6-41D7894D898C": {
-                    "name": "4 - Views / Auth / Web - Large / Change Password"
-                },
-                "3366EAF2-5A42-4EA4-A1D6-7EF64CC1CCE6": {
-                    "name": "4 - Views / App / Web - Small / Calendar"
-                },
-                "71249A6B-3531-4408-9D5D-32E40167E707": {
-                    "name": "4 - Views / Auth / Web - Small / Reset Password"
-                },
-                "BA0C3850-D8C1-4B71-BDD2-680AEA5D67C7": {
-                    "name": "4 - Views / Generic / Web - Large / Accordion"
-                },
-                "B083281D-60C0-471B-BB54-B2AE4C2A6852": {
-                    "name": "4 - Views / App / Web - Small / Comments"
+                "23AE437A-0988-4AAA-AA0D-1D4DECD1DC34": {
+                    "name": "4 - Views / System / Web - Small / Error - 404"
                 },
                 "5DD07305-0EDD-4A9A-938F-D2EB2FACE36D": {
                     "name": "4 - Views / Auth / Web - Large / Reset Sent"
                 },
-                "840E510B-D24D-416A-9082-BDB0B6375C40": {
-                    "name": "4 - Views / App / Web - Large / Comments"
+                "B908288B-E5F6-4984-89EB-30BB1DFB79E6": {
+                    "name": "4 - Views / Auth / Web - Small / Change Password"
+                },
+                "3366EAF2-5A42-4EA4-A1D6-7EF64CC1CCE6": {
+                    "name": "4 - Views / App / Web - Small / Calendar"
                 }
             }
         },
@@ -299,9 +293,6 @@
                 },
                 "11D24325-05FB-4CFC-B55A-52A3672A51DA": {
                     "name": "2 - Controls / Calendar / Day - Large"
-                },
-                "F762EB77-783C-4B50-8098-508BCD0143C9": {
-                    "name": "2 - Controls / Form / Group / Horizontal - Base"
                 },
                 "CB29EEE4-D675-4B3D-ACDC-517A7CB987E4": {
                     "name": "2 - Controls / Mobile / Pickers / Date Picker - English"
@@ -1119,14 +1110,14 @@
                 "ED576FBF-AD85-4C91-B4DE-9A5A57090328": {
                     "name": "2 - Controls / Form / Float / Select - Icon - Placeholder"
                 },
-                "4451FC60-3924-4791-9AE7-A9EE7497A654": {
-                    "name": "2 - Controls / Form / Widget / Switch - Flat"
+                "29267FAC-E2C3-4B6A-86FA-785C2C7A133D": {
+                    "name": "2 - Controls / Mobile / Keyboards / Android / KeySet - Capitals"
                 },
                 "091D71AD-442F-4AEE-ACD4-BF588E70C210": {
                     "name": "2 - Controls / Mobile / Calendar / _Resources / Small / Null"
                 },
-                "29267FAC-E2C3-4B6A-86FA-785C2C7A133D": {
-                    "name": "2 - Controls / Mobile / Keyboards / Android / KeySet - Capitals"
+                "4451FC60-3924-4791-9AE7-A9EE7497A654": {
+                    "name": "2 - Controls / Form / Widget / Switch - Flat"
                 },
                 "74FA2929-46B3-4159-87C7-14B17C4E3622": {
                     "name": "2 - Controls / Mobile / Calendar / iOS / Large Month - 6 Weeks"
@@ -1658,6 +1649,9 @@
                 "6D4F98A7-BD09-4130-A1C5-FBA10CEE3796": {
                     "name": "1 - Elements / Icon / Glyph - Social - Google+"
                 },
+                "1F458A68-90E8-4051-A1FF-D5A15EA5852B": {
+                    "name": "1 - Elements / Form / Helper - Basic"
+                },
                 "B6293C8C-5316-42CB-A0B3-8295360B8AD0": {
                     "name": "1 - Elements / Common / Asterisk - Optional"
                 },
@@ -1741,6 +1735,9 @@
                 },
                 "1CFA3891-7E20-4294-AF58-4E7E2838CED5": {
                     "name": "1 - Elements / Button / Inline - Left"
+                },
+                "B1E71042-71E9-4429-B513-1D1C9D2A6EB2": {
+                    "name": "1 - Elements / Form / Helper - Icon"
                 },
                 "D320CE1B-FD2E-4553-9FD1-5B136B9338C6": {
                     "name": "1 - Elements / Base / Notch - Frame - Bottom"
@@ -3570,7 +3567,7 @@
             }
         }
     },
-    "version": 119,
+    "version": 120,
     "fonts": [
         "NunitoSans-Bold",
         "NunitoSans-Regular",
@@ -3591,17 +3588,17 @@
     "autosaved": 0,
     "variant": "NONAPPSTORE",
     "created": {
-        "commit": "0181c02ffae4f4e24c433b7bb014e1093089547e",
-        "appVersion": "57.1",
-        "build": 83088,
+        "commit": "32d82bc13ec208b5231884cb572bf6df9cd04b38",
+        "appVersion": "58",
+        "build": 84663,
         "app": "com.bohemiancoding.sketch3",
         "compatibilityVersion": 99,
-        "version": 119,
+        "version": 120,
         "variant": "NONAPPSTORE"
     },
     "saveHistory": [
-        "NONAPPSTORE.83088"
+        "NONAPPSTORE.84663"
     ],
-    "appVersion": "57.1",
-    "build": 83088
+    "appVersion": "58",
+    "build": 84663
 }
