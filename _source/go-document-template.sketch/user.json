@@ -20,15 +20,15 @@
         "zoomValue": 1
     },
     "768EF3D8-8486-479E-89B2-763050B600FA": {
-        "scrollOrigin": "{1274, 789}",
+        "scrollOrigin": "{919, 841}",
+        "zoomValue": 1
+    },
+    "B9BC9CB0-01A4-4451-8DBE-FDDDCFC29C3E": {
+        "scrollOrigin": "{985, 685}",
         "zoomValue": 1
     },
     "147E46EF-ABF3-4453-9BCE-6AEE128B0510": {
         "scrollOrigin": "{2364, 799}",
-        "zoomValue": 1
-    },
-    "53E51EA0-56EC-4E88-A087-6DECCD7A5FAA": {
-        "scrollOrigin": "{218, 189}",
         "zoomValue": 1
     },
     "B373EC93-6937-44DA-8C20-E5D04B3DE010": {
@@ -39,12 +39,22 @@
         "scrollOrigin": "{859, 685}",
         "zoomValue": 0.3998438110113237
     },
+    "B018BF32-445F-4A52-AB67-D56799A06481": {
+        "scrollOrigin": "{787, -622}",
+        "zoomValue": 0.75013698630137
+    },
+    "53E51EA0-56EC-4E88-A087-6DECCD7A5FAA": {
+        "scrollOrigin": "{218, 189}",
+        "zoomValue": 1
+    },
     "05BF0C98-BE87-4122-9148-F5BD9275C84B": {
         "scrollOrigin": "{866, 632}",
         "zoomValue": 1
     },
     "document": {
         "pageListHeight": 335,
-        "pageListCollapsed": 0
+        "pageListCollapsed": 0,
+        "expandedLayerStylePathsInPopover": [],
+        "libraryListCollapsed": 0
     }
 }

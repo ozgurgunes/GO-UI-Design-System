@@ -1,0 +1,3047 @@
+{
+    "0": {
+        "_class": "attributedString",
+        "string": "Bug\u00fcn",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 5,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "SFProText-Regular",
+                            "size": 24
+                        }
+                    },
+                    "kerning": -1,
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 1,
+                        "tighteningFactorForTruncation": 0.05,
+                        "allowsDefaultTighteningForTruncation": 0
+                    }
+                }
+            }
+        ]
+    },
+    "7": {
+        "_class": "attributedString",
+        "string": "12",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 2,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "SFProText-Regular",
+                            "size": 22
+                        }
+                    },
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 2,
+                        "tighteningFactorForTruncation": 0.05,
+                        "allowsDefaultTighteningForTruncation": 0
+                    },
+                    "kerning": -0.9166666666666666
+                }
+            }
+        ]
+    },
+    "14": {
+        "_class": "attributedString",
+        "string": "15 Eyl Paz",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 10,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "SFProText-Regular",
+                            "size": 22
+                        }
+                    },
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 1,
+                        "tighteningFactorForTruncation": 0.05,
+                        "allowsDefaultTighteningForTruncation": 0
+                    },
+                    "kerning": -0.9166666666666666
+                }
+            }
+        ]
+    },
+    "21": {
+        "_class": "attributedString",
+        "string": "32",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 2,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "SFProText-Regular",
+                            "size": 24
+                        }
+                    },
+                    "kerning": -1,
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 1,
+                        "tighteningFactorForTruncation": 0.05,
+                        "allowsDefaultTighteningForTruncation": 0
+                    }
+                }
+            }
+        ]
+    },
+    "28": {
+        "_class": "attributedString",
+        "string": "December",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 8,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "SFProText-Regular",
+                            "size": 24
+                        }
+                    },
+                    "kerning": -1,
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 2,
+                        "tighteningFactorForTruncation": 0.05,
+                        "allowsDefaultTighteningForTruncation": 0
+                    }
+                }
+            }
+        ]
+    },
+    "35": {
+        "_class": "attributedString",
+        "string": "5",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 1,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "SFProText-Regular",
+                            "size": 24
+                        }
+                    },
+                    "kerning": -1,
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 1,
+                        "tighteningFactorForTruncation": 0.05,
+                        "allowsDefaultTighteningForTruncation": 0
+                    }
+                }
+            }
+        ]
+    },
+    "42": {
+        "_class": "attributedString",
+        "string": "August",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 6,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "SFProText-Regular",
+                            "size": 24
+                        }
+                    },
+                    "kerning": -1,
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 2,
+                        "tighteningFactorForTruncation": 0.05,
+                        "allowsDefaultTighteningForTruncation": 0
+                    }
+                }
+            }
+        ]
+    },
+    "49": {
+        "_class": "attributedString",
+        "string": "55",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 2,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "SFProText-Regular",
+                            "size": 22
+                        }
+                    },
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 2,
+                        "tighteningFactorForTruncation": 0.05,
+                        "allowsDefaultTighteningForTruncation": 0
+                    },
+                    "kerning": -0.9166666666666666
+                }
+            }
+        ]
+    },
+    "56": {
+        "_class": "attributedString",
+        "string": "6",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 1,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "SFProText-Regular",
+                            "size": 22
+                        }
+                    },
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 2,
+                        "tighteningFactorForTruncation": 0.05,
+                        "allowsDefaultTighteningForTruncation": 0
+                    },
+                    "kerning": -0.9166666666666666
+                }
+            }
+        ]
+    },
+    "63": {
+        "_class": "attributedString",
+        "string": "16",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 2,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "SFProText-Regular",
+                            "size": 24
+                        }
+                    },
+                    "kerning": -1,
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 1,
+                        "tighteningFactorForTruncation": 0.05,
+                        "allowsDefaultTighteningForTruncation": 0
+                    }
+                }
+            }
+        ]
+    },
+    "70": {
+        "_class": "attributedString",
+        "string": "6",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 1,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "SFProText-Regular",
+                            "size": 24
+                        }
+                    },
+                    "kerning": -1,
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 1,
+                        "tighteningFactorForTruncation": 0.05,
+                        "allowsDefaultTighteningForTruncation": 0
+                    }
+                }
+            }
+        ]
+    },
+    "77": {
+        "_class": "attributedString",
+        "string": "05",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 2,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "SFProText-Regular",
+                            "size": 22
+                        }
+                    },
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 2,
+                        "tighteningFactorForTruncation": 0.05,
+                        "allowsDefaultTighteningForTruncation": 0
+                    },
+                    "kerning": -0.9166666666666666
+                }
+            }
+        ]
+    },
+    "84": {
+        "_class": "attributedString",
+        "string": "May",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 3,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "SFProText-Regular",
+                            "size": 24
+                        }
+                    },
+                    "kerning": -1,
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 2,
+                        "tighteningFactorForTruncation": 0.05,
+                        "allowsDefaultTighteningForTruncation": 0
+                    }
+                }
+            }
+        ]
+    },
+    "91": {
+        "_class": "attributedString",
+        "string": "Fri Apr 15",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 10,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "SFProText-Regular",
+                            "size": 24
+                        }
+                    },
+                    "kerning": -1,
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 1,
+                        "tighteningFactorForTruncation": 0.05,
+                        "allowsDefaultTighteningForTruncation": 0
+                    }
+                }
+            }
+        ]
+    },
+    "98": {
+        "_class": "attributedString",
+        "string": "2014",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 4,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "SFProText-Regular",
+                            "size": 24
+                        }
+                    },
+                    "kerning": -1,
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 1,
+                        "tighteningFactorForTruncation": 0.05,
+                        "allowsDefaultTighteningForTruncation": 0
+                    }
+                }
+            }
+        ]
+    },
+    "105": {
+        "_class": "attributedString",
+        "string": "31",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 2,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "SFProText-Regular",
+                            "size": 24
+                        }
+                    },
+                    "kerning": -1,
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 1,
+                        "tighteningFactorForTruncation": 0.05,
+                        "allowsDefaultTighteningForTruncation": 0
+                    }
+                }
+            }
+        ]
+    },
+    "5": {
+        "_class": "attributedString",
+        "string": "40",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 2,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "SFProText-Regular",
+                            "size": 24
+                        }
+                    },
+                    "kerning": -1,
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 1,
+                        "tighteningFactorForTruncation": 0.05,
+                        "allowsDefaultTighteningForTruncation": 0
+                    }
+                }
+            }
+        ]
+    },
+    "12": {
+        "_class": "attributedString",
+        "string": "9",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 1,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "SFProText-Regular",
+                            "size": 24
+                        }
+                    },
+                    "kerning": -1,
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 1,
+                        "tighteningFactorForTruncation": 0.05,
+                        "allowsDefaultTighteningForTruncation": 0
+                    }
+                }
+            }
+        ]
+    },
+    "19": {
+        "_class": "attributedString",
+        "string": "17",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 2,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "SFProText-Regular",
+                            "size": 24
+                        }
+                    },
+                    "kerning": -1,
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 1,
+                        "tighteningFactorForTruncation": 0.05,
+                        "allowsDefaultTighteningForTruncation": 0
+                    }
+                }
+            }
+        ]
+    },
+    "26": {
+        "_class": "attributedString",
+        "string": "June",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 4,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "SFProText-Regular",
+                            "size": 24
+                        }
+                    },
+                    "kerning": -1,
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 0,
+                        "tighteningFactorForTruncation": 0.05,
+                        "allowsDefaultTighteningForTruncation": 0
+                    }
+                }
+            }
+        ]
+    },
+    "33": {
+        "_class": "attributedString",
+        "string": "February",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 8,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "SFProText-Regular",
+                            "size": 24
+                        }
+                    },
+                    "kerning": -1,
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 2,
+                        "tighteningFactorForTruncation": 0.05,
+                        "allowsDefaultTighteningForTruncation": 0
+                    }
+                }
+            }
+        ]
+    },
+    "40": {
+        "_class": "attributedString",
+        "string": "5",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 1,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "SFProText-Regular",
+                            "size": 22
+                        }
+                    },
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 2,
+                        "tighteningFactorForTruncation": 0.05,
+                        "allowsDefaultTighteningForTruncation": 0
+                    },
+                    "kerning": -0.9166666666666666
+                }
+            }
+        ]
+    },
+    "47": {
+        "_class": "attributedString",
+        "string": "17 Eyl Sal",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 10,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "SFProText-Regular",
+                            "size": 22
+                        }
+                    },
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 1,
+                        "tighteningFactorForTruncation": 0.05,
+                        "allowsDefaultTighteningForTruncation": 0
+                    },
+                    "kerning": -0.9166666666666666
+                }
+            }
+        ]
+    },
+    "54": {
+        "_class": "attributedString",
+        "string": "55",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 2,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "SFProText-Regular",
+                            "size": 24
+                        }
+                    },
+                    "kerning": -1,
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 1,
+                        "tighteningFactorForTruncation": 0.05,
+                        "allowsDefaultTighteningForTruncation": 0
+                    }
+                }
+            }
+        ]
+    },
+    "61": {
+        "_class": "attributedString",
+        "string": "Mon Apr 18",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 10,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "SFProText-Regular",
+                            "size": 24
+                        }
+                    },
+                    "kerning": -1,
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 1,
+                        "tighteningFactorForTruncation": 0.05,
+                        "allowsDefaultTighteningForTruncation": 0
+                    }
+                }
+            }
+        ]
+    },
+    "68": {
+        "_class": "attributedString",
+        "string": "19 Eyl Per",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 10,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "SFProText-Regular",
+                            "size": 22
+                        }
+                    },
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 1,
+                        "tighteningFactorForTruncation": 0.05,
+                        "allowsDefaultTighteningForTruncation": 0
+                    },
+                    "kerning": -0.9166666666666666
+                }
+            }
+        ]
+    },
+    "75": {
+        "_class": "attributedString",
+        "string": "April",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 5,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "SFProText-Regular",
+                            "size": 24
+                        }
+                    },
+                    "kerning": -1,
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 0,
+                        "tighteningFactorForTruncation": 0.05,
+                        "allowsDefaultTighteningForTruncation": 0
+                    }
+                }
+            }
+        ]
+    },
+    "82": {
+        "_class": "attributedString",
+        "string": "4",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 1,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "SFProText-Regular",
+                            "size": 24
+                        }
+                    },
+                    "kerning": -1,
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 1,
+                        "tighteningFactorForTruncation": 0.05,
+                        "allowsDefaultTighteningForTruncation": 0
+                    }
+                }
+            }
+        ]
+    },
+    "89": {
+        "_class": "attributedString",
+        "string": "July",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 4,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "SFProText-Regular",
+                            "size": 24
+                        }
+                    },
+                    "kerning": -1,
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 2,
+                        "tighteningFactorForTruncation": 0.05,
+                        "allowsDefaultTighteningForTruncation": 0
+                    }
+                }
+            }
+        ]
+    },
+    "96": {
+        "_class": "attributedString",
+        "string": "19",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 2,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "SFProText-Regular",
+                            "size": 24
+                        }
+                    },
+                    "kerning": -1,
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 1,
+                        "tighteningFactorForTruncation": 0.05,
+                        "allowsDefaultTighteningForTruncation": 0
+                    }
+                }
+            }
+        ]
+    },
+    "103": {
+        "_class": "attributedString",
+        "string": "Sun Apr 17",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 10,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "SFProText-Regular",
+                            "size": 24
+                        }
+                    },
+                    "kerning": -1,
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 1,
+                        "tighteningFactorForTruncation": 0.05,
+                        "allowsDefaultTighteningForTruncation": 0
+                    }
+                }
+            }
+        ]
+    },
+    "110": {
+        "_class": "attributedString",
+        "string": "AM",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 2,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "SFProText-Regular",
+                            "size": 24
+                        }
+                    },
+                    "kerning": -1,
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 1,
+                        "tighteningFactorForTruncation": 0.05,
+                        "allowsDefaultTighteningForTruncation": 0
+                    }
+                }
+            }
+        ]
+    },
+    "3": {
+        "_class": "attributedString",
+        "string": "30",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 2,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "SFProText-Regular",
+                            "size": 24
+                        }
+                    },
+                    "kerning": -1,
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 1,
+                        "tighteningFactorForTruncation": 0.05,
+                        "allowsDefaultTighteningForTruncation": 0
+                    }
+                }
+            }
+        ]
+    },
+    "10": {
+        "_class": "attributedString",
+        "string": "21",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 2,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "SFProText-Regular",
+                            "size": 24
+                        }
+                    },
+                    "kerning": -1,
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 1,
+                        "tighteningFactorForTruncation": 0.05,
+                        "allowsDefaultTighteningForTruncation": 0
+                    }
+                }
+            }
+        ]
+    },
+    "17": {
+        "_class": "attributedString",
+        "string": "February",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 8,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "SFProText-Regular",
+                            "size": 24
+                        }
+                    },
+                    "kerning": -1,
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 0,
+                        "tighteningFactorForTruncation": 0.05,
+                        "allowsDefaultTighteningForTruncation": 0
+                    }
+                }
+            }
+        ]
+    },
+    "24": {
+        "_class": "attributedString",
+        "string": "3",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 1,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "SFProText-Regular",
+                            "size": 24
+                        }
+                    },
+                    "kerning": -1,
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 1,
+                        "tighteningFactorForTruncation": 0.05,
+                        "allowsDefaultTighteningForTruncation": 0
+                    }
+                }
+            }
+        ]
+    },
+    "31": {
+        "_class": "attributedString",
+        "string": "29",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 2,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "SFProText-Regular",
+                            "size": 24
+                        }
+                    },
+                    "kerning": -1,
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 1,
+                        "tighteningFactorForTruncation": 0.05,
+                        "allowsDefaultTighteningForTruncation": 0
+                    }
+                }
+            }
+        ]
+    },
+    "38": {
+        "_class": "attributedString",
+        "string": "December",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 8,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "SFProText-Regular",
+                            "size": 24
+                        }
+                    },
+                    "kerning": -1,
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 0,
+                        "tighteningFactorForTruncation": 0.05,
+                        "allowsDefaultTighteningForTruncation": 0
+                    }
+                }
+            }
+        ]
+    },
+    "45": {
+        "_class": "attributedString",
+        "string": "May",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 3,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "SFProText-Regular",
+                            "size": 24
+                        }
+                    },
+                    "kerning": -1,
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 0,
+                        "tighteningFactorForTruncation": 0.05,
+                        "allowsDefaultTighteningForTruncation": 0
+                    }
+                }
+            }
+        ]
+    },
+    "52": {
+        "_class": "attributedString",
+        "string": "12 Eyl Per",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 10,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "SFProText-Regular",
+                            "size": 22
+                        }
+                    },
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 1,
+                        "tighteningFactorForTruncation": 0.05,
+                        "allowsDefaultTighteningForTruncation": 0
+                    },
+                    "kerning": -0.9166666666666666
+                }
+            }
+        ]
+    },
+    "59": {
+        "_class": "attributedString",
+        "string": "PM",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 2,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "SFProText-Regular",
+                            "size": 24
+                        }
+                    },
+                    "kerning": -1,
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 1,
+                        "tighteningFactorForTruncation": 0.05,
+                        "allowsDefaultTighteningForTruncation": 0
+                    }
+                }
+            }
+        ]
+    },
+    "66": {
+        "_class": "attributedString",
+        "string": "Sat Apr 23",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 10,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "SFProText-Regular",
+                            "size": 24
+                        }
+                    },
+                    "kerning": -1,
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 1,
+                        "tighteningFactorForTruncation": 0.05,
+                        "allowsDefaultTighteningForTruncation": 0
+                    }
+                }
+            }
+        ]
+    },
+    "73": {
+        "_class": "attributedString",
+        "string": "8",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 1,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "SFProText-Regular",
+                            "size": 24
+                        }
+                    },
+                    "kerning": -1,
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 1,
+                        "tighteningFactorForTruncation": 0.05,
+                        "allowsDefaultTighteningForTruncation": 0
+                    }
+                }
+            }
+        ]
+    },
+    "80": {
+        "_class": "attributedString",
+        "string": "20",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 2,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "SFProText-Regular",
+                            "size": 24
+                        }
+                    },
+                    "kerning": -1,
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 1,
+                        "tighteningFactorForTruncation": 0.05,
+                        "allowsDefaultTighteningForTruncation": 0
+                    }
+                }
+            }
+        ]
+    },
+    "87": {
+        "_class": "attributedString",
+        "string": "1",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 1,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "SFProText-Regular",
+                            "size": 24
+                        }
+                    },
+                    "kerning": -1,
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 1,
+                        "tighteningFactorForTruncation": 0.05,
+                        "allowsDefaultTighteningForTruncation": 0
+                    }
+                }
+            }
+        ]
+    },
+    "94": {
+        "_class": "attributedString",
+        "string": "26",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 2,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "SFProText-Regular",
+                            "size": 24
+                        }
+                    },
+                    "kerning": -1,
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 1,
+                        "tighteningFactorForTruncation": 0.05,
+                        "allowsDefaultTighteningForTruncation": 0
+                    }
+                }
+            }
+        ]
+    },
+    "101": {
+        "_class": "attributedString",
+        "string": "1",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 1,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "SFProText-Regular",
+                            "size": 24
+                        }
+                    },
+                    "kerning": -1,
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 1,
+                        "tighteningFactorForTruncation": 0.05,
+                        "allowsDefaultTighteningForTruncation": 0
+                    }
+                }
+            }
+        ]
+    },
+    "108": {
+        "_class": "attributedString",
+        "string": "6",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 1,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "SFProText-Regular",
+                            "size": 24
+                        }
+                    },
+                    "kerning": -1,
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 1,
+                        "tighteningFactorForTruncation": 0.05,
+                        "allowsDefaultTighteningForTruncation": 0
+                    }
+                }
+            }
+        ]
+    },
+    "1": {
+        "_class": "attributedString",
+        "string": "18 Eyl \u00c7ar",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 10,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "SFProText-Regular",
+                            "size": 22
+                        }
+                    },
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 1,
+                        "tighteningFactorForTruncation": 0.05,
+                        "allowsDefaultTighteningForTruncation": 0
+                    },
+                    "kerning": -0.9166666666666666
+                }
+            }
+        ]
+    },
+    "8": {
+        "_class": "attributedString",
+        "string": "05",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 2,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "SFProText-Regular",
+                            "size": 24
+                        }
+                    },
+                    "kerning": -1,
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 1,
+                        "tighteningFactorForTruncation": 0.05,
+                        "allowsDefaultTighteningForTruncation": 0
+                    }
+                }
+            }
+        ]
+    },
+    "15": {
+        "_class": "attributedString",
+        "string": "2017",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 4,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "SFProText-Regular",
+                            "size": 24
+                        }
+                    },
+                    "kerning": -1,
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 1,
+                        "tighteningFactorForTruncation": 0.05,
+                        "allowsDefaultTighteningForTruncation": 0
+                    }
+                }
+            }
+        ]
+    },
+    "22": {
+        "_class": "attributedString",
+        "string": "20",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 2,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "SFProText-Regular",
+                            "size": 22
+                        }
+                    },
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 2,
+                        "tighteningFactorForTruncation": 0.05,
+                        "allowsDefaultTighteningForTruncation": 0
+                    },
+                    "kerning": -0.9166666666666666
+                }
+            }
+        ]
+    },
+    "29": {
+        "_class": "attributedString",
+        "string": "10",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 2,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "SFProText-Regular",
+                            "size": 22
+                        }
+                    },
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 2,
+                        "tighteningFactorForTruncation": 0.05,
+                        "allowsDefaultTighteningForTruncation": 0
+                    },
+                    "kerning": -0.9166666666666666
+                }
+            }
+        ]
+    },
+    "36": {
+        "_class": "attributedString",
+        "string": "40",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 2,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "SFProText-Regular",
+                            "size": 22
+                        }
+                    },
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 2,
+                        "tighteningFactorForTruncation": 0.05,
+                        "allowsDefaultTighteningForTruncation": 0
+                    },
+                    "kerning": -0.9166666666666666
+                }
+            }
+        ]
+    },
+    "43": {
+        "_class": "attributedString",
+        "string": "2019",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 4,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "SFProText-Regular",
+                            "size": 24
+                        }
+                    },
+                    "kerning": -1,
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 1,
+                        "tighteningFactorForTruncation": 0.05,
+                        "allowsDefaultTighteningForTruncation": 0
+                    }
+                }
+            }
+        ]
+    },
+    "50": {
+        "_class": "attributedString",
+        "string": "12",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 2,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "SFProText-Regular",
+                            "size": 24
+                        }
+                    },
+                    "kerning": -1,
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 1,
+                        "tighteningFactorForTruncation": 0.05,
+                        "allowsDefaultTighteningForTruncation": 0
+                    }
+                }
+            }
+        ]
+    },
+    "57": {
+        "_class": "attributedString",
+        "string": "45",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 2,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "SFProText-Regular",
+                            "size": 24
+                        }
+                    },
+                    "kerning": -1,
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 1,
+                        "tighteningFactorForTruncation": 0.05,
+                        "allowsDefaultTighteningForTruncation": 0
+                    }
+                }
+            }
+        ]
+    },
+    "64": {
+        "_class": "attributedString",
+        "string": "2013",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 4,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "SFProText-Regular",
+                            "size": 24
+                        }
+                    },
+                    "kerning": -1,
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 1,
+                        "tighteningFactorForTruncation": 0.05,
+                        "allowsDefaultTighteningForTruncation": 0
+                    }
+                }
+            }
+        ]
+    },
+    "71": {
+        "_class": "attributedString",
+        "string": "15",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 2,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "SFProText-Regular",
+                            "size": 22
+                        }
+                    },
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 2,
+                        "tighteningFactorForTruncation": 0.05,
+                        "allowsDefaultTighteningForTruncation": 0
+                    },
+                    "kerning": -0.9166666666666666
+                }
+            }
+        ]
+    },
+    "78": {
+        "_class": "attributedString",
+        "string": "January",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 7,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "SFProText-Regular",
+                            "size": 24
+                        }
+                    },
+                    "kerning": -1,
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 2,
+                        "tighteningFactorForTruncation": 0.05,
+                        "allowsDefaultTighteningForTruncation": 0
+                    }
+                }
+            }
+        ]
+    },
+    "85": {
+        "_class": "attributedString",
+        "string": "31",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 2,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "SFProText-Regular",
+                            "size": 24
+                        }
+                    },
+                    "kerning": -1,
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 1,
+                        "tighteningFactorForTruncation": 0.05,
+                        "allowsDefaultTighteningForTruncation": 0
+                    }
+                }
+            }
+        ]
+    },
+    "92": {
+        "_class": "attributedString",
+        "string": "34",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 2,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "SFProText-Regular",
+                            "size": 24
+                        }
+                    },
+                    "kerning": -1,
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 1,
+                        "tighteningFactorForTruncation": 0.05,
+                        "allowsDefaultTighteningForTruncation": 0
+                    }
+                }
+            }
+        ]
+    },
+    "99": {
+        "_class": "attributedString",
+        "string": "20",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 2,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "SFProText-Regular",
+                            "size": 24
+                        }
+                    },
+                    "kerning": -1,
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 1,
+                        "tighteningFactorForTruncation": 0.05,
+                        "allowsDefaultTighteningForTruncation": 0
+                    }
+                }
+            }
+        ]
+    },
+    "106": {
+        "_class": "attributedString",
+        "string": "PM",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 2,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "SFProText-Regular",
+                            "size": 24
+                        }
+                    },
+                    "kerning": -1,
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 1,
+                        "tighteningFactorForTruncation": 0.05,
+                        "allowsDefaultTighteningForTruncation": 0
+                    }
+                }
+            }
+        ]
+    },
+    "6": {
+        "_class": "attributedString",
+        "string": "2",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 1,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "SFProText-Regular",
+                            "size": 24
+                        }
+                    },
+                    "kerning": -1,
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 1,
+                        "tighteningFactorForTruncation": 0.05,
+                        "allowsDefaultTighteningForTruncation": 0
+                    }
+                }
+            }
+        ]
+    },
+    "13": {
+        "_class": "attributedString",
+        "string": "00",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 2,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "SFProText-Regular",
+                            "size": 24
+                        }
+                    },
+                    "kerning": -1,
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 2,
+                        "tighteningFactorForTruncation": 0.05,
+                        "allowsDefaultTighteningForTruncation": 0
+                    }
+                }
+            }
+        ]
+    },
+    "20": {
+        "_class": "attributedString",
+        "string": "18",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 2,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "SFProText-Regular",
+                            "size": 24
+                        }
+                    },
+                    "kerning": -1,
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 1,
+                        "tighteningFactorForTruncation": 0.05,
+                        "allowsDefaultTighteningForTruncation": 0
+                    }
+                }
+            }
+        ]
+    },
+    "27": {
+        "_class": "attributedString",
+        "string": "14 Eyl Cts",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 10,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "SFProText-Regular",
+                            "size": 22
+                        }
+                    },
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 1,
+                        "tighteningFactorForTruncation": 0.05,
+                        "allowsDefaultTighteningForTruncation": 0
+                    },
+                    "kerning": -0.9166666666666666
+                }
+            }
+        ]
+    },
+    "34": {
+        "_class": "attributedString",
+        "string": "22",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 2,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "SFProText-Regular",
+                            "size": 24
+                        }
+                    },
+                    "kerning": -1,
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 1,
+                        "tighteningFactorForTruncation": 0.05,
+                        "allowsDefaultTighteningForTruncation": 0
+                    }
+                }
+            }
+        ]
+    },
+    "41": {
+        "_class": "attributedString",
+        "string": "2018",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 4,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "SFProText-Regular",
+                            "size": 24
+                        }
+                    },
+                    "kerning": -1,
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 1,
+                        "tighteningFactorForTruncation": 0.05,
+                        "allowsDefaultTighteningForTruncation": 0
+                    }
+                }
+            }
+        ]
+    },
+    "48": {
+        "_class": "attributedString",
+        "string": "2020",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 4,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "SFProText-Regular",
+                            "size": 24
+                        }
+                    },
+                    "kerning": -1,
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 1,
+                        "tighteningFactorForTruncation": 0.05,
+                        "allowsDefaultTighteningForTruncation": 0
+                    }
+                }
+            }
+        ]
+    },
+    "55": {
+        "_class": "attributedString",
+        "string": "Sat Apr 16",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 10,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "SFProText-Regular",
+                            "size": 24
+                        }
+                    },
+                    "kerning": -1,
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 1,
+                        "tighteningFactorForTruncation": 0.05,
+                        "allowsDefaultTighteningForTruncation": 0
+                    }
+                }
+            }
+        ]
+    },
+    "62": {
+        "_class": "attributedString",
+        "string": "5",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 1,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "SFProText-Regular",
+                            "size": 24
+                        }
+                    },
+                    "kerning": -1,
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 1,
+                        "tighteningFactorForTruncation": 0.05,
+                        "allowsDefaultTighteningForTruncation": 0
+                    }
+                }
+            }
+        ]
+    },
+    "69": {
+        "_class": "attributedString",
+        "string": "2012",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 4,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "SFProText-Regular",
+                            "size": 24
+                        }
+                    },
+                    "kerning": -1,
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 1,
+                        "tighteningFactorForTruncation": 0.05,
+                        "allowsDefaultTighteningForTruncation": 0
+                    }
+                }
+            }
+        ]
+    },
+    "76": {
+        "_class": "attributedString",
+        "string": "15",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 2,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "SFProText-Regular",
+                            "size": 24
+                        }
+                    },
+                    "kerning": -1,
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 1,
+                        "tighteningFactorForTruncation": 0.05,
+                        "allowsDefaultTighteningForTruncation": 0
+                    }
+                }
+            }
+        ]
+    },
+    "83": {
+        "_class": "attributedString",
+        "string": "March",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 5,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "SFProText-Regular",
+                            "size": 24
+                        }
+                    },
+                    "kerning": -1,
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 2,
+                        "tighteningFactorForTruncation": 0.05,
+                        "allowsDefaultTighteningForTruncation": 0
+                    }
+                }
+            }
+        ]
+    },
+    "90": {
+        "_class": "attributedString",
+        "string": "Today",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 4,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "SFProText-Regular",
+                            "size": 24
+                        }
+                    },
+                    "kerning": -1,
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 1,
+                        "tighteningFactorForTruncation": 0.05,
+                        "allowsDefaultTighteningForTruncation": 0
+                    }
+                }
+            },
+            {
+                "_class": "stringAttribute",
+                "location": 4,
+                "length": 1,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "SFProText-Regular",
+                            "size": 24
+                        }
+                    },
+                    "kerning": 0,
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 1,
+                        "tighteningFactorForTruncation": 0.05,
+                        "allowsDefaultTighteningForTruncation": 0
+                    }
+                }
+            }
+        ]
+    },
+    "97": {
+        "_class": "attributedString",
+        "string": "AM",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 2,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "SFProText-Regular",
+                            "size": 24
+                        }
+                    },
+                    "kerning": -1,
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 1,
+                        "tighteningFactorForTruncation": 0.05,
+                        "allowsDefaultTighteningForTruncation": 0
+                    }
+                }
+            }
+        ]
+    },
+    "104": {
+        "_class": "attributedString",
+        "string": "7",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 1,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "SFProText-Regular",
+                            "size": 22
+                        }
+                    },
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 2,
+                        "tighteningFactorForTruncation": 0.05,
+                        "allowsDefaultTighteningForTruncation": 0
+                    },
+                    "kerning": -0.9166666666666666
+                }
+            }
+        ]
+    },
+    "111": {
+        "_class": "attributedString",
+        "string": "Fri Apr 22",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 10,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "SFProText-Regular",
+                            "size": 24
+                        }
+                    },
+                    "kerning": -1,
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 1,
+                        "tighteningFactorForTruncation": 0.05,
+                        "allowsDefaultTighteningForTruncation": 0
+                    }
+                }
+            }
+        ]
+    },
+    "4": {
+        "_class": "attributedString",
+        "string": "10",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 2,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "SFProText-Regular",
+                            "size": 24
+                        }
+                    },
+                    "kerning": -1,
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 1,
+                        "tighteningFactorForTruncation": 0.05,
+                        "allowsDefaultTighteningForTruncation": 0
+                    }
+                }
+            }
+        ]
+    },
+    "11": {
+        "_class": "attributedString",
+        "string": "8",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 1,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "SFProText-Regular",
+                            "size": 22
+                        }
+                    },
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 2,
+                        "tighteningFactorForTruncation": 0.05,
+                        "allowsDefaultTighteningForTruncation": 0
+                    },
+                    "kerning": -0.9166666666666666
+                }
+            }
+        ]
+    },
+    "18": {
+        "_class": "attributedString",
+        "string": "7",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 1,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "SFProText-Regular",
+                            "size": 24
+                        }
+                    },
+                    "kerning": -1,
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 1,
+                        "tighteningFactorForTruncation": 0.05,
+                        "allowsDefaultTighteningForTruncation": 0
+                    }
+                }
+            }
+        ]
+    },
+    "25": {
+        "_class": "attributedString",
+        "string": "28",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 2,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "SFProText-Regular",
+                            "size": 24
+                        }
+                    },
+                    "kerning": -1,
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 1,
+                        "tighteningFactorForTruncation": 0.05,
+                        "allowsDefaultTighteningForTruncation": 0
+                    }
+                }
+            }
+        ]
+    },
+    "32": {
+        "_class": "attributedString",
+        "string": "August",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 6,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "SFProText-Regular",
+                            "size": 24
+                        }
+                    },
+                    "kerning": -1,
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 0,
+                        "tighteningFactorForTruncation": 0.05,
+                        "allowsDefaultTighteningForTruncation": 0
+                    }
+                }
+            }
+        ]
+    },
+    "39": {
+        "_class": "attributedString",
+        "string": "June",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 4,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "SFProText-Regular",
+                            "size": 24
+                        }
+                    },
+                    "kerning": -1,
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 2,
+                        "tighteningFactorForTruncation": 0.05,
+                        "allowsDefaultTighteningForTruncation": 0
+                    }
+                }
+            }
+        ]
+    },
+    "46": {
+        "_class": "attributedString",
+        "string": "23",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 2,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "SFProText-Regular",
+                            "size": 24
+                        }
+                    },
+                    "kerning": -1,
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 1,
+                        "tighteningFactorForTruncation": 0.05,
+                        "allowsDefaultTighteningForTruncation": 0
+                    }
+                }
+            }
+        ]
+    },
+    "53": {
+        "_class": "attributedString",
+        "string": "1",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 1,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "SFProText-Regular",
+                            "size": 22
+                        }
+                    },
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 2,
+                        "tighteningFactorForTruncation": 0.05,
+                        "allowsDefaultTighteningForTruncation": 0
+                    },
+                    "kerning": -0.9166666666666666
+                }
+            }
+        ]
+    },
+    "60": {
+        "_class": "attributedString",
+        "string": "27",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 2,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "SFProText-Regular",
+                            "size": 24
+                        }
+                    },
+                    "kerning": -1,
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 1,
+                        "tighteningFactorForTruncation": 0.05,
+                        "allowsDefaultTighteningForTruncation": 0
+                    }
+                }
+            }
+        ]
+    },
+    "67": {
+        "_class": "attributedString",
+        "string": "9",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 1,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "SFProText-Regular",
+                            "size": 24
+                        }
+                    },
+                    "kerning": -1,
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 2,
+                        "tighteningFactorForTruncation": 0.05,
+                        "allowsDefaultTighteningForTruncation": 0
+                    }
+                }
+            }
+        ]
+    },
+    "74": {
+        "_class": "attributedString",
+        "string": "11",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 2,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "SFProText-Regular",
+                            "size": 24
+                        }
+                    },
+                    "kerning": -1,
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 1,
+                        "tighteningFactorForTruncation": 0.05,
+                        "allowsDefaultTighteningForTruncation": 0
+                    }
+                }
+            }
+        ]
+    },
+    "81": {
+        "_class": "attributedString",
+        "string": "March",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 5,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "SFProText-Regular",
+                            "size": 24
+                        }
+                    },
+                    "kerning": -1,
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 0,
+                        "tighteningFactorForTruncation": 0.05,
+                        "allowsDefaultTighteningForTruncation": 0
+                    }
+                }
+            }
+        ]
+    },
+    "88": {
+        "_class": "attributedString",
+        "string": "20 Eyl Cum",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 10,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "SFProText-Regular",
+                            "size": 22
+                        }
+                    },
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 1,
+                        "tighteningFactorForTruncation": 0.05,
+                        "allowsDefaultTighteningForTruncation": 0
+                    },
+                    "kerning": -0.9166666666666666
+                }
+            }
+        ]
+    },
+    "95": {
+        "_class": "attributedString",
+        "string": "11",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 2,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "SFProText-Regular",
+                            "size": 22
+                        }
+                    },
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 2,
+                        "tighteningFactorForTruncation": 0.05,
+                        "allowsDefaultTighteningForTruncation": 0
+                    },
+                    "kerning": -0.9166666666666666
+                }
+            }
+        ]
+    },
+    "102": {
+        "_class": "attributedString",
+        "string": "7",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 1,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "SFProText-Regular",
+                            "size": 24
+                        }
+                    },
+                    "kerning": -1,
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 1,
+                        "tighteningFactorForTruncation": 0.05,
+                        "allowsDefaultTighteningForTruncation": 0
+                    }
+                }
+            }
+        ]
+    },
+    "109": {
+        "_class": "attributedString",
+        "string": "2016",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 4,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "SFProText-Regular",
+                            "size": 24
+                        }
+                    },
+                    "kerning": -1,
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 1,
+                        "tighteningFactorForTruncation": 0.05,
+                        "allowsDefaultTighteningForTruncation": 0
+                    }
+                }
+            }
+        ]
+    },
+    "2": {
+        "_class": "attributedString",
+        "string": "50",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 2,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "SFProText-Regular",
+                            "size": 22
+                        }
+                    },
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 2,
+                        "tighteningFactorForTruncation": 0.05,
+                        "allowsDefaultTighteningForTruncation": 0
+                    },
+                    "kerning": -0.9166666666666666
+                }
+            }
+        ]
+    },
+    "9": {
+        "_class": "attributedString",
+        "string": "15",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 2,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "SFProText-Regular",
+                            "size": 24
+                        }
+                    },
+                    "kerning": -1,
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 1,
+                        "tighteningFactorForTruncation": 0.05,
+                        "allowsDefaultTighteningForTruncation": 0
+                    }
+                }
+            }
+        ]
+    },
+    "16": {
+        "_class": "attributedString",
+        "string": "13 Eyl Cum",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 10,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "SFProText-Regular",
+                            "size": 22
+                        }
+                    },
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 1,
+                        "tighteningFactorForTruncation": 0.05,
+                        "allowsDefaultTighteningForTruncation": 0
+                    },
+                    "kerning": -0.9166666666666666
+                }
+            }
+        ]
+    },
+    "23": {
+        "_class": "attributedString",
+        "string": "10",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 2,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "SFProText-Regular",
+                            "size": 22
+                        }
+                    },
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 2,
+                        "tighteningFactorForTruncation": 0.05,
+                        "allowsDefaultTighteningForTruncation": 0
+                    },
+                    "kerning": -0.9166666666666666
+                }
+            }
+        ]
+    },
+    "30": {
+        "_class": "attributedString",
+        "string": "00",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 2,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "SFProText-Regular",
+                            "size": 24
+                        }
+                    },
+                    "kerning": -1,
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 1,
+                        "tighteningFactorForTruncation": 0.05,
+                        "allowsDefaultTighteningForTruncation": 0
+                    }
+                }
+            }
+        ]
+    },
+    "37": {
+        "_class": "attributedString",
+        "string": "April",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 5,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "SFProText-Regular",
+                            "size": 24
+                        }
+                    },
+                    "kerning": -1,
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 2,
+                        "tighteningFactorForTruncation": 0.05,
+                        "allowsDefaultTighteningForTruncation": 0
+                    }
+                }
+            }
+        ]
+    },
+    "44": {
+        "_class": "attributedString",
+        "string": "July",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 4,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "SFProText-Regular",
+                            "size": 24
+                        }
+                    },
+                    "kerning": -1,
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 0,
+                        "tighteningFactorForTruncation": 0.05,
+                        "allowsDefaultTighteningForTruncation": 0
+                    }
+                }
+            }
+        ]
+    },
+    "51": {
+        "_class": "attributedString",
+        "string": "8",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 1,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "SFProText-Regular",
+                            "size": 24
+                        }
+                    },
+                    "kerning": -1,
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 1,
+                        "tighteningFactorForTruncation": 0.05,
+                        "allowsDefaultTighteningForTruncation": 0
+                    }
+                }
+            }
+        ]
+    },
+    "58": {
+        "_class": "attributedString",
+        "string": "Thu Apr 21",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 10,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "SFProText-Regular",
+                            "size": 24
+                        }
+                    },
+                    "kerning": -1,
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 1,
+                        "tighteningFactorForTruncation": 0.05,
+                        "allowsDefaultTighteningForTruncation": 0
+                    }
+                }
+            }
+        ]
+    },
+    "65": {
+        "_class": "attributedString",
+        "string": "January",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 7,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "SFProText-Regular",
+                            "size": 24
+                        }
+                    },
+                    "kerning": -1,
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 0,
+                        "tighteningFactorForTruncation": 0.05,
+                        "allowsDefaultTighteningForTruncation": 0
+                    }
+                }
+            }
+        ]
+    },
+    "72": {
+        "_class": "attributedString",
+        "string": "Wed Apr 20",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 10,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "SFProText-Regular",
+                            "size": 24
+                        }
+                    },
+                    "kerning": -1,
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 1,
+                        "tighteningFactorForTruncation": 0.05,
+                        "allowsDefaultTighteningForTruncation": 0
+                    }
+                }
+            }
+        ]
+    },
+    "79": {
+        "_class": "attributedString",
+        "string": "45",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 2,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "SFProText-Regular",
+                            "size": 22
+                        }
+                    },
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 2,
+                        "tighteningFactorForTruncation": 0.05,
+                        "allowsDefaultTighteningForTruncation": 0
+                    },
+                    "kerning": -0.9166666666666666
+                }
+            }
+        ]
+    },
+    "86": {
+        "_class": "attributedString",
+        "string": "10",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 2,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "SFProText-Regular",
+                            "size": 24
+                        }
+                    },
+                    "kerning": -1,
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 1,
+                        "tighteningFactorForTruncation": 0.05,
+                        "allowsDefaultTighteningForTruncation": 0
+                    }
+                }
+            }
+        ]
+    },
+    "93": {
+        "_class": "attributedString",
+        "string": "50",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 2,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "SFProText-Regular",
+                            "size": 24
+                        }
+                    },
+                    "kerning": -1,
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 1,
+                        "tighteningFactorForTruncation": 0.05,
+                        "allowsDefaultTighteningForTruncation": 0
+                    }
+                }
+            }
+        ]
+    },
+    "100": {
+        "_class": "attributedString",
+        "string": "33",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 2,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "SFProText-Regular",
+                            "size": 24
+                        }
+                    },
+                    "kerning": -1,
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 1,
+                        "tighteningFactorForTruncation": 0.05,
+                        "allowsDefaultTighteningForTruncation": 0
+                    }
+                }
+            }
+        ]
+    },
+    "107": {
+        "_class": "attributedString",
+        "string": "2015",
+        "attributes": [
+            {
+                "_class": "stringAttribute",
+                "location": 0,
+                "length": 4,
+                "attributes": {
+                    "MSAttributedStringFontAttribute": {
+                        "_class": "fontDescriptor",
+                        "attributes": {
+                            "name": "SFProText-Regular",
+                            "size": 24
+                        }
+                    },
+                    "kerning": -1,
+                    "paragraphStyle": {
+                        "_class": "paragraphStyle",
+                        "alignment": 1,
+                        "tighteningFactorForTruncation": 0.05,
+                        "allowsDefaultTighteningForTruncation": 0
+                    }
+                }
+            }
+        ]
+    }
+}

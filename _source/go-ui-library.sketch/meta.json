@@ -1,5 +1,5 @@
 {
-    "commit": "32d82bc13ec208b5231884cb572bf6df9cd04b38",
+    "commit": "3a5bc985037168b405adaa195c6ccffd69b968a3",
     "pagesAndArtboards": {
         "BE285DE0-154A-4F3B-882C-8F46F82C2694": {
             "name": "Views",
@@ -244,7 +244,7 @@
                     "name": "2 - Controls / Widget / Text"
                 },
                 "54DB4356-F7B5-47F5-A78D-D0BDA4BCE7AC": {
-                    "name": "2 - Controls / Mobile / Bars / Nav Bar / Default - Item - Default"
+                    "name": "2 - Controls / Mobile / Bars / Nav Bar / iOS / Light - Item - Default"
                 },
                 "095A8B21-7192-4AB5-9639-D65D95AB8BFD": {
                     "name": "2 - Controls / List / Flat - Widget - Top"
@@ -272,6 +272,9 @@
                 },
                 "E6FC9EF9-5F05-4BCC-BB5E-B1EF109858ED": {
                     "name": "2 - Controls / Action / Basic - right"
+                },
+                "8F10A236-C9C3-492C-91E6-B68A0FD3087B": {
+                    "name": "2 - Controls / Mobile / Bars / Nav Bar / Android / Light - Item - Default"
                 },
                 "949785C0-EAE7-4220-9322-EAAB6985C3EF": {
                     "name": "2 - Controls / Mobile / Calendar / _Resources / Large / Null"
@@ -348,20 +351,23 @@
                 "73A5CCF6-1387-48F5-B1E0-9F2D5EDA302D": {
                     "name": "2 - Controls / Calendar / Month - Large - 4 Weeks"
                 },
+                "A324FF57-FC62-4F66-A8DF-35F451B67A71": {
+                    "name": "2 - Controls / List / Flat - Input"
+                },
                 "FDAEA1CF-067F-43E3-9B7F-3B89820F2BEA": {
                     "name": "2 - Controls / Mobile / Popups - iOS / Alert / Common"
-                },
-                "9C62429B-250D-4E1A-92BD-E6DF109ACCBC": {
-                    "name": "2 - Controls / Mobile / Popups / Sheet Item"
                 },
                 "DBCFC3E7-0ED8-4A3F-B8E1-422F2B1D5CFC": {
                     "name": "2 - Controls / Mobile / Popups - iOS / Alert / Icon"
                 },
-                "58F3ADE1-8F9B-441A-8400-E3162E77324B": {
-                    "name": "2 - Controls / Slider / Default - Minimum"
+                "9C62429B-250D-4E1A-92BD-E6DF109ACCBC": {
+                    "name": "2 - Controls / Mobile / Popups / Sheet Item"
                 },
                 "38679F4A-8BCE-4472-93B1-4005A07B443F": {
                     "name": "2 - Controls / List / Nav - Level - 3"
+                },
+                "58F3ADE1-8F9B-441A-8400-E3162E77324B": {
+                    "name": "2 - Controls / Slider / Default - Minimum"
                 },
                 "FE9A596E-1A13-4F5E-93F0-EF0F2550C872": {
                     "name": "2 - Controls / Action / Forward - Left"
@@ -376,7 +382,7 @@
                     "name": "2 - Controls / List / Cell - Footer"
                 },
                 "A4A8DFDD-EC36-47DF-B301-2F7A953B9F64": {
-                    "name": "2 - Controls / Mobile / Bars / Nav Bar / Inverse - Item - Default"
+                    "name": "2 - Controls / Mobile / Bars / Nav Bar / iOS / Dark - Item - Default"
                 },
                 "B382A113-E807-4BD8-9EFE-3390F1C8B633": {
                     "name": "2 - Controls / Calendar / Day - Medium"
@@ -398,9 +404,6 @@
                 },
                 "DEB860CD-90C8-42FD-958A-B862DFE3BA28": {
                     "name": "2 - Controls / Section / Heading - Form - Left"
-                },
-                "6CC18ED8-D885-444D-AD09-BD97DC556152": {
-                    "name": "2 - Controls / Mobile / Bars / Segment Bar / Default - ON"
                 },
                 "59865BDF-743E-41BF-A2F2-77777B4E5185": {
                     "name": "2 - Controls / Mobile / Popups - iOS / Action / Double"
@@ -507,9 +510,6 @@
                 "405327D9-ABBD-496B-8177-10B0483354E6": {
                     "name": "2 - Controls / Mobile / Bars / App Bar / Left - Icon"
                 },
-                "F39D7A12-23FE-4685-B21D-8DEBD9BFE25A": {
-                    "name": "2 - Controls / Mobile / Bars / Segment Bar / Inverse - Off"
-                },
                 "89C49F47-AAB2-443E-9BC6-F05CC0348EC8": {
                     "name": "2 - Controls / Mobile / Popups - Android / Action / Double Mute"
                 },
@@ -537,11 +537,14 @@
                 "34625D71-473A-4CC2-8E44-7B3BF80061A4": {
                     "name": "2 - Controls / Card / Flat - Common"
                 },
+                "D8E4602B-19A5-4E66-A14A-F75138F62BEA": {
+                    "name": "2 - Controls / Mobile / Bars / Nav Bar / Android / Dark - Item - Default"
+                },
                 "F58B7D1F-A4CC-41AA-85E7-6502625CE161": {
                     "name": "2 - Controls / Form / Spec / Agreement - Kullanim ve Veri Koruma"
                 },
                 "30BF5887-E15E-46E7-984C-2CDABA44C92E": {
-                    "name": "2 - Controls / Mobile / Bars / Nav Bar / Inverse - Item - Active"
+                    "name": "2 - Controls / Mobile / Bars / Nav Bar / iOS / Dark - Item - Active"
                 },
                 "B1D8FAFC-AAB0-45EA-A8AC-FB0EA0114AA7": {
                     "name": "2 - Controls / Chart / Bar - Basic"
@@ -717,9 +720,6 @@
                 "FBAE5CD2-3BAD-4BA2-9D4D-EC937D882A89": {
                     "name": "2 - Controls / Comment / Cell - Large"
                 },
-                "ED0580C3-97AE-4FCE-AC08-BEE3086EF6CA": {
-                    "name": "2 - Controls / Mobile / Bars / Segment Bar / Inverse - On"
-                },
                 "3A7EFDDB-94B2-4799-AEB7-A3E803D9A2BD": {
                     "name": "2 - Controls / Action / Basic - Center"
                 },
@@ -873,11 +873,14 @@
                 "13120214-B474-40F7-A779-5A89CD7246B7": {
                     "name": "2 - Controls / Form / Float / Text - Icon - Active"
                 },
-                "A4DD3E6B-8407-4F36-8BA9-2F0A44DDC2E5": {
-                    "name": "2 - Controls / Widget / Switch - Cell"
+                "305496D0-AA64-45A7-81BF-6DD5693D2CD2": {
+                    "name": "2 - Controls / Section / Index / Light"
                 },
                 "87281978-2AB5-4C22-88D8-D352E141252B": {
                     "name": "2 - Controls / Calendar / Month - Large - 6 Weeks"
+                },
+                "A4DD3E6B-8407-4F36-8BA9-2F0A44DDC2E5": {
+                    "name": "2 - Controls / Widget / Switch - Cell"
                 },
                 "58E4BBF7-57DC-41B4-A179-61FED5660F7E": {
                     "name": "2 - Controls / Support / Action - Cell - Stack"
@@ -905,6 +908,9 @@
                 },
                 "27CA04FA-D374-4AB6-AEFE-CE6DCBEBD008": {
                     "name": "2 - Controls / Widget / Stepper"
+                },
+                "6AF7C9E5-9CF9-419E-A59E-F39EB40C45A2": {
+                    "name": "2 - Controls / Section / Index / Dark"
                 },
                 "719DDB01-5CBB-4AF4-B2AB-89FB92D352FC": {
                     "name": "2 - Controls / Calendar / Title - Picker"
@@ -940,7 +946,7 @@
                     "name": "2 - Controls / Action / Reverse - Right"
                 },
                 "1634D9DB-CCBC-47A1-8A1A-BA0A6B660E72": {
-                    "name": "2 - Controls / Mobile / Bars / Nav Bar / Default - Item - Active"
+                    "name": "2 - Controls / Mobile / Bars / Nav Bar / iOS / Light - Item - Active"
                 },
                 "34ACF285-BE86-4B9F-97FC-BEB2D3EA8C30": {
                     "name": "2 - Controls / Mobile / Calendar / iOS / Small Month - 5 Weeks"
@@ -1050,6 +1056,9 @@
                 "EB4B2158-C652-4D37-92BE-3B7EF4B111DF": {
                     "name": "2 - Controls / Mobile / Bars / App Bar / Title - Subtitle"
                 },
+                "85D76F71-F93E-4B6E-A3BF-45C50B20BA7B": {
+                    "name": "2 - Controls / List / Cell - Input"
+                },
                 "E1A62B51-968D-47A1-8AE6-B97BB6576120": {
                     "name": "2 - Controls / Support / Footer - Cell - Stack"
                 },
@@ -1077,14 +1086,14 @@
                 "7FD63FD5-EA8C-4ABC-AC37-ABC73E5202BA": {
                     "name": "2 - Controls / Common / Indicator - Loader"
                 },
-                "37DF46D8-E176-40FE-822A-1B01DFF2F63A": {
-                    "name": "2 - Controls / Mobile / Bars / Segment Bar / Default - Off"
+                "E2C06CDE-300C-45F3-96DB-B3318E62787A": {
+                    "name": "2 - Controls / Form / Spec / Image - Progress"
                 },
                 "4E0A1DEA-EBB5-421D-B0B0-10126A41886D": {
                     "name": "2 - Controls / List / Cell - Widget - Basic"
                 },
-                "E2C06CDE-300C-45F3-96DB-B3318E62787A": {
-                    "name": "2 - Controls / Form / Spec / Image - Progress"
+                "FFC0F721-9272-41B7-BEFF-708F9FF33BA2": {
+                    "name": "2 - Controls / Mobile / Bars / App Bar / Right - Disabled"
                 },
                 "E3203DF2-04E2-4CD8-8D3E-24D38D5CF859": {
                     "name": "2 - Controls / Common / Rating - 5 Stars - 1 - Full"
@@ -1110,14 +1119,14 @@
                 "ED576FBF-AD85-4C91-B4DE-9A5A57090328": {
                     "name": "2 - Controls / Form / Float / Select - Icon - Placeholder"
                 },
-                "29267FAC-E2C3-4B6A-86FA-785C2C7A133D": {
-                    "name": "2 - Controls / Mobile / Keyboards / Android / KeySet - Capitals"
+                "4451FC60-3924-4791-9AE7-A9EE7497A654": {
+                    "name": "2 - Controls / Form / Widget / Switch - Flat"
                 },
                 "091D71AD-442F-4AEE-ACD4-BF588E70C210": {
                     "name": "2 - Controls / Mobile / Calendar / _Resources / Small / Null"
                 },
-                "4451FC60-3924-4791-9AE7-A9EE7497A654": {
-                    "name": "2 - Controls / Form / Widget / Switch - Flat"
+                "29267FAC-E2C3-4B6A-86FA-785C2C7A133D": {
+                    "name": "2 - Controls / Mobile / Keyboards / Android / KeySet - Capitals"
                 },
                 "74FA2929-46B3-4159-87C7-14B17C4E3622": {
                     "name": "2 - Controls / Mobile / Calendar / iOS / Large Month - 6 Weeks"
@@ -1127,6 +1136,9 @@
                 },
                 "D467AB4C-3E3D-4218-8D76-340B512BBC1E": {
                     "name": "2 - Controls / Progress / Subprogress - 01:12"
+                },
+                "20B61201-F766-4B7A-B627-BBA088F7A1F9": {
+                    "name": "2 - Controls / Mobile / Bars / Nav Bar / Android / Light - Item - Active"
                 },
                 "9A7E5494-C462-4EA9-8F1B-6C4CC462B6E2": {
                     "name": "2 - Controls / Button / Cell - Left - Spinner"
@@ -1230,6 +1242,9 @@
                 "14E35A16-6C48-47BD-8EF6-7D7B49D9FBDD": {
                     "name": "2 - Controls / Button / Flat - Right - Icon"
                 },
+                "DE093C86-A6C6-44E5-9E63-F1EAE69C2D22": {
+                    "name": "2 - Controls / Mobile / Bars / Nav Bar / Android / Dark - Item - Active"
+                },
                 "987AEA74-A5D3-4FEB-8AE7-B6984503FC20": {
                     "name": "2 - Controls / Button / Base - Action"
                 },
@@ -1293,28 +1308,31 @@
                     "name": "1 - Elements / Form / Option - Checkbox - Default Checked"
                 },
                 "CD01633E-E797-4D78-B5DB-E9F6C7D1926F": {
-                    "name": "1 - Elements / Icon / Glyph - Fax"
+                    "name": "1 - Elements / Icon / Glyph / Fax"
                 },
                 "5BB2D83F-C859-478E-BDD2-5CF797E6420C": {
-                    "name": "1 - Elements / Base / Ruler"
+                    "name": "1 - Elements / Base / Background / Ruler"
                 },
                 "D6AC0E67-2C9D-47EC-8A1A-E9DEE51C34EA": {
-                    "name": "1 - Elements / Base / Background"
+                    "name": "1 - Elements / Base / Background / Basic"
                 },
                 "582DEEB5-A906-4EBC-8DB7-635D99505148": {
-                    "name": "1 - Elements / Icon / Glyph - News"
+                    "name": "1 - Elements / Icon / Glyph / News"
+                },
+                "88B667B4-BAAA-4E3A-9CD7-9803BA848417": {
+                    "name": "1 - Elements / Icon / Font / SF Symbols - Regular - Small"
                 },
                 "09352D8B-35EC-4E56-97E0-120FB137A7DE": {
-                    "name": "1 - Elements / Icon / Glyph - Social - YouTube"
+                    "name": "1 - Elements / Icon / Glyph / Social - YouTube"
                 },
                 "49B0081C-463F-4F82-9787-805492E38172": {
                     "name": "1 - Elements / Common / Asterisk - Destructive"
                 },
                 "1390C655-BE39-4DCA-B0F6-DA20690C37FB": {
-                    "name": "1 - Elements / Icon / Glyph - Paper Plane"
+                    "name": "1 - Elements / Icon / Glyph / Paper Plane"
                 },
                 "547AB3C9-4F1D-4BA5-B2F3-BB1AC51684A1": {
-                    "name": "1 - Elements / Icon / Glyph - Select"
+                    "name": "1 - Elements / Icon / Glyph / Select"
                 },
                 "0FF19AF2-D895-4AF9-A0B9-FC9779C1EEFA": {
                     "name": "1 - Elements / Common / Dot - Inverse Active"
@@ -1323,10 +1341,10 @@
                     "name": "1 - Elements / Card / Media - Top "
                 },
                 "A6B8A901-88A0-45DD-9ED3-6B1B41B0FBCF": {
-                    "name": "1 - Elements / Icon / Glyph - Question - Circle"
+                    "name": "1 - Elements / Icon / Glyph / Question - Circle"
                 },
                 "2C5BAADD-5ED0-4803-9127-5CDC248283FD": {
-                    "name": "1 - Elements / Base / Nozzle - Bubble - BL"
+                    "name": "1 - Elements / Base / Nozzle / Bubble - BL"
                 },
                 "E45BCA3C-1EAB-4373-8845-32C01A7B63CA": {
                     "name": "1 - Elements / Form / Placeholder - Right"
@@ -1335,7 +1353,7 @@
                     "name": "1 - Elements / Form / Option - Checkbox - Disabled Unchecked"
                 },
                 "2AA4A018-67C1-48CD-86DE-31EF79478167": {
-                    "name": "1 - Elements / Icon / Glyph - Currency - USD"
+                    "name": "1 - Elements / Icon / Glyph / Currency - USD"
                 },
                 "0C84707F-B0F5-4BEA-B7D2-ACE2A32C8DB3": {
                     "name": "1 - Elements / Common / Asterisk - Default"
@@ -1344,97 +1362,109 @@
                     "name": "1 - Elements / Form / Label - Frame - Center"
                 },
                 "6D5D0EF6-9326-4034-A435-80A7F9E1872F": {
-                    "name": "1 - Elements / Icon / Glyph - Comment"
+                    "name": "1 - Elements / Icon / Glyph / Comment"
                 },
                 "9A6FC900-5BD0-43FB-AECF-50B0B6D9123E": {
-                    "name": "1 - Elements / Icon / Glyph - Camera"
+                    "name": "1 - Elements / Icon / Glyph / Camera"
                 },
                 "25BA43E5-B34E-43F8-BF35-B0625A93EE38": {
-                    "name": "1 - Elements / Icon / Glyph - Coins"
+                    "name": "1 - Elements / Icon / Glyph / Coins"
+                },
+                "DCAE6F2E-494C-43F1-9877-8E7E96AEA190": {
+                    "name": "1 - Elements / Icon / Font / SF Symbols - Thin - Medium"
                 },
                 "7B49CF5D-15B0-4FD4-B0E9-302B032832E3": {
                     "name": "1 - Elements / Button / Icon - Right"
                 },
-                "7606F79F-23DC-472E-989A-A6E7B7AD6E4C": {
-                    "name": "1 - Elements / Icon / Glyph - Mobile Pay - USD"
-                },
                 "1F0DED57-2446-4A2D-A9F3-A42865AA3F39": {
-                    "name": "1 - Elements / Base / Frame - Round Bottom"
+                    "name": "1 - Elements / Base / Frame / Round Bottom"
                 },
                 "8CE37190-AC82-4621-BA73-14E14CB3E68D": {
-                    "name": "1 - Elements / Base / Nozzle - Bubble - BR"
+                    "name": "1 - Elements / Base / Nozzle / Bubble - BR"
+                },
+                "7606F79F-23DC-472E-989A-A6E7B7AD6E4C": {
+                    "name": "1 - Elements / Icon / Glyph / Mobile Pay - USD"
+                },
+                "8221D808-2F2F-40EE-9D46-E2F95574C681": {
+                    "name": "1 - Elements / Icon / Glyph / Paperclip"
                 },
                 "9749F5E9-CB13-4A62-8BB5-E1CE2DC42FF2": {
-                    "name": "1 - Elements / Icon / Glyph - Person - Circle"
-                },
-                "A80CF1B3-F47F-4CA6-8F5D-95E2092D8D5D": {
-                    "name": "1 - Elements / Icon / Glyph - Social - Instagram - Fill"
-                },
-                "46B80AFE-A94D-43B8-A8D1-C71F76FE0527": {
-                    "name": "1 - Elements / Icon / Glyph - Thumb Up"
+                    "name": "1 - Elements / Icon / Glyph / Person - Circle"
                 },
                 "E31A75B9-57D2-4541-8FC5-BA69DAD7EAD8": {
-                    "name": "1 - Elements / Icon / Glyph - Mobile Pay - TL"
+                    "name": "1 - Elements / Icon / Glyph / Mobile Pay - TL"
                 },
-                "A8B641FF-A488-430A-BE2A-859DDE7B8F74": {
-                    "name": "1 - Elements / Icon / Placeholder - Avatar"
+                "A80CF1B3-F47F-4CA6-8F5D-95E2092D8D5D": {
+                    "name": "1 - Elements / Icon / Glyph / Social - Instagram - Fill"
+                },
+                "46B80AFE-A94D-43B8-A8D1-C71F76FE0527": {
+                    "name": "1 - Elements / Icon / Glyph / Thumb Up"
                 },
                 "32A78958-417D-4FB2-8785-46ECAD7A38C5": {
-                    "name": "1 - Elements / Icon / Glyph - Wallet"
+                    "name": "1 - Elements / Icon / Glyph / Wallet"
+                },
+                "A8B641FF-A488-430A-BE2A-859DDE7B8F74": {
+                    "name": "1 - Elements / Icon / Placeholder / Avatar"
                 },
                 "205BABBA-9AA5-44E7-B48C-DA7C7AB35D1A": {
-                    "name": "1 - Elements / Icon / Glyph - Lightbulb"
+                    "name": "1 - Elements / Icon / Glyph / Lightbulb"
                 },
                 "B895A9DF-3E58-467A-84CB-F05B3E59ED27": {
                     "name": "1 - Elements / Support / Button"
                 },
                 "669B3FC9-287E-48B1-AEB8-80793E568D18": {
-                    "name": "1 - Elements / Icon / Glyph - Content - Copy"
+                    "name": "1 - Elements / Icon / Glyph / Content - Copy"
                 },
                 "D93C3770-4895-4A72-98E2-C0A19D1D5ABA": {
-                    "name": "1 - Elements / Icon / Glyph - Globe"
+                    "name": "1 - Elements / Icon / Glyph / Globe"
                 },
                 "397350E8-E8AE-4831-9C8F-A4178151DE2C": {
                     "name": "1 - Elements / Form / Option - Radio - Disabled Unselected"
                 },
                 "87806964-2F30-4479-ACD3-A91986994D08": {
-                    "name": "1 - Elements / Icon / Glyph - Sign-In"
+                    "name": "1 - Elements / Icon / Glyph / Sign-In"
                 },
                 "39D99600-6BCA-468B-9AEE-587AF49DFAB5": {
-                    "name": "1 - Elements / Icon / Glyph - Food"
+                    "name": "1 - Elements / Icon / Glyph / Food"
+                },
+                "8940C15D-AA20-4AD4-A73D-337E4F0EC6E4": {
+                    "name": "1 - Elements / Icon / Font / FontAwesome - Light - Small"
                 },
                 "1B5611B2-45DB-4BC7-BAD6-FC411B880CFB": {
                     "name": "1 - Elements / Support / Clear"
                 },
                 "7D79D46B-DFE4-4186-8889-67333773CB9B": {
-                    "name": "1 - Elements / Base / Nozzle - Bubble - TL"
+                    "name": "1 - Elements / Base / Nozzle / Bubble - TL"
                 },
                 "023F9470-E785-4172-BD96-298DF9831203": {
-                    "name": "1 - Elements / Base / Frame - Hard"
+                    "name": "1 - Elements / Base / Frame / Hard"
                 },
                 "45C24FB0-A9D0-4AF0-8BC6-167949129652": {
                     "name": "1 - Elements / Common / Store - Windows"
                 },
                 "B7725588-394D-4645-BB79-35AED14CAFDD": {
-                    "name": "1 - Elements / Icon / Glyph - Chart - Pie"
+                    "name": "1 - Elements / Icon / Glyph / Chart - Pie"
+                },
+                "098408FB-F60B-4C7A-95A4-A1D883DB124A": {
+                    "name": "1 - Elements / Icon / Font / FontAwesome - Light - Medium"
                 },
                 "2E9EF6B5-F5F4-44D3-B31E-50857DCE4481": {
                     "name": "1 - Elements / Form / Textarea"
                 },
                 "AB97747B-0EC9-4A8A-AD07-A85F8FB9F9A4": {
-                    "name": "1 - Elements / Icon / Glyph - Binoculars"
+                    "name": "1 - Elements / Icon / Glyph / Binoculars"
                 },
                 "E226606A-B377-4FCB-92CD-2762413A7342": {
                     "name": "1 - Elements / Common / Spec - Spinner"
                 },
                 "3CD38FC3-0475-469C-A646-372024040730": {
-                    "name": "1 - Elements / Icon / Glyph - Close-Circle"
+                    "name": "1 - Elements / Icon / Glyph / Close-Circle"
                 },
                 "0E014AA8-B0E7-4E7C-B84C-B7A326F61BCC": {
-                    "name": "1 - Elements / Icon / Glyph - Gift"
+                    "name": "1 - Elements / Icon / Glyph / Gift"
                 },
                 "F47A184A-2D3F-4181-9348-9E8D0C0AE300": {
-                    "name": "1 - Elements / Icon / Glyph - View-List"
+                    "name": "1 - Elements / Icon / Glyph / View-List"
                 },
                 "97CB5D90-50DE-4E2B-9602-92C91216DD6F": {
                     "name": "1 - Elements / Button / Icon - Center"
@@ -1443,73 +1473,73 @@
                     "name": "1 - Elements / Support / Calendar"
                 },
                 "B713E7E2-DF5E-4AFE-BD02-2F5C85A8C1D6": {
-                    "name": "1 - Elements / Icon / Glyph - Money"
+                    "name": "1 - Elements / Icon / Glyph / Money"
                 },
                 "C6A314DA-CB0F-4BE1-9389-03483476B370": {
-                    "name": "1 - Elements / Icon / Glyph - Sort"
+                    "name": "1 - Elements / Icon / Glyph / Sort"
                 },
                 "D1975A08-8F64-41C4-89C1-D9C52B4F210B": {
-                    "name": "1 - Elements / Icon / Glyph - Bell"
+                    "name": "1 - Elements / Icon / Glyph / Bell"
                 },
                 "ABE8A55D-0E8E-4F5C-9A5F-42B532AD91FC": {
                     "name": "1 - Elements / Form / Option - Radio - Default Unselected"
                 },
                 "0025D66D-7482-4511-9D05-D0167D4FC42A": {
-                    "name": "1 - Elements / Icon / Glyph - Close - Thin"
+                    "name": "1 - Elements / Icon / Glyph / Close - Thin"
                 },
                 "AAEC2A25-3C9D-4724-9138-DD4B61B7AD37": {
-                    "name": "1 - Elements / Icon / Glyph - Nav"
+                    "name": "1 - Elements / Icon / Glyph / Nav"
                 },
                 "F3AECCA6-834A-4AC0-B4B7-D33189A030B8": {
-                    "name": "1 - Elements / Icon / Glyph - Shield"
+                    "name": "1 - Elements / Icon / Glyph / Shield"
                 },
                 "E706EDBC-B0AF-47C2-A556-E41BD5EE209C": {
-                    "name": "1 - Elements / Icon / Glyph - Exclamation-Circle"
+                    "name": "1 - Elements / Icon / Glyph / Exclamation-Circle"
                 },
                 "A03279EF-9123-42CC-AA2B-18A5CBD716B7": {
-                    "name": "1 - Elements / Icon / Glyph - Cog"
+                    "name": "1 - Elements / Icon / Glyph / Cog"
                 },
                 "F785336A-6987-46BE-AE86-C43CCAAB42BE": {
-                    "name": "1 - Elements / Icon / Glyph - Arrow Up"
+                    "name": "1 - Elements / Icon / Glyph / Arrow Up"
                 },
                 "4039E61D-CA36-4F00-BE42-F5AC04497A5F": {
-                    "name": "1 - Elements / Icon / Glyph - Caret-Right"
+                    "name": "1 - Elements / Icon / Glyph / Caret-Right"
                 },
                 "446E01DB-CA0A-4DEE-AB79-0AB007DE07F4": {
-                    "name": "1 - Elements / Icon / Glyph - Rotate Right"
+                    "name": "1 - Elements / Icon / Glyph / Rotate Right"
                 },
                 "6D3A4DB7-E15D-4EAC-AEFC-6355BFB7E3D5": {
-                    "name": "1 - Elements / Icon / Glyph - Content - Paste"
+                    "name": "1 - Elements / Icon / Glyph / Content - Paste"
                 },
                 "0B2FFBA6-1F6D-467D-9AB8-D67CCAD299CB": {
-                    "name": "1 - Elements / Icon / Glyph - Close"
-                },
-                "F29A1A5F-53CF-444F-9B9A-7733DC3F0041": {
-                    "name": "1 - Elements / Icon / Glyph - Person -2"
+                    "name": "1 - Elements / Icon / Glyph / Close"
                 },
                 "D20C32FC-F261-44AB-B37D-A48800C75804": {
-                    "name": "1 - Elements / Icon / Glyph - Pencil"
+                    "name": "1 - Elements / Icon / Glyph / Pencil"
                 },
                 "FE571810-18FB-48BD-8AC7-9ECAF2DBC58D": {
                     "name": "1 - Elements / Button / Definition - Left"
                 },
                 "1DEECA74-A9CE-4E34-8731-0CFA5AD9D0A0": {
-                    "name": "1 - Elements / Icon / Glyph - Keyboard"
+                    "name": "1 - Elements / Icon / Glyph / Keyboard"
                 },
                 "DCF1D501-B47B-455C-875F-F285F4873BA8": {
-                    "name": "1 - Elements / Icon / Glyph - Social - Instagram"
+                    "name": "1 - Elements / Icon / Glyph / Social - Instagram"
+                },
+                "A862988F-966A-4CD7-BB7E-E877E927B317": {
+                    "name": "1 - Elements / Base / Nozzle / Tooltip - Top - Left"
                 },
                 "90020C33-4F6B-4ACC-82A6-7E5C9BE09436": {
-                    "name": "1 - Elements / Icon / Placeholder - Check"
+                    "name": "1 - Elements / Icon / Placeholder / Check"
                 },
                 "C967A6FA-B39A-4122-9926-1CB7A3EF610E": {
-                    "name": "1 - Elements / Icon / Glyph - Caret-Up"
+                    "name": "1 - Elements / Icon / Glyph / Caret-Up"
                 },
                 "58BBD8D8-0877-48FC-8B82-C8883C8B55D0": {
-                    "name": "1 - Elements / Base / Frame - Round"
+                    "name": "1 - Elements / Base / Frame / Round"
                 },
                 "612AEAF6-580A-441A-900A-FAFC778F8F34": {
-                    "name": "1 - Elements / Base / Notch - Frame - Left"
+                    "name": "1 - Elements / Base / Notch / Frame - Left"
                 },
                 "3FEC2877-4DCA-4A88-8F14-B1CD31A093D9": {
                     "name": "1 - Elements / Card / Bullet"
@@ -1518,43 +1548,40 @@
                     "name": "1 - Elements / Card / Thumb - Center"
                 },
                 "BC33B3DD-0BB6-4D10-BCB7-AB5DCE366EAF": {
-                    "name": "1 - Elements / Base / Placeholder - Base"
+                    "name": "1 - Elements / Base / Placeholder / Base"
                 },
                 "2108A992-92F5-4C66-AA01-291AE52CF89B": {
-                    "name": "1 - Elements / Icon / Glyph - Info"
+                    "name": "1 - Elements / Icon / Glyph / Info"
                 },
                 "1FB0E083-4420-462E-BD46-A6A6DFF85C99": {
-                    "name": "1 - Elements / Icon / Glyph - Sign-Out"
+                    "name": "1 - Elements / Icon / Glyph / Sign-Out"
                 },
                 "C1150E1B-4FC4-4BE1-BCAA-E7012E23DB45": {
-                    "name": "1 - Elements / Icon / Glyph - Minus-Circle"
+                    "name": "1 - Elements / Icon / Glyph / Minus-Circle"
                 },
                 "4B43D7A9-CB86-44DE-891F-BFDA1B6853D9": {
-                    "name": "1 - Elements / Icon / Glyph - Circle"
+                    "name": "1 - Elements / Icon / Glyph / Circle"
                 },
                 "B15ADB4F-AECA-4590-A760-8F06734D23E1": {
-                    "name": "1 - Elements / Icon / Glyph - E-Devlet - 2"
+                    "name": "1 - Elements / Icon / Glyph / E-Devlet - 2"
                 },
                 "757C2443-9F5B-405F-B7E3-50F408A84C41": {
                     "name": "1 - Elements / Button / Common - Right"
                 },
-                "8B771F02-C62B-4C1F-B2A5-A3384B40AB27": {
-                    "name": "1 - Elements / Icon / Glyph - Accessibility - 2 Copy"
-                },
                 "1F34A102-852E-4958-B03D-01B121844673": {
-                    "name": "1 - Elements / Icon / Glyph - Search"
+                    "name": "1 - Elements / Icon / Glyph / Search"
                 },
                 "52B924AE-92C5-4A55-A6F0-55E19F63AC4F": {
-                    "name": "1 - Elements / Icon / Placeholder - Fail"
+                    "name": "1 - Elements / Icon / Placeholder / Fail"
                 },
                 "A26D1705-3589-4A3A-AEBB-ED75EF8B4CA4": {
-                    "name": "1 - Elements / Icon / Glyph - Caret-Down"
+                    "name": "1 - Elements / Icon / Glyph / Caret-Down"
                 },
                 "32C94052-EB34-4926-AE24-3B6677C16E81": {
-                    "name": "1 - Elements / Icon / Glyph - Visibility - OFF"
+                    "name": "1 - Elements / Icon / Glyph / Visibility - OFF"
                 },
                 "C0F0BDED-9893-4CC6-A8A6-9BF435314FB7": {
-                    "name": "1 - Elements / Icon / Glyph - Steering Wheel"
+                    "name": "1 - Elements / Icon / Glyph / Steering Wheel"
                 },
                 "8C49AC80-20F5-40D6-B39D-2A4C9D588A86": {
                     "name": "1 - Elements / Button / Multi - 2"
@@ -1566,7 +1593,7 @@
                     "name": "1 - Elements / Support / Icon"
                 },
                 "DB1C0210-334E-45E9-85D9-837EC8A384CB": {
-                    "name": "1 - Elements / Icon / Glyph - Social - Facebook"
+                    "name": "1 - Elements / Icon / Glyph / Social - Facebook"
                 },
                 "B964EEC8-BE55-4AFD-91D2-29DB7EACE33A": {
                     "name": "1 - Elements / Button / Common - Bullet"
@@ -1575,7 +1602,7 @@
                     "name": "1 - Elements / Common / Switch - Label - On"
                 },
                 "EDCEECEF-A642-48E1-AEDA-CE10AE59A12D": {
-                    "name": "1 - Elements / Icon / Glyph - Social - Facebook - Fill"
+                    "name": "1 - Elements / Icon / Glyph / Social - Facebook - Fill"
                 },
                 "E95FB19D-A091-438B-8699-D1DB04D7553B": {
                     "name": "1 - Elements / Support / Chevron"
@@ -1584,163 +1611,175 @@
                     "name": "1 - Elements / Common / Badge - Cap - Right - Icon"
                 },
                 "8531E9FC-AB04-4FE5-B3CA-FB753D065AFB": {
-                    "name": "1 - Elements / Icon / Glyph - File - Text"
+                    "name": "1 - Elements / Icon / Glyph / File - Text"
                 },
                 "76F6BD14-14D0-4575-A5E5-08E9CF40ECC2": {
-                    "name": "1 - Elements / Icon / Glyph - Checkmark - Square"
+                    "name": "1 - Elements / Icon / Glyph / Checkmark - Square"
                 },
                 "FA7A481F-5AEC-492C-8024-F74DED1D9B1F": {
-                    "name": "1 - Elements / Icon / Glyph - QR Code"
+                    "name": "1 - Elements / Icon / Glyph / QR Code"
                 },
                 "6E02E037-EC21-442C-B3A2-8D7B6350DDB3": {
-                    "name": "1 - Elements / Icon / Glyph - Social - YouTube - Fill"
+                    "name": "1 - Elements / Icon / Glyph / Social - YouTube - Fill"
                 },
                 "91123087-DC78-4CE2-A231-192152E5B9EA": {
-                    "name": "1 - Elements / Icon / Payment - AmEx"
-                },
-                "4F51B179-4603-407F-AE49-8AFFC5A4C7AA": {
-                    "name": "1 - Elements / Icon / Glyph - Inspect - O"
-                },
-                "AE1D37F4-8B52-4F31-8D8B-5B8E1675AC94": {
-                    "name": "1 - Elements / Base / Frame - Round Left"
+                    "name": "1 - Elements / Icon / Payment / AmEx"
                 },
                 "343471C2-9E48-4612-8708-1B88B6DB6F68": {
                     "name": "1 - Elements / Card / Mugshot - Left "
+                },
+                "AE1D37F4-8B52-4F31-8D8B-5B8E1675AC94": {
+                    "name": "1 - Elements / Base / Frame / Round Left"
+                },
+                "4F51B179-4603-407F-AE49-8AFFC5A4C7AA": {
+                    "name": "1 - Elements / Icon / Glyph / Inspect - O"
                 },
                 "29B913AB-886F-4CE1-9DFE-69D531F01FD0": {
                     "name": "1 - Elements / Support / Base"
                 },
                 "3D5F1D67-452C-4B5C-942B-2F2CCD37BEDB": {
-                    "name": "1 - Elements / Icon / Glyph - Chevron-Up"
+                    "name": "1 - Elements / Icon / Glyph / Chevron-Up"
                 },
                 "23032D41-B3FE-4232-BEDD-43580769FCF4": {
-                    "name": "1 - Elements / Icon / Glyph - Map-Marker"
+                    "name": "1 - Elements / Icon / Glyph / Map-Marker"
                 },
                 "76237F9A-EC36-4DEF-B539-1360C274E92F": {
-                    "name": "1 - Elements / Base / Nozzle - Bubble - TR"
+                    "name": "1 - Elements / Base / Nozzle / Bubble - TR"
                 },
                 "F154BC27-A6FD-475F-9996-1A0A9E01A8FD": {
                     "name": "1 - Elements / Common / Cursor - Base"
                 },
                 "BCEB1F66-BA21-4BC5-8499-CB5E1E2D15DA": {
-                    "name": "1 - Elements / Icon / Glyph - Tags"
+                    "name": "1 - Elements / Icon / Glyph / Tags"
                 },
                 "5E5F370B-09A6-43C6-A69F-873B377B8ADC": {
-                    "name": "1 - Elements / Icon / Glyph - Map"
+                    "name": "1 - Elements / Icon / Glyph / Map"
                 },
                 "25A90700-8F41-46BC-ACB5-A5244B4926EB": {
-                    "name": "1 - Elements / Icon / Glyph - Settings - Bar"
+                    "name": "1 - Elements / Icon / Glyph / Settings - Bar"
                 },
                 "5EEC5EF9-5C1E-498D-82FA-E428753850F6": {
-                    "name": "1 - Elements / Icon / Glyph - E-Devlet - 1"
+                    "name": "1 - Elements / Icon / Glyph / E-Devlet - 1"
                 },
                 "7CA92678-38EF-4896-B868-D4FB30233443": {
-                    "name": "1 - Elements / Icon / Glyph - Share"
+                    "name": "1 - Elements / Icon / Glyph / Share"
                 },
                 "DDECD94A-C9A1-4B9B-8850-4DCF5F1F769E": {
-                    "name": "1 - Elements / Icon / Glyph - Currency - TL"
+                    "name": "1 - Elements / Icon / Glyph / Currency - TL"
                 },
                 "3DDC4B8A-9EB3-4D31-96D2-996DA81517BA": {
                     "name": "1 - Elements / Form / Option - Checkbox - Disabled Checked"
                 },
-                "F08AD5DE-DDBE-4A06-AEC3-6C8204C93374": {
-                    "name": "1 - Elements / Support / Collapse"
-                },
-                "6D4F98A7-BD09-4130-A1C5-FBA10CEE3796": {
-                    "name": "1 - Elements / Icon / Glyph - Social - Google+"
-                },
                 "1F458A68-90E8-4051-A1FF-D5A15EA5852B": {
                     "name": "1 - Elements / Form / Helper - Basic"
+                },
+                "6D4F98A7-BD09-4130-A1C5-FBA10CEE3796": {
+                    "name": "1 - Elements / Icon / Glyph / Social - Google+"
+                },
+                "F08AD5DE-DDBE-4A06-AEC3-6C8204C93374": {
+                    "name": "1 - Elements / Support / Collapse"
                 },
                 "B6293C8C-5316-42CB-A0B3-8295360B8AD0": {
                     "name": "1 - Elements / Common / Asterisk - Optional"
                 },
+                "DD5226D6-CC2C-49C8-B4CD-D53C31443624": {
+                    "name": "1 - Elements / Icon / Font / FontAwesome - Regular - Large"
+                },
                 "197753DF-1CA2-40F7-A139-787482AF2B92": {
-                    "name": "1 - Elements / Icon / Glyph - Social - Google+ - Fill"
+                    "name": "1 - Elements / Icon / Glyph / Social - Google+ - Fill"
                 },
                 "16C71688-E8D8-4551-AC11-161D4FC5AEDB": {
-                    "name": "1 - Elements / Icon / Glyph - Check"
+                    "name": "1 - Elements / Icon / Glyph / Check"
                 },
                 "DDEB80F6-4F59-4705-8DE3-C0F4817D0178": {
-                    "name": "1 - Elements / Icon / Glyph - Square - Outline"
+                    "name": "1 - Elements / Icon / Glyph / Square - Outline"
                 },
                 "F1BE38CF-9D03-4592-BB0D-99EA31F1B788": {
-                    "name": "1 - Elements / Base / Frame - Polygon"
+                    "name": "1 - Elements / Base / Frame / Polygon"
                 },
                 "ED75A3E3-45D2-4A65-A407-D83B6DBB3F94": {
-                    "name": "1 - Elements / Icon / Payment - PayPal"
+                    "name": "1 - Elements / Icon / Payment / PayPal"
                 },
                 "07D01B45-3F29-4B92-A6CE-307570F15870": {
-                    "name": "1 - Elements / Base / Nozzle - Tooltip - Right"
+                    "name": "1 - Elements / Base / Nozzle / Tooltip - Right"
                 },
                 "23F60122-8959-4E29-BD91-E77071386328": {
-                    "name": "1 - Elements / Icon / Glyph - Phone 2"
+                    "name": "1 - Elements / Icon / Glyph / Phone 2"
                 },
                 "A57B66B7-70EF-4B8B-B109-1E0E98AAC23B": {
-                    "name": "1 - Elements / Icon / Glyph - Thumb Down"
+                    "name": "1 - Elements / Icon / Glyph / Thumb Down"
                 },
                 "2E453DE5-0986-4811-A664-77386CB767DB": {
-                    "name": "1 - Elements / Icon / Glyph - File - Text - O"
+                    "name": "1 - Elements / Icon / Glyph / File - Text - O"
+                },
+                "3A40CDEF-6CC0-42F5-A38D-F338CED65994": {
+                    "name": "1 - Elements / Icon / Font / SF Symbols - Regular - Large"
                 },
                 "12B705A0-A78E-45A4-BA36-195BA4C83DAE": {
-                    "name": "1 - Elements / Icon / Glyph - HandShake"
+                    "name": "1 - Elements / Icon / Glyph / HandShake"
                 },
                 "10B3AA80-E088-4044-B466-ED69BD32D2A8": {
-                    "name": "1 - Elements / Icon / Glyph - Paper Plane - O Copy"
+                    "name": "1 - Elements / Icon / Glyph / Paper Plane - O Copy"
                 },
                 "F4A023F6-3731-4304-848E-1168E712F5E6": {
-                    "name": "1 - Elements / Icon / Glyph - SmartPhone"
+                    "name": "1 - Elements / Icon / Glyph / SmartPhone"
                 },
                 "12D8E789-8627-4839-917D-D6EC1DA30E17": {
-                    "name": "1 - Elements / Icon / Glyph - Eyedropper"
+                    "name": "1 - Elements / Icon / Glyph / Eyedropper"
                 },
                 "BF377F4E-90FF-4736-8B96-54DCA048B214": {
-                    "name": "1 - Elements / Icon / Glyph - Alert"
+                    "name": "1 - Elements / Icon / Glyph / Alert"
                 },
                 "26C46950-AF56-4F47-AF1A-E62C21C1A1CA": {
                     "name": "1 - Elements / Common / Mandatory - Base"
                 },
+                "BCF40D61-9A64-4DDA-ABD5-8B7DC270845E": {
+                    "name": "1 - Elements / Base / Background / Double"
+                },
                 "E29C07A7-4BCA-4391-8951-5FAC2E654A4E": {
-                    "name": "1 - Elements / Icon / Glyph - Chevron-Right"
+                    "name": "1 - Elements / Icon / Glyph / Chevron-Right"
                 },
                 "F594CE19-492C-41E9-8848-E7E6749210D6": {
-                    "name": "1 - Elements / Icon / Glyph - Chart - Line"
+                    "name": "1 - Elements / Icon / Glyph / Chart - Line"
                 },
                 "C5644A39-0948-433B-A59D-5A7C223DDE13": {
                     "name": "1 - Elements / Common / Dot - Default"
                 },
+                "B7556839-9260-4B9B-8EC0-ED74B242ACC7": {
+                    "name": "1 - Elements / Icon / Glyph / Person - Tie"
+                },
                 "307EAE1D-5B28-40BF-8050-1B122CCBEB7E": {
-                    "name": "1 - Elements / Icon / Glyph - Star"
+                    "name": "1 - Elements / Icon / Glyph / Star"
                 },
                 "1AB37568-0C26-4DBC-88E3-CC7208CA2F88": {
                     "name": "1 - Elements / Card / Media - Right"
                 },
                 "E6B5ECEB-19A6-4B10-A72C-3EA1512C0475": {
-                    "name": "1 - Elements / Icon / Glyph - Print"
+                    "name": "1 - Elements / Icon / Glyph / Print"
                 },
                 "DA63279D-0230-48FE-AE76-D25C3AEEFFCE": {
-                    "name": "1 - Elements / Icon / Glyph - Floppy"
+                    "name": "1 - Elements / Icon / Glyph / Floppy"
                 },
                 "364D702A-620E-4D67-B906-FCF16CA81F12": {
-                    "name": "1 - Elements / Icon / Glyph - Visibility - ON"
+                    "name": "1 - Elements / Icon / Glyph / Visibility - ON"
                 },
                 "011DCA4B-4B8C-4BCE-8873-D39571EA871E": {
-                    "name": "1 - Elements / Icon / Glyph - Map - Location"
+                    "name": "1 - Elements / Icon / Glyph / Map - Location"
                 },
                 "31AAA53E-CCB6-4676-9E4F-0599BBEEA25F": {
                     "name": "1 - Elements / Common / Dot - Inverse"
                 },
                 "CB2BEC0D-0434-470D-86DD-E18AEA6FA49D": {
-                    "name": "1 - Elements / Icon / Glyph - Phone"
-                },
-                "1CFA3891-7E20-4294-AF58-4E7E2838CED5": {
-                    "name": "1 - Elements / Button / Inline - Left"
+                    "name": "1 - Elements / Icon / Glyph / Phone"
                 },
                 "B1E71042-71E9-4429-B513-1D1C9D2A6EB2": {
                     "name": "1 - Elements / Form / Helper - Icon"
                 },
+                "1CFA3891-7E20-4294-AF58-4E7E2838CED5": {
+                    "name": "1 - Elements / Button / Inline - Left"
+                },
                 "D320CE1B-FD2E-4553-9FD1-5B136B9338C6": {
-                    "name": "1 - Elements / Base / Notch - Frame - Bottom"
+                    "name": "1 - Elements / Base / Notch / Frame - Bottom"
                 },
                 "A18FF24B-4ED1-4B7A-8EC6-EB9A12BDF99F": {
                     "name": "1 - Elements / Button / Default"
@@ -1749,16 +1788,22 @@
                     "name": "1 - Elements / Button / Tail - Left"
                 },
                 "7EAA378E-6171-48A9-9F43-BB3A3D270AF5": {
-                    "name": "1 - Elements / Icon / Glyph - Tag"
+                    "name": "1 - Elements / Icon / Glyph / Tag"
                 },
                 "C621C4A2-4DD8-4A43-AB02-0CDAFDD9D287": {
                     "name": "1 - Elements / Form / Text - Left"
                 },
+                "07AF122B-191F-4EAD-AFC9-EF2959CE97CD": {
+                    "name": "1 - Elements / Icon / Font / FontAwesome - Solid - Large"
+                },
                 "6A49646A-D71F-411B-BD37-4D70BB4747F0": {
-                    "name": "1 - Elements / Icon / Glyph - Lock"
+                    "name": "1 - Elements / Icon / Glyph / Lock"
                 },
                 "F617A9CA-7E72-4A95-BC41-8E3ACA1012A1": {
-                    "name": "1 - Elements / Icon / Glyph - Spy"
+                    "name": "1 - Elements / Icon / Glyph / Spy"
+                },
+                "49ACD999-B34D-4001-A32C-EEA1950BED40": {
+                    "name": "1 - Elements / Icon / Font / FontAwesome - Solid - Medium"
                 },
                 "C02CDE46-5C70-4823-BE45-66DBB7530C59": {
                     "name": "1 - Elements / Form / Text - Center"
@@ -1767,7 +1812,7 @@
                     "name": "1 - Elements / Support / Count"
                 },
                 "ADC2CAD4-3B0C-47A6-8AF5-A742622B828D": {
-                    "name": "1 - Elements / Icon / Glyph - Arrow Left"
+                    "name": "1 - Elements / Icon / Glyph / Arrow Left"
                 },
                 "99642C8F-581F-4824-A23F-3B13302D17D7": {
                     "name": "1 - Elements / Common / Badge - Cap - Left - Icon"
@@ -1782,19 +1827,22 @@
                     "name": "1 - Elements / Button / Tail - Right"
                 },
                 "C9F5BCEA-BEC8-4487-9CEE-FF0893A640C8": {
-                    "name": "1 - Elements / Icon / Glyph - Exclamation"
+                    "name": "1 - Elements / Icon / Glyph / Exclamation"
+                },
+                "ECBEE0EA-E7EB-4B87-98F1-81BE12DA5945": {
+                    "name": "1 - Elements / Icon / Font / FontAwesome - Solid - Small"
                 },
                 "8B3DD04E-F83D-4E59-991C-F6BB85ACE82B": {
-                    "name": "1 - Elements / Icon / Glyph - Flag"
+                    "name": "1 - Elements / Icon / Glyph / Flag"
                 },
                 "6F980293-61ED-484A-95C2-B2D3E9354F92": {
-                    "name": "1 - Elements / Icon / Glyph - Accessibility - 1"
+                    "name": "1 - Elements / Icon / Glyph / Accessibility - 1"
                 },
                 "F545661D-43DD-4CEA-86FC-98D00122F8A7": {
-                    "name": "1 - Elements / Base / Placeholder - Mugshot"
+                    "name": "1 - Elements / Base / Placeholder / Mugshot"
                 },
                 "FAE3EC53-5891-47B1-AB31-BE2BEE7BC96D": {
-                    "name": "1 - Elements / Icon / Glyph - Push Pin"
+                    "name": "1 - Elements / Icon / Glyph / Push Pin"
                 },
                 "19A53F67-9AA8-4095-857F-578DE7A68443": {
                     "name": "1 - Elements / Common / Badge - Star - Small"
@@ -1803,85 +1851,91 @@
                     "name": "1 - Elements / Common / Spec - Badge"
                 },
                 "339CBB2B-B2FA-4F42-B77C-A520F499439F": {
-                    "name": "1 - Elements / Icon / Glyph - Play"
+                    "name": "1 - Elements / Icon / Glyph / Play"
                 },
                 "BEA4FCFA-4362-4982-BB92-7458E72C58B3": {
-                    "name": "1 - Elements / Icon / Glyph - Arrow Right"
+                    "name": "1 - Elements / Icon / Glyph / Arrow Right"
                 },
                 "205E8816-514B-41B2-8A17-530F78865073": {
-                    "name": "1 - Elements / Icon / Glyph - Social - WhatsApp - Fill"
+                    "name": "1 - Elements / Icon / Glyph / Social - WhatsApp - Fill"
                 },
                 "269BB1F2-3696-4B57-9A6E-73B234DB21B7": {
-                    "name": "1 - Elements / Icon / Glyph - View-Tile"
+                    "name": "1 - Elements / Icon / Glyph / View-Tile"
                 },
                 "9CD50738-1772-49E7-A0AE-4A0093100616": {
-                    "name": "1 - Elements / Icon / Glyph - Shopping-Cart"
+                    "name": "1 - Elements / Icon / Glyph / Shopping-Cart"
                 },
                 "97A161D1-72B7-4EE1-958A-55495E8BE643": {
-                    "name": "1 - Elements / Icon / Glyph - Heart O"
+                    "name": "1 - Elements / Icon / Glyph / Heart O"
                 },
                 "F51765EA-E632-4EE2-A033-C88664C5722A": {
-                    "name": "1 - Elements / Icon / Glyph - File - Default"
+                    "name": "1 - Elements / Icon / Glyph / File - Default"
                 },
                 "51460B3A-35DB-4F14-B932-56B4429FB435": {
-                    "name": "1 - Elements / Icon / Glyph - Default"
+                    "name": "1 - Elements / Icon / Glyph / Default"
                 },
                 "8CA7CBF3-C039-4CEC-A1D6-255024D19AF5": {
-                    "name": "1 - Elements / Icon / Glyph - Link"
+                    "name": "1 - Elements / Icon / Glyph / Link"
                 },
                 "55CEA049-BBA4-49EF-903D-B994B732B674": {
-                    "name": "1 - Elements / Icon / Glyph - File - PDF"
+                    "name": "1 - Elements / Icon / Glyph / File - PDF"
                 },
                 "CC184D0C-5BE8-47E8-99BC-53E17602E1D3": {
-                    "name": "1 - Elements / Icon / Glyph - Accessibility - 2"
+                    "name": "1 - Elements / Icon / Glyph / Accessibility - 2"
                 },
                 "72AE9BD9-94A4-47E3-BEB7-7FA2375B727D": {
                     "name": "1 - Elements / Support / Search"
                 },
                 "8D861DAD-8EB2-442F-8945-7BA3BE036FD5": {
-                    "name": "1 - Elements / Icon / Glyph - Dot - Small"
+                    "name": "1 - Elements / Icon / Glyph / Dot - Small"
                 },
                 "22AB6B2A-75FD-4632-A60B-554B595C507E": {
                     "name": "1 - Elements / Card / Thumb - Right"
                 },
+                "B6AA3AF3-B38C-4163-B8EE-F7E0ED4DE183": {
+                    "name": "1 - Elements / Icon / Font / FontAwesome - Regular - Small"
+                },
                 "F06CE1C2-E5C9-4393-9BDE-F67BB9978529": {
-                    "name": "1 - Elements / Icon / Glyph - Chevron-Down"
+                    "name": "1 - Elements / Icon / Glyph / Chevron-Down"
                 },
                 "433BB368-A685-4DD4-B06B-1EFB94537525": {
-                    "name": "1 - Elements / Icon / Payment - BKM Express"
+                    "name": "1 - Elements / Icon / Payment / BKM Express"
+                },
+                "0BE2C85D-0820-4120-A416-20A6B24E13EE": {
+                    "name": "1 - Elements / Icon / Font / FontAwesome - Light - Large"
                 },
                 "91678137-7532-4292-89AD-8FBD16EFC187": {
                     "name": "1 - Elements / Support / Dropdown"
                 },
                 "CB2C137A-9F44-454B-9D84-363492F63B76": {
-                    "name": "1 - Elements / Icon / Glyph - Video"
+                    "name": "1 - Elements / Icon / Glyph / Video"
                 },
                 "04BB51A4-4874-406F-BB45-3591CDD82EEA": {
-                    "name": "1 - Elements / Icon / Glyph - Microphone"
+                    "name": "1 - Elements / Icon / Glyph / Microphone"
                 },
                 "67C1B6FE-C63B-4143-B088-2CC072E7443E": {
                     "name": "1 - Elements / Common / Badge - Cap - Left - Base"
                 },
                 "CBDC2635-67BA-4C18-8651-9B524F4C9F33": {
-                    "name": "1 - Elements / Icon / Glyph - Chevron-Left"
+                    "name": "1 - Elements / Icon / Glyph / Chevron-Left"
                 },
                 "2821A229-8695-4DB5-8D0F-E228414D9AB6": {
                     "name": "1 - Elements / Button / Option - Input"
                 },
                 "5C9EBF47-D8EF-49F2-9054-E1A90A403041": {
-                    "name": "1 - Elements / Icon / Glyph - Plus"
+                    "name": "1 - Elements / Icon / Glyph / Plus"
                 },
                 "8468A498-8992-414A-9F8D-46F052554EFE": {
                     "name": "1 - Elements / Button / Base"
                 },
                 "CFF49F5E-62D9-4B2C-B510-25FE407D6E6B": {
-                    "name": "1 - Elements / Base / Frame - Circle"
+                    "name": "1 - Elements / Base / Frame / Circle"
                 },
                 "123AC144-195F-4B22-A51D-585A7B1F3E9A": {
                     "name": "1 - Elements / Card / Thumb - Left"
                 },
                 "98B2CE45-CA50-4D63-B8A0-18B8319DF77D": {
-                    "name": "1 - Elements / Icon / Glyph - Car"
+                    "name": "1 - Elements / Icon / Glyph / Car"
                 },
                 "1ED36F44-124E-4035-9F9F-3498FE9F0D37": {
                     "name": "1 - Elements / Button / Common - Center"
@@ -1890,58 +1944,58 @@
                     "name": "1 - Elements / Common / Store - Google"
                 },
                 "25C22B45-455F-4F70-BF89-640CFD6BFC06": {
-                    "name": "1 - Elements / Icon / Glyph - Gas"
+                    "name": "1 - Elements / Icon / Glyph / Gas"
                 },
                 "D75C1C37-97A2-4E74-840E-003210E2949B": {
                     "name": "1 - Elements / Form / Option - Checkbox - Error"
                 },
                 "7D310232-752E-4BD6-8CE6-65C437B35BD9": {
-                    "name": "1 - Elements / Icon / Glyph - Refresh"
+                    "name": "1 - Elements / Icon / Glyph / Refresh"
                 },
                 "8E0C1243-DF69-4EC7-9190-1448EB294A39": {
                     "name": "1 - Elements / Form / Label - Float"
                 },
                 "F37C9400-63EB-43EF-9B2B-F5D5E9D505B4": {
-                    "name": "1 - Elements / Base / Frame - Soft Top"
+                    "name": "1 - Elements / Base / Frame / Soft Top"
                 },
                 "91FCA0F0-7BCA-44B3-8442-99A514D2CB28": {
-                    "name": "1 - Elements / Icon / Glyph - Filter"
+                    "name": "1 - Elements / Icon / Glyph / Filter"
                 },
                 "90480153-206D-46A2-855E-7E762D4998F9": {
                     "name": "1 - Elements / Common / Spec - Icon with Badge"
                 },
                 "C7EB0DCC-BDD4-4B9C-8BBD-42CACC15A09C": {
-                    "name": "1 - Elements / Icon / Glyph - Shield - Alt"
+                    "name": "1 - Elements / Icon / Glyph / Shield - Alt"
                 },
                 "F6B95560-4A8F-4EA6-9572-E5C6E816B019": {
-                    "name": "1 - Elements / Icon / Glyph - Image"
+                    "name": "1 - Elements / Icon / Glyph / Image"
                 },
                 "E368949D-FF5B-4C9D-A6F5-83FA3D146A9C": {
                     "name": "1 - Elements / Support / Select"
                 },
                 "BECF4311-2C39-4688-A6B5-ABA3EB641FBB": {
-                    "name": "1 - Elements / Icon / Payment - MasterCard"
+                    "name": "1 - Elements / Icon / Payment / MasterCard"
                 },
                 "9A0193B3-493E-49FF-B126-85417BBBFA50": {
                     "name": "1 - Elements / Common / Dot - Default Active"
                 },
                 "ADB3E427-2B2D-449C-8AC7-4360D251EC24": {
-                    "name": "1 - Elements / Icon / Glyph - Traffic Cone"
+                    "name": "1 - Elements / Icon / Glyph / Traffic Cone"
                 },
                 "4E538872-9063-4F38-BBB3-1BE1706E3327": {
-                    "name": "1 - Elements / Icon / Glyph - Eyeglasses"
+                    "name": "1 - Elements / Icon / Glyph / Eyeglasses"
                 },
                 "654C3195-F4FA-49C2-AE1F-2A38827D26EB": {
-                    "name": "1 - Elements / Icon / Glyph - More - V Square"
+                    "name": "1 - Elements / Icon / Glyph / More - V Square"
                 },
                 "22EF8092-6635-4C20-BB1F-E4B7695EEB9C": {
-                    "name": "1 - Elements / Icon / Glyph - Hourglass"
+                    "name": "1 - Elements / Icon / Glyph / Hourglass"
                 },
                 "1903D8D9-0D9E-4F02-B33D-4EEA902F7345": {
-                    "name": "1 - Elements / Icon / Glyph - Ban"
+                    "name": "1 - Elements / Icon / Glyph / Ban"
                 },
                 "9EA21AA7-1D59-42E4-95F9-72BC00D88D99": {
-                    "name": "1 - Elements / Icon / Glyph - Time"
+                    "name": "1 - Elements / Icon / Glyph / Time"
                 },
                 "1C49CA6B-E7B3-48E4-9744-0B575C05A13C": {
                     "name": "1 - Elements / Card / Icon - Left"
@@ -1950,40 +2004,46 @@
                     "name": "1 - Elements / Card / Base"
                 },
                 "9CCDDBAC-3C50-4577-AAAC-703CF349A304": {
-                    "name": "1 - Elements / Icon / Glyph - Share - Alt"
+                    "name": "1 - Elements / Icon / Glyph / Share - Alt"
                 },
                 "F58E5528-1D43-4692-B489-3FFC44FA32DE": {
                     "name": "1 - Elements / Support / Flag"
                 },
                 "4A07D329-C0AD-4789-8681-FD8CD2917138": {
-                    "name": "1 - Elements / Icon / Glyph - Currency - USD - Alt"
+                    "name": "1 - Elements / Icon / Glyph / Currency - USD - Alt"
                 },
                 "8C34EB9E-F3ED-4072-B7D9-03A9E93131ED": {
-                    "name": "1 - Elements / Icon / Glyph - Move - Alt"
+                    "name": "1 - Elements / Icon / Glyph / Move - Alt"
                 },
                 "DD6D52BF-0DFE-4B5D-9F4D-B01867014A39": {
-                    "name": "1 - Elements / Icon / Glyph - Star-Half"
+                    "name": "1 - Elements / Icon / Glyph / Star-Half"
                 },
                 "3E4DADDE-03C4-48D4-8BC2-3F20CAEBB955": {
-                    "name": "1 - Elements / Base / Placeholder - Common"
+                    "name": "1 - Elements / Base / Placeholder / Common"
                 },
                 "3942214D-E824-472F-8F9B-D01E308D7F53": {
-                    "name": "1 - Elements / Icon / Glyph - Rotate Left"
+                    "name": "1 - Elements / Icon / Glyph / Rotate Left"
                 },
                 "5F5B9A1A-9FE0-4BDD-9C69-A66404A112EF": {
-                    "name": "1 - Elements / Icon / Glyph - Credit Card"
+                    "name": "1 - Elements / Icon / Glyph / Credit Card"
                 },
                 "5AAE691A-E06B-4E22-9ED8-7C4A790BC7C2": {
-                    "name": "1 - Elements / Icon / Glyph - Window - Maximize"
+                    "name": "1 - Elements / Icon / Glyph / Window - Maximize"
                 },
                 "EEADB680-73EC-4F26-AC42-79F0F0F10ED9": {
                     "name": "1 - Elements / Form / Option - Radio - Default Selected"
                 },
                 "A58467FF-A7B2-4D15-AB3B-0266CE303694": {
-                    "name": "1 - Elements / Icon / Glyph - Minus"
+                    "name": "1 - Elements / Icon / Glyph / Minus"
                 },
                 "FD472EA4-B6A4-4E18-81BC-1190E9CEA5B6": {
-                    "name": "1 - Elements / Icon / Glyph - Pointer - Mouse - Circle"
+                    "name": "1 - Elements / Icon / Glyph / Pointer - Mouse - Circle"
+                },
+                "6008D96D-1D19-404E-8F08-5BC2D6C7F0FC": {
+                    "name": "1 - Elements / Base / Background / Divider - Indent 16"
+                },
+                "AA857420-C018-4C79-82FE-54AD9C467774": {
+                    "name": "1 - Elements / Icon / Font / SF Symbols - Thin - Large"
                 },
                 "D0ECDE3D-5CB7-478B-B097-5CB6BFD145F6": {
                     "name": "1 - Elements / Form / Label - Frame - Right"
@@ -1992,10 +2052,10 @@
                     "name": "1 - Elements / Common / Spec - Fingerprint"
                 },
                 "DFF2C93A-C1B1-43ED-B9B3-F695C33BBB9F": {
-                    "name": "1 - Elements / Icon / Glyph - Download"
+                    "name": "1 - Elements / Icon / Glyph / Download"
                 },
                 "060EB313-31B7-4D38-9062-19979EA9D7C3": {
-                    "name": "1 - Elements / Base / Frame - Soft Left"
+                    "name": "1 - Elements / Base / Frame / Soft Left"
                 },
                 "A2F03A55-C90D-4947-B3FA-CBD0C74040DF": {
                     "name": "1 - Elements / Button / Thumb - Base"
@@ -2016,13 +2076,13 @@
                     "name": "1 - Elements / Support / More"
                 },
                 "876CA1E8-D734-4D86-9EEC-E9BE1CEC5757": {
-                    "name": "1 - Elements / Icon / Glyph - Wrench"
+                    "name": "1 - Elements / Icon / Glyph / Wrench"
                 },
                 "7026473D-8873-4407-931F-423B47264967": {
-                    "name": "1 - Elements / Base / Frame - Soft Bottom"
+                    "name": "1 - Elements / Base / Frame / Soft Bottom"
                 },
                 "A386051C-0A41-4C5B-A350-B9694F74414F": {
-                    "name": "1 - Elements / Icon / Glyph - Headset"
+                    "name": "1 - Elements / Icon / Glyph / Headset"
                 },
                 "BBC1C0F5-17CE-4215-8E25-ABAA0E123CC2": {
                     "name": "1 - Elements / Support / Check"
@@ -2031,58 +2091,64 @@
                     "name": "1 - Elements / Common / Badge - Ribbon"
                 },
                 "9673CCBF-DD0A-4021-91C1-EB45BF2FBE44": {
-                    "name": "1 - Elements / Icon / Glyph - Content - Cut"
+                    "name": "1 - Elements / Icon / Glyph / Content - Cut"
                 },
                 "EFA7DAA3-C21A-45A5-B188-35FC8431D08E": {
-                    "name": "1 - Elements / Icon / Glyph - Pointer - Hand - Circle"
+                    "name": "1 - Elements / Icon / Glyph / Pointer - Hand - Circle"
                 },
                 "278B20F0-FFE2-4346-BB75-03405C71B0D4": {
-                    "name": "1 - Elements / Icon / Glyph - Address Card"
+                    "name": "1 - Elements / Icon / Glyph / Address Card"
                 },
                 "F626EDFA-78C0-4B76-A958-D09B3DE8F53D": {
-                    "name": "1 - Elements / Icon / Glyph - Stethoscope"
+                    "name": "1 - Elements / Icon / Glyph / Stethoscope"
                 },
                 "1C237CB3-32EC-4DE4-AADD-1A18247AD138": {
-                    "name": "1 - Elements / Base / Notch - Line - Bottom"
+                    "name": "1 - Elements / Base / Notch / Line - Bottom"
                 },
-                "6918F3FE-1511-46C6-8BB2-CE2E79D0E7DC": {
-                    "name": "1 - Elements / Icon / Glyph - Plus-Circle"
+                "9109FF01-8066-4D66-8F79-61654C6347F4": {
+                    "name": "1 - Elements / Base / Nozzle / Tooltip - Top - Right"
                 },
                 "725C78C3-EC09-4400-976A-0DA0DA55FCE5": {
                     "name": "1 - Elements / Card / Stack - 2"
                 },
+                "6918F3FE-1511-46C6-8BB2-CE2E79D0E7DC": {
+                    "name": "1 - Elements / Icon / Glyph / Plus-Circle"
+                },
                 "96A5235D-1BB6-485D-A846-6989DF7E8008": {
-                    "name": "1 - Elements / Icon / Glyph - Reload"
+                    "name": "1 - Elements / Icon / Glyph / Reload"
                 },
                 "039C9693-4B21-48E9-8450-F8D090416B5F": {
-                    "name": "1 - Elements / Icon / Glyph - Social - WhatsApp"
+                    "name": "1 - Elements / Icon / Glyph / Social - WhatsApp"
                 },
                 "B157222E-C5C4-4B32-84D3-9E543221FB40": {
-                    "name": "1 - Elements / Icon / Glyph - Store"
+                    "name": "1 - Elements / Icon / Glyph / Store"
                 },
                 "7D952ADF-056B-46A2-92ED-77D1E8AC26DC": {
                     "name": "1 - Elements / Support / Close"
                 },
+                "C2820052-829C-4855-98BD-11E2270CD175": {
+                    "name": "1 - Elements / Form / Placeholder - Textarea"
+                },
                 "EFBAB43B-0844-43FD-AF68-15CD1892E6A6": {
-                    "name": "1 - Elements / Icon / Glyph - Social - Linked In - Fill"
+                    "name": "1 - Elements / Icon / Glyph / Social - Linked In - Fill"
                 },
                 "5E31BC7D-6AD2-437B-8EE7-E6CACF85D284": {
                     "name": "1 - Elements / Button / Option - Switch - Left"
                 },
                 "59282AC1-15BC-4969-9306-2563BAC357CB": {
-                    "name": "1 - Elements / Icon / Glyph - Heart"
+                    "name": "1 - Elements / Icon / Glyph / Heart"
                 },
                 "2BC7ACC8-8A28-4ADD-ABAE-E10D8AACCAC7": {
-                    "name": "1 - Elements / Icon / Glyph - Move - V"
+                    "name": "1 - Elements / Icon / Glyph / Move - V"
                 },
                 "CE147E7A-7391-438C-93F4-44A953709CBE": {
-                    "name": "1 - Elements / Icon / Glyph - Paper Plane - O"
+                    "name": "1 - Elements / Icon / Glyph / Paper Plane - O"
                 },
                 "57D07EB1-3A68-4A74-9718-5E6B4ADB5AEE": {
-                    "name": "1 - Elements / Icon / Glyph - Currency - TL - Alt"
+                    "name": "1 - Elements / Icon / Glyph / Currency - TL - Alt"
                 },
                 "B8FEEB08-107B-40D5-BA79-4FD2DECD0DB7": {
-                    "name": "1 - Elements / Icon / Glyph - Paw"
+                    "name": "1 - Elements / Icon / Glyph / Paw"
                 },
                 "ACEE0D89-E716-400F-8C05-A90932F39027": {
                     "name": "1 - Elements / Form / Text - Right"
@@ -2091,13 +2157,13 @@
                     "name": "1 - Elements / Form / Placeholder - Left"
                 },
                 "6E4DDD6D-2FC0-40FD-A6DD-99718EF299C8": {
-                    "name": "1 - Elements / Icon / Payment - BKM"
+                    "name": "1 - Elements / Icon / Payment / BKM"
                 },
                 "93DB993D-E61D-4999-AFCD-C6E6A557C37F": {
                     "name": "1 - Elements / Common / Switch - Default - Off"
                 },
                 "F795A085-0A65-4327-AE63-A4479FF81404": {
-                    "name": "1 - Elements / Base / Frame - Round Top"
+                    "name": "1 - Elements / Base / Frame / Round Top"
                 },
                 "5715FD0F-7161-412F-BFFB-7AA590B65D86": {
                     "name": "1 - Elements / Common / Switch - Default - On"
@@ -2106,115 +2172,121 @@
                     "name": "1 - Elements / Card / Mugshot - Center "
                 },
                 "2124D3B5-69C3-4C30-BA5D-51E5E759335C": {
-                    "name": "1 - Elements / Icon / Glyph - Question"
+                    "name": "1 - Elements / Icon / Glyph / Question"
                 },
                 "6C6E7B76-8B4E-49B7-B5F2-52A45489D329": {
-                    "name": "1 - Elements / Icon / Placeholder - Image"
+                    "name": "1 - Elements / Icon / Placeholder / Image"
                 },
                 "89B389B0-B8A8-44E6-A8FD-958075843B4F": {
-                    "name": "1 - Elements / Base / Frame - Soft Right"
+                    "name": "1 - Elements / Base / Frame / Soft Right"
                 },
                 "23BAC6F4-B6F9-4971-BB8B-6D3FF81E2590": {
                     "name": "1 - Elements / Form / Placeholder - Center"
                 },
                 "EE4624F8-02E8-4D3D-94EE-F9E8156D397E": {
-                    "name": "1 - Elements / Icon / Glyph - Envelope"
+                    "name": "1 - Elements / Icon / Glyph / Envelope"
                 },
                 "B8D6198D-A937-4DA9-A4C9-D9EFEC901326": {
-                    "name": "1 - Elements / Base / Frame - Soft"
+                    "name": "1 - Elements / Base / Frame / Soft"
                 },
                 "6B844063-4EA3-48DC-AB89-573A942C9FD0": {
-                    "name": "1 - Elements / Icon / Glyph - Pointer - Mouse"
+                    "name": "1 - Elements / Icon / Glyph / Pointer - Mouse"
                 },
                 "BA06BA07-4FA9-4138-B8F0-0279765DA259": {
-                    "name": "1 - Elements / Icon / Glyph - More - H Square"
+                    "name": "1 - Elements / Icon / Glyph / More - H Square"
                 },
                 "F2751F69-50C4-4178-BA38-AE79A8B34756": {
-                    "name": "1 - Elements / Icon / Glyph - Asterisk"
+                    "name": "1 - Elements / Icon / Glyph / Asterisk"
+                },
+                "3CD202EC-5196-4547-A61D-89148CC5A2A2": {
+                    "name": "1 - Elements / Icon / Font / SF Symbols - Regular - Medium"
                 },
                 "F1C804B4-0048-4B14-823E-9B50A371341D": {
-                    "name": "1 - Elements / Icon / Glyph - Trash"
-                },
-                "1210DD96-DF60-4D53-A065-1743301E6429": {
-                    "name": "1 - Elements / Icon / Glyph - Industry"
+                    "name": "1 - Elements / Icon / Glyph / Trash"
                 },
                 "2E4ACDF5-3021-46A6-AD92-FFDE8F497A04": {
                     "name": "1 - Elements / Common / Badge - Cap - Right - Base"
                 },
+                "1210DD96-DF60-4D53-A065-1743301E6429": {
+                    "name": "1 - Elements / Icon / Glyph / Industry"
+                },
                 "3CFFE61F-BB5C-436F-B102-49684DB45E33": {
-                    "name": "1 - Elements / Icon / Glyph - Social - Twitter - Fill"
+                    "name": "1 - Elements / Icon / Glyph / Social - Twitter - Fill"
                 },
                 "4E6DA4A7-B5DE-4863-A5C3-0BF9A7EF7A7A": {
-                    "name": "1 - Elements / Icon / Glyph - Wi-Fi"
+                    "name": "1 - Elements / Icon / Glyph / Wi-Fi"
                 },
                 "412B0394-A4DF-41C6-B1C6-C3A12ABDB921": {
-                    "name": "1 - Elements / Icon / Glyph - Home"
+                    "name": "1 - Elements / Icon / Glyph / Home"
                 },
                 "6C48FB9D-F298-4BA7-A528-B3B265019312": {
                     "name": "1 - Elements / Button / Option - Switch - Right"
                 },
                 "69C1C5B0-42AC-4BF5-B36E-20BAF1611B4C": {
-                    "name": "1 - Elements / Icon / Glyph - Play-Circle"
+                    "name": "1 - Elements / Icon / Glyph / Play-Circle"
                 },
                 "E3775D52-23AB-4602-B0BB-D48FA0CDAA46": {
-                    "name": "1 - Elements / Icon / Glyph - Shopping-Bag"
+                    "name": "1 - Elements / Icon / Glyph / Shopping-Bag"
                 },
                 "0F89A604-8B15-44AE-A8C0-D7E553FF5016": {
-                    "name": "1 - Elements / Base / Notch - Line - Left"
+                    "name": "1 - Elements / Base / Notch / Line - Left"
                 },
                 "25B6128C-E82B-4550-A0A2-52C993930D9E": {
-                    "name": "1 - Elements / Icon / Glyph - People"
+                    "name": "1 - Elements / Icon / Glyph / People"
                 },
                 "CF25DCB4-8C36-4632-8248-BDBE01806252": {
                     "name": "1 - Elements / Button / Icon - Left"
                 },
                 "568CCE3F-2E3F-4A6C-8B52-8451E21D5373": {
-                    "name": "1 - Elements / Icon / Glyph - Rocket"
+                    "name": "1 - Elements / Icon / Glyph / Rocket"
                 },
                 "18DC18A8-B0AF-4CBE-B189-6F6A0653607F": {
-                    "name": "1 - Elements / Icon / Glyph - Social - Pinterest - Fill"
+                    "name": "1 - Elements / Icon / Glyph / Social - Pinterest - Fill"
                 },
                 "EAB4E008-BB0D-4AA0-99BC-65FC0835AE0E": {
-                    "name": "1 - Elements / Icon / Glyph - At"
+                    "name": "1 - Elements / Icon / Glyph / At"
                 },
                 "61C12466-994C-4B2F-B7F0-F9286A823ED8": {
-                    "name": "1 - Elements / Icon / Glyph - Arrow Down"
+                    "name": "1 - Elements / Icon / Glyph / Arrow Down"
                 },
                 "4081CF5D-E4F2-461D-B969-6A5718D873A1": {
                     "name": "1 - Elements / Common / Cursor - Primary"
                 },
                 "3EAF2943-51DC-4854-9DA8-7D716BB7717B": {
-                    "name": "1 - Elements / Icon / Glyph - Social - Linked In"
+                    "name": "1 - Elements / Icon / Glyph / Social - Linked In"
                 },
                 "116A5350-37EE-41E3-88E2-480476D94237": {
-                    "name": "1 - Elements / Base / Notch - Frame - Right"
+                    "name": "1 - Elements / Base / Notch / Frame - Right"
                 },
                 "5916C36D-1909-4BB8-B410-9E7408FD0799": {
-                    "name": "1 - Elements / Icon / Glyph - File - Default - O"
+                    "name": "1 - Elements / Icon / Glyph / File - Default - O"
                 },
                 "8E05EC9C-777B-415A-B14C-BB7D96F559A8": {
-                    "name": "1 - Elements / Base / Notch - Line - Top"
+                    "name": "1 - Elements / Base / Notch / Line - Top"
                 },
                 "370D896C-2A68-4757-BCAE-175E9633E579": {
-                    "name": "1 - Elements / Icon / Glyph - Chart - Bar"
+                    "name": "1 - Elements / Icon / Glyph / Chart - Bar"
                 },
                 "CD1BA500-7919-4771-B0E9-824CE66F7509": {
                     "name": "1 - Elements / Card / Stack - 3"
                 },
                 "59F3804C-EE08-488B-B1B4-297F95CB5B80": {
-                    "name": "1 - Elements / Icon / Glyph - Dashboard"
+                    "name": "1 - Elements / Icon / Glyph / Dashboard"
                 },
                 "4851DA60-0582-41A5-86D2-448BD72FE7D3": {
-                    "name": "1 - Elements / Icon / Glyph - Move"
+                    "name": "1 - Elements / Icon / Glyph / Move"
                 },
                 "913EF67E-7F70-46E8-8A66-F3A9AEC9AB6D": {
-                    "name": "1 - Elements / Icon / Glyph - Window - Restore"
+                    "name": "1 - Elements / Icon / Glyph / Window - Restore"
                 },
                 "9FCC136B-6F24-4A8C-B7A1-679684AA10AE": {
-                    "name": "1 - Elements / Base / Frame - Round Right"
+                    "name": "1 - Elements / Base / Frame / Round Right"
+                },
+                "745554B6-B3DD-4B3F-BC53-0BAE9C5E7D93": {
+                    "name": "1 - Elements / Icon / Font / FontAwesome - Regular - Medium"
                 },
                 "5D221FE7-3988-4E7A-916B-7482DCE95125": {
-                    "name": "1 - Elements / Icon / Glyph - File - Zip"
+                    "name": "1 - Elements / Icon / Glyph / File - Zip"
                 },
                 "6D4E4A70-5897-4711-BE4D-D691461B58F2": {
                     "name": "1 - Elements / Form / Option - Radio - Error"
@@ -2223,46 +2295,49 @@
                     "name": "1 - Elements / Common / Spec - Resizer"
                 },
                 "7DB29B7C-E2F4-4795-A0A0-42DB31DE3F7F": {
-                    "name": "1 - Elements / Icon / Glyph - Star-Outine"
+                    "name": "1 - Elements / Icon / Glyph / Star-Outine"
                 },
                 "B321139C-DFDD-4E3D-98DE-85D9FB82E6EC": {
                     "name": "1 - Elements / Button / Media"
                 },
                 "439ADB13-AECA-4F15-AC03-576A3769DC39": {
-                    "name": "1 - Elements / Icon / Glyph - Chat"
+                    "name": "1 - Elements / Icon / Glyph / Chat"
+                },
+                "E8BE6F9C-A1B4-4E5C-B455-9B38C0D35340": {
+                    "name": "1 - Elements / Base / Background / Flip"
                 },
                 "5316E17F-1C83-4D5B-8911-EEB78013531D": {
-                    "name": "1 - Elements / Icon / Glyph - Calculator"
+                    "name": "1 - Elements / Icon / Glyph / Calculator"
                 },
                 "2C693DC3-433A-4D88-80C9-4E18F9173F9D": {
-                    "name": "1 - Elements / Icon / Glyph - Briefcase"
+                    "name": "1 - Elements / Icon / Glyph / Briefcase"
+                },
+                "FCCB3457-81CB-44F4-ADF2-DA484891C24C": {
+                    "name": "1 - Elements / Base / Nozzle / Tooltip - Top"
                 },
                 "5C2CB585-4FBF-4F70-81B7-89CA624E2B21": {
                     "name": "1 - Elements / Form / Option - Checkbox - Default Unchecked"
                 },
-                "FCCB3457-81CB-44F4-ADF2-DA484891C24C": {
-                    "name": "1 - Elements / Base / Nozzle - Tooltip - Top"
-                },
                 "042FA435-652D-4E83-9EE7-DFB162D7305B": {
-                    "name": "1 - Elements / Icon / Glyph - Compose"
+                    "name": "1 - Elements / Icon / Glyph / Compose"
                 },
                 "50F45109-4A6A-4B87-A0A9-2F234D31E84D": {
-                    "name": "1 - Elements / Icon / Glyph - More - V"
+                    "name": "1 - Elements / Icon / Glyph / More - V"
                 },
                 "DC4DEBA6-F741-4951-9002-49D591423CE7": {
-                    "name": "1 - Elements / Icon / Glyph - Chart - Area"
+                    "name": "1 - Elements / Icon / Glyph / Chart - Area"
                 },
                 "635FFCE1-FADD-4CAB-A7B8-4A8B0D9F54EC": {
-                    "name": "1 - Elements / Icon / Glyph - Checkmark - Circle"
+                    "name": "1 - Elements / Icon / Glyph / Checkmark - Circle"
                 },
                 "A41493A2-3A29-4F15-A600-D7C5FDCC5452": {
-                    "name": "1 - Elements / Icon / Glyph - Pointer - Hand"
+                    "name": "1 - Elements / Icon / Glyph / Pointer - Hand"
                 },
                 "FC85373A-DD93-4EE8-B421-91729E29660F": {
                     "name": "1 - Elements / Common / Cursor - Accent"
                 },
                 "0A5795F9-02F2-4D42-BB61-F61719C0EFC5": {
-                    "name": "1 - Elements / Icon / Glyph - Social - Pinterest"
+                    "name": "1 - Elements / Icon / Glyph / Social - Pinterest"
                 },
                 "C496B9CE-3F60-4A18-A876-6F7414698D19": {
                     "name": "1 - Elements / Button / Inline - Right"
@@ -2271,124 +2346,127 @@
                     "name": "1 - Elements / Form / Option - Radio - Primary"
                 },
                 "11E42AC8-D0AA-4FCC-9810-E6AC0375B047": {
-                    "name": "1 - Elements / Icon / Glyph - Trophy"
+                    "name": "1 - Elements / Icon / Glyph / Trophy"
                 },
                 "47730269-D24D-4FFA-843C-AF23A5887CDB": {
                     "name": "1 - Elements / Form / Option - Checkbox - Primary"
                 },
                 "AABB2381-57CF-446E-9629-F60BAB3BA01D": {
-                    "name": "1 - Elements / Icon / Glyph - Circle-Outline"
+                    "name": "1 - Elements / Icon / Glyph / Circle-Outline"
                 },
                 "46E89793-AAD5-41D7-B750-C630361A1065": {
                     "name": "1 - Elements / Common / Store - Apple"
                 },
                 "A6AFC9FE-8E1E-495C-962C-0C7C761EFD81": {
-                    "name": "1 - Elements / Icon / Glyph - Move - H"
+                    "name": "1 - Elements / Icon / Glyph / Move - H"
                 },
                 "CA8FC54E-8524-4C49-B381-A0C7AEECBE98": {
-                    "name": "1 - Elements / Icon / Glyph - Social - Twitter"
+                    "name": "1 - Elements / Icon / Glyph / Social - Twitter"
                 },
                 "6C900F06-41D8-4050-B2DA-D9D40E55E7BD": {
-                    "name": "1 - Elements / Icon / Glyph - Address Card - O"
+                    "name": "1 - Elements / Icon / Glyph / Address Card - O"
                 },
                 "F3D6D7C9-F22C-41B8-BE94-09B40F26F0C5": {
                     "name": "1 - Elements / Button / Inline - Center"
                 },
                 "FF9F907E-42BB-4990-9C93-ACBED8D7901D": {
-                    "name": "1 - Elements / Base / Reverse"
+                    "name": "1 - Elements / Base / Background / Reverse"
                 },
                 "98C868DD-6A14-45E5-B89B-103E11B24428": {
                     "name": "1 - Elements / Button / Mugshot - Base"
                 },
                 "36462C28-9A6A-46D7-B728-C39348AA3ED2": {
-                    "name": "1 - Elements / Icon / Glyph - Book"
+                    "name": "1 - Elements / Icon / Glyph / Book"
                 },
                 "5D2A0F8E-8886-435E-A48F-39E466563015": {
-                    "name": "1 - Elements / Icon / Glyph - Drag"
+                    "name": "1 - Elements / Icon / Glyph / Drag"
                 },
                 "F9747651-3038-4734-86E1-4DAA4DE9AB26": {
-                    "name": "1 - Elements / Base / Nozzle - Tooltip - Left"
+                    "name": "1 - Elements / Base / Nozzle / Tooltip - Left"
                 },
                 "31671C7A-54E7-4255-BC2E-CF3C9261089A": {
-                    "name": "1 - Elements / Icon / Glyph - Caret-Left"
+                    "name": "1 - Elements / Icon / Glyph / Caret-Left"
                 },
                 "717E6D02-3E59-46F4-A329-F76D64DC3324": {
                     "name": "1 - Elements / Card / Mugshot - Right "
                 },
                 "52FDAFEA-B7BC-49A7-88A5-3987129D4699": {
-                    "name": "1 - Elements / Icon / Glyph - Office"
+                    "name": "1 - Elements / Icon / Glyph / Office"
                 },
                 "24D63052-7923-474B-9913-18B13D380B30": {
-                    "name": "1 - Elements / Icon / Glyph - File - Image"
+                    "name": "1 - Elements / Icon / Glyph / File - Image"
                 },
                 "FB0F57AC-EF31-4455-BB1F-4A3910E098C4": {
-                    "name": "1 - Elements / Base / Nozzle - Tooltip - Bottom"
+                    "name": "1 - Elements / Base / Nozzle / Tooltip - Bottom"
                 },
                 "2C015D80-F63B-4B9E-A3A3-BB599D047848": {
-                    "name": "1 - Elements / Icon / Glyph - Message"
+                    "name": "1 - Elements / Icon / Glyph / Message"
                 },
                 "0DC37C31-D4E3-4CC1-ACA2-2B93C8C7EDC2": {
-                    "name": "1 - Elements / Icon / Glyph - File - Excel"
+                    "name": "1 - Elements / Icon / Glyph / File - Excel"
                 },
                 "24675BF2-3C57-4621-A127-6AD3F7B9E77A": {
-                    "name": "1 - Elements / Icon / Glyph - More - H"
-                },
-                "07A9FDCE-8A2F-4904-A4EE-4F82955C9185": {
-                    "name": "1 - Elements / Icon / Glyph - Map Arrow"
-                },
-                "6AE7D7B0-4B22-4F5B-950A-EEE34E5D83EF": {
-                    "name": "1 - Elements / Base / Splitter"
-                },
-                "C966111A-75A5-4391-A942-523F947E6D2D": {
-                    "name": "1 - Elements / Base / Notch - Line - Right"
+                    "name": "1 - Elements / Icon / Glyph / More - H"
                 },
                 "2D5A2D07-22C2-4010-874F-0DD7D70FECAA": {
-                    "name": "1 - Elements / Base / Notch - Frame - Top"
+                    "name": "1 - Elements / Base / Notch / Frame - Top"
+                },
+                "6AE7D7B0-4B22-4F5B-950A-EEE34E5D83EF": {
+                    "name": "1 - Elements / Base / Background / Splitter"
+                },
+                "C966111A-75A5-4391-A942-523F947E6D2D": {
+                    "name": "1 - Elements / Base / Notch / Line - Right"
+                },
+                "07A9FDCE-8A2F-4904-A4EE-4F82955C9185": {
+                    "name": "1 - Elements / Icon / Glyph / Map Arrow"
                 },
                 "907ACDCA-2D8C-4DFC-9753-B82EF8C23B9A": {
-                    "name": "1 - Elements / Icon / Glyph - Calendar"
+                    "name": "1 - Elements / Icon / Glyph / Calendar"
                 },
                 "3ED36E02-D190-4A4C-A925-91CF594AF95D": {
-                    "name": "1 - Elements / Base / Placeholder - Media"
+                    "name": "1 - Elements / Base / Placeholder / Media"
                 },
                 "9A54F1AB-C2B9-4216-A45B-4364ABBDC2B1": {
-                    "name": "1 - Elements / Base / Placeholder - Map"
+                    "name": "1 - Elements / Base / Placeholder / Map"
                 },
                 "EB5BF461-96BF-46A9-B175-7062E9C55713": {
-                    "name": "1 - Elements / Icon / Glyph - Inspect"
+                    "name": "1 - Elements / Icon / Glyph / Inspect"
                 },
                 "F21BA756-D359-4681-B551-0B2C7F4B8737": {
-                    "name": "1 - Elements / Icon / Glyph - Person - 1"
+                    "name": "1 - Elements / Icon / Glyph / Person"
+                },
+                "CD99023C-0FD9-41E5-B5F4-843721CDF3F1": {
+                    "name": "1 - Elements / Icon / Font / SF Symbols - Thin - Small"
                 },
                 "765008CD-22A9-424D-B250-268D689651B4": {
-                    "name": "1 - Elements / Icon / Glyph - Picture"
-                },
-                "98AA4829-CEE8-402B-9963-03F636C59E3E": {
-                    "name": "1 - Elements / Icon / Payment - Visa"
+                    "name": "1 - Elements / Icon / Glyph / Picture"
                 },
                 "2BD8B275-9F44-4AF8-8DF0-3D4B94D6732D": {
                     "name": "1 - Elements / Common / Switch - Label - Off"
                 },
-                "2D018D19-7A9B-49D9-83EC-94FF4981F2BC": {
-                    "name": "1 - Elements / Icon / Placeholder - Info"
+                "98AA4829-CEE8-402B-9963-03F636C59E3E": {
+                    "name": "1 - Elements / Icon / Payment / Visa"
                 },
                 "AA74FCF2-9AF4-4A91-B34D-E1E6B9DBFD47": {
-                    "name": "1 - Elements / Icon / Glyph - External-Link"
+                    "name": "1 - Elements / Icon / Glyph / External-Link"
+                },
+                "2D018D19-7A9B-49D9-83EC-94FF4981F2BC": {
+                    "name": "1 - Elements / Icon / Placeholder / Info"
                 },
                 "FF05E1C6-7BAA-4461-B26C-9ACBB2DCFC25": {
-                    "name": "1 - Elements / Icon / Glyph - Square"
+                    "name": "1 - Elements / Icon / Glyph / Square"
                 },
                 "89BD4C5C-6DAB-4CFA-BD95-96D451BA8C5F": {
                     "name": "1 - Elements / Card / Media - Left"
                 },
                 "0A4472EA-10C7-44BC-9FCF-5E5D5A09FA59": {
-                    "name": "1 - Elements / Icon / Placeholder - Video"
+                    "name": "1 - Elements / Icon / Placeholder / Video"
                 },
                 "3B707A2C-C966-40C6-BE31-EE2A5612020D": {
                     "name": "1 - Elements / Support / Help"
                 },
                 "7E3FC07C-1209-44F6-A3D5-FC3865B87DC0": {
-                    "name": "1 - Elements / Icon / Glyph - List"
+                    "name": "1 - Elements / Icon / Glyph / List"
                 }
             }
         },
@@ -2402,19 +2480,28 @@
                     "name": "3 - Components / Navigation / Header - Large / Navbar - Base"
                 },
                 "99F6BEA0-E7EA-413F-B6AA-BFF99E8FFE93": {
-                    "name": "3 - Components / Mobile / Bars / Nav Bar / Inverse - 4 tems"
+                    "name": "3 - Components / Mobile / Bars / Nav Bar / iPhone / Dark - 4 tems"
                 },
-                "A56913BF-CB9F-4F8C-9D04-635B86F79B0E": {
-                    "name": "3 - Components / Mobile / Bars / App Bar / Default / Large"
+                "B4291BB2-B753-4988-AB6A-93A48FC49F29": {
+                    "name": "3 - Components / Mobile / Bars / App Bar / Light / Base  - iPhone X"
                 },
                 "DF45E5D6-0DDE-4B18-962D-D871ECE34147": {
-                    "name": "3 - Components / Mobile / Bars / Nav Bar / Default - 5 Items"
+                    "name": "3 - Components / Mobile / Bars / Nav Bar / iPhone / Light - 5 Items"
+                },
+                "D7638F75-D765-46A2-BFBB-B05C87417040": {
+                    "name": "3 - Components / Mobile / Bars / Nav Bar / Android / Light - 3 Items"
+                },
+                "A56913BF-CB9F-4F8C-9D04-635B86F79B0E": {
+                    "name": "3 - Components / Mobile / Bars / App Bar / Light / Large - iPhone"
                 },
                 "E4174A86-A9B8-404A-9D7D-82762FB41804": {
-                    "name": "3 - Components / Mobile / Bars / Tool Bar / Inverse / Basic - 2 Actions"
+                    "name": "3 - Components / Mobile / Bars / Tool Bar / Dark / Basic - 2 Actions"
                 },
                 "840FB300-4977-4B5F-AB62-5BDA6070DAC8": {
                     "name": "3 - Components / Pagination / Large"
+                },
+                "EFF4A0E7-C9DF-40A2-87F5-2E1D536C8C41": {
+                    "name": "3 - Components / Mobile / Bars / Nav Bar / Android / Light - 5 Items"
                 },
                 "B0B51575-9BCC-48BE-A5B6-4A7ED2EF227F": {
                     "name": "3 - Components / Common / Form - Frame / Cell"
@@ -2422,11 +2509,8 @@
                 "7C05FE81-A602-4259-8FE4-37C69FDD96D7": {
                     "name": "3 - Components / Common / Form - Float / Row"
                 },
-                "2083C745-F55E-49A1-8294-F88ACD0AA79C": {
-                    "name": "3 - Components / Mobile / Bars / Segment Bar / Inverse - 3 Items"
-                },
-                "A816E521-E527-413C-B2AA-70BB5F026D5E": {
-                    "name": "3 - Components / Mobile / Bars / App Bar / Default / Modal - Drawer"
+                "07E0684F-9D5D-45DC-8114-440846B09617": {
+                    "name": "3 - Components / Mobile / Bars / Status Bar / Light - iPad"
                 },
                 "AD5217D3-FC70-4869-9B0F-286EC7718F2B": {
                     "name": "3 - Components / Mobile / Popups / iOS / Alert - Prompt"
@@ -2434,11 +2518,17 @@
                 "996A2EBF-42FD-4977-BCCD-7E51271EC642": {
                     "name": "3 - Components / Calendar / Picker - 1"
                 },
+                "C0448E27-6F2A-427E-AC6E-AC8680B37C45": {
+                    "name": "3 - Components / Mobile / Bars / App Bar / Dark / Toolbar - Large"
+                },
+                "ED2CAA63-1BBA-4AE5-9BCC-20D6FC1BA885": {
+                    "name": "3 - Components / Mobile / Bars / App Bar / Dark / Large - Android"
+                },
                 "DFCD2706-17E8-4455-B6A9-F78A3FBFA0C7": {
                     "name": "3 - Components / Common / Button / Col"
                 },
                 "007EB484-7CCA-4ED0-B0A5-37593641EFB1": {
-                    "name": "3 - Components / Mobile / Bars / Tool Bar / Inverse / Icon - 2 Actions"
+                    "name": "3 - Components / Mobile / Bars / Tool Bar / Dark / Icon - 2 Actions"
                 },
                 "D94B3547-7C7D-4A17-8B2A-5EC173EF777D": {
                     "name": "3 - Components / Mobile / Spec / Camera / _Assets / Grid"
@@ -2452,20 +2542,20 @@
                 "3142EE9A-5BB2-4D06-9DF7-A828A12032C1": {
                     "name": "3 - Components / Mobile / Popups / Android / Sheet - Grid"
                 },
-                "EE3F804E-CFC3-4C6F-A67B-DA6388D95FEF": {
-                    "name": "3 - Components / Mobile / Bars / App Bar / Default / Toolbar - Action Labels"
-                },
                 "6F73641D-64D9-4A85-841E-BF40B7DF1531": {
-                    "name": "3 - Components / Mobile / Bars / Tab Bar / Default - 4 Items"
+                    "name": "3 - Components / Mobile / Bars / Tab Bar / Light - 4 Items"
+                },
+                "8317790F-D42F-4583-BDD9-4EF5CC31C135": {
+                    "name": "3 - Components / Mobile / Bars / Segment Bar / Dark - 2 Items"
                 },
                 "320CDFF3-5A13-400D-95B2-1D46D006BCD5": {
                     "name": "3 - Components / Mobile / Popups / iOS / Alert - Default"
                 },
                 "A1E4BBD7-CA37-48F3-B4E5-0F69E6786E57": {
-                    "name": "3 - Components / Mobile / Bars / Tool Bar / Default / Large Title"
+                    "name": "3 - Components / Mobile / Bars / Tool Bar / Light / Large Title"
                 },
                 "99C19CBA-44DA-459D-B5AD-9AB83A264A55": {
-                    "name": "3 - Components / Mobile / Bars / Nav Bar / Default - 4 tems"
+                    "name": "3 - Components / Mobile / Bars / Nav Bar / iPhone / Light - 4 tems"
                 },
                 "AC78ED58-B485-408E-85AE-EC9F9D331A52": {
                     "name": "3 - Components / Mobile / Spec / Camera / _Assets / Toolbar"
@@ -2476,6 +2566,9 @@
                 "51972A6E-B0B8-4FF5-9171-B56C7B22B705": {
                     "name": "3 - Components / Pagination / Posts"
                 },
+                "75DD9934-872F-4458-AF3F-D388CB3FD96E": {
+                    "name": "3 - Components / Mobile / Bars / App Bar / Dark / Base - iPhone"
+                },
                 "D9C15AB2-542C-40AC-87BD-FC235C1C8C7C": {
                     "name": "3 - Components / Modal / Footer"
                 },
@@ -2483,43 +2576,52 @@
                     "name": "3 - Components / Mobile / Keyboards / iOS / Numeric"
                 },
                 "8F058C61-D8BC-4F4C-ACF2-F77F3555663D": {
-                    "name": "3 - Components / Mobile / Bars / Tool Bar / Inverse / Basic - 3 Actions"
+                    "name": "3 - Components / Mobile / Bars / Tool Bar / Dark / Basic - 3 Actions"
                 },
                 "24D43249-FDD1-436A-A0BF-727DDB8BDBC3": {
-                    "name": "3 - Components / Mobile / Bars / App Bar / Default / Toolbar - Base"
+                    "name": "3 - Components / Mobile / Bars / App Bar / Light / Toolbar - Base"
+                },
+                "C0BB4F07-5C9C-4122-B69A-B4C866A05D5C": {
+                    "name": "3 - Components / Mobile / Bars / Nav Bar / Android / Light - 4 tems"
                 },
                 "5590006D-0543-4911-86F9-A1FA2D2924C4": {
                     "name": "3 - Components / Mobile / Popups / Android / Alert - Scroll"
                 },
                 "EC4AE6CD-1E48-4975-8627-F9A40511E919": {
-                    "name": "3 - Components / Mobile / Bars / Tool Bar / Default / Icon - 3 Actions"
-                },
-                "DA5A5AF0-F04B-41D9-8F0D-258E7B3859DA": {
-                    "name": "3 - Components / Mobile / Bars / App Bar / Inverse / Base"
+                    "name": "3 - Components / Mobile / Bars / Tool Bar / Light / Icon - 3 Actions"
                 },
                 "37D21E42-6B45-4FC0-9156-56E6A0F0A438": {
                     "name": "3 - Components / Navigation / Footer - Large / Mega"
                 },
                 "74E42F4A-7AED-473A-87A0-C4CA3AC779B7": {
-                    "name": "3 - Components / Mobile / Bars / Status Bar / Inverse - iOS"
+                    "name": "3 - Components / Mobile / Bars / Status Bar / Dark - iOS"
                 },
-                "8C6520FF-0060-4E69-B79B-E6D517C1DD74": {
-                    "name": "3 - Components / Mobile / Bars / App Bar / Default / Toolbar - Action Icons"
-                },
-                "1CE70B37-DD61-412B-987E-0A78EE55E466": {
-                    "name": "3 - Components / Navigation / Footer - Small / Follow"
+                "7291D577-2CFE-4DF2-B10E-8890ED8A086E": {
+                    "name": "3 - Components / Mobile / Bars / Home Button / Light"
                 },
                 "99025A22-1475-4CB4-8F50-ACF418EF96AD": {
                     "name": "3 - Components / Common / Button / Cell"
                 },
+                "1CE70B37-DD61-412B-987E-0A78EE55E466": {
+                    "name": "3 - Components / Navigation / Footer - Small / Follow"
+                },
                 "6A017516-7A3A-413F-9F7D-DF28A19C2B89": {
                     "name": "3 - Components / Dropdowns / Tooltip - List"
                 },
+                "977DD51C-6F24-4F95-86F0-B061F60B188D": {
+                    "name": "3 - Components / Mobile / Bars / App Bar / Light / Large  - iPad"
+                },
+                "C18C8675-F628-43FE-BC7E-75009FE3BDCF": {
+                    "name": "3 - Components / Mobile / Bars / Status Bar / Light - iPhone - Active"
+                },
                 "3369AAD8-65F2-4F42-932A-F8E64A4E405D": {
-                    "name": "3 - Components / Mobile / Bars / Tool Bar / Default / Icon - 4 Actions"
+                    "name": "3 - Components / Mobile / Bars / Tool Bar / Light / Icon - 4 Actions"
                 },
                 "499120C2-D585-4BD7-ADC6-AE06E866F25C": {
                     "name": "3 - Components / Comment / Flat - Small"
+                },
+                "2290E1AC-F51D-4ABC-A743-D2B4A9F4182A": {
+                    "name": "3 - Components / Mobile / Bars / Status Bar / Dark - iPhone"
                 },
                 "15E24398-E724-4BE0-9783-C160376CBEA5": {
                     "name": "3 - Components / Pagination / Small"
@@ -2531,34 +2633,28 @@
                     "name": "3 - Components / Auth / Login"
                 },
                 "0F7728AB-0BF6-4797-857F-A1716CA4122C": {
-                    "name": "3 - Components / Mobile / Bars / Tool Bar / Default / Common - 2 Actions"
-                },
-                "22D7CCCF-5A0E-430F-938B-7CB05BECA32E": {
-                    "name": "3 - Components / Mobile / Bars / App Bar / Inverse / Modal - Base"
+                    "name": "3 - Components / Mobile / Bars / Tool Bar / Light / Common - 2 Actions"
                 },
                 "0AB2F8B1-AF9E-4C7F-981E-A7BE164CFBCC": {
                     "name": "3 - Components / Common / Input - Frame / Cell - Fix"
                 },
                 "C6E6DA48-74E8-4367-8224-663C762AFD9F": {
-                    "name": "3 - Components / Mobile / Bars / Tool Bar / Default / Basic - 3 Actions"
+                    "name": "3 - Components / Mobile / Bars / Tool Bar / Light / Basic - 3 Actions"
                 },
                 "AA776CD3-9770-48F2-AFF1-A6CA1F1CD7D9": {
-                    "name": "3 - Components / Mobile / Bars / App Bar / Inverse / Alternate"
+                    "name": "3 - Components / Mobile / Bars / App Bar / Dark / Base - Android"
+                },
+                "6FB3EF8E-6CE7-4CAC-A968-1C51C9A1BC0C": {
+                    "name": "3 - Components / Mobile / Bars / App Bar / Dark / Toolbar - Small"
                 },
                 "AB4AFFF4-310D-4832-872F-3B3FCE5873D3": {
                     "name": "3 - Components / Navigation / Header - Large / Mast - Wizard"
                 },
-                "30AC5B21-F403-498D-86C2-94F322CA71FE": {
-                    "name": "3 - Components / Mobile / Bars / Status Bar / Default - Android"
-                },
                 "DA964684-1EF3-4FA2-9792-07125243814A": {
                     "name": "3 - Components / Navigation / Breadcrumb / Back"
                 },
-                "F19D3F35-CBC8-4CBA-886F-FED42AB8DA9A": {
-                    "name": "3 - Components / Mobile / Bars / Segment Bar / Default - 3 Items"
-                },
                 "AE4A8845-3DE8-4065-BE0B-A5D56DAA5719": {
-                    "name": "3 - Components / Mobile / Bars / Tab Bar / Default - 2 Items"
+                    "name": "3 - Components / Mobile / Bars / Tab Bar / Light - 2 Items"
                 },
                 "9ECA01B7-E7EE-43AB-B0F3-64D4D3DA755D": {
                     "name": "3 - Components / Common / Form - Frame / Row"
@@ -2573,28 +2669,40 @@
                     "name": "3 - Components / Common / Form - Float / Col"
                 },
                 "C54267E3-D661-4CC2-860D-C0636898F6D6": {
-                    "name": "3 - Components / Mobile / Bars / Tool Bar / Inverse / Search - Focus - Label"
+                    "name": "3 - Components / Mobile / Bars / Tool Bar / Dark / Search - Focus - Label"
                 },
                 "48D3F15D-14AF-4FDC-A140-12706DF07641": {
                     "name": "3 - Components / Modal / Simple"
                 },
-                "3566B821-680D-40FF-B321-A066E005C245": {
-                    "name": "3 - Components / Mobile / Bars / App Bar / Default / Alternate"
+                "8B72DB2A-6D3E-4D67-8F86-EFC87E205044": {
+                    "name": "3 - Components / Mobile / Bars / Home Button / Default"
                 },
-                "430AB603-8AB3-49CC-9E7C-68026BD4294D": {
-                    "name": "3 - Components / Mobile / Bars / Status Bar / Default - iOS"
+                "3566B821-680D-40FF-B321-A066E005C245": {
+                    "name": "3 - Components / Mobile / Bars / App Bar / Light / Base - Android"
+                },
+                "0DECF8E2-3E14-45B7-B3DE-F797B86D5BA6": {
+                    "name": "3 - Components / Mobile / Bars / Nav Bar / iPhone / Light - 2 Items"
+                },
+                "08A5ABEE-6E90-4225-B9BE-D242D67DC719": {
+                    "name": "3 - Components / Mobile / Bars / App Bar / Light / Base  - iPad"
+                },
+                "2EA909B4-EB4A-47DD-8937-5F391CD0D2B9": {
+                    "name": "3 - Components / Mobile / Bars / Nav Bar / iPhone / Dark - 2 Items"
                 },
                 "8EB613AB-DA30-4007-BAD3-F33C4A7F5844": {
-                    "name": "3 - Components / Mobile / Bars / Tool Bar / Default / Icon - 2 Actions"
+                    "name": "3 - Components / Mobile / Bars / Tool Bar / Light / Icon - 2 Actions"
+                },
+                "D7A84B51-6C17-40E4-ABE9-7D3C2960A5D8": {
+                    "name": "3 - Components / Mobile / Bars / Segment Bar / Light - 3 Items"
                 },
                 "13E3458C-4CA4-47D0-AA07-813B34D2E721": {
-                    "name": "3 - Components / Mobile / Bars / Tool Bar / Default / Search - Focus - Label"
-                },
-                "CC7DB71A-ABDF-456A-B88C-BAC8B3F53D54": {
-                    "name": "3 - Components / Navigation / Footer - Small / Mega - Base"
+                    "name": "3 - Components / Mobile / Bars / Tool Bar / Light / Search - Focus - Label"
                 },
                 "16817BD1-1960-452D-971A-4837C7152526": {
                     "name": "3 - Components / Comment / Cell - Large"
+                },
+                "CC7DB71A-ABDF-456A-B88C-BAC8B3F53D54": {
+                    "name": "3 - Components / Navigation / Footer - Small / Mega - Base"
                 },
                 "CE662983-8013-45FE-BBC9-FA0DD084F5D2": {
                     "name": "3 - Components / Auth / New Password"
@@ -2608,8 +2716,14 @@
                 "65A76257-06B2-4FF3-A213-25C3AC0E0DF0": {
                     "name": "3 - Components / Auth / Change Password"
                 },
+                "9B6BB776-E014-44DB-90C6-40A1CC2F6421": {
+                    "name": "3 - Components / Mobile / Bars / Status Bar / Light - iPhone"
+                },
                 "B432ADC4-B73C-4750-BB74-FCA669890F2F": {
-                    "name": "3 - Components / Mobile / Bars / Tool Bar / Inverse / Search - Focus - Icon"
+                    "name": "3 - Components / Mobile / Bars / Tool Bar / Dark / Search - Focus - Icon"
+                },
+                "03CE91D7-E164-4569-B918-30D8ED74E810": {
+                    "name": "3 - Components / Mobile / Bars / Nav Bar / Android / Dark - 4 tems"
                 },
                 "459E48B7-2537-4C7B-B3F8-0D02067FF6D0": {
                     "name": "3 - Components / Modal / Header"
@@ -2624,13 +2738,13 @@
                     "name": "3 - Components / Navigation / Header - Large / Subnav - Base"
                 },
                 "CB5AF0B5-9B9E-4BC2-8E67-3D3607ECF9B9": {
-                    "name": "3 - Components / Mobile / Bars / Nav Bar / Default - 3 Items"
+                    "name": "3 - Components / Mobile / Bars / Nav Bar / iPhone / Light - 3 Items"
                 },
                 "E5BECE5B-C900-4995-B837-A484770FB64C": {
                     "name": "3 - Components / Common / Card / Row"
                 },
                 "8F0FC9E2-0AE5-4CB3-9434-CF23A927CD16": {
-                    "name": "3 - Components / Mobile / Bars / App Bar / Default / Toolbar - Small"
+                    "name": "3 - Components / Mobile / Bars / App Bar / Light / Toolbar - Small"
                 },
                 "20251C2F-BBD4-4E92-BC0D-84C5C67789DC": {
                     "name": "3 - Components / Mobile / Popups / Android / Alert - 3 Actions"
@@ -2642,55 +2756,61 @@
                     "name": "3 - Components / Alert / Stack - Simple"
                 },
                 "197C08F3-B396-4065-A466-EB910F944518": {
-                    "name": "3 - Components / Mobile / Bars / Tool Bar / Inverse / Common - 2 Actions"
+                    "name": "3 - Components / Mobile / Bars / Tool Bar / Dark / Common - 2 Actions"
                 },
                 "BBAD5C06-F2F0-4DAA-89B7-E324BEAF40A6": {
                     "name": "3 - Components / Mobile / Keyboards / Android / Main"
                 },
                 "9752C328-3538-4158-AABF-AAD3221A5B04": {
-                    "name": "3 - Components / Mobile / Bars / Tool Bar / Inverse / Icon - 5 Actions"
+                    "name": "3 - Components / Mobile / Bars / Tool Bar / Dark / Icon - 5 Actions"
                 },
                 "C70127E3-7DE6-411F-A2D4-01624C9E42B1": {
                     "name": "3 - Components / Mobile / Keyboards / iOS / Collapsed"
                 },
-                "1F8103F9-E3B8-4A0C-82B2-F9FC27214E8E": {
-                    "name": "3 - Components / Mobile / Bars / App Bar / Inverse / Toolbar - Small"
-                },
                 "B90015B2-5E41-4ED6-9599-1B64EA62E1DE": {
-                    "name": "3 - Components / Mobile / Bars / Tool Bar / Inverse / Icon - 3 Actions"
+                    "name": "3 - Components / Mobile / Bars / Tool Bar / Dark / Icon - 3 Actions"
+                },
+                "9F43FC0C-9432-4948-99D1-76A66A615ABA": {
+                    "name": "3 - Components / Mobile / Bars / App Bar / Dark / Base  - iPad"
                 },
                 "75D1524A-5CA6-4D3A-8DEF-5D9B77F73E25": {
                     "name": "3 - Components / Navigation / Footer - Large / Copyright"
                 },
                 "BFF5B34B-A908-4D0D-AEA9-06C163D1A2D5": {
-                    "name": "3 - Components / Mobile / Bars / Tool Bar / Inverse / Search - Base"
+                    "name": "3 - Components / Mobile / Bars / Tool Bar / Dark / Search - Base"
+                },
+                "866C4FBA-3EC7-4FB6-8970-BC391657367B": {
+                    "name": "3 - Components / Mobile / Bars / Nav Bar / Android / Dark - 5 Items"
+                },
+                "BE10380C-2756-4844-936E-B7BF62A6D4D7": {
+                    "name": "3 - Components / Mobile / Bars / Segment Bar / Light - 2 Items"
                 },
                 "BDE0FB98-4C08-4FD3-9612-720B00401029": {
                     "name": "3 - Components / Mobile / Keyboards / iOS / Suggestions - 4 Items"
                 },
-                "B570DBE4-B2E2-4F93-A950-5CFD4AE2CE61": {
-                    "name": "3 - Components / Mobile / Bars / Status Bar / Common - iOS"
-                },
-                "B75449D4-1347-4AAD-A167-FC017299544F": {
-                    "name": "3 - Components / Mobile / Bars / App Bar / Inverse / Toolbar - Base"
-                },
                 "E7B698B0-22F4-4DE7-9B78-BCB9F3976DFA": {
-                    "name": "3 - Components / Mobile / Bars / Tool Bar / Default / Basic - 2 Actions"
+                    "name": "3 - Components / Mobile / Bars / Tool Bar / Light / Basic - 2 Actions"
                 },
                 "9AC1EC2A-5EE5-4565-B024-8ADA899E16F8": {
                     "name": "3 - Components / Common / Form - Frame / Col"
                 },
-                "F67252B0-B0B8-4458-8D32-79C6B92F56F3": {
-                    "name": "3 - Components / Mobile / Bars / App Bar / Inverse / Large"
+                "010F9855-6C32-4C88-A058-7CDE38294E40": {
+                    "name": "3 - Components / Mobile / Bars / App Bar / Light / Large - Android"
                 },
                 "C51043BB-A3CB-4E30-B0B9-5F47228006D2": {
-                    "name": "3 - Components / Mobile / Bars / Status Bar / Inverse - Android"
+                    "name": "3 - Components / Mobile / Bars / Status Bar / Dark - Android"
+                },
+                "317E0289-09F6-4FA8-8351-25C473AD699A": {
+                    "name": "3 - Components / Mobile / Bars / Segment Bar / Dark - 3 Items"
                 },
                 "BD4223BC-996C-4DF7-A6D6-A6F7765FD45D": {
                     "name": "3 - Components / Comment / Flat - Large"
                 },
                 "E3F6C58F-2865-4940-AB1A-B19277FD9297": {
-                    "name": "3 - Components / Mobile / Bars / Tab Bar / Inverse - 4 Items"
+                    "name": "3 - Components / Mobile / Bars / Tab Bar / Dark - 4 Items"
+                },
+                "DF4CDBA0-0082-4651-B1F3-40B7696C417F": {
+                    "name": "3 - Components / Mobile / Bars / App Bar / Dark / Modal - Base"
                 },
                 "2F02B5A4-DEA6-4CC9-BC37-AC8A729C8D8A": {
                     "name": "3 - Components / Mobile / Popups / Android / Alert - Prompt"
@@ -2704,14 +2824,17 @@
                 "269508DA-D764-48B4-BDAD-94BBF34572FF": {
                     "name": "3 - Components / Common / Input - Frame / Col"
                 },
+                "016F89E4-3321-4777-A62C-4E32CEE2D045": {
+                    "name": "3 - Components / Mobile / Bars / Nav Bar / Android / Light - 2 Items"
+                },
                 "69074222-194B-4FBF-AE1C-0DA4E38A2E4E": {
-                    "name": "3 - Components / Mobile / Bars / App Bar / Default / Toolbar - Large"
+                    "name": "3 - Components / Mobile / Bars / App Bar / Light / Toolbar - Large"
                 },
                 "A7A32CB7-51E9-4E41-B47D-8A1C53A7B802": {
                     "name": "3 - Components / Comment / Cell - Small"
                 },
-                "E1CF0E62-7A9D-469E-9108-2351266AD754": {
-                    "name": "3 - Components / Mobile / Bars / Segment Bar / Default - 4 Items"
+                "7839D3EF-069F-4C80-8D6D-DD4797D1C767": {
+                    "name": "3 - Components / Mobile / Bars / App Bar / Dark / Large  - iPad"
                 },
                 "B7D35931-3B0E-4CD8-8565-85B37976E35F": {
                     "name": "3 - Components / Mobile / Popups / iOS / Sheet - Grid"
@@ -2720,13 +2843,13 @@
                     "name": "3 - Components / Carousel / Flat - Large"
                 },
                 "1E3CFFEC-228B-44D9-9968-2967E32DDD92": {
-                    "name": "3 - Components / Mobile / Bars / Tool Bar / Default / Icon - 5 Actions"
+                    "name": "3 - Components / Mobile / Bars / Tool Bar / Light / Icon - 5 Actions"
                 },
                 "1F1D73B1-8A56-4DBC-A481-08C462B2F858": {
                     "name": "3 - Components / Alert / Basic - Icon"
                 },
-                "62CECBF9-4129-4306-B4C7-E5E4F3247E8B": {
-                    "name": "3 - Components / Mobile / Bars / App Bar / Inverse / Toolbar - Action Icons"
+                "DB2387E4-90BA-48DC-AC4B-22EED0C163AE": {
+                    "name": "3 - Components / Mobile / Bars / App Bar / Dark / Toolbar - Base"
                 },
                 "1CF2380C-520C-4230-9653-C3AC073D4F79": {
                     "name": "3 - Components / Modal / Stack"
@@ -2734,8 +2857,8 @@
                 "DED13E90-5D7C-4928-98D2-50CD652A9BF4": {
                     "name": "3 - Components / Mobile / Keyboards / iOS / Dialer"
                 },
-                "2DE2E3DD-6375-47C0-87CA-9DF82C1F0472": {
-                    "name": "3 - Components / Mobile / Bars / App Bar / Inverse / Toolbar - Large"
+                "2A79A450-EA3F-43EC-AE14-89B2FC5608EA": {
+                    "name": "3 - Components / Dropdowns / Tooltip - Search"
                 },
                 "DDB7E23A-51DA-4E4B-A97A-D74322A588D9": {
                     "name": "3 - Components / Navigation / Breadcrumb / Deep 2"
@@ -2743,38 +2866,38 @@
                 "04767398-CCDF-4091-AB99-453BAF167689": {
                     "name": "3 - Components / Dropdowns / Default - List"
                 },
-                "2A79A450-EA3F-43EC-AE14-89B2FC5608EA": {
-                    "name": "3 - Components / Dropdowns / Tooltip - Search"
-                },
                 "890B2BD7-CC77-42AE-944A-D7D177C6C5DC": {
                     "name": "3 - Components / Navigation / Header - Small / Mast - Error"
                 },
                 "1D2FEFD6-7074-4D6B-A6C9-35A168FFB8D8": {
-                    "name": "3 - Components / Mobile / Bars / App Bar / Default / Modal - Base"
+                    "name": "3 - Components / Mobile / Bars / App Bar / Light / Modal - Base"
+                },
+                "6331F0F5-0688-428D-A701-3419F65EEF7C": {
+                    "name": "3 - Components / Mobile / Bars / Status Bar / Dark - iPad"
+                },
+                "AB86B75D-DFA4-4F74-9344-D99B951D9847": {
+                    "name": "3 - Components / Mobile / Bars / Nav Bar / Android / Dark - 2 Items"
                 },
                 "4E0F4267-D1BB-451B-9888-987C729F0F1A": {
-                    "name": "3 - Components / Mobile / Bars / Tool Bar / Default / Search - Base"
-                },
-                "C3642028-4426-4AF7-BE06-DEDCCA69B7E3": {
-                    "name": "3 - Components / Navigation / Footer - Small / Sticky"
+                    "name": "3 - Components / Mobile / Bars / Tool Bar / Light / Search - Base"
                 },
                 "4F2B1AD7-E00C-4A03-A66D-4508D1DF368B": {
                     "name": "3 - Components / Carousel / Flat - Small"
+                },
+                "C3642028-4426-4AF7-BE06-DEDCCA69B7E3": {
+                    "name": "3 - Components / Navigation / Footer - Small / Sticky"
                 },
                 "7A9A6FBC-9CE9-4249-9F92-244B04C4BDC5": {
                     "name": "3 - Components / Common / Form - Float / Cell"
                 },
                 "8D9D6D36-7D87-4A0D-8627-7BC91F483B73": {
-                    "name": "3 - Components / Mobile / Bars / Nav Bar / Inverse - 5 Items"
+                    "name": "3 - Components / Mobile / Bars / Nav Bar / iPhone / Dark - 5 Items"
                 },
                 "A7E52B0F-8A84-421B-9EC4-9CF99B1B334C": {
-                    "name": "3 - Components / Mobile / Bars / Tool Bar / Inverse / Icon - 4 Actions"
-                },
-                "1666D482-3DA0-419E-B68C-5DED8CD18008": {
-                    "name": "3 - Components / Mobile / Bars / Segment Bar / Inverse - 4 Items"
+                    "name": "3 - Components / Mobile / Bars / Tool Bar / Dark / Icon - 4 Actions"
                 },
                 "A7CFB9E4-430A-4784-844E-86834C4D30B8": {
-                    "name": "3 - Components / Mobile / Bars / Tab Bar / Inverse - 3 Items"
+                    "name": "3 - Components / Mobile / Bars / Tab Bar / Dark - 3 Items"
                 },
                 "D05EB194-AD34-489F-8B89-B2F44FEED608": {
                     "name": "3 - Components / Mobile / Keyboards / iOS / Emoji"
@@ -2783,16 +2906,16 @@
                     "name": "3 - Components / Navigation / Header - Large / Mast - Base"
                 },
                 "4DF75430-FDD7-43B9-AB19-829CAD65B1AC": {
-                    "name": "3 - Components / Mobile / Bars / Tool Bar / Default / Search - Focus - Icon"
+                    "name": "3 - Components / Mobile / Bars / Tool Bar / Light / Search - Focus - Icon"
+                },
+                "352425CD-10AB-408F-91D3-542B41F2DE19": {
+                    "name": "3 - Components / Mobile / Bars / Home Button / Dark"
                 },
                 "C065B5D9-1B2E-4009-8610-705F7DCDB793": {
                     "name": "3 - Components / Mobile / Popups / iOS / Alert - Multi"
                 },
                 "D9C05CDC-BD33-4000-B6ED-610F5E81B57C": {
                     "name": "3 - Components / Navigation / Footer - Large / Follow"
-                },
-                "B2E682FC-D0B4-463C-B886-C822965A2708": {
-                    "name": "3 - Components / Mobile / Bars / Status Bar / Double - iOS"
                 },
                 "E37C6AF6-2E86-4E7A-A4FB-8094A57D2309": {
                     "name": "3 - Components / Common / Card / Col"
@@ -2803,35 +2926,38 @@
                 "0D15BEB4-4A70-4D3D-8E33-0C2DFFF1B379": {
                     "name": "3 - Components / Mobile / Keyboards / iOS / Dictation"
                 },
-                "604B98FF-419B-4E16-8B82-9497D032F043": {
-                    "name": "3 - Components / Mobile / Bars / App Bar / Inverse / Modal - Drawer"
+                "A78E196D-9A69-4947-8A5D-0BBDB64E82B7": {
+                    "name": "3 - Components / Mobile / Bars / Nav Bar / Android / Dark - 3 Items"
                 },
                 "037E9569-964D-42C3-B4DB-65076DE106D7": {
                     "name": "3 - Components / Navigation / Header - Small / Mast - Base"
-                },
-                "34140DA2-0FF0-4233-AACB-3A76CC0238C8": {
-                    "name": "3 - Components / Mobile / Bars / Segment Bar / Inverse - 2 Items"
                 },
                 "14333E3C-8085-4159-96BE-34D4049FF260": {
                     "name": "3 - Components / Mobile / Keyboards / Android / Numbers"
                 },
                 "E47AABEC-C86D-4AB4-ADA1-612C856ACFA3": {
-                    "name": "3 - Components / Mobile / Bars / Nav Bar / Inverse - 3 Items"
+                    "name": "3 - Components / Mobile / Bars / Nav Bar / iPhone / Dark - 3 Items"
                 },
                 "3112CDA8-C790-4A76-9A9A-1C0040C934C1": {
                     "name": "3 - Components / Mobile / Popups / Android / Alert - Simple"
                 },
+                "398F634A-903D-4C24-A7C4-86016C05BBC0": {
+                    "name": "3 - Components / Mobile / Bars / App Bar / Dark / Large - iPhone"
+                },
                 "C76ABF1D-F1BD-4DB8-A935-8A7904355883": {
-                    "name": "3 - Components / Mobile / Bars / Status Bar / Common - Android"
+                    "name": "3 - Components / Mobile / Bars / Status Bar / Light - Android"
                 },
                 "5CEF6715-D380-4D74-BA40-0418B8708C50": {
-                    "name": "3 - Components / Mobile / Bars / App Bar / Default / Base"
+                    "name": "3 - Components / Mobile / Bars / App Bar / Light / Base - iPhone"
                 },
                 "79EB166C-B665-4DD1-B561-2EC52B25D6A2": {
                     "name": "3 - Components / Common / Input - Frame / Cell  - Flex"
                 },
-                "19F6E993-BE5E-4E13-BD91-0B2802C1176B": {
-                    "name": "3 - Components / Mobile / Bars / Segment Bar / Default - 2 Items"
+                "E5CD6113-987A-425E-AC5A-361730C823B6": {
+                    "name": "3 - Components / Mobile / Bars / Status Bar / Dark - iPhone - Active"
+                },
+                "E351BFB4-A9DC-4134-83A2-5F5D561ECBE2": {
+                    "name": "3 - Components / Mobile / Bars / App Bar / Dark / Base  - iPhone X"
                 },
                 "A5E5E796-4008-4055-B521-E64F5A1455A1": {
                     "name": "3 - Components / Navigation / Breadcrumb / Deep 3"
@@ -2858,7 +2984,7 @@
                     "name": "3 - Components / Auth / Verify GSM"
                 },
                 "F3E4567A-D430-4A2C-8AAE-89A750D61077": {
-                    "name": "3 - Components / Mobile / Bars / Tab Bar / Inverse - 2 Items"
+                    "name": "3 - Components / Mobile / Bars / Tab Bar / Dark - 2 Items"
                 },
                 "14D8A2A1-80BF-4E0D-B7BC-4B71A31F27CA": {
                     "name": "3 - Components / Navigation / Header - Small / Subnav - Base"
@@ -2873,19 +2999,16 @@
                     "name": "3 - Components / Modal / Default"
                 },
                 "60E26771-034E-4897-A6BD-97AAB4FC700B": {
-                    "name": "3 - Components / Mobile / Bars / Tool Bar / Inverse / Large Title"
+                    "name": "3 - Components / Mobile / Bars / Tool Bar / Dark / Large Title"
                 },
                 "9930EE29-3DAF-459C-9593-C60D1252038F": {
                     "name": "3 - Components / Navigation / Breadcrumb / Base"
                 },
                 "A5FFF442-CE7C-4C70-93DB-AC3FF74541B1": {
-                    "name": "3 - Components / Mobile / Bars / Tab Bar / Default - 3 Items"
+                    "name": "3 - Components / Mobile / Bars / Tab Bar / Light - 3 Items"
                 },
                 "3A2828C2-A29A-401B-B7B7-5E15CCD4FD44": {
                     "name": "3 - Components / Dialog / Icon"
-                },
-                "9A0796A1-DF2F-441E-83B4-3765C4EFA473": {
-                    "name": "3 - Components / Mobile / Bars / App Bar / Inverse / Toolbar - Action Labels"
                 },
                 "738A4FD8-FBC1-468A-A7E8-C66AEF23B21D": {
                     "name": "3 - Components / Mobile / Popups / Android / Alert - 2 Actions"
@@ -2925,11 +3048,11 @@
                 "AD09C3A1-F762-433D-A5BA-C738347E821C": {
                     "name": "6 - Guides / IA / Condition / Cluster"
                 },
-                "B2CE9C73-561B-4ABC-A21D-8A7578C88EF2": {
-                    "name": "6 - Guides / Wireflow / Layout / Hero - 4 x 2"
-                },
                 "0DAF775D-7751-4123-8104-D958D8B980A9": {
                     "name": "6 - Guides / IA / Mark / Number"
+                },
+                "B2CE9C73-561B-4ABC-A21D-8A7578C88EF2": {
+                    "name": "6 - Guides / Wireflow / Layout / Hero - 4 x 2"
                 },
                 "021E6552-FA61-47DC-A355-D2CE78F8CA0B": {
                     "name": "6 - Guides / IA / _Resources / Point / Arrow"
@@ -3252,6 +3375,9 @@
                 "FDF508A0-547D-4730-9E2A-DC6AA82C72B8": {
                     "name": "6 - Guides / IA / Elements / Continue H"
                 },
+                "10B0C5E1-7029-41E7-BA46-2FFF6BE77A78": {
+                    "name": "6 - Guides / Elements / Palette / Text Style - Basic"
+                },
                 "BC20FCF8-0CAE-4CC2-B72A-D56E72899BAC": {
                     "name": "6 - Guides / Wireflow / Page / Text - List"
                 },
@@ -3381,8 +3507,11 @@
                 "3D71A989-446C-4B77-A096-5B4311AA33EC": {
                     "name": "6 - Guides / Views / Grid / Default XSmall"
                 },
+                "5EFD5254-FB99-4803-89E3-AF6629533891": {
+                    "name": "6 - Guides / Elements / Palette / Text Style - Full"
+                },
                 "F2E50B84-5E60-4911-9CC8-B526E2F086C2": {
-                    "name": "6 - Guides / Elements / Palette / Layer Style"
+                    "name": "6 - Guides / Elements / Palette / Layer Style - Full"
                 },
                 "C75155E4-FA2A-4C98-83E1-DE24C0623DE1": {
                     "name": "6 - Guides / Elements / Spec / Width Large"
@@ -3438,6 +3567,9 @@
                 "7E2A6587-4397-4EBC-A302-C83AAD0D23AB": {
                     "name": "6 - Guides / Wireflow / Layout / Grid - 3 x 4"
                 },
+                "B4C59742-72BF-414F-98B3-D73D3E3C80C9": {
+                    "name": "6 - Guides / Elements / Palette / Layer Style - Basic"
+                },
                 "27163D4E-60DF-46C6-AD75-6AB13282F334": {
                     "name": "6 - Guides / Wireflow / Layout / Hero - 3 x 2"
                 },
@@ -3465,11 +3597,14 @@
                 "FF5936BD-CDF9-4113-81BE-E57878F8D796": {
                     "name": "6 - Guides / IA / Mark / Inform 2"
                 },
+                "0B20113E-91D7-4085-BA7B-0DF71012D4AF": {
+                    "name": "6 - Guides / Elements / Palette / Context Color - Basic"
+                },
                 "74AE6D03-A5F3-4B2E-AD10-6EEFF3B24F4C": {
                     "name": "6 - Guides / Wireflow / Page / Base - Table"
                 },
                 "EDD3C046-7E7F-4343-9BAB-9FF34A2DDDD2": {
-                    "name": "6 - Guides / Elements / Palette / Context Color"
+                    "name": "6 - Guides / Elements / Palette / Context Color - Full"
                 },
                 "1113526E-1434-46BE-A744-04E6D727325C": {
                     "name": "6 - Guides / Wireflow / Page / Modal - Form"
@@ -3567,20 +3702,27 @@
             }
         }
     },
-    "version": 120,
+    "version": 121,
     "fonts": [
         "NunitoSans-Bold",
         "NunitoSans-Regular",
+        "Merriweather-Bold",
+        "Merriweather-Regular",
         "NunitoSans-ExtraLight",
-        "Roboto-Medium",
         "SFProText-Semibold",
+        "Roboto-Medium",
+        "Ionicons",
         "NunitoSans-SemiBold",
+        "FontAwesome5Pro-Light",
         "AppleColorEmoji",
         "SFProText-Light",
         "SFProText-Regular",
+        "SFProText-Medium",
         "SFProText-Bold",
-        "FontAwesome",
+        "FontAwesome5Pro-Regular",
+        "FontAwesome5Pro-Solid",
         "Roboto-Regular",
+        "SFProText-Thin",
         "LucidaGrande"
     ],
     "compatibilityVersion": 99,
@@ -3588,17 +3730,17 @@
     "autosaved": 0,
     "variant": "NONAPPSTORE",
     "created": {
-        "commit": "32d82bc13ec208b5231884cb572bf6df9cd04b38",
-        "appVersion": "58",
-        "build": 84663,
+        "commit": "3a5bc985037168b405adaa195c6ccffd69b968a3",
+        "appVersion": "60",
+        "build": 88103,
         "app": "com.bohemiancoding.sketch3",
         "compatibilityVersion": 99,
-        "version": 120,
+        "version": 121,
         "variant": "NONAPPSTORE"
     },
     "saveHistory": [
-        "NONAPPSTORE.84663"
+        "NONAPPSTORE.88103"
     ],
-    "appVersion": "58",
-    "build": 84663
+    "appVersion": "60",
+    "build": 88103
 }
