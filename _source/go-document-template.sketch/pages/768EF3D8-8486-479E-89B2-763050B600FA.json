@@ -173,11 +173,11 @@
             "includeInCloudUpload": true,
             "isFlowHome": false,
             "presetDictionary": {
-                "allowResizedMatching": 0,
+                "height": 1194,
                 "offersLandscapeVariant": 1,
-                "name": "11\u2033 iPad Pro",
                 "width": 834,
-                "height": 1194
+                "allowResizedMatching": 0,
+                "name": "11\u2033 iPad Pro"
             },
             "resizesContent": true,
             "backgroundColor": {
@@ -309,11 +309,11 @@
             "includeInCloudUpload": true,
             "isFlowHome": false,
             "presetDictionary": {
-                "allowResizedMatching": 1,
+                "height": 896,
                 "offersLandscapeVariant": 1,
-                "name": "iPhone 11",
                 "width": 414,
-                "height": 896
+                "allowResizedMatching": 1,
+                "name": "iPhone 11"
             },
             "resizesContent": true,
             "backgroundColor": {
@@ -547,11 +547,11 @@
             "includeInCloudUpload": true,
             "isFlowHome": false,
             "presetDictionary": {
-                "height": 360,
+                "allowResizedMatching": 0,
                 "offersLandscapeVariant": 1,
                 "name": "Mobile",
                 "width": 640,
-                "allowResizedMatching": 0
+                "height": 360
             },
             "resizesContent": true,
             "backgroundColor": {

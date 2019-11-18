@@ -1,7 +1,7 @@
 {
     "C09023E4-E1BF-4BF7-8798-5C240AAEF026": {
-        "scrollOrigin": "{-5429, -1659}",
-        "zoomValue": 0.5
+        "scrollOrigin": "{157, 591}",
+        "zoomValue": 1
     },
     "FBFF5DEE-B523-4923-9FE7-618B5F5D1381": {
         "scrollOrigin": "{939, 672}",
@@ -20,8 +20,8 @@
         "zoomValue": 1
     },
     "A3AA90D9-830A-4E81-9D1B-3F7DE28A4BF0": {
-        "scrollOrigin": "{37, 487}",
-        "zoomValue": 0.0965326633165829
+        "scrollOrigin": "{-364, -1268}",
+        "zoomValue": 1
     },
     "C739B898-E28B-4F61-A2FA-FB0A825CFE25": {
         "scrollOrigin": "{70, 376}",
@@ -44,8 +44,8 @@
         "zoomValue": 1
     },
     "BE285DE0-154A-4F3B-882C-8F46F82C2694": {
-        "scrollOrigin": "{457, -72}",
-        "zoomValue": 0.25
+        "scrollOrigin": "{4, 104}",
+        "zoomValue": 0.1621097046413502
     },
     "496804D2-8291-486C-8729-0B132CCCA194": {
         "scrollOrigin": "{0, 505}",
@@ -64,8 +64,8 @@
         "zoomValue": 0.5031823287158368
     },
     "CD190E3E-9BAC-4100-A609-215A307BA740": {
-        "scrollOrigin": "{-36135, -3996}",
-        "zoomValue": 6.360927152317881
+        "scrollOrigin": "{-2832, 418}",
+        "zoomValue": 1
     },
     "0219A9B2-6F0C-4E3E-9021-C0642B8F3F75": {
         "scrollOrigin": "{-0, 120}",
@@ -88,8 +88,8 @@
         "zoomValue": 1
     },
     "B7608404-6BBD-46EA-9238-DF783D2F4516": {
-        "scrollOrigin": "{-6310, 400}",
-        "zoomValue": 0.3828790672180976
+        "scrollOrigin": "{2, 572}",
+        "zoomValue": 0.09571976680452439
     },
     "F9FDF1F0-F76C-4E85-962F-96227DF6F669": {
         "scrollOrigin": "{78, -501}",
@@ -117,11 +117,15 @@
         ],
         "cloudShare": {
             "owner": {
-                "id": "fd66764c-7b65-41bf-9bba-0a98f7a54f8f"
+                "id": "fd66764c-7b65-41bf-9bba-0a98f7a54f8f",
+                "__typename": "PublicUser",
+                "updatedAt": "2019-11-18T08:41:20.391Z",
+                "createdAt": "2019-11-18T08:41:20.391Z"
             },
             "viewerCanUpdate": 0,
             "id": "875bdcfc-7fdd-41e3-8380-f3ddedc14574",
             "publicUrl": "https://sketch.cloud/s/2GOzl",
+            "libraryEnabled": 0,
             "updatedAt": "2019-07-24T23:27:03.722Z",
             "createdAt": "2019-07-24T23:27:03.722Z",
             "isPrivate": 1,

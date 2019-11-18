@@ -4142,10 +4142,10 @@
                 "includeInCloudUpload": true,
                 "isFlowHome": false,
                 "presetDictionary": {
-                    "allowResizedMatching": 0,
-                    "offersLandscapeVariant": 0,
                     "name": "Apple TV",
+                    "offersLandscapeVariant": 0,
                     "height": 1080,
+                    "allowResizedMatching": 0,
                     "width": 1920
                 },
                 "resizesContent": true,
@@ -5401,10 +5401,10 @@
                 "includeInCloudUpload": true,
                 "isFlowHome": false,
                 "presetDictionary": {
-                    "allowResizedMatching": 0,
-                    "offersLandscapeVariant": 0,
                     "name": "Apple TV",
+                    "offersLandscapeVariant": 0,
                     "height": 1080,
+                    "allowResizedMatching": 0,
                     "width": 1920
                 },
                 "resizesContent": true,
@@ -9204,10 +9204,10 @@
                 "includeInCloudUpload": true,
                 "isFlowHome": false,
                 "presetDictionary": {
-                    "allowResizedMatching": 0,
-                    "offersLandscapeVariant": 1,
                     "name": "Mobile",
+                    "offersLandscapeVariant": 1,
                     "height": 360,
+                    "allowResizedMatching": 0,
                     "width": 640
                 },
                 "resizesContent": true,
@@ -10471,10 +10471,10 @@
                 "includeInCloudUpload": true,
                 "isFlowHome": false,
                 "presetDictionary": {
-                    "allowResizedMatching": 0,
-                    "offersLandscapeVariant": 1,
                     "name": "Mobile",
+                    "offersLandscapeVariant": 1,
                     "height": 360,
+                    "allowResizedMatching": 0,
                     "width": 640
                 },
                 "resizesContent": true,
@@ -28277,7 +28277,7 @@
             {
                 "_class": "sharedStyle",
                 "do_objectID": "D93962C7-A30E-4A62-A577-F52289B1EB5C",
-                "name": "Background / Base / Base",
+                "name": "Background / Base",
                 "value": {
                     "_class": "style",
                     "do_objectID": "765F9A46-314B-4248-B5FF-7D11AC7F286B",
@@ -32684,6 +32684,246 @@
                     ],
                     "innerShadows": [],
                     "shadows": []
+                }
+            },
+            {
+                "_class": "sharedStyle",
+                "do_objectID": "8E59A97B-4820-4117-B4B1-B003BAE03015",
+                "name": "Background / Shadow 2",
+                "value": {
+                    "_class": "style",
+                    "do_objectID": "630DCFAD-BA93-4DBD-8363-D066E44B279E",
+                    "endMarkerType": 0,
+                    "miterLimit": 10,
+                    "startMarkerType": 0,
+                    "windingRule": 1,
+                    "blur": {
+                        "_class": "blur",
+                        "isEnabled": false,
+                        "center": "{0.5, 0.5}",
+                        "motionAngle": 0,
+                        "radius": 10,
+                        "saturation": 1,
+                        "type": 0
+                    },
+                    "borderOptions": {
+                        "_class": "borderOptions",
+                        "isEnabled": true,
+                        "dashPattern": [],
+                        "lineCapStyle": 0,
+                        "lineJoinStyle": 0
+                    },
+                    "borders": [],
+                    "colorControls": {
+                        "_class": "colorControls",
+                        "isEnabled": true,
+                        "brightness": 0,
+                        "contrast": 1,
+                        "hue": 0,
+                        "saturation": 1
+                    },
+                    "contextSettings": {
+                        "_class": "graphicsContextSettings",
+                        "blendMode": 0,
+                        "opacity": 1
+                    },
+                    "fills": [
+                        {
+                            "_class": "fill",
+                            "isEnabled": false,
+                            "fillType": 0,
+                            "color": {
+                                "_class": "color",
+                                "alpha": 1,
+                                "blue": 1,
+                                "green": 1,
+                                "red": 1
+                            },
+                            "contextSettings": {
+                                "_class": "graphicsContextSettings",
+                                "blendMode": 0,
+                                "opacity": 1
+                            },
+                            "gradient": {
+                                "_class": "gradient",
+                                "elipseLength": 0,
+                                "from": "{0.5, 0}",
+                                "gradientType": 0,
+                                "to": "{0.5, 1}",
+                                "stops": [
+                                    {
+                                        "_class": "gradientStop",
+                                        "position": 0,
+                                        "color": {
+                                            "_class": "color",
+                                            "alpha": 1,
+                                            "blue": 1,
+                                            "green": 1,
+                                            "red": 1
+                                        }
+                                    },
+                                    {
+                                        "_class": "gradientStop",
+                                        "position": 1,
+                                        "color": {
+                                            "_class": "color",
+                                            "alpha": 1,
+                                            "blue": 0,
+                                            "green": 0,
+                                            "red": 0
+                                        }
+                                    }
+                                ]
+                            },
+                            "noiseIndex": 0,
+                            "noiseIntensity": 0,
+                            "patternFillType": 1,
+                            "patternTileScale": 1
+                        }
+                    ],
+                    "innerShadows": [],
+                    "shadows": [
+                        {
+                            "_class": "shadow",
+                            "isEnabled": true,
+                            "blurRadius": 4,
+                            "offsetX": 0,
+                            "offsetY": 4,
+                            "spread": 0,
+                            "color": {
+                                "_class": "color",
+                                "alpha": 0.2,
+                                "blue": 0,
+                                "green": 0,
+                                "red": 0
+                            },
+                            "contextSettings": {
+                                "_class": "graphicsContextSettings",
+                                "blendMode": 0,
+                                "opacity": 1
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "_class": "sharedStyle",
+                "do_objectID": "3EDFC07F-1337-4D3B-879F-DEDE329249BD",
+                "name": "Background / Shadow 1",
+                "value": {
+                    "_class": "style",
+                    "do_objectID": "8B9E4E63-3020-4347-B20A-54C33A9C9474",
+                    "endMarkerType": 0,
+                    "miterLimit": 10,
+                    "startMarkerType": 0,
+                    "windingRule": 1,
+                    "blur": {
+                        "_class": "blur",
+                        "isEnabled": false,
+                        "center": "{0.5, 0.5}",
+                        "motionAngle": 0,
+                        "radius": 10,
+                        "saturation": 1,
+                        "type": 0
+                    },
+                    "borderOptions": {
+                        "_class": "borderOptions",
+                        "isEnabled": true,
+                        "dashPattern": [],
+                        "lineCapStyle": 0,
+                        "lineJoinStyle": 0
+                    },
+                    "borders": [],
+                    "colorControls": {
+                        "_class": "colorControls",
+                        "isEnabled": true,
+                        "brightness": 0,
+                        "contrast": 1,
+                        "hue": 0,
+                        "saturation": 1
+                    },
+                    "contextSettings": {
+                        "_class": "graphicsContextSettings",
+                        "blendMode": 0,
+                        "opacity": 1
+                    },
+                    "fills": [
+                        {
+                            "_class": "fill",
+                            "isEnabled": false,
+                            "fillType": 0,
+                            "color": {
+                                "_class": "color",
+                                "alpha": 1,
+                                "blue": 1,
+                                "green": 1,
+                                "red": 1
+                            },
+                            "contextSettings": {
+                                "_class": "graphicsContextSettings",
+                                "blendMode": 0,
+                                "opacity": 1
+                            },
+                            "gradient": {
+                                "_class": "gradient",
+                                "elipseLength": 0,
+                                "from": "{0.5, 0}",
+                                "gradientType": 0,
+                                "to": "{0.5, 1}",
+                                "stops": [
+                                    {
+                                        "_class": "gradientStop",
+                                        "position": 0,
+                                        "color": {
+                                            "_class": "color",
+                                            "alpha": 1,
+                                            "blue": 1,
+                                            "green": 1,
+                                            "red": 1
+                                        }
+                                    },
+                                    {
+                                        "_class": "gradientStop",
+                                        "position": 1,
+                                        "color": {
+                                            "_class": "color",
+                                            "alpha": 1,
+                                            "blue": 0,
+                                            "green": 0,
+                                            "red": 0
+                                        }
+                                    }
+                                ]
+                            },
+                            "noiseIndex": 0,
+                            "noiseIntensity": 0,
+                            "patternFillType": 1,
+                            "patternTileScale": 1
+                        }
+                    ],
+                    "innerShadows": [],
+                    "shadows": [
+                        {
+                            "_class": "shadow",
+                            "isEnabled": true,
+                            "blurRadius": 4,
+                            "offsetX": 0,
+                            "offsetY": 2,
+                            "spread": 0,
+                            "color": {
+                                "_class": "color",
+                                "alpha": 0.2,
+                                "blue": 0,
+                                "green": 0,
+                                "red": 0
+                            },
+                            "contextSettings": {
+                                "_class": "graphicsContextSettings",
+                                "blendMode": 0,
+                                "opacity": 1
+                            }
+                        }
+                    ]
                 }
             }
         ]

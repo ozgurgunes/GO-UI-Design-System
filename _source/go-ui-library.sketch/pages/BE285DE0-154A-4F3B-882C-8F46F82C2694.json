@@ -50775,7 +50775,7 @@
                                         },
                                         "com.invisionlabs.duplicate": {
                                             "type-duplicate": {
-                                                "index": 15,
+                                                "preserveOrder": 1,
                                                 "data": [
                                                     "Yeni bir teklif geldi\u011finde",
                                                     "Yeni bir e\u015fle\u015fme oldu\u011funda",
@@ -50788,8 +50788,8 @@
                                                 ],
                                                 "title": "TEMP",
                                                 "icon": "crown",
-                                                "userDefined": 1,
-                                                "preserveOrder": 1
+                                                "index": 15,
+                                                "userDefined": 1
                                             }
                                         }
                                     },
@@ -51135,7 +51135,7 @@
                                         },
                                         "com.invisionlabs.duplicate": {
                                             "type-duplicate": {
-                                                "index": 15,
+                                                "preserveOrder": 1,
                                                 "data": [
                                                     "Yeni bir teklif geldi\u011finde",
                                                     "Yeni bir e\u015fle\u015fme oldu\u011funda",
@@ -51148,8 +51148,8 @@
                                                 ],
                                                 "title": "TEMP",
                                                 "icon": "crown",
-                                                "userDefined": 1,
-                                                "preserveOrder": 1
+                                                "index": 15,
+                                                "userDefined": 1
                                             }
                                         }
                                     },
@@ -51495,7 +51495,7 @@
                                         },
                                         "com.invisionlabs.duplicate": {
                                             "type-duplicate": {
-                                                "index": 15,
+                                                "preserveOrder": 1,
                                                 "data": [
                                                     "Yeni bir teklif geldi\u011finde",
                                                     "Yeni bir e\u015fle\u015fme oldu\u011funda",
@@ -51508,8 +51508,8 @@
                                                 ],
                                                 "title": "TEMP",
                                                 "icon": "crown",
-                                                "userDefined": 1,
-                                                "preserveOrder": 1
+                                                "index": 15,
+                                                "userDefined": 1
                                             }
                                         }
                                     },
@@ -55725,7 +55725,7 @@
                                         },
                                         "com.invisionlabs.duplicate": {
                                             "type-duplicate": {
-                                                "preserveOrder": 1,
+                                                "userDefined": 1,
                                                 "data": [
                                                     "Yeni bir teklif geldi\u011finde",
                                                     "Yeni bir e\u015fle\u015fme oldu\u011funda",
@@ -55738,8 +55738,8 @@
                                                 ],
                                                 "title": "TEMP",
                                                 "icon": "crown",
-                                                "index": 15,
-                                                "userDefined": 1
+                                                "preserveOrder": 1,
+                                                "index": 15
                                             }
                                         }
                                     },
@@ -56085,7 +56085,7 @@
                                         },
                                         "com.invisionlabs.duplicate": {
                                             "type-duplicate": {
-                                                "preserveOrder": 1,
+                                                "userDefined": 1,
                                                 "data": [
                                                     "Yeni bir teklif geldi\u011finde",
                                                     "Yeni bir e\u015fle\u015fme oldu\u011funda",
@@ -56098,8 +56098,8 @@
                                                 ],
                                                 "title": "TEMP",
                                                 "icon": "crown",
-                                                "index": 15,
-                                                "userDefined": 1
+                                                "preserveOrder": 1,
+                                                "index": 15
                                             }
                                         }
                                     },
@@ -56445,7 +56445,7 @@
                                         },
                                         "com.invisionlabs.duplicate": {
                                             "type-duplicate": {
-                                                "preserveOrder": 1,
+                                                "userDefined": 1,
                                                 "data": [
                                                     "Yeni bir teklif geldi\u011finde",
                                                     "Yeni bir e\u015fle\u015fme oldu\u011funda",
@@ -56458,8 +56458,8 @@
                                                 ],
                                                 "title": "TEMP",
                                                 "icon": "crown",
-                                                "index": 15,
-                                                "userDefined": 1
+                                                "preserveOrder": 1,
+                                                "index": 15
                                             }
                                         }
                                     },
@@ -62499,7 +62499,7 @@
                                 },
                                 "com.invisionlabs.duplicate": {
                                     "type-duplicate": {
-                                        "preserveOrder": 1,
+                                        "userDefined": 1,
                                         "data": [
                                             "Yeni bir teklif geldi\u011finde",
                                             "Yeni bir e\u015fle\u015fme oldu\u011funda",
@@ -62512,8 +62512,8 @@
                                         ],
                                         "title": "TEMP",
                                         "icon": "crown",
-                                        "index": 15,
-                                        "userDefined": 1
+                                        "preserveOrder": 1,
+                                        "index": 15
                                     }
                                 }
                             },
@@ -62859,7 +62859,7 @@
                                 },
                                 "com.invisionlabs.duplicate": {
                                     "type-duplicate": {
-                                        "preserveOrder": 1,
+                                        "userDefined": 1,
                                         "data": [
                                             "Yeni bir teklif geldi\u011finde",
                                             "Yeni bir e\u015fle\u015fme oldu\u011funda",
@@ -62872,8 +62872,8 @@
                                         ],
                                         "title": "TEMP",
                                         "icon": "crown",
-                                        "index": 15,
-                                        "userDefined": 1
+                                        "preserveOrder": 1,
+                                        "index": 15
                                     }
                                 }
                             },
@@ -63219,7 +63219,7 @@
                                 },
                                 "com.invisionlabs.duplicate": {
                                     "type-duplicate": {
-                                        "preserveOrder": 1,
+                                        "userDefined": 1,
                                         "data": [
                                             "Yeni bir teklif geldi\u011finde",
                                             "Yeni bir e\u015fle\u015fme oldu\u011funda",
@@ -63232,8 +63232,8 @@
                                         ],
                                         "title": "TEMP",
                                         "icon": "crown",
-                                        "index": 15,
-                                        "userDefined": 1
+                                        "preserveOrder": 1,
+                                        "index": 15
                                     }
                                 }
                             },
@@ -64224,7 +64224,7 @@
                                 },
                                 "com.invisionlabs.duplicate": {
                                     "type-duplicate": {
-                                        "userDefined": 1,
+                                        "index": 15,
                                         "data": [
                                             "Yeni bir teklif geldi\u011finde",
                                             "Yeni bir e\u015fle\u015fme oldu\u011funda",
@@ -64237,8 +64237,8 @@
                                         ],
                                         "title": "TEMP",
                                         "icon": "crown",
-                                        "preserveOrder": 1,
-                                        "index": 15
+                                        "userDefined": 1,
+                                        "preserveOrder": 1
                                     }
                                 }
                             },
@@ -64584,7 +64584,7 @@
                                 },
                                 "com.invisionlabs.duplicate": {
                                     "type-duplicate": {
-                                        "userDefined": 1,
+                                        "index": 15,
                                         "data": [
                                             "Yeni bir teklif geldi\u011finde",
                                             "Yeni bir e\u015fle\u015fme oldu\u011funda",
@@ -64597,8 +64597,8 @@
                                         ],
                                         "title": "TEMP",
                                         "icon": "crown",
-                                        "preserveOrder": 1,
-                                        "index": 15
+                                        "userDefined": 1,
+                                        "preserveOrder": 1
                                     }
                                 }
                             },
@@ -64944,7 +64944,7 @@
                                 },
                                 "com.invisionlabs.duplicate": {
                                     "type-duplicate": {
-                                        "userDefined": 1,
+                                        "index": 15,
                                         "data": [
                                             "Yeni bir teklif geldi\u011finde",
                                             "Yeni bir e\u015fle\u015fme oldu\u011funda",
@@ -64957,8 +64957,8 @@
                                         ],
                                         "title": "TEMP",
                                         "icon": "crown",
-                                        "preserveOrder": 1,
-                                        "index": 15
+                                        "userDefined": 1,
+                                        "preserveOrder": 1
                                     }
                                 }
                             },
