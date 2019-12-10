@@ -1,5 +1,5 @@
 {
-    "commit": "3a5bc985037168b405adaa195c6ccffd69b968a3",
+    "commit": "70491d931efeeafbfd5274f6ea561d475b0abedb",
     "pagesAndArtboards": {
         "690414CF-0915-45A8-8465-4FA8A273682F": {
             "name": "----------",
@@ -102,17 +102,17 @@
     "autosaved": 0,
     "variant": "NONAPPSTORE",
     "created": {
-        "commit": "3a5bc985037168b405adaa195c6ccffd69b968a3",
-        "appVersion": "60",
-        "build": 88103,
+        "commit": "70491d931efeeafbfd5274f6ea561d475b0abedb",
+        "appVersion": "60.1",
+        "build": 88133,
         "app": "com.bohemiancoding.sketch3",
         "compatibilityVersion": 99,
         "version": 121,
         "variant": "NONAPPSTORE"
     },
     "saveHistory": [
-        "NONAPPSTORE.88103"
+        "NONAPPSTORE.88133"
     ],
-    "appVersion": "60",
-    "build": 88103
+    "appVersion": "60.1",
+    "build": 88133
 }

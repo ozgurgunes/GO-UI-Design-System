@@ -6055,12 +6055,12 @@
                                             "scaleFactor": 1,
                                             "model_version": 0,
                                             "aspectRatio": {
-                                                "model_class": "ADModelConstraint",
-                                                "enabled": 1,
                                                 "multiplier": 40,
-                                                "constant": 40,
+                                                "enabled": 1,
                                                 "model_version": 0,
-                                                "modelID": "constraint_b524ed12-a147-4604-8b1e-53bd7c1c1ef7"
+                                                "modelID": "constraint_b524ed12-a147-4604-8b1e-53bd7c1c1ef7",
+                                                "model_class": "ADModelConstraint",
+                                                "constant": 40
                                             },
                                             "modelID": "viewConstraints_e16b232e-ba45-4000-917c-3df36f2841b8",
                                             "model_class": "ADModelViewConstraints",
@@ -11842,12 +11842,12 @@
                                             "scaleFactor": 1,
                                             "model_version": 0,
                                             "aspectRatio": {
-                                                "model_version": 0,
+                                                "model_class": "ADModelConstraint",
                                                 "enabled": 1,
                                                 "multiplier": 40,
-                                                "modelID": "constraint_b524ed12-a147-4604-8b1e-53bd7c1c1ef7",
-                                                "model_class": "ADModelConstraint",
-                                                "constant": 40
+                                                "constant": 40,
+                                                "model_version": 0,
+                                                "modelID": "constraint_b524ed12-a147-4604-8b1e-53bd7c1c1ef7"
                                             },
                                             "modelID": "viewConstraints_e16b232e-ba45-4000-917c-3df36f2841b8",
                                             "model_class": "ADModelViewConstraints",
@@ -19813,7 +19813,7 @@
             },
             "layout": {
                 "_class": "layoutGrid",
-                "isEnabled": true,
+                "isEnabled": false,
                 "columnWidth": 64,
                 "drawHorizontal": false,
                 "drawHorizontalLines": false,
@@ -19833,7 +19833,7 @@
             },
             "includeBackgroundColorInInstance": true,
             "symbolID": "C2DD68DA-4B42-426B-AF75-CF6F16575B36",
-            "changeIdentifier": 1340,
+            "changeIdentifier": 1341,
             "overrideProperties": [
                 {
                     "_class": "MSImmutableOverrideProperty",
@@ -25573,20 +25573,20 @@
                                             "kModelPropertiesKey": {
                                                 "stashedSizeH": [
                                                     {
-                                                        "model_version": 0,
+                                                        "model_class": "ADModelConstraint",
                                                         "enabled": 0,
                                                         "multiplier": 0,
-                                                        "modelID": "constraint_487e8046-28ca-478b-a009-278d580b0244",
-                                                        "model_class": "ADModelConstraint",
-                                                        "constant": 0
+                                                        "constant": 0,
+                                                        "model_version": 0,
+                                                        "modelID": "constraint_487e8046-28ca-478b-a009-278d580b0244"
                                                     },
                                                     {
-                                                        "model_version": 0,
+                                                        "model_class": "ADModelConstraint",
                                                         "enabled": 0,
                                                         "multiplier": 0,
-                                                        "modelID": "constraint_4e2d26bf-2748-4461-b3b1-ae4749319169",
-                                                        "model_class": "ADModelConstraint",
-                                                        "constant": 0
+                                                        "constant": 0,
+                                                        "model_version": 0,
+                                                        "modelID": "constraint_4e2d26bf-2748-4461-b3b1-ae4749319169"
                                                     }
                                                 ]
                                             }
@@ -25719,20 +25719,20 @@
                                             "kModelPropertiesKey": {
                                                 "stashedSizeH": [
                                                     {
-                                                        "model_version": 0,
+                                                        "model_class": "ADModelConstraint",
                                                         "enabled": 0,
                                                         "multiplier": 0,
-                                                        "modelID": "constraint_61508c3b-9b75-49d9-80b0-a3dd7e64f046",
-                                                        "model_class": "ADModelConstraint",
-                                                        "constant": 0
+                                                        "constant": 0,
+                                                        "model_version": 0,
+                                                        "modelID": "constraint_61508c3b-9b75-49d9-80b0-a3dd7e64f046"
                                                     },
                                                     {
-                                                        "model_version": 0,
+                                                        "model_class": "ADModelConstraint",
                                                         "enabled": 0,
                                                         "multiplier": 0,
-                                                        "modelID": "constraint_7b56b7fa-d355-40e2-b525-42b8013cf81c",
-                                                        "model_class": "ADModelConstraint",
-                                                        "constant": 0
+                                                        "constant": 0,
+                                                        "model_version": 0,
+                                                        "modelID": "constraint_7b56b7fa-d355-40e2-b525-42b8013cf81c"
                                                     }
                                                 ]
                                             }
@@ -25865,20 +25865,20 @@
                                             "kModelPropertiesKey": {
                                                 "stashedSizeH": [
                                                     {
-                                                        "model_version": 0,
+                                                        "model_class": "ADModelConstraint",
                                                         "enabled": 0,
                                                         "multiplier": 0,
-                                                        "modelID": "constraint_d157e373-a03a-4a14-b5ca-77dc6572f97b",
-                                                        "model_class": "ADModelConstraint",
-                                                        "constant": 0
+                                                        "constant": 0,
+                                                        "model_version": 0,
+                                                        "modelID": "constraint_d157e373-a03a-4a14-b5ca-77dc6572f97b"
                                                     },
                                                     {
-                                                        "model_version": 0,
+                                                        "model_class": "ADModelConstraint",
                                                         "enabled": 0,
                                                         "multiplier": 0,
-                                                        "modelID": "constraint_c76d9908-9ca1-487a-a1f1-83634ed40936",
-                                                        "model_class": "ADModelConstraint",
-                                                        "constant": 0
+                                                        "constant": 0,
+                                                        "model_version": 0,
+                                                        "modelID": "constraint_c76d9908-9ca1-487a-a1f1-83634ed40936"
                                                     }
                                                 ]
                                             }
@@ -26731,20 +26731,20 @@
                                             "kModelPropertiesKey": {
                                                 "stashedSizeH": [
                                                     {
-                                                        "model_class": "ADModelConstraint",
                                                         "model_version": 0,
                                                         "enabled": 0,
-                                                        "constant": 0,
                                                         "multiplier": 0,
-                                                        "modelID": "constraint_c90d6379-905a-409f-951f-8fc43d6a6f35"
+                                                        "modelID": "constraint_c90d6379-905a-409f-951f-8fc43d6a6f35",
+                                                        "model_class": "ADModelConstraint",
+                                                        "constant": 0
                                                     },
                                                     {
-                                                        "model_class": "ADModelConstraint",
                                                         "model_version": 0,
                                                         "enabled": 0,
-                                                        "constant": 0,
                                                         "multiplier": 0,
-                                                        "modelID": "constraint_c771f681-5d6d-4309-9db5-913d65aa28d2"
+                                                        "modelID": "constraint_c771f681-5d6d-4309-9db5-913d65aa28d2",
+                                                        "model_class": "ADModelConstraint",
+                                                        "constant": 0
                                                     }
                                                 ]
                                             }
@@ -26852,20 +26852,20 @@
                                             "kModelPropertiesKey": {
                                                 "stashedSizeH": [
                                                     {
-                                                        "model_version": 0,
+                                                        "model_class": "ADModelConstraint",
                                                         "enabled": 0,
                                                         "multiplier": 0,
-                                                        "modelID": "constraint_c90d6379-905a-409f-951f-8fc43d6a6f35",
-                                                        "model_class": "ADModelConstraint",
-                                                        "constant": 0
+                                                        "constant": 0,
+                                                        "model_version": 0,
+                                                        "modelID": "constraint_c90d6379-905a-409f-951f-8fc43d6a6f35"
                                                     },
                                                     {
-                                                        "model_version": 0,
+                                                        "model_class": "ADModelConstraint",
                                                         "enabled": 0,
                                                         "multiplier": 0,
-                                                        "modelID": "constraint_c771f681-5d6d-4309-9db5-913d65aa28d2",
-                                                        "model_class": "ADModelConstraint",
-                                                        "constant": 0
+                                                        "constant": 0,
+                                                        "model_version": 0,
+                                                        "modelID": "constraint_c771f681-5d6d-4309-9db5-913d65aa28d2"
                                                     }
                                                 ]
                                             }
@@ -26973,20 +26973,20 @@
                                             "kModelPropertiesKey": {
                                                 "stashedSizeH": [
                                                     {
-                                                        "model_version": 0,
+                                                        "model_class": "ADModelConstraint",
                                                         "enabled": 0,
                                                         "multiplier": 0,
-                                                        "modelID": "constraint_8494be56-1006-40cf-85b9-175a2dba77cf",
-                                                        "model_class": "ADModelConstraint",
-                                                        "constant": 0
+                                                        "constant": 0,
+                                                        "model_version": 0,
+                                                        "modelID": "constraint_8494be56-1006-40cf-85b9-175a2dba77cf"
                                                     },
                                                     {
-                                                        "model_version": 0,
+                                                        "model_class": "ADModelConstraint",
                                                         "enabled": 0,
                                                         "multiplier": 0,
-                                                        "modelID": "constraint_d9389a41-d053-402f-b481-cb86f9ac4247",
-                                                        "model_class": "ADModelConstraint",
-                                                        "constant": 0
+                                                        "constant": 0,
+                                                        "model_version": 0,
+                                                        "modelID": "constraint_d9389a41-d053-402f-b481-cb86f9ac4247"
                                                     }
                                                 ]
                                             }
@@ -27094,20 +27094,20 @@
                                             "kModelPropertiesKey": {
                                                 "stashedSizeH": [
                                                     {
-                                                        "model_version": 0,
+                                                        "model_class": "ADModelConstraint",
                                                         "enabled": 0,
                                                         "multiplier": 0,
-                                                        "modelID": "constraint_be09f151-04fb-4f72-9c0e-c41878a810c7",
-                                                        "model_class": "ADModelConstraint",
-                                                        "constant": 0
+                                                        "constant": 0,
+                                                        "model_version": 0,
+                                                        "modelID": "constraint_be09f151-04fb-4f72-9c0e-c41878a810c7"
                                                     },
                                                     {
-                                                        "model_version": 0,
+                                                        "model_class": "ADModelConstraint",
                                                         "enabled": 0,
                                                         "multiplier": 0,
-                                                        "modelID": "constraint_d7b01f19-0270-464a-8ae7-4be56df0596d",
-                                                        "model_class": "ADModelConstraint",
-                                                        "constant": 0
+                                                        "constant": 0,
+                                                        "model_version": 0,
+                                                        "modelID": "constraint_d7b01f19-0270-464a-8ae7-4be56df0596d"
                                                     }
                                                 ]
                                             }
@@ -27940,20 +27940,20 @@
                                             "kModelPropertiesKey": {
                                                 "stashedSizeH": [
                                                     {
-                                                        "model_version": 0,
+                                                        "model_class": "ADModelConstraint",
                                                         "enabled": 0,
                                                         "multiplier": 0,
-                                                        "modelID": "constraint_487e8046-28ca-478b-a009-278d580b0244",
-                                                        "model_class": "ADModelConstraint",
-                                                        "constant": 0
+                                                        "constant": 0,
+                                                        "model_version": 0,
+                                                        "modelID": "constraint_487e8046-28ca-478b-a009-278d580b0244"
                                                     },
                                                     {
-                                                        "model_version": 0,
+                                                        "model_class": "ADModelConstraint",
                                                         "enabled": 0,
                                                         "multiplier": 0,
-                                                        "modelID": "constraint_4e2d26bf-2748-4461-b3b1-ae4749319169",
-                                                        "model_class": "ADModelConstraint",
-                                                        "constant": 0
+                                                        "constant": 0,
+                                                        "model_version": 0,
+                                                        "modelID": "constraint_4e2d26bf-2748-4461-b3b1-ae4749319169"
                                                     }
                                                 ]
                                             }
@@ -28086,20 +28086,20 @@
                                             "kModelPropertiesKey": {
                                                 "stashedSizeH": [
                                                     {
-                                                        "model_version": 0,
+                                                        "model_class": "ADModelConstraint",
                                                         "enabled": 0,
                                                         "multiplier": 0,
-                                                        "modelID": "constraint_61508c3b-9b75-49d9-80b0-a3dd7e64f046",
-                                                        "model_class": "ADModelConstraint",
-                                                        "constant": 0
+                                                        "constant": 0,
+                                                        "model_version": 0,
+                                                        "modelID": "constraint_61508c3b-9b75-49d9-80b0-a3dd7e64f046"
                                                     },
                                                     {
-                                                        "model_version": 0,
+                                                        "model_class": "ADModelConstraint",
                                                         "enabled": 0,
                                                         "multiplier": 0,
-                                                        "modelID": "constraint_7b56b7fa-d355-40e2-b525-42b8013cf81c",
-                                                        "model_class": "ADModelConstraint",
-                                                        "constant": 0
+                                                        "constant": 0,
+                                                        "model_version": 0,
+                                                        "modelID": "constraint_7b56b7fa-d355-40e2-b525-42b8013cf81c"
                                                     }
                                                 ]
                                             }
@@ -28232,20 +28232,20 @@
                                             "kModelPropertiesKey": {
                                                 "stashedSizeH": [
                                                     {
-                                                        "model_version": 0,
+                                                        "model_class": "ADModelConstraint",
                                                         "enabled": 0,
                                                         "multiplier": 0,
-                                                        "modelID": "constraint_d157e373-a03a-4a14-b5ca-77dc6572f97b",
-                                                        "model_class": "ADModelConstraint",
-                                                        "constant": 0
+                                                        "constant": 0,
+                                                        "model_version": 0,
+                                                        "modelID": "constraint_d157e373-a03a-4a14-b5ca-77dc6572f97b"
                                                     },
                                                     {
-                                                        "model_version": 0,
+                                                        "model_class": "ADModelConstraint",
                                                         "enabled": 0,
                                                         "multiplier": 0,
-                                                        "modelID": "constraint_c76d9908-9ca1-487a-a1f1-83634ed40936",
-                                                        "model_class": "ADModelConstraint",
-                                                        "constant": 0
+                                                        "constant": 0,
+                                                        "model_version": 0,
+                                                        "modelID": "constraint_c76d9908-9ca1-487a-a1f1-83634ed40936"
                                                     }
                                                 ]
                                             }
@@ -31791,7 +31791,7 @@
             },
             "includeBackgroundColorInInstance": true,
             "symbolID": "33636CD5-1191-4D12-9E0B-40E0E84353F0",
-            "changeIdentifier": 1878,
+            "changeIdentifier": 1879,
             "overrideProperties": [
                 {
                     "_class": "MSImmutableOverrideProperty",
@@ -33616,12 +33616,12 @@
                                             "scaleFactor": 1,
                                             "model_version": 0,
                                             "aspectRatio": {
-                                                "multiplier": 32,
-                                                "enabled": 1,
-                                                "model_version": 0,
-                                                "modelID": "constraint_15cdb6b2-d22b-47d7-af5c-21e3773b685f",
                                                 "model_class": "ADModelConstraint",
-                                                "constant": 32
+                                                "model_version": 0,
+                                                "enabled": 1,
+                                                "constant": 32,
+                                                "multiplier": 32,
+                                                "modelID": "constraint_15cdb6b2-d22b-47d7-af5c-21e3773b685f"
                                             },
                                             "modelID": "viewConstraints_a831775d-aec2-4ba0-a0a0-82bf3658d36e",
                                             "model_class": "ADModelViewConstraints",
@@ -34274,20 +34274,20 @@
                                     "kModelPropertiesKey": {
                                         "stashedSizeH": [
                                             {
-                                                "model_version": 0,
+                                                "model_class": "ADModelConstraint",
                                                 "enabled": 0,
                                                 "multiplier": 0,
-                                                "modelID": "constraint_dbded7d7-ad82-4a9c-bbe7-8bd0a3c4be36",
-                                                "model_class": "ADModelConstraint",
-                                                "constant": 0
+                                                "constant": 0,
+                                                "model_version": 0,
+                                                "modelID": "constraint_dbded7d7-ad82-4a9c-bbe7-8bd0a3c4be36"
                                             },
                                             {
-                                                "model_version": 0,
+                                                "model_class": "ADModelConstraint",
                                                 "enabled": 0,
                                                 "multiplier": 0,
-                                                "modelID": "constraint_644c3723-160e-44d5-8842-878c8b8a74f2",
-                                                "model_class": "ADModelConstraint",
-                                                "constant": 0
+                                                "constant": 0,
+                                                "model_version": 0,
+                                                "modelID": "constraint_644c3723-160e-44d5-8842-878c8b8a74f2"
                                             }
                                         ]
                                     }
@@ -34385,20 +34385,20 @@
                                     "kModelPropertiesKey": {
                                         "stashedSizeH": [
                                             {
-                                                "model_version": 0,
+                                                "model_class": "ADModelConstraint",
                                                 "enabled": 0,
                                                 "multiplier": 0,
-                                                "modelID": "constraint_407d2330-96c9-42f3-a4ca-6638b21beab8",
-                                                "model_class": "ADModelConstraint",
-                                                "constant": 0
+                                                "constant": 0,
+                                                "model_version": 0,
+                                                "modelID": "constraint_407d2330-96c9-42f3-a4ca-6638b21beab8"
                                             },
                                             {
-                                                "model_version": 0,
+                                                "model_class": "ADModelConstraint",
                                                 "enabled": 0,
                                                 "multiplier": 0,
-                                                "modelID": "constraint_2684577a-73c1-416f-a067-2d449a4daa59",
-                                                "model_class": "ADModelConstraint",
-                                                "constant": 0
+                                                "constant": 0,
+                                                "model_version": 0,
+                                                "modelID": "constraint_2684577a-73c1-416f-a067-2d449a4daa59"
                                             }
                                         ]
                                     }
@@ -34900,7 +34900,7 @@
             },
             "includeBackgroundColorInInstance": true,
             "symbolID": "AF0B1C37-EDAF-44C2-9519-EE5BCC63AB78",
-            "changeIdentifier": 1743,
+            "changeIdentifier": 1744,
             "overrideProperties": [
                 {
                     "_class": "MSImmutableOverrideProperty",
@@ -36257,20 +36257,20 @@
                                     "kModelPropertiesKey": {
                                         "stashedSizeH": [
                                             {
-                                                "model_version": 0,
+                                                "model_class": "ADModelConstraint",
                                                 "enabled": 0,
                                                 "multiplier": 0,
-                                                "modelID": "constraint_dbded7d7-ad82-4a9c-bbe7-8bd0a3c4be36",
-                                                "model_class": "ADModelConstraint",
-                                                "constant": 0
+                                                "constant": 0,
+                                                "model_version": 0,
+                                                "modelID": "constraint_dbded7d7-ad82-4a9c-bbe7-8bd0a3c4be36"
                                             },
                                             {
-                                                "model_version": 0,
+                                                "model_class": "ADModelConstraint",
                                                 "enabled": 0,
                                                 "multiplier": 0,
-                                                "modelID": "constraint_644c3723-160e-44d5-8842-878c8b8a74f2",
-                                                "model_class": "ADModelConstraint",
-                                                "constant": 0
+                                                "constant": 0,
+                                                "model_version": 0,
+                                                "modelID": "constraint_644c3723-160e-44d5-8842-878c8b8a74f2"
                                             }
                                         ]
                                     }
@@ -36373,20 +36373,20 @@
                                     "kModelPropertiesKey": {
                                         "stashedSizeH": [
                                             {
-                                                "model_version": 0,
+                                                "model_class": "ADModelConstraint",
                                                 "enabled": 0,
                                                 "multiplier": 0,
-                                                "modelID": "constraint_407d2330-96c9-42f3-a4ca-6638b21beab8",
-                                                "model_class": "ADModelConstraint",
-                                                "constant": 0
+                                                "constant": 0,
+                                                "model_version": 0,
+                                                "modelID": "constraint_407d2330-96c9-42f3-a4ca-6638b21beab8"
                                             },
                                             {
-                                                "model_version": 0,
+                                                "model_class": "ADModelConstraint",
                                                 "enabled": 0,
                                                 "multiplier": 0,
-                                                "modelID": "constraint_2684577a-73c1-416f-a067-2d449a4daa59",
-                                                "model_class": "ADModelConstraint",
-                                                "constant": 0
+                                                "constant": 0,
+                                                "model_version": 0,
+                                                "modelID": "constraint_2684577a-73c1-416f-a067-2d449a4daa59"
                                             }
                                         ]
                                     }
@@ -36808,12 +36808,12 @@
                                             "scaleFactor": 1,
                                             "model_version": 0,
                                             "aspectRatio": {
-                                                "model_version": 0,
+                                                "model_class": "ADModelConstraint",
                                                 "enabled": 1,
                                                 "multiplier": 32,
-                                                "modelID": "constraint_8c4cb4a7-732d-4d0e-94f1-106a64154704",
-                                                "model_class": "ADModelConstraint",
-                                                "constant": 32
+                                                "constant": 32,
+                                                "model_version": 0,
+                                                "modelID": "constraint_8c4cb4a7-732d-4d0e-94f1-106a64154704"
                                             },
                                             "modelID": "viewConstraints_5cae8e31-346d-467e-b28a-0111592a443e",
                                             "model_class": "ADModelViewConstraints",
@@ -45735,12 +45735,12 @@
                                             "scaleFactor": 1,
                                             "model_version": 0,
                                             "aspectRatio": {
-                                                "multiplier": 32,
-                                                "enabled": 1,
-                                                "model_version": 0,
-                                                "modelID": "constraint_146e5522-7071-4e07-af47-0e2113c18b27",
                                                 "model_class": "ADModelConstraint",
-                                                "constant": 32
+                                                "model_version": 0,
+                                                "enabled": 1,
+                                                "constant": 32,
+                                                "multiplier": 32,
+                                                "modelID": "constraint_146e5522-7071-4e07-af47-0e2113c18b27"
                                             },
                                             "modelID": "viewConstraints_fca14df3-b233-4d12-9b30-0d71c58d069d",
                                             "model_class": "ADModelViewConstraints",
@@ -46680,12 +46680,12 @@
                                             "scaleFactor": 1,
                                             "model_version": 0,
                                             "aspectRatio": {
-                                                "multiplier": 32,
-                                                "enabled": 1,
-                                                "model_version": 0,
-                                                "modelID": "constraint_146e5522-7071-4e07-af47-0e2113c18b27",
                                                 "model_class": "ADModelConstraint",
-                                                "constant": 32
+                                                "model_version": 0,
+                                                "enabled": 1,
+                                                "constant": 32,
+                                                "multiplier": 32,
+                                                "modelID": "constraint_146e5522-7071-4e07-af47-0e2113c18b27"
                                             },
                                             "modelID": "viewConstraints_fca14df3-b233-4d12-9b30-0d71c58d069d",
                                             "model_class": "ADModelViewConstraints",
@@ -49089,12 +49089,12 @@
                                                             "scaleFactor": 1,
                                                             "model_version": 0.1,
                                                             "aspectRatio": {
-                                                                "model_version": 0.1,
+                                                                "model_class": "ADModelConstraint",
                                                                 "enabled": 1,
                                                                 "multiplier": 120.032,
-                                                                "modelID": "constraint_fbe7b04f-4e49-44c5-888e-1c1fe6f3c21f",
-                                                                "model_class": "ADModelConstraint",
-                                                                "constant": 44.096
+                                                                "constant": 44.096,
+                                                                "model_version": 0.1,
+                                                                "modelID": "constraint_fbe7b04f-4e49-44c5-888e-1c1fe6f3c21f"
                                                             },
                                                             "modelID": "viewConstraints_fffc6307-9c43-482a-a442-71ca14c8d97c",
                                                             "model_class": "ADModelViewConstraints",
@@ -50775,7 +50775,7 @@
                                         },
                                         "com.invisionlabs.duplicate": {
                                             "type-duplicate": {
-                                                "preserveOrder": 1,
+                                                "userDefined": 1,
                                                 "data": [
                                                     "Yeni bir teklif geldi\u011finde",
                                                     "Yeni bir e\u015fle\u015fme oldu\u011funda",
@@ -50788,8 +50788,8 @@
                                                 ],
                                                 "title": "TEMP",
                                                 "icon": "crown",
-                                                "index": 15,
-                                                "userDefined": 1
+                                                "preserveOrder": 1,
+                                                "index": 15
                                             }
                                         }
                                     },
@@ -50944,12 +50944,12 @@
                                                     "scaleFactor": 1,
                                                     "model_version": 0,
                                                     "aspectRatio": {
-                                                        "model_class": "ADModelConstraint",
                                                         "model_version": 0,
                                                         "enabled": 1,
-                                                        "constant": 20,
                                                         "multiplier": 20,
-                                                        "modelID": "constraint_6641dc7f-1218-4a78-8459-f7cc47f93aa6"
+                                                        "modelID": "constraint_6641dc7f-1218-4a78-8459-f7cc47f93aa6",
+                                                        "model_class": "ADModelConstraint",
+                                                        "constant": 20
                                                     },
                                                     "modelID": "viewConstraints_3dd31d6d-c80b-4917-b642-b46344f90d68",
                                                     "model_class": "ADModelViewConstraints",
@@ -51135,7 +51135,7 @@
                                         },
                                         "com.invisionlabs.duplicate": {
                                             "type-duplicate": {
-                                                "preserveOrder": 1,
+                                                "userDefined": 1,
                                                 "data": [
                                                     "Yeni bir teklif geldi\u011finde",
                                                     "Yeni bir e\u015fle\u015fme oldu\u011funda",
@@ -51148,8 +51148,8 @@
                                                 ],
                                                 "title": "TEMP",
                                                 "icon": "crown",
-                                                "index": 15,
-                                                "userDefined": 1
+                                                "preserveOrder": 1,
+                                                "index": 15
                                             }
                                         }
                                     },
@@ -51304,12 +51304,12 @@
                                                     "scaleFactor": 1,
                                                     "model_version": 0,
                                                     "aspectRatio": {
-                                                        "model_class": "ADModelConstraint",
                                                         "model_version": 0,
                                                         "enabled": 1,
-                                                        "constant": 20,
                                                         "multiplier": 20,
-                                                        "modelID": "constraint_6641dc7f-1218-4a78-8459-f7cc47f93aa6"
+                                                        "modelID": "constraint_6641dc7f-1218-4a78-8459-f7cc47f93aa6",
+                                                        "model_class": "ADModelConstraint",
+                                                        "constant": 20
                                                     },
                                                     "modelID": "viewConstraints_3dd31d6d-c80b-4917-b642-b46344f90d68",
                                                     "model_class": "ADModelViewConstraints",
@@ -51495,7 +51495,7 @@
                                         },
                                         "com.invisionlabs.duplicate": {
                                             "type-duplicate": {
-                                                "preserveOrder": 1,
+                                                "userDefined": 1,
                                                 "data": [
                                                     "Yeni bir teklif geldi\u011finde",
                                                     "Yeni bir e\u015fle\u015fme oldu\u011funda",
@@ -51508,8 +51508,8 @@
                                                 ],
                                                 "title": "TEMP",
                                                 "icon": "crown",
-                                                "index": 15,
-                                                "userDefined": 1
+                                                "preserveOrder": 1,
+                                                "index": 15
                                             }
                                         }
                                     },
@@ -51664,12 +51664,12 @@
                                                     "scaleFactor": 1,
                                                     "model_version": 0,
                                                     "aspectRatio": {
-                                                        "model_class": "ADModelConstraint",
                                                         "model_version": 0,
                                                         "enabled": 1,
-                                                        "constant": 20,
                                                         "multiplier": 20,
-                                                        "modelID": "constraint_6641dc7f-1218-4a78-8459-f7cc47f93aa6"
+                                                        "modelID": "constraint_6641dc7f-1218-4a78-8459-f7cc47f93aa6",
+                                                        "model_class": "ADModelConstraint",
+                                                        "constant": 20
                                                     },
                                                     "modelID": "viewConstraints_3dd31d6d-c80b-4917-b642-b46344f90d68",
                                                     "model_class": "ADModelViewConstraints",
@@ -54255,12 +54255,12 @@
                                                             "scaleFactor": 1,
                                                             "model_version": 0,
                                                             "aspectRatio": {
-                                                                "model_class": "ADModelConstraint",
                                                                 "model_version": 0,
                                                                 "enabled": 1,
-                                                                "constant": 44.096,
                                                                 "multiplier": 119.136,
-                                                                "modelID": "constraint_3483ff7b-9ba4-4d56-9d32-6d7462b7b174"
+                                                                "modelID": "constraint_3483ff7b-9ba4-4d56-9d32-6d7462b7b174",
+                                                                "model_class": "ADModelConstraint",
+                                                                "constant": 44.096
                                                             },
                                                             "modelID": "viewConstraints_b7875511-3209-427e-a5bd-2ecabb7db355",
                                                             "model_class": "ADModelViewConstraints",
@@ -55725,7 +55725,7 @@
                                         },
                                         "com.invisionlabs.duplicate": {
                                             "type-duplicate": {
-                                                "userDefined": 1,
+                                                "index": 15,
                                                 "data": [
                                                     "Yeni bir teklif geldi\u011finde",
                                                     "Yeni bir e\u015fle\u015fme oldu\u011funda",
@@ -55738,8 +55738,8 @@
                                                 ],
                                                 "title": "TEMP",
                                                 "icon": "crown",
-                                                "preserveOrder": 1,
-                                                "index": 15
+                                                "userDefined": 1,
+                                                "preserveOrder": 1
                                             }
                                         }
                                     },
@@ -55894,12 +55894,12 @@
                                                     "scaleFactor": 1,
                                                     "model_version": 0,
                                                     "aspectRatio": {
-                                                        "multiplier": 20,
-                                                        "enabled": 1,
-                                                        "model_version": 0,
-                                                        "modelID": "constraint_6641dc7f-1218-4a78-8459-f7cc47f93aa6",
                                                         "model_class": "ADModelConstraint",
-                                                        "constant": 20
+                                                        "model_version": 0,
+                                                        "enabled": 1,
+                                                        "constant": 20,
+                                                        "multiplier": 20,
+                                                        "modelID": "constraint_6641dc7f-1218-4a78-8459-f7cc47f93aa6"
                                                     },
                                                     "modelID": "viewConstraints_3dd31d6d-c80b-4917-b642-b46344f90d68",
                                                     "model_class": "ADModelViewConstraints",
@@ -56085,7 +56085,7 @@
                                         },
                                         "com.invisionlabs.duplicate": {
                                             "type-duplicate": {
-                                                "userDefined": 1,
+                                                "index": 15,
                                                 "data": [
                                                     "Yeni bir teklif geldi\u011finde",
                                                     "Yeni bir e\u015fle\u015fme oldu\u011funda",
@@ -56098,8 +56098,8 @@
                                                 ],
                                                 "title": "TEMP",
                                                 "icon": "crown",
-                                                "preserveOrder": 1,
-                                                "index": 15
+                                                "userDefined": 1,
+                                                "preserveOrder": 1
                                             }
                                         }
                                     },
@@ -56254,12 +56254,12 @@
                                                     "scaleFactor": 1,
                                                     "model_version": 0,
                                                     "aspectRatio": {
-                                                        "multiplier": 20,
-                                                        "enabled": 1,
-                                                        "model_version": 0,
-                                                        "modelID": "constraint_6641dc7f-1218-4a78-8459-f7cc47f93aa6",
                                                         "model_class": "ADModelConstraint",
-                                                        "constant": 20
+                                                        "model_version": 0,
+                                                        "enabled": 1,
+                                                        "constant": 20,
+                                                        "multiplier": 20,
+                                                        "modelID": "constraint_6641dc7f-1218-4a78-8459-f7cc47f93aa6"
                                                     },
                                                     "modelID": "viewConstraints_3dd31d6d-c80b-4917-b642-b46344f90d68",
                                                     "model_class": "ADModelViewConstraints",
@@ -56445,7 +56445,7 @@
                                         },
                                         "com.invisionlabs.duplicate": {
                                             "type-duplicate": {
-                                                "userDefined": 1,
+                                                "index": 15,
                                                 "data": [
                                                     "Yeni bir teklif geldi\u011finde",
                                                     "Yeni bir e\u015fle\u015fme oldu\u011funda",
@@ -56458,8 +56458,8 @@
                                                 ],
                                                 "title": "TEMP",
                                                 "icon": "crown",
-                                                "preserveOrder": 1,
-                                                "index": 15
+                                                "userDefined": 1,
+                                                "preserveOrder": 1
                                             }
                                         }
                                     },
@@ -56614,12 +56614,12 @@
                                                     "scaleFactor": 1,
                                                     "model_version": 0,
                                                     "aspectRatio": {
-                                                        "multiplier": 20,
-                                                        "enabled": 1,
-                                                        "model_version": 0,
-                                                        "modelID": "constraint_6641dc7f-1218-4a78-8459-f7cc47f93aa6",
                                                         "model_class": "ADModelConstraint",
-                                                        "constant": 20
+                                                        "model_version": 0,
+                                                        "enabled": 1,
+                                                        "constant": 20,
+                                                        "multiplier": 20,
+                                                        "modelID": "constraint_6641dc7f-1218-4a78-8459-f7cc47f93aa6"
                                                     },
                                                     "modelID": "viewConstraints_3dd31d6d-c80b-4917-b642-b46344f90d68",
                                                     "model_class": "ADModelViewConstraints",
@@ -57742,12 +57742,12 @@
                                             "scaleFactor": 1,
                                             "model_version": 0,
                                             "aspectRatio": {
-                                                "model_class": "ADModelConstraint",
-                                                "enabled": 1,
                                                 "multiplier": 32,
-                                                "constant": 32,
+                                                "enabled": 1,
                                                 "model_version": 0,
-                                                "modelID": "constraint_146e5522-7071-4e07-af47-0e2113c18b27"
+                                                "modelID": "constraint_146e5522-7071-4e07-af47-0e2113c18b27",
+                                                "model_class": "ADModelConstraint",
+                                                "constant": 32
                                             },
                                             "modelID": "viewConstraints_fca14df3-b233-4d12-9b30-0d71c58d069d",
                                             "model_class": "ADModelViewConstraints",
@@ -58312,12 +58312,12 @@
                                     "scaleFactor": 1,
                                     "model_version": 0,
                                     "aspectRatio": {
-                                        "model_version": 0,
+                                        "model_class": "ADModelConstraint",
                                         "enabled": 1,
                                         "multiplier": 40,
-                                        "modelID": "constraint_b524ed12-a147-4604-8b1e-53bd7c1c1ef7",
-                                        "model_class": "ADModelConstraint",
-                                        "constant": 40
+                                        "constant": 40,
+                                        "model_version": 0,
+                                        "modelID": "constraint_b524ed12-a147-4604-8b1e-53bd7c1c1ef7"
                                     },
                                     "modelID": "viewConstraints_e16b232e-ba45-4000-917c-3df36f2841b8",
                                     "model_class": "ADModelViewConstraints",
@@ -59270,12 +59270,12 @@
                                     "scaleFactor": 1,
                                     "model_version": 0,
                                     "aspectRatio": {
-                                        "model_version": 0,
+                                        "model_class": "ADModelConstraint",
                                         "enabled": 1,
                                         "multiplier": 288,
-                                        "modelID": "constraint_69648405-8d81-44e0-82ed-a196fcc1e54a",
-                                        "model_class": "ADModelConstraint",
-                                        "constant": 167
+                                        "constant": 167,
+                                        "model_version": 0,
+                                        "modelID": "constraint_69648405-8d81-44e0-82ed-a196fcc1e54a"
                                     },
                                     "modelID": "viewConstraints_3e4a290b-213a-4d18-97f6-b3f1d670411c",
                                     "model_class": "ADModelViewConstraints",
@@ -60815,12 +60815,12 @@
                                             "scaleFactor": 1,
                                             "model_version": 0.1,
                                             "aspectRatio": {
-                                                "model_class": "ADModelConstraint",
                                                 "model_version": 0.1,
                                                 "enabled": 1,
-                                                "constant": 44.096,
                                                 "multiplier": 120.032,
-                                                "modelID": "constraint_fbe7b04f-4e49-44c5-888e-1c1fe6f3c21f"
+                                                "modelID": "constraint_fbe7b04f-4e49-44c5-888e-1c1fe6f3c21f",
+                                                "model_class": "ADModelConstraint",
+                                                "constant": 44.096
                                             },
                                             "modelID": "viewConstraints_fffc6307-9c43-482a-a442-71ca14c8d97c",
                                             "model_class": "ADModelViewConstraints",
@@ -62499,7 +62499,7 @@
                                 },
                                 "com.invisionlabs.duplicate": {
                                     "type-duplicate": {
-                                        "userDefined": 1,
+                                        "index": 15,
                                         "data": [
                                             "Yeni bir teklif geldi\u011finde",
                                             "Yeni bir e\u015fle\u015fme oldu\u011funda",
@@ -62512,8 +62512,8 @@
                                         ],
                                         "title": "TEMP",
                                         "icon": "crown",
-                                        "preserveOrder": 1,
-                                        "index": 15
+                                        "userDefined": 1,
+                                        "preserveOrder": 1
                                     }
                                 }
                             },
@@ -62668,12 +62668,12 @@
                                             "scaleFactor": 1,
                                             "model_version": 0,
                                             "aspectRatio": {
-                                                "multiplier": 20,
-                                                "enabled": 1,
-                                                "model_version": 0,
-                                                "modelID": "constraint_6641dc7f-1218-4a78-8459-f7cc47f93aa6",
                                                 "model_class": "ADModelConstraint",
-                                                "constant": 20
+                                                "model_version": 0,
+                                                "enabled": 1,
+                                                "constant": 20,
+                                                "multiplier": 20,
+                                                "modelID": "constraint_6641dc7f-1218-4a78-8459-f7cc47f93aa6"
                                             },
                                             "modelID": "viewConstraints_3dd31d6d-c80b-4917-b642-b46344f90d68",
                                             "model_class": "ADModelViewConstraints",
@@ -62859,7 +62859,7 @@
                                 },
                                 "com.invisionlabs.duplicate": {
                                     "type-duplicate": {
-                                        "userDefined": 1,
+                                        "index": 15,
                                         "data": [
                                             "Yeni bir teklif geldi\u011finde",
                                             "Yeni bir e\u015fle\u015fme oldu\u011funda",
@@ -62872,8 +62872,8 @@
                                         ],
                                         "title": "TEMP",
                                         "icon": "crown",
-                                        "preserveOrder": 1,
-                                        "index": 15
+                                        "userDefined": 1,
+                                        "preserveOrder": 1
                                     }
                                 }
                             },
@@ -63028,12 +63028,12 @@
                                             "scaleFactor": 1,
                                             "model_version": 0,
                                             "aspectRatio": {
-                                                "multiplier": 20,
-                                                "enabled": 1,
-                                                "model_version": 0,
-                                                "modelID": "constraint_6641dc7f-1218-4a78-8459-f7cc47f93aa6",
                                                 "model_class": "ADModelConstraint",
-                                                "constant": 20
+                                                "model_version": 0,
+                                                "enabled": 1,
+                                                "constant": 20,
+                                                "multiplier": 20,
+                                                "modelID": "constraint_6641dc7f-1218-4a78-8459-f7cc47f93aa6"
                                             },
                                             "modelID": "viewConstraints_3dd31d6d-c80b-4917-b642-b46344f90d68",
                                             "model_class": "ADModelViewConstraints",
@@ -63219,7 +63219,7 @@
                                 },
                                 "com.invisionlabs.duplicate": {
                                     "type-duplicate": {
-                                        "userDefined": 1,
+                                        "index": 15,
                                         "data": [
                                             "Yeni bir teklif geldi\u011finde",
                                             "Yeni bir e\u015fle\u015fme oldu\u011funda",
@@ -63232,8 +63232,8 @@
                                         ],
                                         "title": "TEMP",
                                         "icon": "crown",
-                                        "preserveOrder": 1,
-                                        "index": 15
+                                        "userDefined": 1,
+                                        "preserveOrder": 1
                                     }
                                 }
                             },
@@ -63388,12 +63388,12 @@
                                             "scaleFactor": 1,
                                             "model_version": 0,
                                             "aspectRatio": {
-                                                "multiplier": 20,
-                                                "enabled": 1,
-                                                "model_version": 0,
-                                                "modelID": "constraint_6641dc7f-1218-4a78-8459-f7cc47f93aa6",
                                                 "model_class": "ADModelConstraint",
-                                                "constant": 20
+                                                "model_version": 0,
+                                                "enabled": 1,
+                                                "constant": 20,
+                                                "multiplier": 20,
+                                                "modelID": "constraint_6641dc7f-1218-4a78-8459-f7cc47f93aa6"
                                             },
                                             "modelID": "viewConstraints_3dd31d6d-c80b-4917-b642-b46344f90d68",
                                             "model_class": "ADModelViewConstraints",
@@ -64224,7 +64224,7 @@
                                 },
                                 "com.invisionlabs.duplicate": {
                                     "type-duplicate": {
-                                        "index": 15,
+                                        "preserveOrder": 1,
                                         "data": [
                                             "Yeni bir teklif geldi\u011finde",
                                             "Yeni bir e\u015fle\u015fme oldu\u011funda",
@@ -64237,8 +64237,8 @@
                                         ],
                                         "title": "TEMP",
                                         "icon": "crown",
-                                        "userDefined": 1,
-                                        "preserveOrder": 1
+                                        "index": 15,
+                                        "userDefined": 1
                                     }
                                 }
                             },
@@ -64393,12 +64393,12 @@
                                             "scaleFactor": 1,
                                             "model_version": 0,
                                             "aspectRatio": {
-                                                "model_class": "ADModelConstraint",
-                                                "enabled": 1,
                                                 "multiplier": 20,
-                                                "constant": 20,
+                                                "enabled": 1,
                                                 "model_version": 0,
-                                                "modelID": "constraint_6641dc7f-1218-4a78-8459-f7cc47f93aa6"
+                                                "modelID": "constraint_6641dc7f-1218-4a78-8459-f7cc47f93aa6",
+                                                "model_class": "ADModelConstraint",
+                                                "constant": 20
                                             },
                                             "modelID": "viewConstraints_3dd31d6d-c80b-4917-b642-b46344f90d68",
                                             "model_class": "ADModelViewConstraints",
@@ -64584,7 +64584,7 @@
                                 },
                                 "com.invisionlabs.duplicate": {
                                     "type-duplicate": {
-                                        "index": 15,
+                                        "preserveOrder": 1,
                                         "data": [
                                             "Yeni bir teklif geldi\u011finde",
                                             "Yeni bir e\u015fle\u015fme oldu\u011funda",
@@ -64597,8 +64597,8 @@
                                         ],
                                         "title": "TEMP",
                                         "icon": "crown",
-                                        "userDefined": 1,
-                                        "preserveOrder": 1
+                                        "index": 15,
+                                        "userDefined": 1
                                     }
                                 }
                             },
@@ -64753,12 +64753,12 @@
                                             "scaleFactor": 1,
                                             "model_version": 0,
                                             "aspectRatio": {
-                                                "model_class": "ADModelConstraint",
-                                                "enabled": 1,
                                                 "multiplier": 20,
-                                                "constant": 20,
+                                                "enabled": 1,
                                                 "model_version": 0,
-                                                "modelID": "constraint_6641dc7f-1218-4a78-8459-f7cc47f93aa6"
+                                                "modelID": "constraint_6641dc7f-1218-4a78-8459-f7cc47f93aa6",
+                                                "model_class": "ADModelConstraint",
+                                                "constant": 20
                                             },
                                             "modelID": "viewConstraints_3dd31d6d-c80b-4917-b642-b46344f90d68",
                                             "model_class": "ADModelViewConstraints",
@@ -64944,7 +64944,7 @@
                                 },
                                 "com.invisionlabs.duplicate": {
                                     "type-duplicate": {
-                                        "index": 15,
+                                        "preserveOrder": 1,
                                         "data": [
                                             "Yeni bir teklif geldi\u011finde",
                                             "Yeni bir e\u015fle\u015fme oldu\u011funda",
@@ -64957,8 +64957,8 @@
                                         ],
                                         "title": "TEMP",
                                         "icon": "crown",
-                                        "userDefined": 1,
-                                        "preserveOrder": 1
+                                        "index": 15,
+                                        "userDefined": 1
                                     }
                                 }
                             },
@@ -65113,12 +65113,12 @@
                                             "scaleFactor": 1,
                                             "model_version": 0,
                                             "aspectRatio": {
-                                                "model_class": "ADModelConstraint",
-                                                "enabled": 1,
                                                 "multiplier": 20,
-                                                "constant": 20,
+                                                "enabled": 1,
                                                 "model_version": 0,
-                                                "modelID": "constraint_6641dc7f-1218-4a78-8459-f7cc47f93aa6"
+                                                "modelID": "constraint_6641dc7f-1218-4a78-8459-f7cc47f93aa6",
+                                                "model_class": "ADModelConstraint",
+                                                "constant": 20
                                             },
                                             "modelID": "viewConstraints_3dd31d6d-c80b-4917-b642-b46344f90d68",
                                             "model_class": "ADModelViewConstraints",
@@ -65367,12 +65367,12 @@
                                     "scaleFactor": 1,
                                     "model_version": 0,
                                     "aspectRatio": {
-                                        "model_version": 0,
+                                        "model_class": "ADModelConstraint",
                                         "enabled": 1,
                                         "multiplier": 288,
-                                        "modelID": "constraint_5133a573-5473-43be-b8f1-4ef38198de8b",
-                                        "model_class": "ADModelConstraint",
-                                        "constant": 167
+                                        "constant": 167,
+                                        "model_version": 0,
+                                        "modelID": "constraint_5133a573-5473-43be-b8f1-4ef38198de8b"
                                     },
                                     "modelID": "viewConstraints_1de17b33-9809-415f-9aa8-7049db5dc111",
                                     "model_class": "ADModelViewConstraints",
@@ -66912,12 +66912,12 @@
                                             "scaleFactor": 1,
                                             "model_version": 0,
                                             "aspectRatio": {
-                                                "multiplier": 119.136,
-                                                "enabled": 1,
-                                                "model_version": 0,
-                                                "modelID": "constraint_3483ff7b-9ba4-4d56-9d32-6d7462b7b174",
                                                 "model_class": "ADModelConstraint",
-                                                "constant": 44.096
+                                                "model_version": 0,
+                                                "enabled": 1,
+                                                "constant": 44.096,
+                                                "multiplier": 119.136,
+                                                "modelID": "constraint_3483ff7b-9ba4-4d56-9d32-6d7462b7b174"
                                             },
                                             "modelID": "viewConstraints_b7875511-3209-427e-a5bd-2ecabb7db355",
                                             "model_class": "ADModelViewConstraints",
