@@ -1,0 +1,73 @@
+{
+    "01F5725E-DADF-42FF-8949-E5BE8445EFE8": {
+        "scrollOrigin": "{1024, 685}",
+        "zoomValue": 1
+    },
+    "690414CF-0915-45A8-8465-4FA8A273682F": {
+        "scrollOrigin": "{0, 0}",
+        "zoomValue": 1
+    },
+    "4AB926DB-1696-456E-AC9A-63E5595DD974": {
+        "scrollOrigin": "{766, 663}",
+        "zoomValue": 1.377443609022556
+    },
+    "C1151F18-F919-44F4-B002-ECE8BA9D9B0F": {
+        "scrollOrigin": "{0, 0}",
+        "zoomValue": 1
+    },
+    "7407483F-EF6C-47FD-8A67-128A7EE9E686": {
+        "scrollOrigin": "{0, 0}",
+        "zoomValue": 1
+    },
+    "768EF3D8-8486-479E-89B2-763050B600FA": {
+        "scrollOrigin": "{900, 748}",
+        "zoomValue": 0.8568755846585595
+    },
+    "B9BC9CB0-01A4-4451-8DBE-FDDDCFC29C3E": {
+        "scrollOrigin": "{985, 685}",
+        "zoomValue": 1
+    },
+    "147E46EF-ABF3-4453-9BCE-6AEE128B0510": {
+        "scrollOrigin": "{916, 672}",
+        "zoomValue": 0.3956803455723543
+    },
+    "B373EC93-6937-44DA-8C20-E5D04B3DE010": {
+        "scrollOrigin": "{482, 739}",
+        "zoomValue": 0.4591478696741855
+    },
+    "1A277C60-3346-470E-BEC4-01E907117CAD": {
+        "scrollOrigin": "{615, 672}",
+        "zoomValue": 0.5853035143769968
+    },
+    "B018BF32-445F-4A52-AB67-D56799A06481": {
+        "scrollOrigin": "{167, 363}",
+        "zoomValue": 0.2137689614935823
+    },
+    "53E51EA0-56EC-4E88-A087-6DECCD7A5FAA": {
+        "scrollOrigin": "{34, 176}",
+        "zoomValue": 1.377443609022556
+    },
+    "05BF0C98-BE87-4122-9148-F5BD9275C84B": {
+        "scrollOrigin": "{866, 632}",
+        "zoomValue": 1
+    },
+    "document": {
+        "pageListHeight": 335,
+        "expandedLayerStylePathsInSidebar": [
+            "/BC5D1C6C-FBBD-455F-8000-A2685564A953/layer-styles/Background",
+            "/BC5D1C6C-FBBD-455F-8000-A2685564A953/layer-styles/Input",
+            "/BC5D1C6C-FBBD-455F-8000-A2685564A953/layer-styles/Shadow",
+            "/BC5D1C6C-FBBD-455F-8000-A2685564A953/layer-styles/Divider",
+            "/BC5D1C6C-FBBD-455F-8000-A2685564A953/layer-styles/Context",
+            "/BC5D1C6C-FBBD-455F-8000-A2685564A953/layer-styles/Line",
+            "/BC5D1C6C-FBBD-455F-8000-A2685564A953/layer-styles/Button",
+            "/BC5D1C6C-FBBD-455F-8000-A2685564A953/layer-styles/Frame",
+            "/BC5D1C6C-FBBD-455F-8000-A2685564A953/layer-styles/Grid",
+            "/BC5D1C6C-FBBD-455F-8000-A2685564A953/layer-styles/Gradient"
+        ],
+        "expandedSymbolPathsInSidebar": [],
+        "pageListCollapsed": 0,
+        "expandedLayerStylePathsInPopover": [],
+        "libraryListCollapsed": 0
+    }
+}

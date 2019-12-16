@@ -8,7 +8,6 @@
     "isLocked": false,
     "isVisible": true,
     "layerListExpandedType": 0,
-    "maintainScrollPosition": false,
     "name": "Single",
     "nameIsFixed": true,
     "resizingConstraint": 0,
@@ -88,7 +87,6 @@
             "isLocked": false,
             "isVisible": true,
             "layerListExpandedType": 2,
-            "maintainScrollPosition": false,
             "name": "Months UIpickerview",
             "nameIsFixed": true,
             "resizingConstraint": 63,
@@ -105,13 +103,23 @@
                 "includedLayerIds": [],
                 "layerOptions": 0,
                 "shouldTrim": false,
-                "exportFormats": []
+                "exportFormats": [
+                    {
+                        "_class": "exportFormat",
+                        "absoluteSize": 0,
+                        "fileFormat": "png",
+                        "name": "",
+                        "namingScheme": 0,
+                        "scale": 2,
+                        "visibleScaleType": 0
+                    }
+                ]
             },
             "frame": {
                 "_class": "rect",
                 "constrainProportions": false,
                 "height": 217,
-                "width": 375,
+                "width": 414,
                 "x": 160,
                 "y": -48
             },
@@ -173,10 +181,9 @@
                     "isLocked": false,
                     "isVisible": true,
                     "layerListExpandedType": 2,
-                    "maintainScrollPosition": false,
                     "name": "Plus",
                     "nameIsFixed": true,
-                    "resizingConstraint": 63,
+                    "resizingConstraint": 45,
                     "resizingType": 0,
                     "rotation": 0,
                     "shouldBreakMaskChain": false,
@@ -192,7 +199,7 @@
                         "constrainProportions": false,
                         "height": 80,
                         "width": 375,
-                        "x": 0,
+                        "x": 19.5,
                         "y": 126
                     },
                     "clippingMaskMode": 0,
@@ -253,7 +260,6 @@
                             "isLocked": true,
                             "isVisible": true,
                             "layerListExpandedType": 0,
-                            "maintainScrollPosition": false,
                             "name": "Mask",
                             "nameIsFixed": true,
                             "resizingConstraint": 63,
@@ -488,7 +494,6 @@
                             "isLocked": false,
                             "isVisible": true,
                             "layerListExpandedType": 0,
-                            "maintainScrollPosition": false,
                             "name": "Plus 4",
                             "nameIsFixed": true,
                             "resizingConstraint": 63,
@@ -611,7 +616,7 @@
                                         "image": {
                                             "_class": "MSJSONFileReference",
                                             "_ref_class": "MSImageData",
-                                            "_ref": "images/0572422a26e9e146394a0a3262ddaf115634e818.png"
+                                            "_ref": "images/3ccf825af08a8bfe7938428f2e90a75e8e1cbfae.png"
                                         },
                                         "noiseIndex": 0,
                                         "noiseIntensity": 0,
@@ -681,7 +686,6 @@
                             "isLocked": false,
                             "isVisible": true,
                             "layerListExpandedType": 0,
-                            "maintainScrollPosition": false,
                             "name": "Plus 3",
                             "nameIsFixed": true,
                             "resizingConstraint": 63,
@@ -804,7 +808,7 @@
                                         "image": {
                                             "_class": "MSJSONFileReference",
                                             "_ref_class": "MSImageData",
-                                            "_ref": "images/ee4d1c309d311243833fe26425e2890361e47d4c.png"
+                                            "_ref": "images/12c6c0ddf8d3252605dce74e4aa5cc3912a29ce8.png"
                                         },
                                         "noiseIndex": 0,
                                         "noiseIntensity": 0,
@@ -874,7 +878,6 @@
                             "isLocked": false,
                             "isVisible": true,
                             "layerListExpandedType": 0,
-                            "maintainScrollPosition": false,
                             "name": "Plus 2",
                             "nameIsFixed": true,
                             "resizingConstraint": 63,
@@ -997,7 +1000,7 @@
                                         "image": {
                                             "_class": "MSJSONFileReference",
                                             "_ref_class": "MSImageData",
-                                            "_ref": "images/cf115b3e587ed99e8a961738baf4973668242095.png"
+                                            "_ref": "images/e289eb45b2aa5b04b25007a6bef21ff3da655693.png"
                                         },
                                         "noiseIndex": 0,
                                         "noiseIntensity": 0,
@@ -1067,7 +1070,6 @@
                             "isLocked": false,
                             "isVisible": true,
                             "layerListExpandedType": 0,
-                            "maintainScrollPosition": false,
                             "name": "Plus 1",
                             "nameIsFixed": true,
                             "resizingConstraint": 63,
@@ -1190,7 +1192,7 @@
                                         "image": {
                                             "_class": "MSJSONFileReference",
                                             "_ref_class": "MSImageData",
-                                            "_ref": "images/a0ad1cb3b069d7504f5550bd439be797ee378289.png"
+                                            "_ref": "images/44933d39cc4c77fae23fc160707a8205abaebf9c.png"
                                         },
                                         "noiseIndex": 0,
                                         "noiseIntensity": 0,
@@ -1262,10 +1264,9 @@
                     "isLocked": false,
                     "isVisible": true,
                     "layerListExpandedType": 2,
-                    "maintainScrollPosition": false,
                     "name": "Minus",
                     "nameIsFixed": true,
-                    "resizingConstraint": 63,
+                    "resizingConstraint": 45,
                     "resizingType": 0,
                     "rotation": 0,
                     "shouldBreakMaskChain": false,
@@ -1281,7 +1282,7 @@
                         "constrainProportions": false,
                         "height": 80,
                         "width": 375,
-                        "x": 0,
+                        "x": 19.5,
                         "y": 11
                     },
                     "clippingMaskMode": 0,
@@ -1342,7 +1343,6 @@
                             "isLocked": true,
                             "isVisible": true,
                             "layerListExpandedType": 0,
-                            "maintainScrollPosition": false,
                             "name": "Mask",
                             "nameIsFixed": true,
                             "resizingConstraint": 63,
@@ -1577,7 +1577,6 @@
                             "isLocked": false,
                             "isVisible": true,
                             "layerListExpandedType": 0,
-                            "maintainScrollPosition": false,
                             "name": "Minus 1",
                             "nameIsFixed": true,
                             "resizingConstraint": 63,
@@ -1700,7 +1699,7 @@
                                         "image": {
                                             "_class": "MSJSONFileReference",
                                             "_ref_class": "MSImageData",
-                                            "_ref": "images/ac581437dbc174a7281a4c4fbbb4f4c0c7c6768c.png"
+                                            "_ref": "images/9dce52a65bffecfb77bdc57cfa1444cbe3dad3ca.png"
                                         },
                                         "noiseIndex": 0,
                                         "noiseIntensity": 0,
@@ -1770,7 +1769,6 @@
                             "isLocked": false,
                             "isVisible": true,
                             "layerListExpandedType": 0,
-                            "maintainScrollPosition": false,
                             "name": "Minus 2",
                             "nameIsFixed": true,
                             "resizingConstraint": 63,
@@ -1893,7 +1891,7 @@
                                         "image": {
                                             "_class": "MSJSONFileReference",
                                             "_ref_class": "MSImageData",
-                                            "_ref": "images/a25175ffed3bee763fc548126408e7ad21279508.png"
+                                            "_ref": "images/322442788d59e567270bccf3585e6116f381e17c.png"
                                         },
                                         "noiseIndex": 0,
                                         "noiseIntensity": 0,
@@ -1963,7 +1961,6 @@
                             "isLocked": false,
                             "isVisible": true,
                             "layerListExpandedType": 0,
-                            "maintainScrollPosition": false,
                             "name": "Minus 3",
                             "nameIsFixed": true,
                             "resizingConstraint": 63,
@@ -2086,7 +2083,7 @@
                                         "image": {
                                             "_class": "MSJSONFileReference",
                                             "_ref_class": "MSImageData",
-                                            "_ref": "images/b6a864c1dab30ef24c65251a5c3b9beb97523c53.png"
+                                            "_ref": "images/a30580d205b51dfcdbde39edf7542aaffe8a5fc6.png"
                                         },
                                         "noiseIndex": 0,
                                         "noiseIntensity": 0,
@@ -2156,7 +2153,6 @@
                             "isLocked": false,
                             "isVisible": true,
                             "layerListExpandedType": 0,
-                            "maintainScrollPosition": false,
                             "name": "Minus 4",
                             "nameIsFixed": true,
                             "resizingConstraint": 63,
@@ -2279,7 +2275,7 @@
                                         "image": {
                                             "_class": "MSJSONFileReference",
                                             "_ref_class": "MSImageData",
-                                            "_ref": "images/ac954594d97d7aa035c072776f7aef42d47f610c.png"
+                                            "_ref": "images/fbb78182adc81db183f29d0a56816858538a4e9c.png"
                                         },
                                         "noiseIndex": 0,
                                         "noiseIntensity": 0,
@@ -2351,10 +2347,9 @@
                     "isLocked": false,
                     "isVisible": true,
                     "layerListExpandedType": 0,
-                    "maintainScrollPosition": false,
                     "name": "Current Selection - Months",
                     "nameIsFixed": false,
-                    "resizingConstraint": 63,
+                    "resizingConstraint": 45,
                     "resizingType": 0,
                     "rotation": 0,
                     "shouldBreakMaskChain": false,
@@ -2381,7 +2376,7 @@
                         "constrainProportions": false,
                         "height": 35,
                         "width": 375,
-                        "x": 0,
+                        "x": 19.5,
                         "y": 91
                     },
                     "clippingMaskMode": 0,
@@ -2474,7 +2469,7 @@
                                 "image": {
                                     "_class": "MSJSONFileReference",
                                     "_ref_class": "MSImageData",
-                                    "_ref": "images/fe3711dc8b0932d156789d555c5dc9ab678abe5e.png"
+                                    "_ref": "images/4a1e8ccc6823bcc11e59c136fe6c906dd42f924c.png"
                                 },
                                 "noiseIndex": 0,
                                 "noiseIntensity": 0,
@@ -2544,7 +2539,6 @@
                     "isLocked": true,
                     "isVisible": true,
                     "layerListExpandedType": 0,
-                    "maintainScrollPosition": false,
                     "name": "Selection Overlay",
                     "nameIsFixed": true,
                     "resizingConstraint": 63,
@@ -2562,7 +2556,7 @@
                         "_class": "rect",
                         "constrainProportions": false,
                         "height": 35,
-                        "width": 375,
+                        "width": 414,
                         "x": 0,
                         "y": 91
                     },
@@ -2759,7 +2753,7 @@
             "includeInCloudUpload": true,
             "isFlowHome": false,
             "presetDictionary": {},
-            "resizesContent": false,
+            "resizesContent": true,
             "backgroundColor": {
                 "_class": "color",
                 "alpha": 1,
@@ -2788,7 +2782,6 @@
             "isLocked": false,
             "isVisible": true,
             "layerListExpandedType": 2,
-            "maintainScrollPosition": false,
             "name": "-- Single - Plus 4",
             "nameIsFixed": true,
             "resizingConstraint": 63,
@@ -2877,7 +2870,6 @@
                     "isLocked": false,
                     "isVisible": true,
                     "layerListExpandedType": 0,
-                    "maintainScrollPosition": false,
                     "name": "August",
                     "nameIsFixed": false,
                     "resizingConstraint": 47,
@@ -3035,7 +3027,6 @@
             "isLocked": false,
             "isVisible": true,
             "layerListExpandedType": 2,
-            "maintainScrollPosition": false,
             "name": "-- Single - Plus 3",
             "nameIsFixed": true,
             "resizingConstraint": 63,
@@ -3123,7 +3114,6 @@
                     "isLocked": false,
                     "isVisible": true,
                     "layerListExpandedType": 0,
-                    "maintainScrollPosition": false,
                     "name": "July",
                     "nameIsFixed": false,
                     "resizingConstraint": 47,
@@ -3281,7 +3271,6 @@
             "isLocked": false,
             "isVisible": true,
             "layerListExpandedType": 2,
-            "maintainScrollPosition": false,
             "name": "-- Single - Plus 2",
             "nameIsFixed": true,
             "resizingConstraint": 63,
@@ -3369,7 +3358,6 @@
                     "isLocked": false,
                     "isVisible": true,
                     "layerListExpandedType": 0,
-                    "maintainScrollPosition": false,
                     "name": "June",
                     "nameIsFixed": false,
                     "resizingConstraint": 47,
@@ -3527,7 +3515,6 @@
             "isLocked": false,
             "isVisible": true,
             "layerListExpandedType": 2,
-            "maintainScrollPosition": false,
             "name": "-- Single - Plus 1",
             "nameIsFixed": true,
             "resizingConstraint": 63,
@@ -3615,7 +3602,6 @@
                     "isLocked": false,
                     "isVisible": true,
                     "layerListExpandedType": 0,
-                    "maintainScrollPosition": false,
                     "name": "May",
                     "nameIsFixed": false,
                     "resizingConstraint": 47,
@@ -3773,7 +3759,6 @@
             "isLocked": false,
             "isVisible": true,
             "layerListExpandedType": 2,
-            "maintainScrollPosition": false,
             "name": "-- Single - Current Selection",
             "nameIsFixed": true,
             "resizingConstraint": 63,
@@ -3785,7 +3770,7 @@
                     "linkedLayers": [
                         "48748CC8-06A7-4704-9243-FAA725E47CED"
                     ],
-                    "highestQuality": 2,
+                    "highestQuality": -1,
                     "included": 1
                 }
             },
@@ -3847,7 +3832,7 @@
                 "innerShadows": [],
                 "shadows": []
             },
-            "hasClickThrough": false,
+            "hasClickThrough": true,
             "groupLayout": {
                 "_class": "MSImmutableFreeformGroupLayout"
             },
@@ -3862,7 +3847,6 @@
                     "isLocked": false,
                     "isVisible": true,
                     "layerListExpandedType": 0,
-                    "maintainScrollPosition": false,
                     "name": "April",
                     "nameIsFixed": false,
                     "resizingConstraint": 47,
@@ -4020,7 +4004,6 @@
             "isLocked": false,
             "isVisible": true,
             "layerListExpandedType": 2,
-            "maintainScrollPosition": false,
             "name": "-- Single - Minus 1",
             "nameIsFixed": true,
             "resizingConstraint": 63,
@@ -4108,7 +4091,6 @@
                     "isLocked": false,
                     "isVisible": true,
                     "layerListExpandedType": 0,
-                    "maintainScrollPosition": false,
                     "name": "March",
                     "nameIsFixed": false,
                     "resizingConstraint": 47,
@@ -4266,7 +4248,6 @@
             "isLocked": false,
             "isVisible": true,
             "layerListExpandedType": 2,
-            "maintainScrollPosition": false,
             "name": "-- Single - Minus 2",
             "nameIsFixed": true,
             "resizingConstraint": 63,
@@ -4278,7 +4259,8 @@
                     "linkedLayers": [
                         "CE533DE4-1E25-47BC-A326-9C4FCEFC6DD7"
                     ],
-                    "included": 1
+                    "included": 1,
+                    "highestQuality": 2
                 }
             },
             "exportOptions": {
@@ -4339,7 +4321,7 @@
                 "innerShadows": [],
                 "shadows": []
             },
-            "hasClickThrough": false,
+            "hasClickThrough": true,
             "groupLayout": {
                 "_class": "MSImmutableFreeformGroupLayout"
             },
@@ -4354,7 +4336,6 @@
                     "isLocked": false,
                     "isVisible": true,
                     "layerListExpandedType": 0,
-                    "maintainScrollPosition": false,
                     "name": "February",
                     "nameIsFixed": false,
                     "resizingConstraint": 47,
@@ -4512,7 +4493,6 @@
             "isLocked": false,
             "isVisible": true,
             "layerListExpandedType": 2,
-            "maintainScrollPosition": false,
             "name": "-- Single - Minus 3",
             "nameIsFixed": true,
             "resizingConstraint": 63,
@@ -4524,7 +4504,8 @@
                     "linkedLayers": [
                         "19F99A82-79C5-4EA7-9461-581B389D1E73"
                     ],
-                    "included": 1
+                    "included": 1,
+                    "highestQuality": 2
                 }
             },
             "exportOptions": {
@@ -4600,7 +4581,6 @@
                     "isLocked": false,
                     "isVisible": true,
                     "layerListExpandedType": 0,
-                    "maintainScrollPosition": false,
                     "name": "January",
                     "nameIsFixed": false,
                     "resizingConstraint": 47,
@@ -4758,7 +4738,6 @@
             "isLocked": false,
             "isVisible": true,
             "layerListExpandedType": 2,
-            "maintainScrollPosition": false,
             "name": "-- Single - Minus 4",
             "nameIsFixed": true,
             "resizingConstraint": 63,
@@ -4770,7 +4749,8 @@
                     "linkedLayers": [
                         "99C16EC5-D3A6-4927-90AC-C8FB3C25AC8F"
                     ],
-                    "included": 1
+                    "included": 1,
+                    "highestQuality": 2
                 }
             },
             "exportOptions": {
@@ -4846,7 +4826,6 @@
                     "isLocked": false,
                     "isVisible": true,
                     "layerListExpandedType": 0,
-                    "maintainScrollPosition": false,
                     "name": "December",
                     "nameIsFixed": false,
                     "resizingConstraint": 47,

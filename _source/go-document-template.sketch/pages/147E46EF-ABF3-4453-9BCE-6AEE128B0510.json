@@ -8,7 +8,6 @@
     "isLocked": false,
     "isVisible": true,
     "layerListExpandedType": 0,
-    "maintainScrollPosition": false,
     "name": "Architecture",
     "nameIsFixed": true,
     "resizingConstraint": 63,
@@ -88,7 +87,6 @@
             "isLocked": false,
             "isVisible": true,
             "layerListExpandedType": 2,
-            "maintainScrollPosition": false,
             "name": "2560 x 1440",
             "nameIsFixed": true,
             "resizingConstraint": 63,
@@ -271,7 +269,6 @@
             "isLocked": false,
             "isVisible": true,
             "layerListExpandedType": 2,
-            "maintainScrollPosition": false,
             "name": "- Architecture",
             "nameIsFixed": true,
             "resizingConstraint": 63,
@@ -356,7 +353,6 @@
                     "isLocked": false,
                     "isVisible": true,
                     "layerListExpandedType": 0,
-                    "maintainScrollPosition": false,
                     "name": "6 - Guides / Cover / Base / 1080",
                     "nameIsFixed": false,
                     "resizingConstraint": 63,
@@ -459,11 +455,11 @@
             "includeInCloudUpload": true,
             "isFlowHome": false,
             "presetDictionary": {
-                "height": 1080,
+                "name": "Apple TV",
                 "offersLandscapeVariant": 0,
-                "width": 1920,
+                "height": 1080,
                 "allowResizedMatching": 0,
-                "name": "Apple TV"
+                "width": 1920
             },
             "resizesContent": true,
             "backgroundColor": {

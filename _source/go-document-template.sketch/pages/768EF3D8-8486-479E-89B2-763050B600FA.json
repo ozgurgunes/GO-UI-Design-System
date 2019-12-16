@@ -8,7 +8,6 @@
     "isLocked": false,
     "isVisible": true,
     "layerListExpandedType": 0,
-    "maintainScrollPosition": false,
     "name": "Mobile",
     "nameIsFixed": true,
     "resizingConstraint": 63,
@@ -93,7 +92,6 @@
             "isLocked": false,
             "isVisible": true,
             "layerListExpandedType": 2,
-            "maintainScrollPosition": false,
             "name": "iPad - 11 Inch",
             "nameIsFixed": true,
             "resizingConstraint": 63,
@@ -173,10 +171,10 @@
             "includeInCloudUpload": true,
             "isFlowHome": false,
             "presetDictionary": {
-                "height": 1194,
+                "name": "11\u2033 iPad Pro",
                 "offersLandscapeVariant": 1,
                 "width": 834,
-                "name": "11\u2033 iPad Pro",
+                "height": 1194,
                 "allowResizedMatching": 0
             },
             "resizesContent": true,
@@ -229,7 +227,6 @@
             "isLocked": false,
             "isVisible": true,
             "layerListExpandedType": 0,
-            "maintainScrollPosition": false,
             "name": "iPhone 11",
             "nameIsFixed": true,
             "resizingConstraint": 63,
@@ -309,10 +306,10 @@
             "includeInCloudUpload": true,
             "isFlowHome": false,
             "presetDictionary": {
-                "height": 896,
+                "name": "iPhone 11",
                 "offersLandscapeVariant": 1,
                 "width": 414,
-                "name": "iPhone 11",
+                "height": 896,
                 "allowResizedMatching": 1
             },
             "resizesContent": true,
@@ -359,7 +356,6 @@
             "isLocked": false,
             "isVisible": true,
             "layerListExpandedType": 2,
-            "maintainScrollPosition": false,
             "name": "- Mobile",
             "nameIsFixed": true,
             "resizingConstraint": 63,
@@ -444,7 +440,6 @@
                     "isLocked": false,
                     "isVisible": true,
                     "layerListExpandedType": 0,
-                    "maintainScrollPosition": false,
                     "name": "6 - Guides / Cover / Base / 360",
                     "nameIsFixed": false,
                     "resizingConstraint": 63,
@@ -547,11 +542,11 @@
             "includeInCloudUpload": true,
             "isFlowHome": false,
             "presetDictionary": {
-                "height": 360,
+                "name": "Mobile",
                 "offersLandscapeVariant": 1,
-                "width": 640,
+                "height": 360,
                 "allowResizedMatching": 0,
-                "name": "Mobile"
+                "width": 640
             },
             "resizesContent": true,
             "backgroundColor": {

@@ -1,7 +1,7 @@
 {
     "C09023E4-E1BF-4BF7-8798-5C240AAEF026": {
-        "scrollOrigin": "{51, 221}",
-        "zoomValue": 0.08905303725454213
+        "scrollOrigin": "{-401, 252}",
+        "zoomValue": 0.08790048655099605
     },
     "FBFF5DEE-B523-4923-9FE7-618B5F5D1381": {
         "scrollOrigin": "{939, 672}",
@@ -12,16 +12,16 @@
         "zoomValue": 0.305941270202595
     },
     "3F68ACDF-0B48-4C9A-8DED-475A144D8781": {
-        "scrollOrigin": "{-1593, 186}",
-        "zoomValue": 2.769565217391305
+        "scrollOrigin": "{-8638, 644}",
+        "zoomValue": 1
     },
     "BB8348B6-BE02-4A9A-8B4C-059DB964DAAE": {
         "scrollOrigin": "{805, 615}",
         "zoomValue": 1
     },
     "A3AA90D9-830A-4E81-9D1B-3F7DE28A4BF0": {
-        "scrollOrigin": "{-101329, -15953}",
-        "zoomValue": 9.242857142857144
+        "scrollOrigin": "{2, 494}",
+        "zoomValue": 0.09340552141254511
     },
     "C739B898-E28B-4F61-A2FA-FB0A825CFE25": {
         "scrollOrigin": "{70, 376}",
@@ -44,8 +44,8 @@
         "zoomValue": 1
     },
     "BE285DE0-154A-4F3B-882C-8F46F82C2694": {
-        "scrollOrigin": "{-4123, -1928}",
-        "zoomValue": 1
+        "scrollOrigin": "{0, 98}",
+        "zoomValue": 0.166864406779661
     },
     "496804D2-8291-486C-8729-0B132CCCA194": {
         "scrollOrigin": "{0, 505}",
@@ -68,8 +68,8 @@
         "zoomValue": 0.5031823287158368
     },
     "CD190E3E-9BAC-4100-A609-215A307BA740": {
-        "scrollOrigin": "{-75706, -13138}",
-        "zoomValue": 18
+        "scrollOrigin": "{436, 152}",
+        "zoomValue": 0.5624476110645432
     },
     "0219A9B2-6F0C-4E3E-9021-C0642B8F3F75": {
         "scrollOrigin": "{-0, 120}",
@@ -92,8 +92,8 @@
         "zoomValue": 1
     },
     "B7608404-6BBD-46EA-9238-DF783D2F4516": {
-        "scrollOrigin": "{-3701, 563}",
-        "zoomValue": 0.5
+        "scrollOrigin": "{-9584, 446}",
+        "zoomValue": 0.7625691364791469
     },
     "F9FDF1F0-F76C-4E85-962F-96227DF6F669": {
         "scrollOrigin": "{78, -501}",
@@ -118,8 +118,10 @@
     "document": {
         "expandedLayerStylePathsInPopover": [
             "/470B037F-5BDA-4864-B378-AEBAD347603B/layer-styles/Shadow/Shadow 1",
+            "/470B037F-5BDA-4864-B378-AEBAD347603B:go-ui-library.sketch:document",
             "/470B037F-5BDA-4864-B378-AEBAD347603B/layer-styles/Context/Blue",
-            "/470B037F-5BDA-4864-B378-AEBAD347603B/layer-styles/Background/Base"
+            "/470B037F-5BDA-4864-B378-AEBAD347603B/layer-styles/Background/Base",
+            "/470B037F-5BDA-4864-B378-AEBAD347603B/layer-styles/Input/Float"
         ],
         "cloudShare": {
             "owner": {
@@ -137,23 +139,24 @@
             "isPrivate": 1,
             "shortId": "2GOzl"
         },
+        "expandedLayerStylePathsInSidebar": [],
+        "pageListHeight": 343,
         "pageListCollapsed": 0,
-        "pageListHeight": 662,
         "libraryListCollapsed": 0,
         "expandedTextStylePathsInPopover": [
-            "/470B037F-5BDA-4864-B378-AEBAD347603B/text-styles/Top/Left/Black",
-            "/470B037F-5BDA-4864-B378-AEBAD347603B/text-styles/Middle/Left/Black",
-            "/470B037F-5BDA-4864-B378-AEBAD347603B/text-styles/Top/Left",
-            "/470B037F-5BDA-4864-B378-AEBAD347603B/text-styles/Top",
-            "/470B037F-5BDA-4864-B378-AEBAD347603B/text-styles/Middle/Right/Shade",
-            "/470B037F-5BDA-4864-B378-AEBAD347603B/text-styles/Middle",
-            "/470B037F-5BDA-4864-B378-AEBAD347603B/text-styles/Middle/Center/Black"
+            "/470B037F-5BDA-4864-B378-AEBAD347603B/text-styles/Top/Center/Gray",
+            "/470B037F-5BDA-4864-B378-AEBAD347603B/text-styles/Middle/Right/Shade"
         ],
+        "expandedSymbolPathsInSidebar": [],
         "expandedSymbolPathsInPopover": []
     },
     "C654BD15-71EC-4B14-8056-5936C0A3611A": {
         "scrollOrigin": "{939, 672}",
         "zoomValue": 0.2632538569424965
+    },
+    "1A183F85-C791-425C-8CBC-61170DBC5D0C": {
+        "scrollOrigin": "{971, 698}",
+        "zoomValue": 1
     },
     "2CBBD165-9EBA-403A-8586-7B21A529B074": {
         "scrollOrigin": "{904, 50}",

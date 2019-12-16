@@ -1,5 +1,5 @@
 {
-    "commit": "70491d931efeeafbfd5274f6ea561d475b0abedb",
+    "commit": "6896e2bfdb0a2a03f745e4054a8c5fc58565f9f1",
     "pagesAndArtboards": {
         "690414CF-0915-45A8-8465-4FA8A273682F": {
             "name": "----------",
@@ -35,13 +35,20 @@
                 }
             }
         },
-        "B018BF32-445F-4A52-AB67-D56799A06481": {
-            "name": "----------",
-            "artboards": {}
-        },
         "B9BC9CB0-01A4-4451-8DBE-FDDDCFC29C3E": {
             "name": "Library",
             "artboards": {}
+        },
+        "147E46EF-ABF3-4453-9BCE-6AEE128B0510": {
+            "name": "Architecture",
+            "artboards": {
+                "535E911B-9EA1-453E-AD99-BE8FB82E0308": {
+                    "name": "2560 x 1440"
+                },
+                "031DF35F-F1B6-421B-9581-C7B2D0290346": {
+                    "name": "- Architecture"
+                }
+            }
         },
         "B373EC93-6937-44DA-8C20-E5D04B3DE010": {
             "name": "Guide",
@@ -68,16 +75,9 @@
                 }
             }
         },
-        "147E46EF-ABF3-4453-9BCE-6AEE128B0510": {
-            "name": "Architecture",
-            "artboards": {
-                "535E911B-9EA1-453E-AD99-BE8FB82E0308": {
-                    "name": "2560 x 1440"
-                },
-                "031DF35F-F1B6-421B-9581-C7B2D0290346": {
-                    "name": "- Architecture"
-                }
-            }
+        "B018BF32-445F-4A52-AB67-D56799A06481": {
+            "name": "----------",
+            "artboards": {}
         },
         "53E51EA0-56EC-4E88-A087-6DECCD7A5FAA": {
             "name": "Cover",
@@ -92,27 +92,24 @@
             "artboards": {}
         }
     },
-    "version": 121,
-    "fonts": [
-        "NunitoSans-Regular",
-        "NunitoSans-Bold"
-    ],
+    "version": 123,
+    "fonts": [],
     "compatibilityVersion": 99,
     "app": "com.bohemiancoding.sketch3",
     "autosaved": 0,
     "variant": "NONAPPSTORE",
     "created": {
-        "commit": "70491d931efeeafbfd5274f6ea561d475b0abedb",
-        "appVersion": "60.1",
-        "build": 88133,
+        "commit": "6896e2bfdb0a2a03f745e4054a8c5fc58565f9f1",
+        "appVersion": "63.1",
+        "build": 92452,
         "app": "com.bohemiancoding.sketch3",
         "compatibilityVersion": 99,
-        "version": 121,
+        "version": 123,
         "variant": "NONAPPSTORE"
     },
     "saveHistory": [
-        "NONAPPSTORE.88133"
+        "NONAPPSTORE.92452"
     ],
-    "appVersion": "60.1",
-    "build": 88133
+    "appVersion": "63.1",
+    "build": 92452
 }

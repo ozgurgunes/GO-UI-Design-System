@@ -40,8 +40,8 @@
         "zoomValue": 0.3998438110113237
     },
     "B018BF32-445F-4A52-AB67-D56799A06481": {
-        "scrollOrigin": "{638, 212}",
-        "zoomValue": 0.4364060676779463
+        "scrollOrigin": "{126, 357}",
+        "zoomValue": 0.226487747957993
     },
     "53E51EA0-56EC-4E88-A087-6DECCD7A5FAA": {
         "scrollOrigin": "{218, 189}",
@@ -52,22 +52,28 @@
         "zoomValue": 1
     },
     "document": {
-        "pageListHeight": 335,
-        "expandedLayerStylePathsInSidebar": [
-            "/BC5D1C6C-FBBD-455F-8000-A2685564A953/layer-styles/Background",
-            "/BC5D1C6C-FBBD-455F-8000-A2685564A953/layer-styles/Input",
-            "/BC5D1C6C-FBBD-455F-8000-A2685564A953/layer-styles/Shadow",
-            "/BC5D1C6C-FBBD-455F-8000-A2685564A953/layer-styles/Divider",
-            "/BC5D1C6C-FBBD-455F-8000-A2685564A953/layer-styles/Context",
-            "/BC5D1C6C-FBBD-455F-8000-A2685564A953/layer-styles/Line",
-            "/BC5D1C6C-FBBD-455F-8000-A2685564A953/layer-styles/Button",
-            "/BC5D1C6C-FBBD-455F-8000-A2685564A953/layer-styles/Frame",
-            "/BC5D1C6C-FBBD-455F-8000-A2685564A953/layer-styles/Grid",
-            "/BC5D1C6C-FBBD-455F-8000-A2685564A953/layer-styles/Gradient"
-        ],
-        "expandedSymbolPathsInSidebar": [],
-        "pageListCollapsed": 0,
         "expandedLayerStylePathsInPopover": [],
-        "libraryListCollapsed": 0
+        "expandedLayerStylePathsInSidebar": [
+            "/BC5D1C6C-FBBD-455F-8000-A2685564A953/layer-styles/Frame",
+            "/BC5D1C6C-FBBD-455F-8000-A2685564A953/layer-styles/Input",
+            "/BC5D1C6C-FBBD-455F-8000-A2685564A953/layer-styles/Background",
+            "/BC5D1C6C-FBBD-455F-8000-A2685564A953/layer-styles/Line",
+            "/BC5D1C6C-FBBD-455F-8000-A2685564A953/layer-styles/Grid",
+            "/BC5D1C6C-FBBD-455F-8000-A2685564A953/layer-styles/Shadow",
+            "/BC5D1C6C-FBBD-455F-8000-A2685564A953/layer-styles/Context",
+            "/BC5D1C6C-FBBD-455F-8000-A2685564A953/layer-styles/Button",
+            "/BC5D1C6C-FBBD-455F-8000-A2685564A953/layer-styles/Divider",
+            "/BC5D1C6C-FBBD-455F-8000-A2685564A953/layer-styles/Gradient",
+            "/BC5D1C6C-FBBD-455F-8000-A2685564A953/layer-styles/Table"
+        ],
+        "pageListHeight": 335,
+        "pageListCollapsed": 0,
+        "libraryListCollapsed": 0,
+        "expandedSymbolPathsInSidebar": [],
+        "expandedTextStylePathsInSidebar": [
+            "/BC5D1C6C-FBBD-455F-8000-A2685564A953/text-styles/Top",
+            "/BC5D1C6C-FBBD-455F-8000-A2685564A953/text-styles/Bottom",
+            "/BC5D1C6C-FBBD-455F-8000-A2685564A953/text-styles/Middle"
+        ]
     }
 }
