@@ -152,60 +152,7 @@
                     "blendMode": 0,
                     "opacity": 1
                 },
-                "fills": [
-                    {
-                        "_class": "fill",
-                        "isEnabled": true,
-                        "fillType": 0,
-                        "color": {
-                            "_class": "color",
-                            "alpha": 1,
-                            "blue": 1,
-                            "green": 1,
-                            "red": 1
-                        },
-                        "contextSettings": {
-                            "_class": "graphicsContextSettings",
-                            "blendMode": 0,
-                            "opacity": 1
-                        },
-                        "gradient": {
-                            "_class": "gradient",
-                            "elipseLength": 0,
-                            "from": "{0.5, 0}",
-                            "gradientType": 0,
-                            "to": "{0.5, 1}",
-                            "stops": [
-                                {
-                                    "_class": "gradientStop",
-                                    "position": 0,
-                                    "color": {
-                                        "_class": "color",
-                                        "alpha": 1,
-                                        "blue": 1,
-                                        "green": 1,
-                                        "red": 1
-                                    }
-                                },
-                                {
-                                    "_class": "gradientStop",
-                                    "position": 1,
-                                    "color": {
-                                        "_class": "color",
-                                        "alpha": 1,
-                                        "blue": 0,
-                                        "green": 0,
-                                        "red": 0
-                                    }
-                                }
-                            ]
-                        },
-                        "noiseIndex": 0,
-                        "noiseIntensity": 0,
-                        "patternFillType": 1,
-                        "patternTileScale": 1
-                    }
-                ],
+                "fills": [],
                 "innerShadows": [],
                 "shadows": []
             },
@@ -452,11 +399,11 @@
             "includeInCloudUpload": true,
             "isFlowHome": false,
             "presetDictionary": {
-                "height": 1080,
+                "allowResizedMatching": 0,
                 "offersLandscapeVariant": 0,
                 "width": 1920,
                 "name": "Apple TV",
-                "allowResizedMatching": 0
+                "height": 1080
             },
             "resizesContent": true,
             "backgroundColor": {

@@ -166,11 +166,11 @@
             "includeInCloudUpload": true,
             "isFlowHome": false,
             "presetDictionary": {
-                "height": 568,
+                "allowResizedMatching": 1,
                 "offersLandscapeVariant": 1,
                 "width": 320,
                 "name": "iPhone SE",
-                "allowResizedMatching": 1
+                "height": 568
             },
             "resizesContent": true,
             "backgroundColor": {

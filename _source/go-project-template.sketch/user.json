@@ -40,8 +40,8 @@
         "zoomValue": 0.5853035143769968
     },
     "B018BF32-445F-4A52-AB67-D56799A06481": {
-        "scrollOrigin": "{167, 363}",
-        "zoomValue": 0.2137689614935823
+        "scrollOrigin": "{507, -1353}",
+        "zoomValue": 1
     },
     "53E51EA0-56EC-4E88-A087-6DECCD7A5FAA": {
         "scrollOrigin": "{34, 176}",
@@ -52,7 +52,7 @@
         "zoomValue": 1
     },
     "document": {
-        "pageListHeight": 335,
+        "pageListHeight": 375,
         "expandedLayerStylePathsInSidebar": [
             "/BC5D1C6C-FBBD-455F-8000-A2685564A953/layer-styles/Background",
             "/BC5D1C6C-FBBD-455F-8000-A2685564A953/layer-styles/Input",

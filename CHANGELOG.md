@@ -2,6 +2,18 @@
 
 System is being improved and fixed frequently. Here is the list of what have been done:
 
+## Version 0.3 (14.8.2020)
+
+* Atomic Design naming convention.
+* Some symbols using smart layout.
+* Checked with Sketch Assistants. 
+* RSS link added to use library by Dropbox public link.
+* Added some new symbols and styles.
+
+## Version 0.2 (10.12.2019)
+
+* Some improvements and fixes. 
+
 ## Version 0.1 (15.9.2019)
 
 * Git repo initialized. 
