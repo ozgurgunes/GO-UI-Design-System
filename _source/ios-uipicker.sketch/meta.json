@@ -1,5 +1,5 @@
 {
-    "commit": "114d9f420fc7d6eb556b8b3a94b7c317265edafe",
+    "commit": "b8d760a693f3ff71b33f7022984623f12a40390c",
     "pagesAndArtboards": {
         "51B9A0DC-E664-43C0-BE39-EE931B6C25A5": {
             "name": "Time",
@@ -174,63 +174,29 @@
                     "name": "-- Date - Plus 3"
                 }
             }
-        },
-        "369E6387-A7E6-4924-BEBB-262BF4F77E16": {
-            "name": "Single Copy",
-            "artboards": {
-                "55FF60A2-D84E-482F-971D-63FFE54382F0": {
-                    "name": "Months UIpickerview"
-                },
-                "3D7A525A-7B54-4DA9-BE61-75FB88329FAB": {
-                    "name": "-- Single - Plus 2"
-                },
-                "5EF080A7-E1E3-439B-BC11-1C63328C4CBB": {
-                    "name": "-- Single - Minus 3"
-                },
-                "A50BD13F-2C01-484B-B15C-6426A4BD0272": {
-                    "name": "-- Single - Current Selection"
-                },
-                "662D2718-72B2-4F4C-ABE1-0AFD5115A7DC": {
-                    "name": "-- Single - Plus 3"
-                },
-                "693651FB-DC76-41BE-9C26-F82CB3269E13": {
-                    "name": "-- Single - Plus 1"
-                },
-                "7505512A-AF5A-4ABA-B92C-BDC756993DAE": {
-                    "name": "-- Single - Minus 1"
-                },
-                "BBF9B424-DF38-416D-A7A9-5C20AD9ACB8E": {
-                    "name": "-- Single - Plus 4"
-                },
-                "8A7A7273-C3A3-4E23-96D4-C5024D7D31B5": {
-                    "name": "-- Single - Minus 2"
-                },
-                "0AE470D0-367F-4F99-960C-2954231D3A97": {
-                    "name": "-- Single - Minus 4"
-                }
-            }
         }
     },
-    "version": 125,
+    "version": 131,
     "fonts": [
-        "SFProText-Regular"
+        "SFProText-Regular",
+        "SFProText-Semibold"
     ],
     "compatibilityVersion": 99,
     "app": "com.bohemiancoding.sketch3",
-    "autosaved": 1,
+    "autosaved": 0,
     "variant": "NONAPPSTORE",
     "created": {
-        "commit": "114d9f420fc7d6eb556b8b3a94b7c317265edafe",
-        "appVersion": "64",
-        "build": 93537,
+        "commit": "b8d760a693f3ff71b33f7022984623f12a40390c",
+        "appVersion": "68",
+        "build": 102490,
         "app": "com.bohemiancoding.sketch3",
         "compatibilityVersion": 99,
-        "version": 125,
+        "version": 131,
         "variant": "NONAPPSTORE"
     },
     "saveHistory": [
-        "NONAPPSTORE.93537"
+        "NONAPPSTORE.102490"
     ],
-    "appVersion": "64",
-    "build": 93537
+    "appVersion": "68",
+    "build": 102490
 }

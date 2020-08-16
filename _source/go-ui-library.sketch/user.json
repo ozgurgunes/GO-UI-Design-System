@@ -1,7 +1,7 @@
 {
     "C09023E4-E1BF-4BF7-8798-5C240AAEF026": {
-        "scrollOrigin": "{239, 139}",
-        "zoomValue": 5.576
+        "scrollOrigin": "{833, 597}",
+        "zoomValue": 1
     },
     "FBFF5DEE-B523-4923-9FE7-618B5F5D1381": {
         "scrollOrigin": "{939, 672}",
@@ -12,16 +12,16 @@
         "zoomValue": 0.305941270202595
     },
     "3F68ACDF-0B48-4C9A-8DED-475A144D8781": {
-        "scrollOrigin": "{2, 382}",
-        "zoomValue": 0.09566473988439306
+        "scrollOrigin": "{2, 394}",
+        "zoomValue": 0.09210019267822736
     },
     "BB8348B6-BE02-4A9A-8B4C-059DB964DAAE": {
         "scrollOrigin": "{805, 615}",
         "zoomValue": 1
     },
     "A3AA90D9-830A-4E81-9D1B-3F7DE28A4BF0": {
-        "scrollOrigin": "{2, 514}",
-        "zoomValue": 0.09686859818554287
+        "scrollOrigin": "{2, 509}",
+        "zoomValue": 0.09940400170285227
     },
     "C739B898-E28B-4F61-A2FA-FB0A825CFE25": {
         "scrollOrigin": "{70, 376}",
@@ -44,8 +44,8 @@
         "zoomValue": 1
     },
     "BE285DE0-154A-4F3B-882C-8F46F82C2694": {
-        "scrollOrigin": "{4, 95}",
-        "zoomValue": 0.1675949367088607
+        "scrollOrigin": "{4, 130}",
+        "zoomValue": 0.1576371308016878
     },
     "496804D2-8291-486C-8729-0B132CCCA194": {
         "scrollOrigin": "{0, 505}",
@@ -68,8 +68,8 @@
         "zoomValue": 0.5031823287158368
     },
     "CD190E3E-9BAC-4100-A609-215A307BA740": {
-        "scrollOrigin": "{51, 45}",
-        "zoomValue": 0.2890916632102862
+        "scrollOrigin": "{7, 56}",
+        "zoomValue": 0.2844092570036541
     },
     "0219A9B2-6F0C-4E3E-9021-C0642B8F3F75": {
         "scrollOrigin": "{-0, 120}",
@@ -92,8 +92,8 @@
         "zoomValue": 1
     },
     "B7608404-6BBD-46EA-9238-DF783D2F4516": {
-        "scrollOrigin": "{2, 568}",
-        "zoomValue": 0.09895859285465146
+        "scrollOrigin": "{2, 575}",
+        "zoomValue": 0.09307887787134386
     },
     "F9FDF1F0-F76C-4E85-962F-96227DF6F669": {
         "scrollOrigin": "{78, -501}",
@@ -141,15 +141,142 @@
         },
         "componentSidebarTreeStructure": 0,
         "expandedLayerStylePathsInSidebar": [],
-        "pageListHeight": 384,
+        "pageListHeight": 477.5,
         "pageListCollapsed": 0,
         "libraryListCollapsed": 0,
         "expandedTextStylePathsInPopover": [
             "/470B037F-5BDA-4864-B378-AEBAD347603B/text-styles/Top/Center/Gray",
             "/470B037F-5BDA-4864-B378-AEBAD347603B/text-styles/Middle/Right/Shade"
         ],
-        "expandedSymbolPathsInSidebar": [],
-        "expandedSymbolPathsInPopover": []
+        "expandedSymbolPathsInSidebar": [
+            "/470B037F-5BDA-4864-B378-AEBAD347603B/symbols/1 - Atoms",
+            "/470B037F-5BDA-4864-B378-AEBAD347603B/symbols/3 - Organisms",
+            "/470B037F-5BDA-4864-B378-AEBAD347603B/symbols/4 - Templates",
+            "/470B037F-5BDA-4864-B378-AEBAD347603B/symbols/5 - Guides",
+            "/470B037F-5BDA-4864-B378-AEBAD347603B/symbols/2 - Molecules"
+        ],
+        "expandedSymbolPathsInPopover": [],
+        "expandedTextStylePathsInSidebar": [
+            "/470B037F-5BDA-4864-B378-AEBAD347603B/text-styles/4. Spec/Display/Center",
+            "/470B037F-5BDA-4864-B378-AEBAD347603B/text-styles/2 - Middle/Left/Cyan",
+            "/470B037F-5BDA-4864-B378-AEBAD347603B/text-styles/1 - Top/Left/Green",
+            "/470B037F-5BDA-4864-B378-AEBAD347603B/text-styles/4. Spec/Display/Right",
+            "/470B037F-5BDA-4864-B378-AEBAD347603B/text-styles/4. Misc/Title/Right",
+            "/470B037F-5BDA-4864-B378-AEBAD347603B/text-styles/1 - Top/Center/Shade 1",
+            "/470B037F-5BDA-4864-B378-AEBAD347603B/text-styles/1 - Top/Center/White",
+            "/470B037F-5BDA-4864-B378-AEBAD347603B/text-styles/1 - Top/Center/Magenta",
+            "/470B037F-5BDA-4864-B378-AEBAD347603B/text-styles/2 - Middle/Right/Shade 1",
+            "/470B037F-5BDA-4864-B378-AEBAD347603B/text-styles/3 - Bottom/Center/White",
+            "/470B037F-5BDA-4864-B378-AEBAD347603B/text-styles/2 - Middle/Left/Black",
+            "/470B037F-5BDA-4864-B378-AEBAD347603B/text-styles/_Spec/iOS",
+            "/470B037F-5BDA-4864-B378-AEBAD347603B/text-styles/_Spec/Sketch",
+            "/470B037F-5BDA-4864-B378-AEBAD347603B/text-styles/1 - Top/Right/Green",
+            "/470B037F-5BDA-4864-B378-AEBAD347603B/text-styles/1 - Top/Right/Tint 1",
+            "/470B037F-5BDA-4864-B378-AEBAD347603B/text-styles/2 - Middle/Right/White",
+            "/470B037F-5BDA-4864-B378-AEBAD347603B/text-styles/3 - Bottom/Center/Green",
+            "/470B037F-5BDA-4864-B378-AEBAD347603B/text-styles/2 - Middle/Right/Tint 1",
+            "/470B037F-5BDA-4864-B378-AEBAD347603B/text-styles/1 - Top/Left/Black",
+            "/470B037F-5BDA-4864-B378-AEBAD347603B/text-styles/4. Spec/Display/Center/White",
+            "/470B037F-5BDA-4864-B378-AEBAD347603B/text-styles/1 - Top/Center/Shade 2",
+            "/470B037F-5BDA-4864-B378-AEBAD347603B/text-styles/2 - Middle/Center/Cyan",
+            "/470B037F-5BDA-4864-B378-AEBAD347603B/text-styles/2 - Middle/Left/Magenta",
+            "/470B037F-5BDA-4864-B378-AEBAD347603B/text-styles/2 - Middle/Center/Blue",
+            "/470B037F-5BDA-4864-B378-AEBAD347603B/text-styles/1 - Top/Center/White/Body",
+            "/470B037F-5BDA-4864-B378-AEBAD347603B/text-styles/_Spec/Article",
+            "/470B037F-5BDA-4864-B378-AEBAD347603B/text-styles/1 - Top/Left/Cyan",
+            "/470B037F-5BDA-4864-B378-AEBAD347603B/text-styles/1 - Top/Right/Shade 1",
+            "/470B037F-5BDA-4864-B378-AEBAD347603B/text-styles/2 - Middle/Left/Blue",
+            "/470B037F-5BDA-4864-B378-AEBAD347603B/text-styles/2. Middle",
+            "/470B037F-5BDA-4864-B378-AEBAD347603B/text-styles/3 - Bottom/Center/Magenta",
+            "/470B037F-5BDA-4864-B378-AEBAD347603B/text-styles/1 - Top/Left/Magenta",
+            "/470B037F-5BDA-4864-B378-AEBAD347603B/text-styles/2 - Middle/Left/White",
+            "/470B037F-5BDA-4864-B378-AEBAD347603B/text-styles/2 - Middle/Center/Tint 1",
+            "/470B037F-5BDA-4864-B378-AEBAD347603B/text-styles/1 - Top/Left/Tint 1",
+            "/470B037F-5BDA-4864-B378-AEBAD347603B/text-styles/3 - Bottom/Center/Black",
+            "/470B037F-5BDA-4864-B378-AEBAD347603B/text-styles/4. Spec/Display/Center/Black",
+            "/470B037F-5BDA-4864-B378-AEBAD347603B/text-styles/2 - Middle/Left/Tint 2",
+            "/470B037F-5BDA-4864-B378-AEBAD347603B/text-styles/2 - Middle/Left/Shade 1",
+            "/470B037F-5BDA-4864-B378-AEBAD347603B/text-styles/1 - Top/Right/Yellow",
+            "/470B037F-5BDA-4864-B378-AEBAD347603B/text-styles/1 - Top/Center/Green",
+            "/470B037F-5BDA-4864-B378-AEBAD347603B/text-styles/1. Top",
+            "/470B037F-5BDA-4864-B378-AEBAD347603B/text-styles/4. Misc/Article",
+            "/470B037F-5BDA-4864-B378-AEBAD347603B/text-styles/4. Misc/Title/Left",
+            "/470B037F-5BDA-4864-B378-AEBAD347603B/text-styles/2 - Middle/Left/Gray",
+            "/470B037F-5BDA-4864-B378-AEBAD347603B/text-styles/2 - Middle/Right/Shade 2",
+            "/470B037F-5BDA-4864-B378-AEBAD347603B/text-styles/2 - Middle/Right/Tint 2",
+            "/470B037F-5BDA-4864-B378-AEBAD347603B/text-styles/3 - Bottom/Center/Shade 2",
+            "/470B037F-5BDA-4864-B378-AEBAD347603B/text-styles/_Spec/Guide",
+            "/470B037F-5BDA-4864-B378-AEBAD347603B/text-styles/2 - Middle/Left/Red",
+            "/470B037F-5BDA-4864-B378-AEBAD347603B/text-styles/1 - Top/Center/Black",
+            "/470B037F-5BDA-4864-B378-AEBAD347603B/text-styles/2 - Middle/Right/Green",
+            "/470B037F-5BDA-4864-B378-AEBAD347603B/text-styles/3 - Bottom/Center/Tint 1",
+            "/470B037F-5BDA-4864-B378-AEBAD347603B/text-styles/4. Spec/Guide",
+            "/470B037F-5BDA-4864-B378-AEBAD347603B/text-styles/1 - Top/Left/White",
+            "/470B037F-5BDA-4864-B378-AEBAD347603B/text-styles/1 - Top/Right/Shade 2",
+            "/470B037F-5BDA-4864-B378-AEBAD347603B/text-styles/1 - Top/Left/Gray",
+            "/470B037F-5BDA-4864-B378-AEBAD347603B/text-styles/_Spec/Icon",
+            "/470B037F-5BDA-4864-B378-AEBAD347603B/text-styles/1 - Top/Center/Red",
+            "/470B037F-5BDA-4864-B378-AEBAD347603B/text-styles/1 - Top/Right/Gray",
+            "/470B037F-5BDA-4864-B378-AEBAD347603B/text-styles/1 - Top/Right/Tint 2",
+            "/470B037F-5BDA-4864-B378-AEBAD347603B/text-styles/1 - Top/Center/Yellow",
+            "/470B037F-5BDA-4864-B378-AEBAD347603B/text-styles/2 - Middle/Center/Gray",
+            "/470B037F-5BDA-4864-B378-AEBAD347603B/text-styles/2 - Middle/Right/Red",
+            "/470B037F-5BDA-4864-B378-AEBAD347603B/text-styles/_Spec/Material",
+            "/470B037F-5BDA-4864-B378-AEBAD347603B/text-styles/2 - Middle/Right/Black",
+            "/470B037F-5BDA-4864-B378-AEBAD347603B/text-styles/2 - Middle/Center/Green",
+            "/470B037F-5BDA-4864-B378-AEBAD347603B/text-styles/2 - Middle/Right/Blue",
+            "/470B037F-5BDA-4864-B378-AEBAD347603B/text-styles/2 - Middle/Center/Red",
+            "/470B037F-5BDA-4864-B378-AEBAD347603B/text-styles/1 - Top/Center/Gray",
+            "/470B037F-5BDA-4864-B378-AEBAD347603B/text-styles/1 - Top/Center/Tint 1",
+            "/470B037F-5BDA-4864-B378-AEBAD347603B/text-styles/1 - Top/Left/Tint 2",
+            "/470B037F-5BDA-4864-B378-AEBAD347603B/text-styles/2 - Middle/Center/Tint 2",
+            "/470B037F-5BDA-4864-B378-AEBAD347603B/text-styles/1 - Top/Left/Red",
+            "/470B037F-5BDA-4864-B378-AEBAD347603B/text-styles/1 - Top/Right/White",
+            "/470B037F-5BDA-4864-B378-AEBAD347603B/text-styles/1 - Top/Left/Blue",
+            "/470B037F-5BDA-4864-B378-AEBAD347603B/text-styles/2 - Middle/Center/White",
+            "/470B037F-5BDA-4864-B378-AEBAD347603B/text-styles/2 - Middle/Left/Shade 2",
+            "/470B037F-5BDA-4864-B378-AEBAD347603B/text-styles/4. Spec/Article",
+            "/470B037F-5BDA-4864-B378-AEBAD347603B/text-styles/1 - Top/Left/Shade 1",
+            "/470B037F-5BDA-4864-B378-AEBAD347603B/text-styles/1 - Top/Left/Yellow",
+            "/470B037F-5BDA-4864-B378-AEBAD347603B/text-styles/1 - Top",
+            "/470B037F-5BDA-4864-B378-AEBAD347603B/text-styles/1 - Top/Left/Shade 2",
+            "/470B037F-5BDA-4864-B378-AEBAD347603B/text-styles/3 - Bottom/Center/Shade 1",
+            "/470B037F-5BDA-4864-B378-AEBAD347603B/text-styles/2 - Middle/Center/Magenta",
+            "/470B037F-5BDA-4864-B378-AEBAD347603B/text-styles/_Spec",
+            "/470B037F-5BDA-4864-B378-AEBAD347603B/text-styles/2 - Middle/Left/Green",
+            "/470B037F-5BDA-4864-B378-AEBAD347603B/text-styles/3 - Bottom/Center/Blue",
+            "/470B037F-5BDA-4864-B378-AEBAD347603B/text-styles/1 - Top/Right/Cyan",
+            "/470B037F-5BDA-4864-B378-AEBAD347603B/text-styles/4. Misc/Guide",
+            "/470B037F-5BDA-4864-B378-AEBAD347603B/text-styles/4. Misc/Title/Center",
+            "/470B037F-5BDA-4864-B378-AEBAD347603B/text-styles/4. Misc/Icon",
+            "/470B037F-5BDA-4864-B378-AEBAD347603B/text-styles/2 - Middle/Right/Magenta",
+            "/470B037F-5BDA-4864-B378-AEBAD347603B/text-styles/2 - Middle/Center/Black",
+            "/470B037F-5BDA-4864-B378-AEBAD347603B/text-styles/2 - Middle/Center/Yellow",
+            "/470B037F-5BDA-4864-B378-AEBAD347603B/text-styles/3 - Bottom/Center/Gray",
+            "/470B037F-5BDA-4864-B378-AEBAD347603B/text-styles/3 - Bottom/Center/Tint 2",
+            "/470B037F-5BDA-4864-B378-AEBAD347603B/text-styles/_Spec/Display",
+            "/470B037F-5BDA-4864-B378-AEBAD347603B/text-styles/2 - Middle/Left/Tint 1",
+            "/470B037F-5BDA-4864-B378-AEBAD347603B/text-styles/3. Bottom",
+            "/470B037F-5BDA-4864-B378-AEBAD347603B/text-styles/2 - Middle/Center/Shade 1",
+            "/470B037F-5BDA-4864-B378-AEBAD347603B/text-styles/1 - Top/Center/Blue",
+            "/470B037F-5BDA-4864-B378-AEBAD347603B/text-styles/1 - Top/Center/Cyan",
+            "/470B037F-5BDA-4864-B378-AEBAD347603B/text-styles/2 - Middle/Right/Yellow",
+            "/470B037F-5BDA-4864-B378-AEBAD347603B/text-styles/1 - Top/Right/Magenta",
+            "/470B037F-5BDA-4864-B378-AEBAD347603B/text-styles/2 - Middle/Right/Gray",
+            "/470B037F-5BDA-4864-B378-AEBAD347603B/text-styles/4. Spec/Display",
+            "/470B037F-5BDA-4864-B378-AEBAD347603B/text-styles/3 - Bottom/Center/Red",
+            "/470B037F-5BDA-4864-B378-AEBAD347603B/text-styles/3 - Bottom/Center/Yellow",
+            "/470B037F-5BDA-4864-B378-AEBAD347603B/text-styles/1 - Top/Right/Red",
+            "/470B037F-5BDA-4864-B378-AEBAD347603B/text-styles/2 - Middle/Left/Yellow",
+            "/470B037F-5BDA-4864-B378-AEBAD347603B/text-styles/1 - Top/Center/Tint 2",
+            "/470B037F-5BDA-4864-B378-AEBAD347603B/text-styles/2 - Middle/Center",
+            "/470B037F-5BDA-4864-B378-AEBAD347603B/text-styles/4. Spec/Icon",
+            "/470B037F-5BDA-4864-B378-AEBAD347603B/text-styles/2 - Middle/Right/Cyan",
+            "/470B037F-5BDA-4864-B378-AEBAD347603B/text-styles/2 - Middle/Center/Shade 2",
+            "/470B037F-5BDA-4864-B378-AEBAD347603B/text-styles/3 - Bottom/Center/Cyan",
+            "/470B037F-5BDA-4864-B378-AEBAD347603B/text-styles/1 - Top/Right/Blue",
+            "/470B037F-5BDA-4864-B378-AEBAD347603B/text-styles/4. Spec/Display/Left"
+        ]
     },
     "C654BD15-71EC-4B14-8056-5936C0A3611A": {
         "scrollOrigin": "{939, 672}",
@@ -164,7 +291,7 @@
         "zoomValue": 0.3806287170773152
     },
     "3E31F239-C0B3-46C7-B4A4-B704FB3C3325": {
-        "scrollOrigin": "{814, 660}",
+        "scrollOrigin": "{277, -238}",
         "zoomValue": 1
     },
     "4DD6BB32-4A62-402C-B140-6C51138A3BCB": {

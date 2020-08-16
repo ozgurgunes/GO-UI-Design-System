@@ -2,6 +2,12 @@
 
 System is being improved and fixed frequently. Here is the list of what have been done:
 
+## Version 0.4 (17.8.2020)
+
+* Semantic text styles naming.
+* Additional font weights.
+* Additional gradient styles.
+
 ## Version 0.3 (14.8.2020)
 
 * Atomic Design naming convention.

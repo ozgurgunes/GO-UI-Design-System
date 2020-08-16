@@ -94,10 +94,15 @@
     },
     "version": 131,
     "fonts": [
-        "NunitoSans-Regular",
-        "NunitoSans-SemiBold",
         "NunitoSans-Light",
-        "NunitoSans-Bold"
+        "Merriweather-Regular",
+        "FontAwesome5Pro-Solid",
+        "PTMono-Regular",
+        "NunitoSans-Bold",
+        "NunitoSans-Regular",
+        "NunitoSans-LightItalic",
+        "NunitoSans-Black",
+        "LucidaGrande"
     ],
     "compatibilityVersion": 99,
     "app": "com.bohemiancoding.sketch3",

@@ -2,7 +2,7 @@
     "_class": "document",
     "do_objectID": "5E3F2D5C-CF80-4392-AAF3-C171DC73FEC8",
     "colorSpace": 0,
-    "currentPageIndex": 4,
+    "currentPageIndex": 0,
     "userInfo": {
         "com.invisionlabs.sync": {
             "metadata": "{\"hasSynced\":0,\"hasProjectIdChanged\":0,\"projectId\":0,\"publicLink\":\"\",\"resolution\":2,\"syncAll\":1}"
@@ -22,7 +22,190 @@
         "colors": [],
         "gradients": []
     },
+    "fontReferences": [
+        {
+            "_class": "fontReference",
+            "do_objectID": "16725515-DD48-42A3-A5AA-969DF831A351",
+            "fontFamilyName": "SF Pro Text",
+            "fontFileName": "SF-Pro-Text-RegularItalic.otf",
+            "options": 0,
+            "postscriptNames": [
+                "SFProText-RegularItalic"
+            ]
+        },
+        {
+            "_class": "fontReference",
+            "do_objectID": "17F3AADC-C8A3-46A3-81EF-6F6F6820C19E",
+            "fontFamilyName": "SF Pro Text",
+            "fontFileName": "SF-Pro-Text-LightItalic.otf",
+            "options": 0,
+            "postscriptNames": [
+                "SFProText-LightItalic"
+            ]
+        },
+        {
+            "_class": "fontReference",
+            "do_objectID": "3ED65D89-C434-4F84-999B-39C7D8745A75",
+            "fontFamilyName": "SF Pro Text",
+            "fontFileName": "SF-Pro-Text-Semibold.otf",
+            "options": 2,
+            "postscriptNames": [
+                "SFProText-Semibold"
+            ]
+        },
+        {
+            "_class": "fontReference",
+            "do_objectID": "48A7BA38-6253-4A37-A646-BA7F4621057E",
+            "fontFamilyName": "SF Pro Text",
+            "fontFileName": "SF-Pro-Text-Bold.otf",
+            "options": 0,
+            "postscriptNames": [
+                "SFProText-Bold"
+            ]
+        },
+        {
+            "_class": "fontReference",
+            "do_objectID": "6101401D-38CA-4320-B320-E48463423003",
+            "fontFamilyName": "SF Pro Text",
+            "fontFileName": "SF-Pro-Text-HeavyItalic.otf",
+            "options": 0,
+            "postscriptNames": [
+                "SFProText-HeavyItalic"
+            ]
+        },
+        {
+            "_class": "fontReference",
+            "do_objectID": "667A2FB9-9DFB-45CE-AEB3-65B273308DFC",
+            "fontFamilyName": "SF Pro Text",
+            "fontFileName": "SF-Pro-Text-Heavy.otf",
+            "options": 0,
+            "postscriptNames": [
+                "SFProText-Heavy"
+            ]
+        },
+        {
+            "_class": "fontReference",
+            "do_objectID": "6BE5A1CF-94A4-42BB-97E2-DABD37A52F43",
+            "fontFamilyName": "SF Pro Text",
+            "fontFileName": "SF-Pro-Text-SemiboldItalic.otf",
+            "options": 0,
+            "postscriptNames": [
+                "SFProText-SemiboldItalic"
+            ]
+        },
+        {
+            "_class": "fontReference",
+            "do_objectID": "7FBCDDC5-FA3E-4631-9F09-4F1933ADAFC2",
+            "fontFamilyName": "SF Pro Text",
+            "fontFileName": "SF-Pro-Text-Medium.otf",
+            "options": 0,
+            "postscriptNames": [
+                "SFProText-Medium"
+            ]
+        },
+        {
+            "_class": "fontReference",
+            "do_objectID": "8E4D73E6-ED3D-44EA-B1DF-D15192219452",
+            "fontFamilyName": "SF Pro Text",
+            "fontFileName": "SF-Pro-Text-UltralightItalic.otf",
+            "options": 0,
+            "postscriptNames": [
+                "SFProText-UltralightItalic"
+            ]
+        },
+        {
+            "_class": "fontReference",
+            "do_objectID": "9B2EDC64-1AB6-4A3D-8971-2ACED653C78B",
+            "fontFamilyName": "SF Pro Text",
+            "fontFileName": "SF-Pro-Text-MediumItalic.otf",
+            "options": 0,
+            "postscriptNames": [
+                "SFProText-MediumItalic"
+            ]
+        },
+        {
+            "_class": "fontReference",
+            "do_objectID": "A6CC7B32-A076-4917-917B-7F5B4E2718E4",
+            "fontFamilyName": "SF Pro Text",
+            "fontFileName": "SF-Pro-Text-Regular.otf",
+            "options": 2,
+            "postscriptNames": [
+                "SFProText-Regular"
+            ]
+        },
+        {
+            "_class": "fontReference",
+            "do_objectID": "B648C7E7-763A-4F3D-8435-0A713E496653",
+            "fontFamilyName": "SF Pro Text",
+            "fontFileName": "SF-Pro-Text-Thin.otf",
+            "options": 0,
+            "postscriptNames": [
+                "SFProText-Thin"
+            ]
+        },
+        {
+            "_class": "fontReference",
+            "do_objectID": "CD1F4BFC-DF6A-435F-B6D8-99F7E88D0AC2",
+            "fontFamilyName": "SF Pro Text",
+            "fontFileName": "SF-Pro-Text-Light.otf",
+            "options": 0,
+            "postscriptNames": [
+                "SFProText-Light"
+            ]
+        },
+        {
+            "_class": "fontReference",
+            "do_objectID": "E4CDD413-2333-4B6B-B2B1-861CFA0B7ECA",
+            "fontFamilyName": "SF Pro Text",
+            "fontFileName": "SF-Pro-Text-ThinItalic.otf",
+            "options": 0,
+            "postscriptNames": [
+                "SFProText-ThinItalic"
+            ]
+        },
+        {
+            "_class": "fontReference",
+            "do_objectID": "E631D08F-F81D-4B1E-97B2-A801C7AF3115",
+            "fontFamilyName": "SF Pro Text",
+            "fontFileName": "SF-Pro-Text-Ultralight.otf",
+            "options": 0,
+            "postscriptNames": [
+                "SFProText-Ultralight"
+            ]
+        },
+        {
+            "_class": "fontReference",
+            "do_objectID": "E8D15741-6662-4293-AC3A-BF2B0C5DE496",
+            "fontFamilyName": "SF Pro Text",
+            "fontFileName": "SF-Pro-Text-Black.otf",
+            "options": 0,
+            "postscriptNames": [
+                "SFProText-Black"
+            ]
+        },
+        {
+            "_class": "fontReference",
+            "do_objectID": "F5C20A56-5AF7-4762-8728-953FB750DE5F",
+            "fontFamilyName": "SF Pro Text",
+            "fontFileName": "SF-Pro-Text-BlackItalic.otf",
+            "options": 0,
+            "postscriptNames": [
+                "SFProText-BlackItalic"
+            ]
+        },
+        {
+            "_class": "fontReference",
+            "do_objectID": "FEAB383F-29F2-437A-BAF1-9013C9D7DF29",
+            "fontFamilyName": "SF Pro Text",
+            "fontFileName": "SF-Pro-Text-BoldItalic.otf",
+            "options": 0,
+            "postscriptNames": [
+                "SFProText-BoldItalic"
+            ]
+        }
+    ],
     "foreignLayerStyles": [],
+    "foreignSwatches": [],
     "foreignSymbols": [
         {
             "_class": "MSImmutableForeignSymbol",
@@ -40,7 +223,7 @@
                 "isLocked": false,
                 "isVisible": true,
                 "layerListExpandedType": 1,
-                "name": "Controls / Date Picker / Light - Date and Time",
+                "name": "Controls/Date Picker/Light - Date and Time",
                 "nameIsFixed": true,
                 "resizingConstraint": 63,
                 "resizingType": 0,
@@ -271,7 +454,7 @@
                 },
                 "includeBackgroundColorInInstance": true,
                 "symbolID": "926356E6-985A-4125-9296-A9189C199BBA",
-                "changeIdentifier": 1559,
+                "changeIdentifier": 1561,
                 "overrideProperties": [
                     {
                         "_class": "MSImmutableOverrideProperty",
@@ -291,7 +474,7 @@
                 "isLocked": false,
                 "isVisible": true,
                 "layerListExpandedType": 1,
-                "name": "Controls / Date Picker / Light - Date and Time",
+                "name": "Controls/Date Picker/Light - Date and Time",
                 "nameIsFixed": true,
                 "resizingConstraint": 63,
                 "resizingType": 0,
@@ -522,7 +705,7 @@
                 },
                 "includeBackgroundColorInInstance": true,
                 "symbolID": "959D630A-196B-4385-BE69-4AAC769C6B4F",
-                "changeIdentifier": 1559,
+                "changeIdentifier": 1561,
                 "overrideProperties": [
                     {
                         "_class": "MSImmutableOverrideProperty",
@@ -549,7 +732,7 @@
                 "isLocked": false,
                 "isVisible": true,
                 "layerListExpandedType": 1,
-                "name": "Controls / Date Picker / Light - Date",
+                "name": "Controls/Date Picker/Light - Date",
                 "nameIsFixed": true,
                 "resizingConstraint": 63,
                 "resizingType": 0,
@@ -780,7 +963,7 @@
                 },
                 "includeBackgroundColorInInstance": true,
                 "symbolID": "61482238-4E7D-45CD-A256-EFF15529CCEC",
-                "changeIdentifier": 1448,
+                "changeIdentifier": 1450,
                 "overrideProperties": [
                     {
                         "_class": "MSImmutableOverrideProperty",
@@ -800,7 +983,7 @@
                 "isLocked": false,
                 "isVisible": true,
                 "layerListExpandedType": 1,
-                "name": "Controls / Date Picker / Light - Date",
+                "name": "Controls/Date Picker/Light - Date",
                 "nameIsFixed": true,
                 "resizingConstraint": 63,
                 "resizingType": 0,
@@ -1031,7 +1214,7 @@
                 },
                 "includeBackgroundColorInInstance": true,
                 "symbolID": "14317A20-D9E6-455D-A4DD-CB800E540FCF",
-                "changeIdentifier": 1448,
+                "changeIdentifier": 1450,
                 "overrideProperties": [
                     {
                         "_class": "MSImmutableOverrideProperty",
@@ -1058,7 +1241,7 @@
                 "isLocked": false,
                 "isVisible": true,
                 "layerListExpandedType": 1,
-                "name": "Controls / Date Picker / Light - Time",
+                "name": "Controls/Date Picker/Light - Time",
                 "nameIsFixed": true,
                 "resizingConstraint": 63,
                 "resizingType": 0,
@@ -1289,7 +1472,7 @@
                 },
                 "includeBackgroundColorInInstance": true,
                 "symbolID": "A9881AF7-837A-44B6-96B1-FE2F61F8EC73",
-                "changeIdentifier": 1695,
+                "changeIdentifier": 1697,
                 "overrideProperties": [
                     {
                         "_class": "MSImmutableOverrideProperty",
@@ -1309,7 +1492,7 @@
                 "isLocked": false,
                 "isVisible": true,
                 "layerListExpandedType": 1,
-                "name": "Controls / Date Picker / Light - Time",
+                "name": "Controls/Date Picker/Light - Time",
                 "nameIsFixed": true,
                 "resizingConstraint": 63,
                 "resizingType": 0,
@@ -1540,7 +1723,7 @@
                 },
                 "includeBackgroundColorInInstance": true,
                 "symbolID": "94CA976C-9F2D-45DD-BA61-DEA245EE97D9",
-                "changeIdentifier": 1695,
+                "changeIdentifier": 1697,
                 "overrideProperties": [
                     {
                         "_class": "MSImmutableOverrideProperty",
@@ -2420,12 +2603,11 @@
         {
             "_class": "MSJSONFileReference",
             "_ref_class": "MSImmutablePage",
-            "_ref": "pages/369E6387-A7E6-4924-BEBB-262BF4F77E16"
-        },
-        {
-            "_class": "MSJSONFileReference",
-            "_ref_class": "MSImmutablePage",
             "_ref": "pages/2FACC3F2-C14A-4507-8F0D-69C1EF8FC915"
         }
-    ]
+    ],
+    "sharedSwatches": {
+        "_class": "swatchContainer",
+        "objects": []
+    }
 }

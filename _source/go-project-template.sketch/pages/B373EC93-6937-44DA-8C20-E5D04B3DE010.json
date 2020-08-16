@@ -399,11 +399,11 @@
             "includeInCloudUpload": true,
             "isFlowHome": false,
             "presetDictionary": {
-                "allowResizedMatching": 0,
+                "height": 1080,
                 "offersLandscapeVariant": 0,
-                "width": 1920,
                 "name": "Apple TV",
-                "height": 1080
+                "width": 1920,
+                "allowResizedMatching": 0
             },
             "resizesContent": true,
             "backgroundColor": {

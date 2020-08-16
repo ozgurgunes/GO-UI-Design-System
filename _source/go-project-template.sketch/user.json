@@ -40,34 +40,45 @@
         "zoomValue": 0.5853035143769968
     },
     "B018BF32-445F-4A52-AB67-D56799A06481": {
-        "scrollOrigin": "{507, -1353}",
-        "zoomValue": 1
+        "scrollOrigin": "{-165, 417}",
+        "zoomValue": 0.229487970388649
     },
     "53E51EA0-56EC-4E88-A087-6DECCD7A5FAA": {
-        "scrollOrigin": "{34, 176}",
-        "zoomValue": 1.377443609022556
+        "scrollOrigin": "{317, 337}",
+        "zoomValue": 1
     },
     "05BF0C98-BE87-4122-9148-F5BD9275C84B": {
         "scrollOrigin": "{866, 632}",
         "zoomValue": 1
     },
     "document": {
-        "pageListHeight": 375,
-        "expandedLayerStylePathsInSidebar": [
-            "/BC5D1C6C-FBBD-455F-8000-A2685564A953/layer-styles/Background",
-            "/BC5D1C6C-FBBD-455F-8000-A2685564A953/layer-styles/Input",
-            "/BC5D1C6C-FBBD-455F-8000-A2685564A953/layer-styles/Shadow",
-            "/BC5D1C6C-FBBD-455F-8000-A2685564A953/layer-styles/Divider",
-            "/BC5D1C6C-FBBD-455F-8000-A2685564A953/layer-styles/Context",
-            "/BC5D1C6C-FBBD-455F-8000-A2685564A953/layer-styles/Line",
-            "/BC5D1C6C-FBBD-455F-8000-A2685564A953/layer-styles/Button",
-            "/BC5D1C6C-FBBD-455F-8000-A2685564A953/layer-styles/Frame",
-            "/BC5D1C6C-FBBD-455F-8000-A2685564A953/layer-styles/Grid",
-            "/BC5D1C6C-FBBD-455F-8000-A2685564A953/layer-styles/Gradient"
+        "expandedTextStylePathsInSidebar": [
+            "/6F70488F-DE29-44FE-AE3C-BF74C85EB383/text-styles/Bottom/Left",
+            "/6F70488F-DE29-44FE-AE3C-BF74C85EB383/text-styles/Top",
+            "/6F70488F-DE29-44FE-AE3C-BF74C85EB383/text-styles/Bottom",
+            "/6F70488F-DE29-44FE-AE3C-BF74C85EB383/text-styles/Bottom/Right",
+            "/6F70488F-DE29-44FE-AE3C-BF74C85EB383/text-styles/Middle",
+            "/6F70488F-DE29-44FE-AE3C-BF74C85EB383/text-styles/Bottom/Center"
         ],
-        "expandedSymbolPathsInSidebar": [],
-        "pageListCollapsed": 0,
         "expandedLayerStylePathsInPopover": [],
-        "libraryListCollapsed": 0
+        "componentSidebarTreeStructure": 0,
+        "expandedLayerStylePathsInSidebar": [
+            "/6F70488F-DE29-44FE-AE3C-BF74C85EB383/layer-styles/Button",
+            "/6F70488F-DE29-44FE-AE3C-BF74C85EB383/layer-styles/Divider",
+            "/6F70488F-DE29-44FE-AE3C-BF74C85EB383/layer-styles/Context",
+            "/6F70488F-DE29-44FE-AE3C-BF74C85EB383/layer-styles/Shadow",
+            "/6F70488F-DE29-44FE-AE3C-BF74C85EB383/layer-styles/Frame",
+            "/6F70488F-DE29-44FE-AE3C-BF74C85EB383/layer-styles/Background",
+            "/6F70488F-DE29-44FE-AE3C-BF74C85EB383/layer-styles/Input",
+            "/6F70488F-DE29-44FE-AE3C-BF74C85EB383/layer-styles/Gradient",
+            "/6F70488F-DE29-44FE-AE3C-BF74C85EB383/layer-styles/Table",
+            "/6F70488F-DE29-44FE-AE3C-BF74C85EB383/layer-styles/Line",
+            "/6F70488F-DE29-44FE-AE3C-BF74C85EB383/layer-styles/Grid"
+        ],
+        "pageListHeight": 375,
+        "pageListCollapsed": 0,
+        "libraryListCollapsed": 0,
+        "expandedSymbolPathsInSidebar": [],
+        "libraryListHeight": 155
     }
 }

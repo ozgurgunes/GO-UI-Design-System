@@ -34,7 +34,8 @@
                     }
                 }
             ]
-        }
+        },
+        "styleID": "AFC64C98-D032-4412-BDAD-6276482E7D1B"
     },
     "frames": {
         "4A724F61-0D26-46E3-8781-C5FD7C41258E_stringValue ( )": {
@@ -157,7 +158,8 @@
                     }
                 }
             ]
-        }
+        },
+        "styleID": "E99E839A-84CB-4547-9A1C-D1D9F55D8F43"
     },
     "13": {
         "_class": "MSAttributedStringKey",
@@ -193,7 +195,8 @@
                     }
                 }
             ]
-        }
+        },
+        "styleID": "B72D9CB9-00C8-4BFD-A02B-228F137C6BAB"
     },
     "11": {
         "_class": "MSAttributedStringKey",
@@ -230,7 +233,8 @@
                     }
                 }
             ]
-        }
+        },
+        "styleID": "AFF11447-F6C5-4503-8E37-340061E83102"
     },
     "9": {
         "_class": "MSAttributedStringKey",
@@ -265,7 +269,8 @@
                     }
                 }
             ]
-        }
+        },
+        "styleID": "B2AEE888-5494-4FD4-B70D-347E039CFB81"
     },
     "7": {
         "_class": "MSAttributedStringKey",
@@ -302,7 +307,8 @@
                     }
                 }
             ]
-        }
+        },
+        "styleID": "C0907D50-F155-4751-B10F-23891969FDFF"
     },
     "5": {
         "_class": "MSAttributedStringKey",
@@ -337,7 +343,8 @@
                     }
                 }
             ]
-        }
+        },
+        "styleID": "B2AEE888-5494-4FD4-B70D-347E039CFB81"
     },
     "3": {
         "_class": "MSAttributedStringKey",
@@ -373,7 +380,8 @@
                     }
                 }
             ]
-        }
+        },
+        "styleID": "DD3566A1-4037-4F95-92AF-90678E1B091E"
     },
     "1": {
         "_class": "MSAttributedStringKey",
@@ -410,7 +418,8 @@
                     }
                 }
             ]
-        }
+        },
+        "styleID": "8339A245-E6B1-4BE9-ACD3-DE8A1793AAEA"
     },
     "16": {
         "_class": "MSAttributedStringKey",
@@ -438,13 +447,6 @@
                             "green": 1,
                             "red": 1
                         },
-                        "MSAttributedStringStrokeColorAttribute": {
-                            "_class": "color",
-                            "alpha": 1,
-                            "blue": 0.1462419927120209,
-                            "green": 0.1462444067001343,
-                            "red": 0.1462399661540985
-                        },
                         "paragraphStyle": {
                             "_class": "paragraphStyle",
                             "alignment": 0,
@@ -452,11 +454,19 @@
                             "minimumLineHeight": 36,
                             "tighteningFactorForTruncation": 0.05,
                             "allowsDefaultTighteningForTruncation": 0
+                        },
+                        "MSAttributedStringStrokeColorAttribute": {
+                            "_class": "color",
+                            "alpha": 1,
+                            "blue": 0.1462419927120209,
+                            "green": 0.1462444067001343,
+                            "red": 0.1462399661540985
                         }
                     }
                 }
             ]
-        }
+        },
+        "styleID": "00228FE2-9DC3-4726-8B4D-C934792A0DB9"
     },
     "14": {
         "_class": "MSAttributedStringKey",
@@ -491,7 +501,8 @@
                     }
                 }
             ]
-        }
+        },
+        "styleID": "1AAD7C2F-7921-48E3-8DC6-3D2F1ADD1748"
     },
     "12": {
         "_class": "MSAttributedStringKey",
@@ -519,13 +530,6 @@
                             "green": 1,
                             "red": 1
                         },
-                        "MSAttributedStringStrokeColorAttribute": {
-                            "_class": "color",
-                            "alpha": 1,
-                            "blue": 0.1462419927120209,
-                            "green": 0.1462444067001343,
-                            "red": 0.1462399661540985
-                        },
                         "paragraphStyle": {
                             "_class": "paragraphStyle",
                             "alignment": 0,
@@ -533,11 +537,19 @@
                             "minimumLineHeight": 28,
                             "tighteningFactorForTruncation": 0.05,
                             "allowsDefaultTighteningForTruncation": 0
+                        },
+                        "MSAttributedStringStrokeColorAttribute": {
+                            "_class": "color",
+                            "alpha": 1,
+                            "blue": 0.1462419927120209,
+                            "green": 0.1462444067001343,
+                            "red": 0.1462399661540985
                         }
                     }
                 }
             ]
-        }
+        },
+        "styleID": "3E4C2CA4-9088-4358-ACF8-37AD3C4F70C3"
     },
     "10": {
         "_class": "MSAttributedStringKey",
@@ -573,7 +585,8 @@
                     }
                 }
             ]
-        }
+        },
+        "styleID": "4E05A224-F327-44FF-BAC8-A027C448D4EA"
     },
     "8": {
         "_class": "MSAttributedStringKey",
@@ -609,7 +622,8 @@
                     }
                 }
             ]
-        }
+        },
+        "styleID": "7666AFC1-2143-4C51-8D46-7104D4147F01"
     },
     "6": {
         "_class": "MSAttributedStringKey",
@@ -645,7 +659,8 @@
                     }
                 }
             ]
-        }
+        },
+        "styleID": "E5BDF4BF-8862-43B5-A913-9A93020B0888"
     },
     "4": {
         "_class": "MSAttributedStringKey",
@@ -682,7 +697,8 @@
                     }
                 }
             ]
-        }
+        },
+        "styleID": "AFF11447-F6C5-4503-8E37-340061E83102"
     },
     "2": {
         "_class": "MSAttributedStringKey",
@@ -710,13 +726,6 @@
                             "green": 1,
                             "red": 1
                         },
-                        "MSAttributedStringStrokeColorAttribute": {
-                            "_class": "color",
-                            "alpha": 1,
-                            "blue": 0.1462419927120209,
-                            "green": 0.1462444067001343,
-                            "red": 0.1462399661540985
-                        },
                         "paragraphStyle": {
                             "_class": "paragraphStyle",
                             "alignment": 0,
@@ -724,10 +733,18 @@
                             "minimumLineHeight": 14,
                             "tighteningFactorForTruncation": 0.05,
                             "allowsDefaultTighteningForTruncation": 0
+                        },
+                        "MSAttributedStringStrokeColorAttribute": {
+                            "_class": "color",
+                            "alpha": 1,
+                            "blue": 0.1462419927120209,
+                            "green": 0.1462444067001343,
+                            "red": 0.1462399661540985
                         }
                     }
                 }
             ]
-        }
+        },
+        "styleID": "BF793239-E0E1-4FB6-B986-F34900FF6716"
     }
 }
