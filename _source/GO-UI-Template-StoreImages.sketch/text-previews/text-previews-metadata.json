@@ -1,0 +1,360 @@
+{
+    "0": {
+        "_class": "MSAttributedStringKey",
+        "size": "{6, 24}",
+        "string": {
+            "_class": "attributedString",
+            "string": " ",
+            "attributes": [
+                {
+                    "_class": "stringAttribute",
+                    "location": 0,
+                    "length": 1,
+                    "attributes": {
+                        "MSAttributedStringFontAttribute": {
+                            "_class": "fontDescriptor",
+                            "attributes": {
+                                "name": "NunitoSans-Regular",
+                                "size": 20
+                            }
+                        },
+                        "MSAttributedStringColorAttribute": {
+                            "_class": "color",
+                            "alpha": 0.5,
+                            "blue": 1,
+                            "green": 1,
+                            "red": 1,
+                            "swatchID": "A2ACB4AA-0F6C-4DC2-A3A3-04F895462726"
+                        },
+                        "paragraphStyle": {
+                            "_class": "paragraphStyle",
+                            "maximumLineHeight": 24,
+                            "minimumLineHeight": 24
+                        }
+                    }
+                }
+            ]
+        },
+        "styleID": "E99E839A-84CB-4547-9A1C-D1D9F55D8F43"
+    },
+    "frames": {
+        "4B6DDAC1-AE14-46B6-86DF-8B2C2E16E180_stringValue ( )": {
+            "_class": "NSValue",
+            "type": "rect",
+            "value": "{0, 0, 6, 24}"
+        },
+        "BA51988E-12C6-48B8-A648-97D5CEAF0C17": {
+            "_class": "NSValue",
+            "type": "rect",
+            "value": "{-986, -942, 1024, 44}"
+        },
+        "3678E6AC-90E8-4AEF-B45D-D5E154D471A6": {
+            "_class": "NSValue",
+            "type": "rect",
+            "value": "{-867, -889, 1024, 132}"
+        },
+        "6F3B29D1-91BB-4D27-89DC-B14D7F878DBA_stringValue (Thanks)": {
+            "_class": "NSValue",
+            "type": "rect",
+            "value": "{0, 56.66666666666666, 853.3333333333333, 43}"
+        },
+        "BF197410-9561-4613-9AC7-3B358E90BC63": {
+            "_class": "NSValue",
+            "type": "rect",
+            "value": "{32, 32, 896, 272}"
+        },
+        "037DDDF1-820D-4666-BB64-1209183C4D98_stringValue ( )": {
+            "_class": "NSValue",
+            "type": "rect",
+            "value": "{90.66666666666666, 656, 5, 16}"
+        },
+        "77971A1C-C53F-41A3-919A-D4EA9DF2E939_stringValue ( )": {
+            "_class": "NSValue",
+            "type": "rect",
+            "value": "{0, 0, 853.3333333333333, 51}"
+        },
+        "47237CD6-4E2E-41AB-A242-4BF851A3E7FE_stringValue ( )": {
+            "_class": "NSValue",
+            "type": "rect",
+            "value": "{21.33333333333333, 0, 6, 24}"
+        }
+    },
+    "5": {
+        "_class": "MSAttributedStringKey",
+        "size": "{5, 16}",
+        "string": {
+            "_class": "attributedString",
+            "string": " ",
+            "attributes": [
+                {
+                    "_class": "stringAttribute",
+                    "location": 0,
+                    "length": 1,
+                    "attributes": {
+                        "MSAttributedStringFontAttribute": {
+                            "_class": "fontDescriptor",
+                            "attributes": {
+                                "name": "NunitoSans-SemiBold",
+                                "size": 16
+                            }
+                        },
+                        "MSAttributedStringColorAttribute": {
+                            "_class": "color",
+                            "alpha": 0.5,
+                            "blue": 1,
+                            "green": 1,
+                            "red": 1,
+                            "swatchID": "A2ACB4AA-0F6C-4DC2-A3A3-04F895462726"
+                        },
+                        "paragraphStyle": {
+                            "_class": "paragraphStyle",
+                            "maximumLineHeight": 16,
+                            "minimumLineHeight": 16
+                        }
+                    }
+                }
+            ]
+        },
+        "styleID": "7666AFC1-2143-4C51-8D46-7104D4147F01"
+    },
+    "1": {
+        "_class": "MSAttributedStringKey",
+        "size": "{1024, 44}",
+        "string": {
+            "_class": "attributedString",
+            "string": "KEEP SYMBOL MASTERS ON THIS PAGE!",
+            "attributes": [
+                {
+                    "_class": "stringAttribute",
+                    "location": 0,
+                    "length": 33,
+                    "attributes": {
+                        "MSAttributedStringFontAttribute": {
+                            "_class": "fontDescriptor",
+                            "attributes": {
+                                "name": "NunitoSans-Bold",
+                                "size": 32
+                            }
+                        },
+                        "MSAttributedStringColorAttribute": {
+                            "_class": "color",
+                            "alpha": 1,
+                            "blue": 0.1882352941176471,
+                            "green": 0.1882352941176471,
+                            "red": 0.8470588235294118,
+                            "swatchID": "4077AD3C-2617-42EF-A268-0BD380E664FA"
+                        },
+                        "paragraphStyle": {
+                            "_class": "paragraphStyle",
+                            "alignment": 0,
+                            "maximumLineHeight": 44,
+                            "minimumLineHeight": 44
+                        },
+                        "MSAttributedStringTextTransformAttribute": 0
+                    }
+                }
+            ]
+        },
+        "styleID": "E679A75D-0A13-4440-96B2-0BB70051F52E"
+    },
+    "6": {
+        "_class": "MSAttributedStringKey",
+        "size": "{853.33333333333326, 51}",
+        "string": {
+            "_class": "attributedString",
+            "string": " ",
+            "attributes": [
+                {
+                    "_class": "stringAttribute",
+                    "location": 0,
+                    "length": 1,
+                    "attributes": {
+                        "MSAttributedStringFontAttribute": {
+                            "_class": "fontDescriptor",
+                            "attributes": {
+                                "name": "NunitoSans-SemiBold",
+                                "size": 37.33333333333333
+                            }
+                        },
+                        "MSAttributedStringColorAttribute": {
+                            "_class": "color",
+                            "alpha": 1,
+                            "blue": 1,
+                            "green": 1,
+                            "red": 1,
+                            "swatchID": "7E59A8E9-3171-485F-8F00-96712485C821"
+                        },
+                        "paragraphStyle": {
+                            "_class": "paragraphStyle",
+                            "allowsDefaultTighteningForTruncation": 0
+                        }
+                    }
+                }
+            ]
+        },
+        "styleID": "1AAD7C2F-7921-48E3-8DC6-3D2F1ADD1748"
+    },
+    "2": {
+        "_class": "MSAttributedStringKey",
+        "size": "{1024, 132}",
+        "string": {
+            "_class": "attributedString",
+            "string": "THIS PAGE SHOULD STAY EMPTY TO AVOID DUPLICATES!\nIF THERE ARE ANY SYMBOL MASTER ON THIS PAGE, IT IS MOST LIKELY BEEN COPIED AND PASTED FROM ANOTHER DOCUMENT.",
+            "attributes": [
+                {
+                    "_class": "stringAttribute",
+                    "location": 0,
+                    "length": 157,
+                    "attributes": {
+                        "MSAttributedStringFontAttribute": {
+                            "_class": "fontDescriptor",
+                            "attributes": {
+                                "name": "NunitoSans-Bold",
+                                "size": 32
+                            }
+                        },
+                        "MSAttributedStringColorAttribute": {
+                            "_class": "color",
+                            "alpha": 1,
+                            "blue": 0.1882352941176471,
+                            "green": 0.1882352941176471,
+                            "red": 0.8470588235294118,
+                            "swatchID": "4077AD3C-2617-42EF-A268-0BD380E664FA"
+                        },
+                        "paragraphStyle": {
+                            "_class": "paragraphStyle",
+                            "alignment": 0,
+                            "maximumLineHeight": 44,
+                            "minimumLineHeight": 44
+                        },
+                        "MSAttributedStringTextTransformAttribute": 0
+                    }
+                }
+            ]
+        },
+        "styleID": "212ACF1D-6085-439F-9D25-9847F7EF3DFD"
+    },
+    "7": {
+        "_class": "MSAttributedStringKey",
+        "size": "{6, 24}",
+        "string": {
+            "_class": "attributedString",
+            "string": " ",
+            "attributes": [
+                {
+                    "_class": "stringAttribute",
+                    "location": 0,
+                    "length": 1,
+                    "attributes": {
+                        "MSAttributedStringFontAttribute": {
+                            "_class": "fontDescriptor",
+                            "attributes": {
+                                "name": "NunitoSans-Regular",
+                                "size": 20
+                            }
+                        },
+                        "MSAttributedStringColorAttribute": {
+                            "_class": "color",
+                            "alpha": 0.5,
+                            "blue": 1,
+                            "green": 1,
+                            "red": 1,
+                            "swatchID": "A2ACB4AA-0F6C-4DC2-A3A3-04F895462726"
+                        },
+                        "paragraphStyle": {
+                            "_class": "paragraphStyle",
+                            "alignment": 0,
+                            "maximumLineHeight": 24,
+                            "minimumLineHeight": 24,
+                            "tighteningFactorForTruncation": 0.05,
+                            "allowsDefaultTighteningForTruncation": 0
+                        },
+                        "MSAttributedStringStrokeColorAttribute": {
+                            "_class": "color",
+                            "alpha": 1,
+                            "blue": 0.1462419927120209,
+                            "green": 0.1462444067001343,
+                            "red": 0.1462399661540985
+                        }
+                    }
+                }
+            ]
+        },
+        "styleID": "00228FE2-9DC3-4726-8B4D-C934792A0DB9"
+    },
+    "3": {
+        "_class": "MSAttributedStringKey",
+        "size": "{853.33333333333326, 43}",
+        "string": {
+            "_class": "attributedString",
+            "string": "Thanks",
+            "attributes": [
+                {
+                    "_class": "stringAttribute",
+                    "location": 0,
+                    "length": 6,
+                    "attributes": {
+                        "MSAttributedStringFontAttribute": {
+                            "_class": "fontDescriptor",
+                            "attributes": {
+                                "name": "NunitoSans-SemiBold",
+                                "size": 32
+                            }
+                        },
+                        "MSAttributedStringColorAttribute": {
+                            "_class": "color",
+                            "alpha": 0.5,
+                            "blue": 1,
+                            "green": 1,
+                            "red": 1,
+                            "swatchID": "A2ACB4AA-0F6C-4DC2-A3A3-04F895462726"
+                        },
+                        "paragraphStyle": {
+                            "_class": "paragraphStyle",
+                            "allowsDefaultTighteningForTruncation": 0
+                        }
+                    }
+                }
+            ]
+        },
+        "styleID": "B2AEE888-5494-4FD4-B70D-347E039CFB81"
+    },
+    "4": {
+        "_class": "MSAttributedStringKey",
+        "size": "{896, 272}",
+        "string": {
+            "_class": "attributedString",
+            "string": "Lorem ipsum dolor sit amet.",
+            "attributes": [
+                {
+                    "_class": "stringAttribute",
+                    "location": 0,
+                    "length": 27,
+                    "attributes": {
+                        "MSAttributedStringFontAttribute": {
+                            "_class": "fontDescriptor",
+                            "attributes": {
+                                "name": "NunitoSans-SemiBold",
+                                "size": 76
+                            }
+                        },
+                        "MSAttributedStringColorAttribute": {
+                            "_class": "color",
+                            "alpha": 1,
+                            "blue": 1,
+                            "green": 1,
+                            "red": 1,
+                            "swatchID": "4572ADB7-BC3D-4B4F-961F-9360C83FEE1A"
+                        },
+                        "paragraphStyle": {
+                            "_class": "paragraphStyle",
+                            "alignment": 2,
+                            "allowsDefaultTighteningForTruncation": 0
+                        }
+                    }
+                }
+            ]
+        },
+        "styleID": "14AFA74B-6F60-4263-9F4E-AD8EFCFE2274"
+    }
+}

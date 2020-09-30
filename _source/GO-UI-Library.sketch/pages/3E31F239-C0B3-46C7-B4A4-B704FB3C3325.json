@@ -1,0 +1,235 @@
+{
+    "_class": "page",
+    "do_objectID": "3E31F239-C0B3-46C7-B4A4-B704FB3C3325",
+    "booleanOperation": -1,
+    "isFixedToViewport": false,
+    "isFlippedHorizontal": false,
+    "isFlippedVertical": false,
+    "isLocked": false,
+    "isVisible": true,
+    "layerListExpandedType": 0,
+    "name": "Symbols",
+    "nameIsFixed": false,
+    "resizingConstraint": 63,
+    "resizingType": 0,
+    "rotation": 0,
+    "shouldBreakMaskChain": false,
+    "exportOptions": {
+        "_class": "exportOptions",
+        "includedLayerIds": [],
+        "layerOptions": 0,
+        "shouldTrim": false,
+        "exportFormats": []
+    },
+    "frame": {
+        "_class": "rect",
+        "constrainProportions": false,
+        "height": 0,
+        "width": 0,
+        "x": 0,
+        "y": 0
+    },
+    "clippingMaskMode": 0,
+    "hasClippingMask": false,
+    "style": {
+        "_class": "style",
+        "do_objectID": "5D460253-6DDD-4460-8F09-7251741E47CB",
+        "endMarkerType": 0,
+        "miterLimit": 10,
+        "startMarkerType": 0,
+        "windingRule": 1,
+        "blur": {
+            "_class": "blur",
+            "isEnabled": false,
+            "center": "{0.5, 0.5}",
+            "motionAngle": 0,
+            "radius": 10,
+            "saturation": 1,
+            "type": 0
+        },
+        "borderOptions": {
+            "_class": "borderOptions",
+            "isEnabled": true,
+            "dashPattern": [],
+            "lineCapStyle": 0,
+            "lineJoinStyle": 0
+        },
+        "borders": [],
+        "colorControls": {
+            "_class": "colorControls",
+            "isEnabled": true,
+            "brightness": 0,
+            "contrast": 1,
+            "hue": 0,
+            "saturation": 1
+        },
+        "contextSettings": {
+            "_class": "graphicsContextSettings",
+            "blendMode": 0,
+            "opacity": 1
+        },
+        "fills": [],
+        "innerShadows": [],
+        "shadows": []
+    },
+    "hasClickThrough": true,
+    "groupLayout": {
+        "_class": "MSImmutableFreeformGroupLayout"
+    },
+    "layers": [
+        {
+            "_class": "text",
+            "do_objectID": "E4FB3A11-8136-4922-A93E-C6E40D5A5A71",
+            "booleanOperation": -1,
+            "isFixedToViewport": false,
+            "isFlippedHorizontal": false,
+            "isFlippedVertical": false,
+            "isLocked": true,
+            "isVisible": true,
+            "layerListExpandedType": 0,
+            "name": "WARNING!",
+            "nameIsFixed": true,
+            "resizingConstraint": 63,
+            "resizingType": 0,
+            "rotation": 0,
+            "shouldBreakMaskChain": false,
+            "exportOptions": {
+                "_class": "exportOptions",
+                "includedLayerIds": [],
+                "layerOptions": 0,
+                "shouldTrim": false,
+                "exportFormats": []
+            },
+            "frame": {
+                "_class": "rect",
+                "constrainProportions": false,
+                "height": 132,
+                "width": 1024,
+                "x": -776,
+                "y": -865
+            },
+            "clippingMaskMode": 0,
+            "hasClippingMask": false,
+            "style": {
+                "_class": "style",
+                "do_objectID": "ECB2B2B0-6AB7-4425-891A-7ACC275DB398",
+                "endMarkerType": 0,
+                "miterLimit": 10,
+                "startMarkerType": 0,
+                "windingRule": 1,
+                "blur": {
+                    "_class": "blur",
+                    "isEnabled": false,
+                    "center": "{0.5, 0.5}",
+                    "motionAngle": 0,
+                    "radius": 10,
+                    "saturation": 1,
+                    "type": 0
+                },
+                "borderOptions": {
+                    "_class": "borderOptions",
+                    "isEnabled": true,
+                    "dashPattern": [],
+                    "lineCapStyle": 0,
+                    "lineJoinStyle": 0
+                },
+                "borders": [],
+                "colorControls": {
+                    "_class": "colorControls",
+                    "isEnabled": true,
+                    "brightness": 0,
+                    "contrast": 1,
+                    "hue": 0,
+                    "saturation": 1
+                },
+                "contextSettings": {
+                    "_class": "graphicsContextSettings",
+                    "blendMode": 0,
+                    "opacity": 1
+                },
+                "fills": [],
+                "innerShadows": [],
+                "shadows": [],
+                "textStyle": {
+                    "_class": "textStyle",
+                    "encodedAttributes": {
+                        "MSAttributedStringFontAttribute": {
+                            "_class": "fontDescriptor",
+                            "attributes": {
+                                "name": "NunitoSans-Bold",
+                                "size": 32
+                            }
+                        },
+                        "MSAttributedStringColorAttribute": {
+                            "_class": "color",
+                            "alpha": 1,
+                            "blue": 0.1882352941176471,
+                            "green": 0.1882352941176471,
+                            "red": 0.8470588235294118,
+                            "swatchID": "A9DD806D-C0A2-40E5-BBAF-3C501A3EC426"
+                        },
+                        "MSAttributedStringTextTransformAttribute": 0,
+                        "paragraphStyle": {
+                            "_class": "paragraphStyle",
+                            "alignment": 0,
+                            "maximumLineHeight": 44,
+                            "minimumLineHeight": 44
+                        }
+                    },
+                    "verticalAlignment": 0
+                }
+            },
+            "attributedString": {
+                "_class": "attributedString",
+                "string": "THIS PAGE SHOULD STAY EMPTY TO AVOID DUPLICATES!\nIF THERE IS ANY SYMBOL MASTER ON THIS PAGE, IT IS MOST LIKELY BEEN COPIED AND PASTED FROM ANOTHER DOCUMENT.",
+                "attributes": [
+                    {
+                        "_class": "stringAttribute",
+                        "location": 0,
+                        "length": 156,
+                        "attributes": {
+                            "MSAttributedStringFontAttribute": {
+                                "_class": "fontDescriptor",
+                                "attributes": {
+                                    "name": "NunitoSans-Bold",
+                                    "size": 32
+                                }
+                            },
+                            "MSAttributedStringColorAttribute": {
+                                "_class": "color",
+                                "alpha": 1,
+                                "blue": 0.1882352941176471,
+                                "green": 0.1882352941176471,
+                                "red": 0.8470588235294118,
+                                "swatchID": "A9DD806D-C0A2-40E5-BBAF-3C501A3EC426"
+                            },
+                            "paragraphStyle": {
+                                "_class": "paragraphStyle",
+                                "alignment": 0,
+                                "maximumLineHeight": 44,
+                                "minimumLineHeight": 44
+                            },
+                            "MSAttributedStringTextTransformAttribute": 0
+                        }
+                    }
+                ]
+            },
+            "automaticallyDrawOnUnderlyingPath": false,
+            "dontSynchroniseWithSymbol": false,
+            "glyphBounds": "{{0, 10}, {997, 112}}",
+            "lineSpacingBehaviour": 3,
+            "textBehaviour": 1
+        }
+    ],
+    "includeInCloudUpload": true,
+    "horizontalRulerData": {
+        "_class": "rulerData",
+        "base": -776,
+        "guides": []
+    },
+    "verticalRulerData": {
+        "_class": "rulerData",
+        "base": -609,
+        "guides": []
+    }
+}

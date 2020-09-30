@@ -1,0 +1,170 @@
+{
+    "commit": "1ef0fe5fdb78c719d7e445fffdaec60c65960d54",
+    "pagesAndArtboards": {
+        "B9BC9CB0-01A4-4451-8DBE-FDDDCFC29C3E": {
+            "name": "Library",
+            "artboards": {
+                "924DE0A4-DAEA-44D1-82E0-C2922188D704": {
+                    "name": "Device / iPhone 8"
+                },
+                "9E93865A-3B8C-433B-9D9F-A04E95234E96": {
+                    "name": "Device / iPhone XS"
+                },
+                "0EBA2489-08CC-4FE0-B9A5-1FC866E967A7": {
+                    "name": "Device / Android"
+                },
+                "4927491B-C188-4149-A23C-D67F2D9D2F67": {
+                    "name": "Device / iPhone 11 Pro Max"
+                },
+                "726A56A9-460D-4748-A404-714A4148F034": {
+                    "name": "Device / Apple Watch"
+                },
+                "BE8BCD8E-ED55-4A28-B983-25EC5E9BBE86": {
+                    "name": "Background Image"
+                },
+                "B943BF55-8109-4E9B-BFEE-F9CAB8E95368": {
+                    "name": "Text Label"
+                },
+                "7B264D92-FE74-407B-834A-D378B9354F05": {
+                    "name": "Device / iPhone 8 Plus"
+                },
+                "2BCF11C3-9634-4EF8-86FF-DD3688E2233F": {
+                    "name": "Device / iPhone SE"
+                }
+            }
+        },
+        "690414CF-0915-45A8-8465-4FA8A273682F": {
+            "name": " ",
+            "artboards": {}
+        },
+        "05BF0C98-BE87-4122-9148-F5BD9275C84B": {
+            "name": "Symbols",
+            "artboards": {}
+        },
+        "C1151F18-F919-44F4-B002-ECE8BA9D9B0F": {
+            "name": " ",
+            "artboards": {}
+        },
+        "7407483F-EF6C-47FD-8A67-128A7EE9E686": {
+            "name": " ",
+            "artboards": {}
+        },
+        "B373EC93-6937-44DA-8C20-E5D04B3DE010": {
+            "name": "Images",
+            "artboards": {
+                "BC6896A6-6FF7-450A-AB1F-73D076875D34": {
+                    "name": "Images / Android"
+                },
+                "8A400BF9-6042-4BA2-B8CD-9D7105A6EBBC": {
+                    "name": "Images / iPhone 8 Plus"
+                },
+                "C5A2BE3D-39BA-4FE0-B39D-88E845F02238": {
+                    "name": "Images / iPhone SE"
+                },
+                "9643DE4B-FD7C-42C0-8151-CA5DB89A4342": {
+                    "name": "Images / iPhone 11"
+                },
+                "BCBF5502-BC23-4245-B6E8-36245BB4FC4A": {
+                    "name": "Images / iPhone 8"
+                },
+                "D6048919-DC64-4388-BD6B-5C237761CB57": {
+                    "name": "Images / iPhone XS"
+                },
+                "B937D907-47BD-4169-9A96-7840B328EDB4": {
+                    "name": "Images / Apple Watch"
+                }
+            }
+        },
+        "147E46EF-ABF3-4453-9BCE-6AEE128B0510": {
+            "name": "Screens",
+            "artboards": {
+                "BA1755EE-4FBA-4D09-B94B-C73773FC7A3A": {
+                    "name": "Device / iPhone SE @ 2x"
+                },
+                "7E2764F8-0F89-4471-80A0-A005B59FA171": {
+                    "name": "Device / iPhone XS @ 3x"
+                },
+                "E8B765AA-5CB0-40CE-A971-4B67987D73B9": {
+                    "name": "Device / iPhone 11"
+                },
+                "733F5AAE-BD47-4571-81AA-7A211C302A58": {
+                    "name": "Device / Watch"
+                },
+                "ACD8827A-7A99-4727-9030-174CC68979D2": {
+                    "name": "Device / iPhone 11 @ 3x"
+                },
+                "1D30E9D8-1B94-4E4A-8B11-E9FF4C2BE7C9": {
+                    "name": "Device / iPhone 8 Plus @ 3x"
+                },
+                "414913AD-5260-44BA-822C-D379244672FF": {
+                    "name": "Device / iPhone 8"
+                },
+                "4880AE09-E3D5-4943-B654-0DC5B777EAC4": {
+                    "name": "Device / Android"
+                },
+                "4E98E677-5C3E-4DE6-900D-DA7178B6537B": {
+                    "name": "Device / iPhone SE"
+                },
+                "B170AC12-01AC-4674-9015-22D384D11242": {
+                    "name": "Device / Android @ 3x"
+                },
+                "89DD1A95-ADB3-4407-A45A-E97C6528562E": {
+                    "name": "Device / iPhone 8 @ 2x"
+                },
+                "338EABC3-47AA-4B8A-8C53-B914EF7DA01B": {
+                    "name": "Device / Watch @ 2x"
+                },
+                "3A9D9DD7-DF77-4620-91D1-EDAE0B62C4B3": {
+                    "name": "Device / iPhone XS"
+                },
+                "DBAE49A1-E356-40A7-8DB5-B89CAA632AF0": {
+                    "name": "Device / iPhone 8 Plus"
+                }
+            }
+        },
+        "B018BF32-445F-4A52-AB67-D56799A06481": {
+            "name": " ",
+            "artboards": {}
+        },
+        "4AB926DB-1696-456E-AC9A-63E5595DD974": {
+            "name": "Thanks",
+            "artboards": {
+                "04A1EC24-4702-4374-9229-824575ABCC7A": {
+                    "name": "- Thanks"
+                }
+            }
+        },
+        "53E51EA0-56EC-4E88-A087-6DECCD7A5FAA": {
+            "name": "Cover",
+            "artboards": {
+                "5D5491C9-1CE5-43C9-8F31-42A4CFBCE94B": {
+                    "name": "- Document Cover"
+                }
+            }
+        }
+    },
+    "version": 134,
+    "fonts": [
+        "NunitoSans-SemiBold",
+        "NunitoSans-Bold",
+        "NunitoSans-Regular"
+    ],
+    "compatibilityVersion": 99,
+    "app": "com.bohemiancoding.sketch3.beta",
+    "autosaved": 0,
+    "variant": "BETA",
+    "created": {
+        "commit": "1ef0fe5fdb78c719d7e445fffdaec60c65960d54",
+        "appVersion": "69",
+        "build": 106724,
+        "app": "com.bohemiancoding.sketch3.beta",
+        "compatibilityVersion": 99,
+        "version": 134,
+        "variant": "BETA"
+    },
+    "saveHistory": [
+        "BETA.106724"
+    ],
+    "appVersion": "69",
+    "build": 106724
+}

@@ -1,0 +1,248 @@
+{
+    "commit": "4ce3e13174580c57042bcaac59c5203c443ba826",
+    "pagesAndArtboards": {
+        "B9BC9CB0-01A4-4451-8DBE-FDDDCFC29C3E": {
+            "name": "Library",
+            "artboards": {}
+        },
+        "690414CF-0915-45A8-8465-4FA8A273682F": {
+            "name": " ",
+            "artboards": {}
+        },
+        "C1151F18-F919-44F4-B002-ECE8BA9D9B0F": {
+            "name": " ",
+            "artboards": {}
+        },
+        "7407483F-EF6C-47FD-8A67-128A7EE9E686": {
+            "name": " ",
+            "artboards": {}
+        },
+        "B373EC93-6937-44DA-8C20-E5D04B3DE010": {
+            "name": "Guide",
+            "artboards": {
+                "8E98C394-4471-4075-AC4D-3345FD62B110": {
+                    "name": "- Cover: Other Molecules"
+                },
+                "5053DCF6-1865-4E95-9C1B-F1328A163F81": {
+                    "name": "Table of Contents"
+                },
+                "B46A9540-9538-4B4B-A2CF-7C2CDBE18031": {
+                    "name": "Forms - 01"
+                },
+                "C7599253-462F-4CB3-992D-DB27FD53E50B": {
+                    "name": "Layer Styles - 11"
+                },
+                "A41DE8A6-D236-4E60-B1F6-E3EFA94F8177": {
+                    "name": "- Cover: Pre-Built Organisms"
+                },
+                "1DDBB300-15F7-46CC-BDFC-BFA0033E077A": {
+                    "name": "- Cover: Forms"
+                },
+                "086A3DF5-EB13-4CEF-A044-7CD354CC7E8F": {
+                    "name": "Layer Styles - 03"
+                },
+                "4589C6FE-8B84-4191-9459-A3F233C9A5E7": {
+                    "name": "Layer Styles - 10"
+                },
+                "7A80F2A4-54AE-45B2-B738-FAF0A85A4181": {
+                    "name": "Atomic Approach - 02"
+                },
+                "A0673874-969E-4AF9-9387-B09757B2F65B": {
+                    "name": "Buttons - 02"
+                },
+                "71DC15D3-3CB1-4C31-AF5E-5FE5E8E2FEE8": {
+                    "name": "- Cover: Atomic Approach"
+                },
+                "B993C04A-457C-480B-B1E9-3C8274E25F5A": {
+                    "name": "Pre-Built Organisms - 02"
+                },
+                "A4DD96AA-515E-4181-BE5A-A9EFFD24AE7F": {
+                    "name": "Layer Styles - 04"
+                },
+                "9D93FF20-7C22-4592-BEBA-1773C4263A2C": {
+                    "name": "- Cover: Cards"
+                },
+                "3AFC4C8E-B201-4A05-B61B-5C5E38B7FDF7": {
+                    "name": "Forms - 04"
+                },
+                "3C71E9BA-1363-4FB7-B105-812816EC5334": {
+                    "name": "Forms - 02"
+                },
+                "A15E54EC-749E-4819-B424-AD44D4C6E596": {
+                    "name": "Atomic Approach - 01"
+                },
+                "03983D11-AEA7-4744-877E-95ADBE062688": {
+                    "name": "Other Molecules - 03"
+                },
+                "1B446186-CBC7-4655-AD79-B2F766E46521": {
+                    "name": "Other Molecules - 05"
+                },
+                "943EEF9A-9470-4D48-AD4F-67404B23310F": {
+                    "name": "Other Molecules - 01"
+                },
+                "E65AC934-807A-4DEE-A544-D6FEFA712039": {
+                    "name": "List Items - 02"
+                },
+                "906670F5-BFD5-48A5-A152-E3A726AE191F": {
+                    "name": "- Cover: Color System"
+                },
+                "452821F4-7A87-4223-B364-F9A25BE1E8FD": {
+                    "name": "Layer Styles - 09"
+                },
+                "CF3BE2B1-276C-4E63-A9D2-FE557D4BFE39": {
+                    "name": "Color System - 02"
+                },
+                "3E434507-7220-4D2B-A68D-D2AE4900595B": {
+                    "name": "- Cover: Text Styles"
+                },
+                "E3DD1852-D5F4-42B8-9BFA-99C801D24144": {
+                    "name": "Atomic Approach - 02 Copy"
+                },
+                "241F594C-5063-4160-8646-110E8C7F08AE": {
+                    "name": "Buttons - 01"
+                },
+                "D0D442FA-C095-42D9-9AFC-A35627A86307": {
+                    "name": "Cards - 02"
+                },
+                "2F470196-1DC1-4A1A-B51E-327B5BF28E4E": {
+                    "name": "Forms - 03"
+                },
+                "B4664B83-2058-444E-A275-AAE219690A31": {
+                    "name": "Layer Styles - 05"
+                },
+                "B651E279-FC8F-41EF-A8D6-12F3B8EE9338": {
+                    "name": "Text Styles - 03"
+                },
+                "F853D301-D78C-46C5-B9DE-8C2185391F0E": {
+                    "name": "Buttons - 04"
+                },
+                "01EC16C2-C18B-4DE9-BA8C-ED59B8249CFF": {
+                    "name": "Text Styles - 01"
+                },
+                "384B6F95-CA93-4C0A-892F-F00E19090FF9": {
+                    "name": "List Items - 01"
+                },
+                "0A490DD1-DCAD-45FE-A386-2037160BEA7D": {
+                    "name": "Pre-Built Organisms - 03"
+                },
+                "8F5D1E55-2B74-4510-AD93-05A33386462A": {
+                    "name": "Other Molecules - 02"
+                },
+                "BBF26ED4-1B7E-4EBE-9F6E-E322C034A750": {
+                    "name": "Other Molecules - 04"
+                },
+                "C338AD50-BB9C-4746-83C8-F12A19D749A7": {
+                    "name": "Text Styles - 04"
+                },
+                "6FD68AAA-7882-465D-A63E-A90893B63A52": {
+                    "name": "Layer Styles - 12"
+                },
+                "0B51ED79-C207-4796-A9DF-2E09584B7340": {
+                    "name": "Cards - 03"
+                },
+                "91E85314-B25B-4B38-99A6-52F608FFA37D": {
+                    "name": "List Items - 03"
+                },
+                "BEB39B13-D2F9-4E13-86B5-93D21202A97B": {
+                    "name": "- Cover: List Items"
+                },
+                "3E3803F1-46DC-47B4-B1B2-C18B14848364": {
+                    "name": "Buttons - 03"
+                },
+                "576936F1-F3F2-4F49-8F37-C92E372ED135": {
+                    "name": "Layer Styles - 06"
+                },
+                "3FCDD720-971F-4A9E-BF16-27190383A219": {
+                    "name": "Forms - 05"
+                },
+                "2DBE1F42-BBEC-4772-AD17-65CB9F5CD6AC": {
+                    "name": "Layer Styles - 01"
+                },
+                "E6E7E10A-BCE9-4EF2-B7A2-BA50CC625B0C": {
+                    "name": "Color System - 03"
+                },
+                "F4A12BF4-0878-41A3-ABFF-6D9428AE1AF4": {
+                    "name": "Layer Styles - 08"
+                },
+                "988118F0-4B9B-4AE6-8E44-6E9691D0A58B": {
+                    "name": "Layer Styles - 02"
+                },
+                "B6FED611-B072-4C35-8724-B41308C8C5DA": {
+                    "name": "- Cover: Layer Styles"
+                },
+                "70D48038-3803-4234-A3C0-558024211E8F": {
+                    "name": "Layer Styles - 07"
+                },
+                "1C6884B2-3F40-49D3-87C7-FDC9793DBD28": {
+                    "name": "Cards - 01"
+                },
+                "C3619993-EE81-4855-9580-6B46626C921E": {
+                    "name": "- Cover: Buttons"
+                },
+                "868DAD6F-6ED0-47DE-A66B-92A4A7EE6B8E": {
+                    "name": "Color System - 01"
+                },
+                "06FC8B9B-4E15-4540-BDBE-A359BFD5D7BC": {
+                    "name": "Text Styles - 02"
+                },
+                "CBE6DE24-8224-4F82-82E5-E22BE8E8E9A8": {
+                    "name": "Pre-Built Organisms - 01"
+                }
+            }
+        },
+        "05BF0C98-BE87-4122-9148-F5BD9275C84B": {
+            "name": "Symbols",
+            "artboards": {}
+        },
+        "B018BF32-445F-4A52-AB67-D56799A06481": {
+            "name": " ",
+            "artboards": {}
+        },
+        "4AB926DB-1696-456E-AC9A-63E5595DD974": {
+            "name": "Thanks",
+            "artboards": {
+                "04A1EC24-4702-4374-9229-824575ABCC7A": {
+                    "name": "- Thanks"
+                }
+            }
+        },
+        "53E51EA0-56EC-4E88-A087-6DECCD7A5FAA": {
+            "name": "Cover",
+            "artboards": {
+                "5D5491C9-1CE5-43C9-8F31-42A4CFBCE94B": {
+                    "name": "- Document Cover"
+                }
+            }
+        }
+    },
+    "version": 134,
+    "fonts": [
+        "NunitoSans-Light",
+        "FontAwesome5Pro-Regular",
+        "PTMono-Regular",
+        "FontAwesome5Pro-Solid",
+        "NunitoSans-SemiBold",
+        "NunitoSans-Bold",
+        "NunitoSans-Regular",
+        "NunitoSans-LightItalic",
+        "NunitoSans-ExtraBold"
+    ],
+    "compatibilityVersion": 99,
+    "app": "com.bohemiancoding.sketch3.beta",
+    "autosaved": 0,
+    "variant": "BETA",
+    "created": {
+        "commit": "4ce3e13174580c57042bcaac59c5203c443ba826",
+        "appVersion": "69",
+        "build": 106729,
+        "app": "com.bohemiancoding.sketch3.beta",
+        "compatibilityVersion": 99,
+        "version": 134,
+        "variant": "BETA"
+    },
+    "saveHistory": [
+        "BETA.106729"
+    ],
+    "appVersion": "69",
+    "build": 106729
+}

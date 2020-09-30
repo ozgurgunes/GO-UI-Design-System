@@ -1,0 +1,3895 @@
+{
+    "commit": "4ce3e13174580c57042bcaac59c5203c443ba826",
+    "pagesAndArtboards": {
+        "BE285DE0-154A-4F3B-882C-8F46F82C2694": {
+            "name": "Templates",
+            "artboards": {
+                "0CF3E3D4-7933-4E9B-96CF-015C1F2B73F1": {
+                    "name": "4. Templates / Generic / Web-Small / Accordion"
+                },
+                "51A5DDB8-21FB-478B-A354-D3FAD568EB44": {
+                    "name": "4. Templates / Generic / Web-Large / Feature Bullets"
+                },
+                "F0C2A116-3C89-44F2-8DDC-A6FADDE624C6": {
+                    "name": "4. Templates / System / Web-Large / Alert-Bar"
+                },
+                "BF990DBD-4561-44E4-A72C-68B38AC26A25": {
+                    "name": "4. Templates / Generic / Web-Large / Cards-Small"
+                },
+                "466C9B32-2420-4419-BED8-2B5DFDDB3923": {
+                    "name": "4. Templates / Generic / Web-Large / Carousel"
+                },
+                "D2700C4E-87C1-4DF7-81DE-0E7A5D9BBC91": {
+                    "name": "4. Templates / Hero / Web-Large / Search"
+                },
+                "92F98A6E-41CF-4C66-B7E0-A77AC2729710": {
+                    "name": "4. Templates / System / Web-Small / Error-500"
+                },
+                "901F4259-8AEB-41EF-93AA-663E4A058FF6": {
+                    "name": "4. Templates / Hero / Web-Small / Map"
+                },
+                "1EB31399-8997-4CB8-8DC1-7D53E34BAB8A": {
+                    "name": "4. Templates / Hero / Web-Small / Search"
+                },
+                "5C5F1B02-4036-4A06-A5D9-40E40B2009A5": {
+                    "name": "4. Templates / Nav / Web-Small / Page-Footer"
+                },
+                "47A0D0A0-9B5D-4B46-8F61-8D4DCADFE2C0": {
+                    "name": "4. Templates / Generic / Web-Small / Feature Thumbs"
+                },
+                "66D7B14B-BE53-428E-B692-36DA87B4C0AF": {
+                    "name": "4. Templates / System / Web-Large / Alert-Page"
+                },
+                "E889D700-9225-4103-B3E6-8287A957D1E6": {
+                    "name": "4. Templates / Generic / Web-Large / Feature Thumbs"
+                },
+                "C5DE6499-736A-4692-AB8E-134CCABC66FC": {
+                    "name": "4. Templates / Nav / Web-Small / Page-Header"
+                },
+                "2922DFB0-AF6C-4969-862C-DDD9C73B6393": {
+                    "name": "4. Templates / Auth / Web-Large / Sign Up"
+                },
+                "0D3E29BD-27AD-45A9-8F14-678376DEF279": {
+                    "name": "4. Templates / Auth / Web-Large / Verify GSM"
+                },
+                "E2A9BBFB-403E-441E-8BA9-1B058214D98E": {
+                    "name": "4. Templates / Generic / Web-Large / Search Results"
+                },
+                "22ADD1C8-6298-4900-A42C-1B9DA47AC024": {
+                    "name": "4. Templates / Nav / Web-Large / Page-Footer"
+                },
+                "C12B4E5C-D3E6-4A5D-B274-ED36DBD0877C": {
+                    "name": "4. Templates / Generic / Web-Large / Cards-Large"
+                },
+                "F5FA2698-C960-416A-AFB4-1EE857188844": {
+                    "name": "4. Templates / App / Web-Large / Base"
+                },
+                "23AE437A-0988-4AAA-AA0D-1D4DECD1DC34": {
+                    "name": "4. Templates / System / Web-Small / Error-404"
+                },
+                "1D6C26FD-50A7-4320-A4CB-541662BA0EC2": {
+                    "name": "4. Templates / Auth / Web-Small / Sign Up"
+                },
+                "8DA94B50-55AB-4C99-BB58-6BD8A47072C7": {
+                    "name": "4. Templates / Hero / Web-Large / Base"
+                },
+                "C1F218C2-52BE-4255-9D2C-6DF850383186": {
+                    "name": "4. Templates / App / Web-Large / Calendar"
+                },
+                "F832FD9D-F193-42E3-BC17-B9FE053D10E0": {
+                    "name": "4. Templates / Auth / Web-Small / Verify GSM"
+                },
+                "08A86E99-351E-408B-801D-17C108352868": {
+                    "name": "4. Templates / App / Web-Small / Base"
+                },
+                "4DF42C23-A47C-46B3-A45C-F283E82328B2": {
+                    "name": "4. Templates / Auth / Web-Small / Set Password"
+                },
+                "648200B6-CC15-4E5E-84D0-311939295119": {
+                    "name": "4. Templates / System / Web-Small / Alert-Bar"
+                },
+                "07E895C7-502C-4671-B4BB-E66C315F2401": {
+                    "name": "4. Templates / Generic / Web-Small / Cards-Large"
+                },
+                "07B6A970-E637-48A2-AE71-DE171F7C3756": {
+                    "name": "4. Templates / Nav / Web-Large / Page-Header"
+                },
+                "96E6B326-558B-4414-8BE9-0324A99DB51C": {
+                    "name": "4. Templates / Hero / Web-Large / Map"
+                },
+                "8CFC5F57-365B-44D1-B4A1-8C8506D9B90F": {
+                    "name": "4. Templates / Nav / Web-Small / Page-Base"
+                },
+                "EC9D7939-8B32-402E-B916-49C5FF8A9440": {
+                    "name": "4. Templates / Generic / Web-Small / Search Results"
+                },
+                "A3E67014-D012-415F-885D-FDAA000CB07E": {
+                    "name": "4. Templates / Generic / Web-Small / Carousel"
+                },
+                "FE888256-F501-4D76-91D4-4830104E3161": {
+                    "name": "4. Templates / Auth / Web-Large / Set Password"
+                },
+                "162C60B1-B662-45F0-A7C4-D1D334AD1697": {
+                    "name": "4. Templates / System / Web-Large / Error-500"
+                },
+                "2734FFC7-7120-47B2-939C-EDB4DF455F0D": {
+                    "name": "4. Templates / Auth / Web-Small / Sign In"
+                },
+                "3E7BAAA6-CCAF-403B-8335-8EC44FE778DA": {
+                    "name": "4. Templates / System / Web-Small / Alert-Page"
+                },
+                "B28EB7D9-B434-4086-B2A4-EC9ADC8E649C": {
+                    "name": "4. Templates / Auth / Web-Large / Sign In"
+                },
+                "A5915181-B05B-4F88-A568-931638447A23": {
+                    "name": "4. Templates / Nav / Web-Large / Page-Base"
+                },
+                "F1C4D523-6394-4663-9E24-BAE5D3175067": {
+                    "name": "4. Templates / Auth / Web-Large / Reset Password"
+                },
+                "EC161FAE-C2AD-4F6E-AF75-679A7079FAEE": {
+                    "name": "4. Templates / System / Web-Large / Error-404"
+                },
+                "32B2B678-0FED-497B-B7B7-3D963067D456": {
+                    "name": "4. Templates / Generic / Web-Small / Feature Bullets"
+                },
+                "DDEDC6C6-74C9-400C-8132-207F469B162B": {
+                    "name": "4. Templates / Auth / Web-Small / Reset Sent"
+                },
+                "B908288B-E5F6-4984-89EB-30BB1DFB79E6": {
+                    "name": "4. Templates / Auth / Web-Small / Change Password"
+                },
+                "C98B457C-B9F8-4E3D-BC01-DFED9780977E": {
+                    "name": "4. Templates / Hero / Web-Small / Base"
+                },
+                "57FD9577-8780-41C4-A3E6-41D7894D898C": {
+                    "name": "4. Templates / Auth / Web-Large / Change Password"
+                },
+                "3366EAF2-5A42-4EA4-A1D6-7EF64CC1CCE6": {
+                    "name": "4. Templates / App / Web-Small / Calendar"
+                },
+                "71249A6B-3531-4408-9D5D-32E40167E707": {
+                    "name": "4. Templates / Auth / Web-Small / Reset Password"
+                },
+                "D4E74189-2ACF-4790-A506-E321EDE5A3CE": {
+                    "name": "4. Templates / Generic / Web-Small / Cards-Small"
+                },
+                "BA0C3850-D8C1-4B71-BDD2-680AEA5D67C7": {
+                    "name": "4. Templates / Generic / Web-Large / Accordion"
+                },
+                "B083281D-60C0-471B-BB54-B2AE4C2A6852": {
+                    "name": "4. Templates / App / Web-Small / Comments"
+                },
+                "5DD07305-0EDD-4A9A-938F-D2EB2FACE36D": {
+                    "name": "4. Templates / Auth / Web-Large / Reset Sent"
+                },
+                "840E510B-D24D-416A-9082-BDB0B6375C40": {
+                    "name": "4. Templates / App / Web-Large / Comments"
+                }
+            }
+        },
+        "C09023E4-E1BF-4BF7-8798-5C240AAEF026": {
+            "name": "Preview",
+            "artboards": {
+                "D922D205-8FEF-42AD-B0FD-7C6502E2E1CD": {
+                    "name": "Library Preview"
+                }
+            }
+        },
+        "9A4EBFA2-1D87-4D89-8AFB-BB88DE8ED9A8": {
+            "name": " ",
+            "artboards": {}
+        },
+        "98DF1CF2-BA57-4848-A276-7C11B4375583": {
+            "name": " ",
+            "artboards": {}
+        },
+        "A3AA90D9-830A-4E81-9D1B-3F7DE28A4BF0": {
+            "name": "Molecules",
+            "artboards": {
+                "D4F0A441-73E2-41EA-90CB-2141B9EE25F1": {
+                    "name": "2. Molecules / Chip / Media"
+                },
+                "A324FF57-FC62-4F66-A8DF-35F451B67A71": {
+                    "name": "2. Molecules / Form / Field-TableView / Slim-Label"
+                },
+                "65633092-0B7D-49DB-BF4C-7327C7D04C54": {
+                    "name": "2. Molecules / List Item / Specific / Hierarchical-6"
+                },
+                "8AAEDDDB-2CD4-435C-B8F3-0D4CEC77881C": {
+                    "name": "2. Molecules / Section Footer / Slim / Stack-Full"
+                },
+                "9CB59518-0A78-4EA8-8DDC-6E4A6601EEAD": {
+                    "name": "2. Molecules / Form / Rich / Message"
+                },
+                "6FFC4382-CEEC-4943-BC48-F1A07EC3465B": {
+                    "name": "2. Molecules / Slider / Balance-Middle"
+                },
+                "55FD616B-586E-47FA-AD4E-1AFF43FE7C04": {
+                    "name": "2. Molecules / Button / Regular / Dropdown-Icon"
+                },
+                "5505A050-28D0-4B1D-BC57-4F42F8A6C928": {
+                    "name": "2. Molecules / Form / Field-Common-Large / Text-Right"
+                },
+                "3A2828C2-A29A-401B-B7B7-5E15CCD4FD44": {
+                    "name": "2. Molecules / Notification / Icon"
+                },
+                "302FA5CB-6F40-45A9-865A-F0E73D1E79C6": {
+                    "name": "2. Molecules / Mobile / Bar / App Bar / Right-Icon"
+                },
+                "85E7671C-8C98-4874-998D-655A44E11517": {
+                    "name": "2. Molecules / Section Footer / Slim / _"
+                },
+                "CB29EEE4-D675-4B3D-ACDC-517A7CB987E4": {
+                    "name": "2. Molecules / Mobile / Picker / Date-English"
+                },
+                "EFC900AE-2428-4046-ADA8-E97F565E6E56": {
+                    "name": "2. Molecules / Section Footer / Regular-16px / _"
+                },
+                "5FACCDE1-021B-440E-A084-588D8C08D2EE": {
+                    "name": "2. Molecules / List Item / Specific / Hierarchical-4"
+                },
+                "4446AF2A-44F1-4CD2-B7ED-3C963E60A2CF": {
+                    "name": "2. Molecules / Button / Regular / Basic"
+                },
+                "FF19066D-B5EC-4723-A2A7-2B91DA9A4AF3": {
+                    "name": "2. Molecules / Mobile / Keyboard / iOS / KeySet-English-Capitals"
+                },
+                "31B2D064-4DB6-42CC-BB0C-6765FAD61FF0": {
+                    "name": "2. Molecules / Button / Regular / Count-Icon-Small"
+                },
+                "3838BFCE-8501-4797-BF63-FB54023A4FCA": {
+                    "name": "2. Molecules / Miscellaneous / Map-Marker"
+                },
+                "C840189D-118E-45A3-96BC-804AD53E301E": {
+                    "name": "2. Molecules / Chart / Row-Large"
+                },
+                "2AF891D6-5A41-49C9-804F-8834ECFFD907": {
+                    "name": "2. Molecules / Form / Field-Floating / Textarea-Basic-Smart"
+                },
+                "00F4F38B-6419-494C-A94C-EA1F56E50064": {
+                    "name": "2. Molecules / Form / Field-Common-Small / Text-Icon-Left"
+                },
+                "55329FAF-6181-463A-A4AF-034A779B7EDA": {
+                    "name": "2. Molecules / Section Footer / Slim / Double-Split"
+                },
+                "D7FE842C-B4D3-4663-8906-5D713EE94BF2": {
+                    "name": "2. Molecules / Card / Regular"
+                },
+                "94430F56-CFCE-48D7-B975-D009A00C859C": {
+                    "name": "2. Molecules / List Item / Specific / Calendar"
+                },
+                "AE580DAB-DCD8-4662-AB09-520455F62A64": {
+                    "name": "2. Molecules / List Item / Regular / Icon-Android"
+                },
+                "460C348B-260C-4200-92EE-8079B060BC55": {
+                    "name": "2. Molecules / Button / Icon-Only / Widget-Large"
+                },
+                "2A6B797E-F0A0-410E-90D6-A0FDE855DA43": {
+                    "name": "2. Molecules / List Item / Specific / Hierarchical-1"
+                },
+                "14227B70-6DE9-403C-A9FE-78417720E941": {
+                    "name": "2. Molecules / Progress / Subprogress-10 / 09:10"
+                },
+                "205BC845-2A90-40FD-98AE-0E0F76DEBA45": {
+                    "name": "2. Molecules / Button / Icon-Only / Profile-Dropdown"
+                },
+                "C1039648-3EAD-4C7A-BB76-A759B59AEE8B": {
+                    "name": "2. Molecules / Section Header / Regular-32px-Basic"
+                },
+                "B75F276E-1839-48F7-815F-0AE18875F31F": {
+                    "name": "2. Molecules / Accordion / Slim-Large-Body"
+                },
+                "FA7119D5-A10E-42EE-83B8-5BD34BB740BF": {
+                    "name": "2. Molecules / Comment / Slim-Large"
+                },
+                "C45A1DCD-3AD3-4F04-AD81-7E865A058382": {
+                    "name": "2. Molecules / Form / Field-Common-Large / Textarea-Icon"
+                },
+                "0F4DF6BA-D467-4B48-B3AD-8DBA1C39BC87": {
+                    "name": "2. Molecules / Accordion / Regular-Large-Body"
+                },
+                "E2F95F98-5F05-48AC-AC83-F2ED7C9DD728": {
+                    "name": "2. Molecules / Mobile / Bar / App Bar / Left-Back"
+                },
+                "2E132562-3C2E-4CBF-BB3D-B716BB71AE4D": {
+                    "name": "2. Molecules / Mobile / Alert-iOS / Action / Cancel"
+                },
+                "AB069C41-A239-42E3-B585-393348A90673": {
+                    "name": "2. Molecules / Mobile / Picker / Day-Horizontal"
+                },
+                "0DEC02F1-E36F-494D-8C2A-5314C0A2B093": {
+                    "name": "2. Molecules / Miscellaneous / Indicator-Determinate-Label"
+                },
+                "DBD7C6CB-0534-4F3F-A88A-1115019357F7": {
+                    "name": "2. Molecules / Miscellaneous / Edit-Menu-Single"
+                },
+                "07843B2E-CAB7-4B46-994A-41843AA86341": {
+                    "name": "2. Molecules / Button / Regular / Widget"
+                },
+                "9B07005E-A0C7-4B3C-AC65-78D78C1ADF86": {
+                    "name": "2. Molecules / Mobile / Alert-Android / Main / Header-Back"
+                },
+                "87C2C7BA-A2C1-4A99-A93B-C199CD16C830": {
+                    "name": "2. Molecules / Button / Regular / Dropdown-Basic-Large"
+                },
+                "305496D0-AA64-45A7-81BF-6DD5693D2CD2": {
+                    "name": "2. Molecules / Section Indexer / English"
+                },
+                "B38828AA-9F1B-4996-B70C-6C63B3EC0A76": {
+                    "name": "2. Molecules / Mobile / Alert-iOS / Main / Basic"
+                },
+                "464FBF50-9C6E-46A0-AF52-C89C3536B7B0": {
+                    "name": "2. Molecules / Button / Slim / Basic-Small"
+                },
+                "80B0A65E-F4FF-451B-8F6A-229036F8D694": {
+                    "name": "2. Molecules / Button / Icon-Only / Widget"
+                },
+                "C96A94ED-5538-4DDC-9E71-55FB7F43DF0A": {
+                    "name": "2. Molecules / Miscellaneous / Edit-Selection-Default"
+                },
+                "544016EC-182B-4E3D-91DE-750761ABC5CD": {
+                    "name": "2. Molecules / Form / Rich / Phone"
+                },
+                "63573A3D-C09B-4740-9C2E-0A85CD0BC381": {
+                    "name": "2. Molecules / Button / Slim / Count-Basic-Small"
+                },
+                "DD1F53A6-0989-4115-80FC-40D1277EBAB2": {
+                    "name": "2. Molecules / Section Header / Regular-16px-Basic"
+                },
+                "BD157FAA-B099-4806-B046-51575E9BCCDE": {
+                    "name": "2. Molecules / Form / Option / Smart"
+                },
+                "32FBB0E7-40B6-48A7-B106-C3DD4293BDD2": {
+                    "name": "2. Molecules / Comment / Slim-Small"
+                },
+                "FF3ADA73-3E14-4420-8D9B-456BA29EA184": {
+                    "name": "2. Molecules / Mobile / Bar / App Bar / Title-Basic"
+                },
+                "D47FA811-0F27-41AC-97DE-70463C1A278F": {
+                    "name": "2. Molecules / List Item / Regular / Smart"
+                },
+                "097D4D8E-6392-411D-866E-DFD5CC63A7D5": {
+                    "name": "2. Molecules / Button / Regular / Icon-Left-Large"
+                },
+                "24E5E736-0A9F-40EC-8214-198BF8A31955": {
+                    "name": "2. Molecules / Slider / Default-High"
+                },
+                "FDAEA1CF-067F-43E3-9B7F-3B89820F2BEA": {
+                    "name": "2. Molecules / Mobile / Alert-iOS / Main / Complex"
+                },
+                "2B01A29F-B40F-410C-95C9-BF2A3D52A042": {
+                    "name": "2. Molecules / Section Footer / Regular-24px / Basic"
+                },
+                "14E53A39-94AF-42EA-AF5C-FA0964DE4557": {
+                    "name": "2. Molecules / Section Header / Slim-Complex"
+                },
+                "36413074-B9CB-4F60-93AD-CADB60390D90": {
+                    "name": "2. Molecules / Pagination / Items-Left"
+                },
+                "51972A6E-B0B8-4FF5-9171-B56C7B22B705": {
+                    "name": "2. Molecules / Pagination / Posts"
+                },
+                "EC00D761-D82A-4593-A6EC-82C0EA96AE01": {
+                    "name": "2. Molecules / Button / Slim / Dropdown-Basic-Large"
+                },
+                "6D1ACDAF-E7F8-4174-AF47-A20A5CDF8110": {
+                    "name": "2. Molecules / Form / Field-Common-Small / Select-Icon"
+                },
+                "BC145FEF-F2D9-49B8-B097-17883A3C669C": {
+                    "name": "2. Molecules / Pagination / Dots-Inverse-2"
+                },
+                "89ED0628-8AAE-46D6-9ADC-EBA3AC8070E4": {
+                    "name": "2. Molecules / Button / Icon-Only / Basic"
+                },
+                "C9E5B06C-4103-4BEE-AB93-892AE4DC78EC": {
+                    "name": "2. Molecules / Button / Common / Basic-Large"
+                },
+                "83388D12-5C9C-471F-A325-F1B67511894F": {
+                    "name": "2. Molecules / Progress / Subprogress-12 / 03:12"
+                },
+                "E023D60C-8A8C-4A28-81AB-D4FF68439DC0": {
+                    "name": "2. Molecules / Miscellaneous / Map-Me"
+                },
+                "7D3C9A88-312D-451C-B660-58AF2CC1F088": {
+                    "name": "2. Molecules / Form / Option / Smart-Large"
+                },
+                "617716E5-15EE-4C3A-9683-D3B9F5594A77": {
+                    "name": "2. Molecules / Section Header / Slim-Basic"
+                },
+                "697BF1CE-C5D9-4B07-AD71-F182DA64071F": {
+                    "name": "2. Molecules / Button / Regular / Dropdown-Icon-Small"
+                },
+                "F6687841-E104-4146-BE87-747F4E058581": {
+                    "name": "2. Molecules / Button / Regular / Count-Basic-Large"
+                },
+                "6820FD36-DC03-4AE7-A2D6-FB8B9B6BB5B9": {
+                    "name": "2. Molecules / Form / Field-Common-Large / Text-Basic"
+                },
+                "63BA50C9-87B3-4E51-BC9A-5F05D81D8F84": {
+                    "name": "2. Molecules / Mobile / Keyboard / iOS / KeySet-123-Default"
+                },
+                "2F2A9D4F-F0B8-4266-90E7-732B23047BCE": {
+                    "name": "2. Molecules / Mobile / Alert-iOS / Main / Scroll-Text"
+                },
+                "7ED1537C-9C38-465B-8E10-748DCD401304": {
+                    "name": "2. Molecules / Widget / Stepper"
+                },
+                "E3203DF2-04E2-4CD8-8D3E-24D38D5CF859": {
+                    "name": "2. Molecules / Miscellaneous / Rating-Stars-Full"
+                },
+                "C24533CB-5A92-4FE8-ABB1-99D2E7DB0903": {
+                    "name": "2. Molecules / Chip / Icon"
+                },
+                "D8FAF0B7-BBD9-455A-9E91-37C5EE2DDFC7": {
+                    "name": "2. Molecules / Mobile / Alert-Android / Main / Header-Basic"
+                },
+                "0E96D2C1-FE5E-4084-A116-246CABB9C7FE": {
+                    "name": "2. Molecules / Form / Option / Input-Small"
+                },
+                "A31F99A7-BDE7-43B5-B0E4-7900940B9494": {
+                    "name": "2. Molecules / List Item / Regular / Complex"
+                },
+                "4D34557C-118C-4130-8A02-08BDB959BE76": {
+                    "name": "2. Molecules / Section Footer / Regular-16px / Double-Full"
+                },
+                "8F978403-8EDA-4158-A202-53328D8EEB04": {
+                    "name": "2. Molecules / Button / Slim / Icon-Right-Small"
+                },
+                "326F2EEC-A3C9-4428-9C8C-F3BAEE72F5FD": {
+                    "name": "2. Molecules / Section Footer / Regular-16px / Double-Right"
+                },
+                "01B00C9C-763F-4BCF-8B74-509CF86EBDB4": {
+                    "name": "2. Molecules / Form / Group / Floating-Smart"
+                },
+                "89B2BDCB-57A4-4F04-BC1B-A9748F9711BC": {
+                    "name": "2. Molecules / Form / Field-Common / Text-Icon Right"
+                },
+                "906FA0DE-CE31-4717-B30E-F0375076029F": {
+                    "name": "2. Molecules / Mobile / Bar / App Bar / Title-Dropdown"
+                },
+                "1B472EFD-13E5-44AA-9BEE-F93683F8C944": {
+                    "name": "2. Molecules / Mobile / Keyboard / Android / SpaceBar-Default"
+                },
+                "3501E1ED-AB1D-4404-A5F9-55D908DDED65": {
+                    "name": "2. Molecules / Form / Field-Common-Small / Text-Center"
+                },
+                "ED2AAAB3-6B15-4DE3-AA3F-FF0DBD9430FC": {
+                    "name": "2. Molecules / Calendar Header / Title-Today"
+                },
+                "E799ACF6-991B-46CA-812B-5377F3892E37": {
+                    "name": "2. Molecules / Form / Option / Basic"
+                },
+                "85D76F71-F93E-4B6E-A3BF-45C50B20BA7B": {
+                    "name": "2. Molecules / Form / Field-TableView / Regular-Basic"
+                },
+                "E2C06CDE-300C-45F3-96DB-B3318E62787A": {
+                    "name": "2. Molecules / Form / Specific / Image-Progress"
+                },
+                "4FCC69ED-6020-4EEE-B4E0-1C0D89B828D0": {
+                    "name": "2. Molecules / Form / Rich / Decimals - Floating"
+                },
+                "15FF736D-F178-4E47-AE6E-BD666B443A52": {
+                    "name": "2. Molecules / Form / Field-Floating / Text-Basic-Inactive"
+                },
+                "0A5E3240-F65F-459F-A51E-33C21DEE1107": {
+                    "name": "2. Molecules / List Item / Slim / Basic"
+                },
+                "EC18C020-EF8C-4C8A-8844-974A7886C1BF": {
+                    "name": "2. Molecules / Form / Field-Floating / Select-Basic-Inactive"
+                },
+                "D9242632-7056-4BB0-AD07-C05C221037E4": {
+                    "name": "2. Molecules / Pagination / Dots-Inverse-3"
+                },
+                "4C773213-5A78-45FD-9345-02443B0EAB56": {
+                    "name": "2. Molecules / Notification / Basic"
+                },
+                "94028D8E-7F7F-4647-9C32-9700401B97C3": {
+                    "name": "2. Molecules / Section Footer / Slim / Double-Center"
+                },
+                "108745D6-E2FC-4CB7-8011-9DF9EE8FA23C": {
+                    "name": "2. Molecules / Calendar Header / Days"
+                },
+                "8F10A236-C9C3-492C-91E6-B68A0FD3087B": {
+                    "name": "2. Molecules / Mobile / Nav Item / Android - Tab Bar"
+                },
+                "7BD82B63-4C7C-4A78-BF17-F8D015B7A64A": {
+                    "name": "2. Molecules / Form / Field-Common-Small / Textarea-Smart"
+                },
+                "5867A8CA-C396-4FA4-B490-167CBCD9A98A": {
+                    "name": "2. Molecules / Section Footer / Regular-16px / Double-Split"
+                },
+                "30A3275E-420E-4649-8252-9B6D9D2B83D4": {
+                    "name": "2. Molecules / Form / Field-Floating / Textarea-Icon-Smart"
+                },
+                "141096C6-A74A-4C0F-8A60-2FAC1BB4C268": {
+                    "name": "2. Molecules / List Item / Specific / Swipe-Action-Delete"
+                },
+                "8DC9BA1A-3543-4CB6-83C7-85E94476B496": {
+                    "name": "2. Molecules / Form / Option / Tail"
+                },
+                "70E6E8F2-4980-40F6-B0E0-22A71024EA7D": {
+                    "name": "2. Molecules / Form / Group / Vertical-Label-Textarea"
+                },
+                "CB04D2B2-C6B0-4383-9CF9-DA7A9417CE05": {
+                    "name": "2. Molecules / Button / Regular / Widget-Large"
+                },
+                "EF55DB11-EB18-4370-9EBC-BAC25506EBFC": {
+                    "name": "2. Molecules / Form / Field-Common / Text-Icon Left"
+                },
+                "F62CCBDF-0065-4CBC-938F-5B6A4F88FEB6": {
+                    "name": "2. Molecules / Progress / Step / Chip-Active"
+                },
+                "E878392A-3B98-4BA8-A1A7-7931C2187DA3": {
+                    "name": "2. Molecules / Button / Slim / Dropdown-Basic-Small"
+                },
+                "50D3CDD6-2AAD-49ED-95CA-A5EA00F81687": {
+                    "name": "2. Molecules / Pagination / Dots-Inverse-4"
+                },
+                "EF603CD7-549C-45F3-B044-45B434F9BB3E": {
+                    "name": "2. Molecules / Form / Field-TableView / Slim-Basic"
+                },
+                "2CEF1A81-4026-4AF8-A32D-B1C983F7A349": {
+                    "name": "2. Molecules / Calendar Header / Date"
+                },
+                "F141BFCC-A39B-4C31-9350-6DCFD86DB5A2": {
+                    "name": "2. Molecules / Button / Regular / Dropdown-Basic-Small"
+                },
+                "E795C6AF-7E63-4349-8170-9B547CD08594": {
+                    "name": "2. Molecules / Button / Icon-Only / Widget-Small"
+                },
+                "4E78000E-1FE0-4AF7-A6DD-A106F1EE3215": {
+                    "name": "2. Molecules / Button / Icon-Only / Dropdown-Large"
+                },
+                "D30BC08B-97F8-474D-B658-EFA20C467512": {
+                    "name": "2. Molecules / Form / Field-Common-Small / Text-Icon-Right"
+                },
+                "36D5FFF3-15D1-4997-95EA-91B1E9D58B12": {
+                    "name": "2. Molecules / Button / Regular / Dropdown-Basic"
+                },
+                "13120214-B474-40F7-A779-5A89CD7246B7": {
+                    "name": "2. Molecules / Form / Field-Floating / Text-Icon-Activated"
+                },
+                "EF0BB5CE-A097-4495-AB7A-75FDC52F0A89": {
+                    "name": "2. Molecules / Chip / Media-Removable"
+                },
+                "604FA88B-6B56-4D6B-91B0-4B5F7AAEDC84": {
+                    "name": "2. Molecules / Progress / Subprogress-12 / 11:12"
+                },
+                "378708F7-4178-4A62-BA30-AE97073B830C": {
+                    "name": "2. Molecules / Button / Slim / Widget"
+                },
+                "BD89C9CF-F24E-4A14-AAD2-B1C9A7EAB357": {
+                    "name": "2. Molecules / Form / Group / Vertical-Default-Smart"
+                },
+                "A24C3770-9B1F-4DD6-B6A0-5C71B251B6CF": {
+                    "name": "2. Molecules / Miscellaneous / Rating-Stars-Base"
+                },
+                "4E0A1DEA-EBB5-421D-B0B0-10126A41886D": {
+                    "name": "2. Molecules / List Item / Regular / Widget"
+                },
+                "4AC01B32-15B6-466D-BBA3-7BB73DA7A520": {
+                    "name": "2. Molecules / Pagination / Items-Right"
+                },
+                "38679F4A-8BCE-4472-93B1-4005A07B443F": {
+                    "name": "2. Molecules / List Item / Specific / Hierarchical-3"
+                },
+                "79FC9B12-A48F-436B-B4FA-708CED62B248": {
+                    "name": "2. Molecules / Progress / Step / Chip-Default"
+                },
+                "6D8A4F53-6A9E-41F3-A030-65B9C7215280": {
+                    "name": "2. Molecules / List Item / Slim / Header"
+                },
+                "C384B7F7-C842-4D11-A3C7-19E76527788E": {
+                    "name": "2. Molecules / Form / Field-Common-Small / Text-Basic"
+                },
+                "11305659-0E4B-4839-B769-BBF76A5508C9": {
+                    "name": "2. Molecules / Button / Slim / Icon-Left-Large"
+                },
+                "B1D8FAFC-AAB0-45EA-A8AC-FB0EA0114AA7": {
+                    "name": "2. Molecules / Chart / Bar-Basic"
+                },
+                "9DC2F2B2-FD93-4B34-BB95-E1944F0BC942": {
+                    "name": "2. Molecules / Card / Regular-Large"
+                },
+                "31E462BA-E3E1-465B-99D9-5E54DFC97AF2": {
+                    "name": "2. Molecules / Button / Slim / Count-Basic-Large"
+                },
+                "295DDD48-DFAD-4383-A615-5D13E5C1397E": {
+                    "name": "2. Molecules / Section Header / Regular-24px-Complex"
+                },
+                "4E6DC99A-4F9C-40D5-A83D-BDA72750E8FA": {
+                    "name": "2. Molecules / Widget / Text"
+                },
+                "5DDF6CEE-ECE3-413E-B669-FE1C99AD53AF": {
+                    "name": "2. Molecules / Section Footer / Slim / Basic"
+                },
+                "62C5A2EB-29F6-4188-8251-767337A92476": {
+                    "name": "2. Molecules / List Item / Regular / Header"
+                },
+                "670266C0-5CBB-4444-823B-AA4F632B7758": {
+                    "name": "2. Molecules / List Item / Regular / Widget-Left"
+                },
+                "C84B9C4E-A9A3-4F64-BA6D-71581BDF0CA2": {
+                    "name": "2. Molecules / Button / Slim / Dropdown-Icon"
+                },
+                "1FA51339-326B-458C-BB55-75A86DB91358": {
+                    "name": "2. Molecules / Mobile / Alert-Android / Main / Scroll-Text"
+                },
+                "F81A0FBB-933E-4758-BFE4-239EE44C2D25": {
+                    "name": "2. Molecules / Mobile / Keyboard / Android / KeySet-Symbols"
+                },
+                "EA640819-1042-4053-928F-C6895D54E8DA": {
+                    "name": "2. Molecules / Button / Icon-Only / Basic-Large"
+                },
+                "A08E256E-E6EC-46C7-ABEF-874CF47AAB59": {
+                    "name": "2. Molecules / Button / Slim / Icon-Right-Large"
+                },
+                "0B856EE1-72A1-4F50-B307-FB086DEA7BE6": {
+                    "name": "2. Molecules / Chip / Icon-Removable"
+                },
+                "A894B594-B28D-4964-B353-FF4BC6E4F633": {
+                    "name": "2. Molecules / Notification / Dialog"
+                },
+                "D2AE45D3-9646-4E31-8388-476C6141A325": {
+                    "name": "2. Molecules / Button / Regular / Dropdown-Icon-Large"
+                },
+                "19FBE34F-EAA5-4A35-BA1B-384CF567B6F3": {
+                    "name": "2. Molecules / Widget / Icon-Large"
+                },
+                "685D735B-EB2C-4525-9D2E-137CC812A8E0": {
+                    "name": "2. Molecules / Mobile / Picker / DateTime-English"
+                },
+                "7E41163B-FE65-4BA8-8419-777EE0838EAD": {
+                    "name": "2. Molecules / Chip / Basic"
+                },
+                "3FA04244-8E46-48C5-92FA-24846E06F05A": {
+                    "name": "2. Molecules / Button / Icon-Only / Profile-Basic"
+                },
+                "9BCE7E7F-3D97-467E-91E9-E3FE5EFAB0D5": {
+                    "name": "2. Molecules / Progress / Step / Chip-Done"
+                },
+                "837AF4C1-F030-42E9-9686-263F22A5153F": {
+                    "name": "2. Molecules / Section Footer / Regular-24px / Double-Split"
+                },
+                "BCF1A6C1-0D44-43E6-AD8C-896CDBD32C1F": {
+                    "name": "2. Molecules / Section Footer / Regular-16px / Double-Center"
+                },
+                "4D47BA3D-7852-4F57-9127-D6650764A472": {
+                    "name": "2. Molecules / Progress / Subprogress-10 / 08:10"
+                },
+                "28F2C679-8D94-4C8B-AC9A-E33FB317F93B": {
+                    "name": "2. Molecules / List Item / Slim / Footer"
+                },
+                "C4934D3C-9CAE-4C3A-8A53-250DA28AE7A1": {
+                    "name": "2. Molecules / Form / Group / Vertical-Default-Textarea"
+                },
+                "2A7CD0E7-D301-4038-94B3-E858367B555A": {
+                    "name": "2. Molecules / Tooltip / Basic"
+                },
+                "9605C97F-9F74-4786-8527-8B1A190D8D4A": {
+                    "name": "2. Molecules / Section Footer / Regular-24px / Double-Left"
+                },
+                "702AE08E-6C22-47E5-A09E-24233BE5B5B3": {
+                    "name": "2. Molecules / Form / Rich / Tail"
+                },
+                "09FE9DA1-ADB9-46D7-8180-81BF490A370D": {
+                    "name": "2. Molecules / Form / Group / Vertical-Label-Smart"
+                },
+                "29267FAC-E2C3-4B6A-86FA-785C2C7A133D": {
+                    "name": "2. Molecules / Mobile / Keyboard / Android / KeySet-Capitals"
+                },
+                "58F3ADE1-8F9B-441A-8400-E3162E77324B": {
+                    "name": "2. Molecules / Slider / Default-Low"
+                },
+                "6CE8D12F-7327-43C3-8793-4CDD7A6B2E5D": {
+                    "name": "2. Molecules / Form / Specific / Image-Done"
+                },
+                "55A3C8EA-2A91-406B-9641-B500DE8CA868": {
+                    "name": "2. Molecules / Pagination / Dots-Default-2 "
+                },
+                "BB03568C-3CCE-408E-9A6B-592D813D377A": {
+                    "name": "2. Molecules / Mobile / Keyboard / iOS / KeySet-Turkish-Lowers"
+                },
+                "59865BDF-743E-41BF-A2F2-77777B4E5185": {
+                    "name": "2. Molecules / Mobile / Alert-iOS / Action / Double"
+                },
+                "D6D5A1E4-8F7B-4B3B-8618-93F154EA72FD": {
+                    "name": "2. Molecules / Section Footer / Regular-24px / Stack-Center"
+                },
+                "AEC15784-9EF2-4AE5-B13B-DEF8E0AAC787": {
+                    "name": "2. Molecules / Message / Form"
+                },
+                "CB81F7A8-840E-42EC-9AFE-815F1F6FB238": {
+                    "name": "2. Molecules / Button / Regular / Icon-Right-Large"
+                },
+                "5335BCD4-8B6A-4FED-97E9-96D5DBD46A41": {
+                    "name": "2. Molecules / Section Footer / Regular-24px / _"
+                },
+                "46D025D5-357E-4E47-B279-8AF5013016C3": {
+                    "name": "2. Molecules / Form / Field-Common-Large / Textarea-Basic"
+                },
+                "8F2947E5-7BD1-4E4A-AD29-419413EC1293": {
+                    "name": "2. Molecules / Message / Received-Basic"
+                },
+                "E6501953-4239-4DBA-B76B-5C10900A762D": {
+                    "name": "2. Molecules / Form / Field-Common / Select-Basic"
+                },
+                "02B474C1-1024-4650-BA62-891A52EACB45": {
+                    "name": "2. Molecules / Button / Slim / Basic"
+                },
+                "6CAEC22A-3650-476A-A8FE-F321665AB40B": {
+                    "name": "2. Molecules / Button / Regular / Count-Icon"
+                },
+                "34D1C2BB-2333-4163-A033-B85D7BC696AD": {
+                    "name": "2. Molecules / Pagination / Arrows"
+                },
+                "25E05513-356B-41B3-AE7C-8A1DB0DEECAF": {
+                    "name": "2. Molecules / Mobile / Bar / App Bar / Left-Action"
+                },
+                "11FB4540-0267-46C1-B126-86C83334C1C2": {
+                    "name": "2. Molecules / Chart / Row-Medium"
+                },
+                "3105CC56-23D5-434A-9EE3-0FE88BDE9B7C": {
+                    "name": "2. Molecules / Progress / Subprogress-10 / 05:10"
+                },
+                "41CFA342-A1BD-4844-A827-1C44520FFCE8": {
+                    "name": "2. Molecules / Section Footer / Regular-24px / Double-Full"
+                },
+                "49845899-78EA-4313-A47C-5067708302ED": {
+                    "name": "2. Molecules / Form / Group / Horizontal-Textarea"
+                },
+                "8B700EE2-5EB8-47BA-B8B1-708210A21EA1": {
+                    "name": "2. Molecules / Form / Specific / Agreement Sample"
+                },
+                "1D7AB564-153F-4F88-AB14-D5D44869560D": {
+                    "name": "2. Molecules / Form / Field-Common-Small / Textarea-Smart-Icon"
+                },
+                "E3F83EC5-E6E5-480A-9AEE-0B9835166868": {
+                    "name": "2. Molecules / Form / Field-Common-Large / Text-Icon-Left"
+                },
+                "449D4D21-7AB8-4BCA-8783-ACCE7F76ED6D": {
+                    "name": "2. Molecules / Form / Option / Tail-Small"
+                },
+                "FAF52BB8-922E-451A-93A1-9CE47FD81906": {
+                    "name": "2. Molecules / Form / Option / Tail-Large"
+                },
+                "0F8D5369-75EC-4FFA-ABC0-2C763D21AF8B": {
+                    "name": "2. Molecules / Mobile / Keyboard / Android / SpaceBar-Main"
+                },
+                "77FEA131-E420-4FB1-9E65-90023D71C0AF": {
+                    "name": "2. Molecules / Button / Slim / Count-Icon-Small"
+                },
+                "E9C918A1-E39D-494C-BBA3-FA09502CA521": {
+                    "name": "2. Molecules / Comment / Support-Actions-Right"
+                },
+                "3394AE34-552F-4849-A4B5-7037CB3E89F1": {
+                    "name": "2. Molecules / Button / Icon-Only / Slim-Large"
+                },
+                "013DE03A-9715-4688-9C1B-D4FF9AF073C9": {
+                    "name": "2. Molecules / Section Footer / Slim / Double-Left"
+                },
+                "8031F20F-E32A-4D97-A63B-8E1B08F8DDC5": {
+                    "name": "2. Molecules / Form / Field-Floating / Text-Basic-Activated"
+                },
+                "BEFD96CF-D252-4AFC-B7AF-A698B277EED0": {
+                    "name": "2. Molecules / Calendar Header / Title-Year"
+                },
+                "53B932C1-2975-4F41-8E1B-2E85397990E7": {
+                    "name": "2. Molecules / Section Header / Top-Basic"
+                },
+                "228EC866-E439-493A-8FF4-FF991233AAE2": {
+                    "name": "2. Molecules / Mobile / Alert-iOS / Action / Default"
+                },
+                "FE4A34D3-7663-492F-8DDE-AEDF6F5849AC": {
+                    "name": "2. Molecules / Mobile / Picker / Date-Turkish"
+                },
+                "D9BA977C-2397-45E0-A729-B99373B4E4EA": {
+                    "name": "2. Molecules / Card / Regular-Right-Large"
+                },
+                "7FD63FD5-EA8C-4ABC-AC37-ABC73E5202BA": {
+                    "name": "2. Molecules / Miscellaneous / Indicator-Loader"
+                },
+                "FDF1FD79-8592-4B89-B919-10595830DC2B": {
+                    "name": "2. Molecules / Button / Icon-Only / Dropdown"
+                },
+                "8C6112F6-8C35-46CA-A6EE-FBDB2FC952D9": {
+                    "name": "2. Molecules / Slider / Default-Middle"
+                },
+                "18D3A1BA-0CCB-4C65-9F5E-18C7F808B9C8": {
+                    "name": "2. Molecules / Mobile / Alert-Android / Action / Double"
+                },
+                "D64F15CE-55C6-417C-91A1-582E83DD9233": {
+                    "name": "2. Molecules / Miscellaneous / Edit-Menu-Multi"
+                },
+                "066E73A5-CFA8-4339-B951-1CEA12406446": {
+                    "name": "2. Molecules / Mobile / Alert-Android / Main / Complex"
+                },
+                "9F601AE4-EB67-4019-9FE1-781A0A5348EA": {
+                    "name": "2. Molecules / Pagination / Dropdown-Left"
+                },
+                "7BB2AFFE-1CA8-4788-AE08-800D59FC38A9": {
+                    "name": "2. Molecules / Mobile / Alert-Android / Action / Default"
+                },
+                "C856080D-2262-4CD8-9159-36427D6FBF2A": {
+                    "name": "2. Molecules / Section Footer / Regular-16px / Stack-Center"
+                },
+                "7310B17C-E3B2-4644-BA6E-91D3D0419799": {
+                    "name": "2. Molecules / Message / Received-Picture-Recent"
+                },
+                "30049911-9C8F-450A-A6F9-79844DAE5ED8": {
+                    "name": "2. Molecules / Pagination / Dots-Default-5 "
+                },
+                "27987538-A4F4-4A20-AA17-7413DD258B1B": {
+                    "name": "2. Molecules / Section Footer / Slim / Double-Full"
+                },
+                "F5791661-5B6A-49A4-ACD1-BB977FA69C30": {
+                    "name": "2. Molecules / Form / Specific / reCaptcha"
+                },
+                "30F26D1B-4D51-4E33-BB5F-EBE6AA2545FC": {
+                    "name": "2. Molecules / Form / Field-Common / Textarea-Icon"
+                },
+                "101B310F-0353-42A6-AABB-E58F2AE5CCAB": {
+                    "name": "2. Molecules / Mobile / Nav Item / Android - Sheet"
+                },
+                "FC72F9E7-7C19-42C1-B698-A5B00765F648": {
+                    "name": "2. Molecules / Pagination / Items-Center"
+                },
+                "719DDB01-5CBB-4AF4-B2AB-89FB92D352FC": {
+                    "name": "2. Molecules / Calendar Header / Title-Basic"
+                },
+                "A8CDCE34-5EE1-4BB3-BE13-CEAFD8D94A9C": {
+                    "name": "2. Molecules / Chart / Row-Small"
+                },
+                "50B97B61-8F05-4B8B-9ED3-B268FEECAE8D": {
+                    "name": "2. Molecules / Button / Regular / Icon-Left"
+                },
+                "1A47B25D-706D-4CF2-A62B-9570929ECF9D": {
+                    "name": "2. Molecules / Form / Field-Common-Small / Textarea-Basic "
+                },
+                "9E74D643-A827-4EBD-957F-64196BAE0190": {
+                    "name": "2. Molecules / Form / Specific / Drop Zone-Default"
+                },
+                "B779CBF4-6DE3-4E6F-9C1B-FC9EF39891EE": {
+                    "name": "2. Molecules / Button / Common / Complex"
+                },
+                "5181A0F6-68D0-47AE-9FDA-339184DAA7C4": {
+                    "name": "2. Molecules / Form / Rich / Stepper"
+                },
+                "24DD83AF-F305-4849-9530-4E76971A12B1": {
+                    "name": "2. Molecules / Form / Field-Common / Select-Icon"
+                },
+                "E8159F7E-D5D8-49F1-BD46-5D17544FF9B5": {
+                    "name": "2. Molecules / Form / Field-Floating / Text-Icon-Inactive"
+                },
+                "C375AAC9-03EB-4C8E-86B9-7E87BD2E5FC9": {
+                    "name": "2. Molecules / Form / Rich / Addon Right"
+                },
+                "E2708AFF-1DFB-4850-87A6-AE98D97C5C12": {
+                    "name": "2. Molecules / Progress / Subprogress-10 / 06:10"
+                },
+                "6E2FA0DA-56B6-42E2-BEAF-7846A509FE24": {
+                    "name": "2. Molecules / Button / Slim / Count-Icon"
+                },
+                "5D315BD1-0468-40D0-937D-BC1414E0E3D1": {
+                    "name": "2. Molecules / Mobile / Keyboard / Android / SpaceBar-Numbers"
+                },
+                "03A9BB74-7D18-44B1-9BFB-CAD008D41A97": {
+                    "name": "2. Molecules / Progress / Subprogress-10 / 04:10"
+                },
+                "1A2C8AB6-3492-4506-8E5F-B3512F25E81E": {
+                    "name": "2. Molecules / Section Footer / Regular-24px / Double-Right"
+                },
+                "D8813919-BC89-49FB-AA51-7DF16B91C762": {
+                    "name": "2. Molecules / Button / Common / Complex-Small"
+                },
+                "9BABDC06-A95D-4F50-8ED9-4878DDF4B747": {
+                    "name": "2. Molecules / Form / Group / Vertical-Helper-Smart"
+                },
+                "61A5E052-195C-4DFC-A1D9-190026A9E010": {
+                    "name": "2. Molecules / Form / Field-Common / Text-Center"
+                },
+                "F67F1F8A-8365-4FBA-97B3-7E490B58B440": {
+                    "name": "2. Molecules / Form / Option / Input-Large"
+                },
+                "33424073-4967-4B99-B218-B2E5FDA5ACC9": {
+                    "name": "2. Molecules / Form / Field-Common-Large / Select-Basic"
+                },
+                "022D9CC0-BB42-4408-A936-21E0815CB3D7": {
+                    "name": "2. Molecules / Section Footer / Regular-24px / Complex"
+                },
+                "CEB694A9-6D62-4928-8423-DF9975851E1B": {
+                    "name": "2. Molecules / Card / Regular-Right"
+                },
+                "2B35261F-E580-4C99-A483-5ACB50FAD46F": {
+                    "name": "2. Molecules / Form / Group / Horizontal-Smart"
+                },
+                "0DBEED39-36FE-4E44-9626-7EF459D99559": {
+                    "name": "2. Molecules / Miscellaneous / Indicator-Spinner-Label"
+                },
+                "0A1D48A2-34EF-4A3F-8B6C-6E933201DB4A": {
+                    "name": "2. Molecules / Form / Field-Common-Small / Select-Basic"
+                },
+                "E229ED7E-9029-45B5-A291-FDB18FC1B065": {
+                    "name": "2. Molecules / Slider / Range"
+                },
+                "E979C396-EC8F-40AF-B846-8EBC2AF90EF5": {
+                    "name": "2. Molecules / Mobile / Nav Item / iOS - Sheet"
+                },
+                "B51ADCC7-EAC6-4198-AF7D-4E7634F03EFE": {
+                    "name": "2. Molecules / Progress / Subprogress-10 / 01:10"
+                },
+                "DBCBE4CF-7190-4F23-8298-C1E07F7BDE7A": {
+                    "name": "2. Molecules / Form / Field-Floating / Select-Basic-Activated"
+                },
+                "D467AB4C-3E3D-4218-8D76-340B512BBC1E": {
+                    "name": "2. Molecules / Progress / Subprogress-12 / 01:12"
+                },
+                "319E01C4-37E1-4B7F-A903-78EFD7199A88": {
+                    "name": "2. Molecules / Mobile / Keyboard / iOS / SpaceBar-Action-Default"
+                },
+                "D3CB5D93-C3CB-4338-99E9-A13EEDFAEB75": {
+                    "name": "2. Molecules / Button / Regular / Icon-Right-Small"
+                },
+                "DBC6A14D-5B55-499A-935C-9D8B40CCDC7A": {
+                    "name": "2. Molecules / Form / Field-Floating / Textarea-Basic-Activated"
+                },
+                "35644114-8BAE-44D7-B1C2-409233F31D5F": {
+                    "name": "2. Molecules / Form / Option / Smart-Small"
+                },
+                "0CA81378-934B-4A02-BE13-942F5C9F3965": {
+                    "name": "2. Molecules / Accordion / Regular-Base-Body"
+                },
+                "ED576FBF-AD85-4C91-B4DE-9A5A57090328": {
+                    "name": "2. Molecules / Form / Field-Floating / Select-Icon-Inactive"
+                },
+                "9993EB77-918C-4AB1-B64E-28E32DF650BA": {
+                    "name": "2. Molecules / Progress / Subprogress-12 / 05:12"
+                },
+                "6A33471D-EBD7-468B-BBA4-555FB23AF092": {
+                    "name": "2. Molecules / Button / Slim / Basic-Large"
+                },
+                "9B36CB4E-5883-4C43-B656-DBA2235948EE": {
+                    "name": "2. Molecules / Pagination / Items-Equal"
+                },
+                "895C977E-D5DA-49E9-874A-E61C56E75E08": {
+                    "name": "2. Molecules / Mobile / Keyboard / iOS / KeySet-English-Lowers-Default"
+                },
+                "75384B39-3E2C-4026-B3AB-938014782990": {
+                    "name": "2. Molecules / Accordion / Regular-Large-Title"
+                },
+                "4C9B84AB-74E8-4E3D-ADDE-AE23CF5CCA3C": {
+                    "name": "2. Molecules / Form / Field-Common / Textarea-Basic"
+                },
+                "0F4091FF-ABBD-4399-8DE8-F40252EDF5F1": {
+                    "name": "2. Molecules / Pagination / Dots-Default-3 "
+                },
+                "8F918241-82E2-4236-8DA5-595C85872A55": {
+                    "name": "2. Molecules / Progress / Subprogress-12 / 09:12"
+                },
+                "75C9B03B-CC9C-4705-A234-8BBC58D6583B": {
+                    "name": "2. Molecules / Mobile / Alert-Android / Main / Basic"
+                },
+                "B2EFA0CE-B8C9-4814-8EC5-EBB7AC4AA171": {
+                    "name": "2. Molecules / Form / Field-Common / Text-Right"
+                },
+                "27DA5A74-42A1-406C-9C60-E3CD94B79D3C": {
+                    "name": "2. Molecules / Section Footer / Regular-24px / Stack-Full"
+                },
+                "D9D9B0E5-282E-4A9A-80E5-FEE511E43CDC": {
+                    "name": "2. Molecules / Mobile / Keyboard / Android / KeySet-Lowers"
+                },
+                "9E549653-8FF6-4A32-BEAC-C442D3931A44": {
+                    "name": "2. Molecules / Chip / Basic-Removable"
+                },
+                "417D5642-06A2-4C35-AA87-5F908387C29E": {
+                    "name": "2. Molecules / Section Footer / Regular-16px / Complex"
+                },
+                "643FA62A-03E3-4645-B5E8-C446917E07E8": {
+                    "name": "2. Molecules / Form / Field-Common / Textarea-Smart"
+                },
+                "B0E91460-713D-4F72-AFBB-C8D526C13438": {
+                    "name": "2. Molecules / Form / Option / Input"
+                },
+                "32259E0B-80E2-436E-9ED2-EDA593298580": {
+                    "name": "2. Molecules / Progress / Subprogress-12 / 10:12"
+                },
+                "72D510BB-2E73-4522-AF31-EF22C569C7EA": {
+                    "name": "2. Molecules / Pagination / Pages"
+                },
+                "D7C07D54-0726-4F63-896D-DCF0175098DB": {
+                    "name": "2. Molecules / Pagination / Arrows-Small"
+                },
+                "ADDD8856-B288-420E-BBD8-0D46C0EE4892": {
+                    "name": "2. Molecules / Mobile / Picker / Common"
+                },
+                "081C97A6-AE49-4A59-BB98-F3A24BC50506": {
+                    "name": "2. Molecules / List Item / Specific / Hierarchical-5"
+                },
+                "6B570DE9-AB7F-4A62-85D3-9FEFB3346911": {
+                    "name": "2. Molecules / Button / Common / Slim-Complex"
+                },
+                "EC83D1B9-4113-48FF-9F4F-9470F19E29F3": {
+                    "name": "2. Molecules / Mobile / Keyboard / Android / SpaceBar-Symbols"
+                },
+                "098C37E4-4235-4E48-83B8-0778B494C195": {
+                    "name": "2. Molecules / Button / Icon-Only / Slim"
+                },
+                "9A141B89-796B-46A4-9AFC-122F34D943C9": {
+                    "name": "2. Molecules / List Item / Slim / Icon-iOS"
+                },
+                "F4DA99F9-6034-4F32-B95C-496BF6DA0646": {
+                    "name": "2. Molecules / Section Header / Top-Complex"
+                },
+                "589D5164-788F-40D0-B561-AED957E72665": {
+                    "name": "2. Molecules / Progress / Subprogress-10 / 03:10"
+                },
+                "93BEEC45-52EA-4A50-9302-2BE9C9C982AE": {
+                    "name": "2. Molecules / Progress / Step / Basic-Default"
+                },
+                "0A7C3C6C-E93D-4E17-9540-9070F0827D50": {
+                    "name": "2. Molecules / Card / Regular-Left"
+                },
+                "AAFB9AAB-F658-4C1E-8814-4FAB8BAF4838": {
+                    "name": "2. Molecules / Mobile / Bar / App Bar / Right-Action"
+                },
+                "E3827896-BE6A-4E27-8C7C-AD5012C22271": {
+                    "name": "2. Molecules / Accordion / Slim-Base-Body"
+                },
+                "03963345-0C51-456C-B3CF-2DF8E18E837E": {
+                    "name": "2. Molecules / Form / Field-Common-Large / Text-Icon-Right"
+                },
+                "64649D49-EC60-4548-8E47-9C0D0A879217": {
+                    "name": "2. Molecules / Button / Slim / Icon-Left-Small"
+                },
+                "64A16439-EB00-4C81-AD22-78E26EA8A447": {
+                    "name": "2. Molecules / List Item / Slim / Smart"
+                },
+                "FBD41EBD-BE33-48DC-A837-D19F232FA95B": {
+                    "name": "2. Molecules / Form / Field-Common / Text-Basic"
+                },
+                "E57898A2-7587-4EAF-AC6C-D4B8D620EB96": {
+                    "name": "2. Molecules / Form / Field-Common / Textarea-Smart-Icon"
+                },
+                "262DE0A0-56E4-4880-8643-12A88413D9FB": {
+                    "name": "2. Molecules / Section Footer / Slim / Stack-Center"
+                },
+                "7EA80F15-BCAA-4412-9F9A-131DA5DCF2A1": {
+                    "name": "2. Molecules / Mobile / Bar / App Bar / Right-Android-Basic"
+                },
+                "F204CD74-8678-4328-B023-08AF00AC3BFF": {
+                    "name": "2. Molecules / Form / Field-TableView / Slim-Icon"
+                },
+                "54DB4356-F7B5-47F5-A78D-D0BDA4BCE7AC": {
+                    "name": "2. Molecules / Mobile / Nav Item / iOS - Navbar"
+                },
+                "A8DACBF9-6843-4116-93D4-CCFE1E83D095": {
+                    "name": "2. Molecules / List Item / Regular / Basic"
+                },
+                "9823FAB6-52F9-4C25-90D2-26A66AEEA07E": {
+                    "name": "2. Molecules / Form / Option / Basic-Large"
+                },
+                "1BB94185-13CA-4CEA-808A-400005AD9CF5": {
+                    "name": "2. Molecules / List Item / Slim / Widget"
+                },
+                "9E372C3A-C111-4BBB-97CD-BF42E61BB94E": {
+                    "name": "2. Molecules / Mobile / Bar / App Bar / Left-2 Icons"
+                },
+                "9E3EEDBC-BF12-4110-A0B3-4C42558D8C73": {
+                    "name": "2. Molecules / Pagination / Dots-Inverse-5"
+                },
+                "50965F10-07C3-444F-8443-B12AC7AB8190": {
+                    "name": "2. Molecules / Button / Slim / Widget-Small"
+                },
+                "CA020938-01D2-42E1-8553-0CEA7C8AD554": {
+                    "name": "2. Molecules / Progress / Subprogress-12 / 02:12"
+                },
+                "0DD0ADF7-0A8F-4403-A054-5DF4B8DC6065": {
+                    "name": "2. Molecules / Chart / Graph-Line-12"
+                },
+                "84FCE7C2-C51D-40F2-BC40-BAF7E8F33FB4": {
+                    "name": "2. Molecules / Comment / Regular-Small"
+                },
+                "E7D4EE1D-2AD7-4F2E-9BB5-A2FC7678EDE6": {
+                    "name": "2. Molecules / Form / Option / Basic-Small"
+                },
+                "D825436B-DF85-4BE7-991E-BA48D330E1F7": {
+                    "name": "2. Molecules / Progress / Subprogress-10 / 02:10"
+                },
+                "D28FB676-1D82-48AA-8E95-D65C992E8659": {
+                    "name": "2. Molecules / Widget / Delete"
+                },
+                "19445395-608C-4A96-A740-F53DDB9ECC05": {
+                    "name": "2. Molecules / Button / Slim / Count-Basic"
+                },
+                "D4EC1510-D3FD-4898-9B1E-FB538BE859C8": {
+                    "name": "2. Molecules / Button / Slim / Widget-Large"
+                },
+                "8D053CD1-20CC-4004-88E3-BC3CD5F70E35": {
+                    "name": "2. Molecules / Form / Specific / Drop Zone-Detailed"
+                },
+                "CAFE020C-3DD2-4122-B98F-A25748AEAA91": {
+                    "name": "2. Molecules / Progress / Step / Basic-Next"
+                },
+                "93665099-A8EA-4C7B-BA66-6DDD63DBD1AB": {
+                    "name": "2. Molecules / Section Indexer / Turkish"
+                },
+                "A179CE85-B9FE-4F4F-9A49-466CD740A72C": {
+                    "name": "2. Molecules / Message / Sent"
+                },
+                "CFDE5E49-F40E-4038-9024-DD1612AE4815": {
+                    "name": "2. Molecules / Progress / Subprogress-12 / 07:12"
+                },
+                "5A5605DC-7D93-4968-B97B-FF5C3AF20F35": {
+                    "name": "2. Molecules / Mobile / Picker / Time-Radial"
+                },
+                "4901CBDC-BC2C-4153-89A4-B62C301DF785": {
+                    "name": "2. Molecules / Comment / Support-Actions-Split"
+                },
+                "36C733EB-FA9F-4FC8-B616-68794D67BF60": {
+                    "name": "2. Molecules / Form / Rich / Decimals - Common"
+                },
+                "AC50C523-C731-42E6-8AB4-F65629CE3050": {
+                    "name": "2. Molecules / List Item / Specific / Swipe-Delete"
+                },
+                "44650CAD-438B-4C87-8B2D-8F1D0E514144": {
+                    "name": "2. Molecules / List Item / Regular / Icon-iOS"
+                },
+                "607CE2A7-7FA9-48C5-B2E7-6C09A78AE936": {
+                    "name": "2. Molecules / Progress / Subprogress-10 / 07:10"
+                },
+                "C14B08CE-7970-4BEF-9E11-318899178B14": {
+                    "name": "2. Molecules / Button / Regular / Icon-Right"
+                },
+                "CBD6E2DE-6FA8-4C26-8527-5A13B1A71CB5": {
+                    "name": "2. Molecules / List Item / Slim / Widget-Left"
+                },
+                "B49940A1-D91E-4E6A-B60C-EC0A77E93760": {
+                    "name": "2. Molecules / Form / Field-Floating / Textarea-Icon-Activated"
+                },
+                "91C2CCCB-5563-42CC-AF97-B53E7ED202C7": {
+                    "name": "2. Molecules / Button / Regular / Count-Icon-Large"
+                },
+                "EB4B2158-C652-4D37-92BE-3B7EF4B111DF": {
+                    "name": "2. Molecules / Mobile / Bar / App Bar / Title-Subtitle"
+                },
+                "3C546F51-6BD5-4775-A062-823C8C9787B0": {
+                    "name": "2. Molecules / Form / Field-TableView / Regular-Label"
+                },
+                "9EA6AAFF-1D23-4FA1-BDF7-C71972E684EE": {
+                    "name": "2. Molecules / Notification / Complex"
+                },
+                "F94AD45B-D31F-4F81-8F34-37B249EAE3A8": {
+                    "name": "2. Molecules / Mobile / Keyboard / iOS / SpaceBar-Browser-Default"
+                },
+                "E69602C9-6E0F-4752-91CF-8ABFD641225B": {
+                    "name": "2. Molecules / Pagination / Dots-Default-4 "
+                },
+                "874EF1DE-61CC-4C57-A173-781CD2202E97": {
+                    "name": "2. Molecules / Accordion / Slim-Large-Title"
+                },
+                "405327D9-ABBD-496B-8177-10B0483354E6": {
+                    "name": "2. Molecules / Mobile / Bar / App Bar / Left-Icon"
+                },
+                "063C8DCF-7C89-4DDC-845D-0616312A1F3F": {
+                    "name": "2. Molecules / Miscellaneous / Rating-Stars-Half"
+                },
+                "0EEE2CD5-DFE6-4423-B6BB-87042D95B75F": {
+                    "name": "2. Molecules / Form / Field-Common-Large / Textarea-Smart-Icon"
+                },
+                "0D5ACEB2-EE06-4794-9CE8-5DA36BAE90A4": {
+                    "name": "2. Molecules / Button / Slim / Count-Icon-Large"
+                },
+                "64691C6E-4992-44D8-92B7-589060CA73EC": {
+                    "name": "2. Molecules / List Item / Slim / Complex"
+                },
+                "FA343FDE-2557-41E5-A476-43B0904F7B80": {
+                    "name": "2. Molecules / Button / Slim / Icon-Right"
+                },
+                "9ABF53FC-3F5E-4C34-A440-020BE30DBD5C": {
+                    "name": "2. Molecules / Form / Field-Floating / Textarea-Basic-Inactive"
+                },
+                "AF8AE221-94A6-4147-B355-37F812FC1BCB": {
+                    "name": "2. Molecules / Progress / Subprogress-10 / 10:10"
+                },
+                "D65BD0F2-7A7B-4EEA-964E-97461E513C24": {
+                    "name": "2. Molecules / Mobile / Alert-Android / Main / Scroll-List"
+                },
+                "5890FB45-5086-4569-B81E-96AEF488D5D6": {
+                    "name": "2. Molecules / Section Header / Regular-24px-Basic"
+                },
+                "5873F1DF-56D1-4BA7-8351-77E8950F94E7": {
+                    "name": "2. Molecules / Message / Received-Picture"
+                },
+                "EA1280A6-4531-42BF-98C4-901B4C3CD2CE": {
+                    "name": "2. Molecules / Pagination / Pages-Right"
+                },
+                "458FFE7D-05CD-46D0-8E8B-C9C8A9C28846": {
+                    "name": "2. Molecules / List Item / Specific / Hierarchical-0"
+                },
+                "D0DC31BE-4ED9-4031-B8F0-A772D9814E34": {
+                    "name": "2. Molecules / Mobile / Picker / DateTime-Turkish"
+                },
+                "471ACB59-E633-4EF9-857C-E073FCC9A404": {
+                    "name": "2. Molecules / Mobile / Picker / Time-Default"
+                },
+                "1B4BEBC6-6D73-409D-B49C-B040DB9AFE7C": {
+                    "name": "2. Molecules / Pagination / Pages-Left"
+                },
+                "4DF9B8BE-7B14-40D3-ABE0-EBC87EFA53CC": {
+                    "name": "2. Molecules / Button / Slim / Dropdown-Icon-Small"
+                },
+                "9CE0B1DA-84A0-4E84-BA36-50784719692E": {
+                    "name": "2. Molecules / Mobile / Bar / App Bar / Left-Parent"
+                },
+                "1DD5BEAD-107E-4A85-9F14-0978906CC985": {
+                    "name": "2. Molecules / Card / Common-Large"
+                },
+                "6957AA46-6B1C-474F-8312-5F4B452D2215": {
+                    "name": "2. Molecules / Tooltip / Common"
+                },
+                "44E95B49-31B5-473B-82E4-2A0EC481EEC1": {
+                    "name": "2. Molecules / Message / Received-Name"
+                },
+                "D2B1E95C-AA33-4C98-9D44-4C7D23B76E79": {
+                    "name": "2. Molecules / Calendar Header / Title-Dropdown"
+                },
+                "55AA7360-568D-40E0-826F-E09DE7F3096F": {
+                    "name": "2. Molecules / Mobile / Bar / App Bar / Right-Android-Action"
+                },
+                "9EE37DCF-EA4E-4CF9-B98B-85E1D9950C25": {
+                    "name": "2. Molecules / Button / Slim / Icon-Left"
+                },
+                "430613CC-1EF7-412A-80F9-E6CA92D0C500": {
+                    "name": "2. Molecules / Progress / Subprogress-12 / 06:12"
+                },
+                "94C1B0C2-A6AD-4CE8-827A-039C8127F658": {
+                    "name": "2. Molecules / Accordion / Slim-Base-Title"
+                },
+                "066DBAE0-F0D9-4447-8F7F-E94E87FCC326": {
+                    "name": "2. Molecules / Slider / Volume"
+                },
+                "649D48DF-8602-454C-B32E-621856E8EB95": {
+                    "name": "2. Molecules / Section Footer / Regular-24px / Double-Center"
+                },
+                "41F8F1E3-3A2C-403E-A68A-9F9B195C7560": {
+                    "name": "2. Molecules / Section Footer / Regular-16px / Double-Left"
+                },
+                "C0DE005F-1631-4870-B49A-E32005932C3C": {
+                    "name": "2. Molecules / Progress / Subprogress-12 / 08:12"
+                },
+                "FBAE5CD2-3BAD-4BA2-9D4D-EC937D882A89": {
+                    "name": "2. Molecules / Comment / Regular-Large"
+                },
+                "E8CA036F-9C3E-4F73-8252-3C26ADBA55A1": {
+                    "name": "2. Molecules / Form / Rich / Addon Left"
+                },
+                "AB830E8D-8464-4343-AA19-74A799D5348E": {
+                    "name": "2. Molecules / Card / Common"
+                },
+                "34F98C42-FBD7-4015-8661-E0868A87D58B": {
+                    "name": "2. Molecules / Button / Icon-Only / Dropdown-Small"
+                },
+                "CD41F12A-A81B-4604-9ECD-13768B5CC99A": {
+                    "name": "2. Molecules / Section Header / Regular-32px-Complex"
+                },
+                "434ACAB5-5155-4408-B64B-3BD7632A5F68": {
+                    "name": "2. Molecules / Mobile / Keyboard / iOS / KeySet-Turkish-Capitals"
+                },
+                "7FD33BCC-D69E-4D19-B284-643334F930A9": {
+                    "name": "2. Molecules / Widget / Icon-Medium"
+                },
+                "BF1D0E91-7B1F-4445-B21E-7331F840A73E": {
+                    "name": "2. Molecules / Button / Regular / Count-Basic-Small"
+                },
+                "7F369532-E8A9-4796-AF3D-AA66AD3EE35C": {
+                    "name": "2. Molecules / Mobile / Bar / App Bar / Right-2 Icons"
+                },
+                "19ED3DB7-53D1-4504-90AB-F525351D8E2A": {
+                    "name": "2. Molecules / Widget / Drag"
+                },
+                "AF3E0BBB-4294-4EFE-BC7F-F2B286756DF7": {
+                    "name": "2. Molecules / List Item / Slim / Icon-Android"
+                },
+                "8EEC60EF-F217-4718-B48F-E71D5629B2E4": {
+                    "name": "2. Molecules / Button / Common / Basic-Small"
+                },
+                "94C40F1A-4F06-4377-9AD1-2111587BC61F": {
+                    "name": "2. Molecules / Form / Field-Common-Large / Textarea-Smart"
+                },
+                "EC6948A9-3BB2-4BEF-9C1C-C9CB02442C03": {
+                    "name": "2. Molecules / Button / Common / Complex-Large"
+                },
+                "39466B8B-9C14-40DB-B5FE-71FCEFE7C205": {
+                    "name": "2. Molecules / Miscellaneous / Indicator-Determinate"
+                },
+                "E1A62B51-968D-47A1-8AE6-B97BB6576120": {
+                    "name": "2. Molecules / Section Footer / Regular-16px / Stack-Full"
+                },
+                "977BE13B-FC8C-4AF9-9D95-D13F75279340": {
+                    "name": "2. Molecules / Miscellaneous / Map-Path"
+                },
+                "4251DD62-FC23-4C12-B58E-53507CFEEF46": {
+                    "name": "2. Molecules / Button / Slim / Dropdown-Basic"
+                },
+                "6327446B-7DEF-4940-85C1-5436403CE0D0": {
+                    "name": "2. Molecules / Button / Regular / Icon-Left-Small"
+                },
+                "AFD8F1E3-4AF8-4379-9EC9-4D26E3994A0C": {
+                    "name": "2. Molecules / Progress / Subprogress-12 / 12:12"
+                },
+                "E8558936-6DCE-4A54-89CA-BB753BD166FE": {
+                    "name": "2. Molecules / Section Header / Regular-16px-Complex"
+                },
+                "396EEEAC-9CAB-4CED-88AD-0254F7198CB7": {
+                    "name": "2. Molecules / Button / Common / Basic"
+                },
+                "D71DC2D5-52A4-4EDA-8162-B1424DB05F29": {
+                    "name": "2. Molecules / Form / Rich / Date"
+                },
+                "73359AFD-1423-432E-9EF1-2405D2D94AB4": {
+                    "name": "2. Molecules / Button / Slim / Dropdown-Icon-Large"
+                },
+                "72C2DAB9-6D92-4D9E-BF62-34FC3366F183": {
+                    "name": "2. Molecules / Button / Regular / Basic-Large"
+                },
+                "7E56FFC4-E8D2-481C-9E99-FD16CD4FCD8F": {
+                    "name": "2. Molecules / Form / Field-TableView / Regular-Icon"
+                },
+                "8F1AF9FD-5CC6-4B09-BF7D-00A7D5FEAEF9": {
+                    "name": "2. Molecules / Card / Regular-Left-Large"
+                },
+                "A0353984-89D2-412E-9024-3D2BF9F06C5F": {
+                    "name": "2. Molecules / Progress / Step / Basic-Done"
+                },
+                "382C5068-59B4-40E8-817F-3EAF543E1956": {
+                    "name": "2. Molecules / Form / Group / Floating-Textarea"
+                },
+                "673AB519-9D51-4CBD-A97F-DD4BDA45A0B4": {
+                    "name": "2. Molecules / Section Footer / Regular-16px / Basic"
+                },
+                "A03804D4-22C7-42F0-A866-23C0EBC64BBE": {
+                    "name": "2. Molecules / Accordion / Regular-Base-Title"
+                },
+                "2885F995-1CF8-4CB5-B7FF-3E2257619A98": {
+                    "name": "2. Molecules / Section Footer / Slim / Complex"
+                },
+                "6FE4B3E5-22DB-4F97-88CB-4B080A702E6B": {
+                    "name": "2. Molecules / Button / Regular / Basic-Small"
+                },
+                "2FE1C9B6-C4BD-41A8-845A-594FEBD9AD24": {
+                    "name": "2. Molecules / Mobile / Bar / App Bar / Left-Close"
+                },
+                "1240CAFA-43FE-49D6-B526-07A058809AF0": {
+                    "name": "2. Molecules / Button / Common / Slim-Basic"
+                },
+                "A73BCA54-829A-484D-9CDE-856C463E4A10": {
+                    "name": "2. Molecules / Miscellaneous / Edit-Toolbar"
+                },
+                "B0FC77FC-7F8E-4506-99ED-9572E261F3E3": {
+                    "name": "2. Molecules / Button / Regular / Widget-Small"
+                },
+                "8DDECBDE-BECC-44B8-806D-A639ACC0EAAE": {
+                    "name": "2. Molecules / Pagination / Dropdown-Right"
+                },
+                "F27676D4-A883-418A-B5D6-62F296AD7079": {
+                    "name": "2. Molecules / Form / Field-Floating / Select-Icon-Activated"
+                },
+                "715281D0-F998-4A58-B66A-59DE5611C894": {
+                    "name": "2. Molecules / Form / Rich / Addon Both"
+                },
+                "2856C934-A9AC-44EB-BFA4-6D8237E18961": {
+                    "name": "2. Molecules / Progress / Step / Basic-Active"
+                },
+                "4874BB52-76E6-429E-974D-25117A1035C8": {
+                    "name": "2. Molecules / Button / Regular / Count-Basic"
+                },
+                "FFC0F721-9272-41B7-BEFF-708F9FF33BA2": {
+                    "name": "2. Molecules / Mobile / Bar / App Bar / Right-Disabled"
+                },
+                "A56B583C-943E-4530-B06E-738D4E8C7D46": {
+                    "name": "2. Molecules / Widget / Icon-Small"
+                },
+                "D25BE93B-30B8-42A0-9412-B01230162EFE": {
+                    "name": "2. Molecules / Form / Group / Vertical-Helper-Textarea"
+                },
+                "ABF67EE6-EB13-46BC-8DC0-562B5A42D28D": {
+                    "name": "2. Molecules / Widget / Chevron"
+                },
+                "CBC0AC50-E566-49E0-A8BC-244EF97A9EB4": {
+                    "name": "2. Molecules / Form / Field-Common-Small / Text-Right"
+                },
+                "5159E31D-0B21-4B28-9A01-317E2CFF54ED": {
+                    "name": "2. Molecules / Pagination / Arrows-Large"
+                },
+                "C818320B-F0A3-415E-88CA-66FECB3B8DB9": {
+                    "name": "2. Molecules / Button / Icon-Only / Basic-Small"
+                },
+                "8B50F8E6-65AA-41BE-8AF9-11C25E233961": {
+                    "name": "2. Molecules / List Item / Regular / Footer"
+                },
+                "82CDF63C-CB17-4946-8D2B-C17C756C2F84": {
+                    "name": "2. Molecules / List Item / Specific / Hierarchical-2"
+                },
+                "CE2DF3AC-1B34-4127-AC92-EBE219645D59": {
+                    "name": "2. Molecules / Form / Field-Common-Small / Textarea-Icon"
+                },
+                "C358B8AA-733A-4A6B-A390-E79F750088BC": {
+                    "name": "2. Molecules / Mobile / Bar / App Bar / Right-Android-Common"
+                },
+                "7864666F-E479-46D8-9B12-D94B0FBEB720": {
+                    "name": "2. Molecules / Progress / Subprogress-12 / 04:12"
+                },
+                "64F0E944-407A-4AEC-8368-C010380B2BAD": {
+                    "name": "2. Molecules / Form / Field-Floating / Textarea-Icon-Inactive"
+                },
+                "94320152-7300-45CE-AAC5-25F8F7EEC221": {
+                    "name": "2. Molecules / Pagination / Dropdown"
+                },
+                "E8801D00-BDEB-4D82-9035-393E1C82BBE9": {
+                    "name": "2. Molecules / Section Footer / Slim / Double-Right"
+                },
+                "55D59D1B-C2BB-40CB-A508-E1280627C8F0": {
+                    "name": "2. Molecules / Form / Field-Common-Large / Select-Icon"
+                },
+                "EB5C9214-BC31-46BF-9DEE-6C528EA76ADA": {
+                    "name": "2. Molecules / Form / Field-Common-Large / Text-Center"
+                },
+                "B79E07D5-3ED5-4F8E-A396-5B3CA7DE0C82": {
+                    "name": "2. Molecules / Button / Icon-Only / Slim-Small"
+                }
+            }
+        },
+        "3E31F239-C0B3-46C7-B4A4-B704FB3C3325": {
+            "name": "Symbols",
+            "artboards": {}
+        },
+        "CD190E3E-9BAC-4100-A609-215A307BA740": {
+            "name": "Atoms",
+            "artboards": {
+                "8FCCFF20-5A65-43F0-A6B5-1668932ABE72": {
+                    "name": "1. Atoms / Form Option / Checkbox-Default-Checked"
+                },
+                "4B986186-5967-4781-968C-3FFCF00FE21B": {
+                    "name": "1. Atoms / Card Asset / Stack / Tripple-00px"
+                },
+                "85CEF4A3-7528-41FB-9F8B-03DBE6B6DE66": {
+                    "name": "1. Atoms / Icon Font / FA-Brands-Small"
+                },
+                "8FA3D4DA-1CDD-4903-8A8C-A3315BF61F55": {
+                    "name": "1. Atoms / Background / Grid"
+                },
+                "E67F8ED2-83DB-4145-B69C-E9FC5CF977A0": {
+                    "name": "1. Atoms / Icon Font / FA-Light-Great"
+                },
+                "5BB2D83F-C859-478E-BDD2-5CF797E6420C": {
+                    "name": "1. Atoms / Background / Base / Split-Horizontal"
+                },
+                "D6AC0E67-2C9D-47EC-8A1A-E9DEE51C34EA": {
+                    "name": "1. Atoms / Background / Base / Common"
+                },
+                "64339C42-AE25-4A2B-8045-B7970A294399": {
+                    "name": "1. Atoms / Table Cell / Icon"
+                },
+                "88B667B4-BAAA-4E3A-9CD7-9803BA848417": {
+                    "name": "1. Atoms / Icon Font / SF-Regular-Small"
+                },
+                "ACBF595C-C761-44F5-A720-D80A5D857FDE": {
+                    "name": "1. Atoms / Button Asset / Right / Icon-Left-Small"
+                },
+                "49B0081C-463F-4F82-9787-805492E38172": {
+                    "name": "1. Atoms / Miscellaneous / Mandatory-Asterisk"
+                },
+                "CDB6BCC8-0513-489E-8E4F-F78028FFFC58": {
+                    "name": "1. Atoms / Background / Base / Rotate-Symbol-Left"
+                },
+                "789D1422-AA74-4BC4-A8D4-B9906F80BCF1": {
+                    "name": "1. Atoms / Payment Service / WesternUnion"
+                },
+                "7CC4B482-002E-4E62-B441-10AEB0B0C5A0": {
+                    "name": "1. Atoms / Background / Base / Rotate-Layer-Right"
+                },
+                "6396EDDC-5534-486B-9133-2E070A365580": {
+                    "name": "1. Atoms / Button Asset / Center / Icon-Left-Large"
+                },
+                "FC7D13D0-0108-4804-8021-EB130F84C872": {
+                    "name": "1. Atoms / Background / Form / Field-Common"
+                },
+                "1B70BC96-AB5B-4FD7-B33D-D076FE6C2F0D": {
+                    "name": "1. Atoms / Card Asset / Media / Top "
+                },
+                "2C5BAADD-5ED0-4803-9127-5CDC248283FD": {
+                    "name": "1. Atoms / Background / Nozzle / Bubble-BL"
+                },
+                "A80CF1B3-F47F-4CA6-8F5D-95E2092D8D5D": {
+                    "name": "1. Atoms / Glyph / Social-Instagram"
+                },
+                "E7AFD7D3-FBF7-4574-A269-C8AC86DABBFC": {
+                    "name": "1. Atoms / Form Option / Checkbox-Disabled-Unchecked"
+                },
+                "2AA4A018-67C1-48CD-86DE-31EF79478167": {
+                    "name": "1. Atoms / Glyph / Currency-USD"
+                },
+                "7606F79F-23DC-472E-989A-A6E7B7AD6E4C": {
+                    "name": "1. Atoms / Glyph / Mobile Pay-USD"
+                },
+                "61DD7A31-67B9-4DAD-905B-1AB2ED060A4B": {
+                    "name": "1. Atoms / Button Asset / Stack / Double-12px"
+                },
+                "BA877C02-A88F-49AD-A20C-2F12EA53B33B": {
+                    "name": "1. Atoms / Scrollbar / Vertical-End"
+                },
+                "E9D48EF2-7671-4483-88A6-9D550B9ADA93": {
+                    "name": "1. Atoms / Background / Form / Field-Floating"
+                },
+                "1F0DED57-2446-4A2D-A9F3-A42865AA3F39": {
+                    "name": "1. Atoms / Background / Frame / Round-Bottom"
+                },
+                "8CE37190-AC82-4621-BA73-14E14CB3E68D": {
+                    "name": "1. Atoms / Background / Nozzle / Bubble-BR"
+                },
+                "E31A75B9-57D2-4541-8FC5-BA69DAD7EAD8": {
+                    "name": "1. Atoms / Glyph / Mobile Pay-TL"
+                },
+                "A8B641FF-A488-430A-BE2A-859DDE7B8F74": {
+                    "name": "1. Atoms / Placeholder / Icon-Mugshot"
+                },
+                "8EC2B551-E64D-41AD-9ACD-4618C8E64F07": {
+                    "name": "1. Atoms / Badge / Basic-Label"
+                },
+                "AC1DF392-DB45-4B36-830B-7C6418CFB0AE": {
+                    "name": "1. Atoms / Button Asset / Thumb / Media-Small"
+                },
+                "8596B3C3-FD8B-44BC-B818-7A22A5AD9050": {
+                    "name": "1. Atoms / Background / Form / Message-Round"
+                },
+                "397350E8-E8AE-4831-9C8F-A4178151DE2C": {
+                    "name": "1. Atoms / Form Option / Radio-Disabled-Unselected"
+                },
+                "1B5611B2-45DB-4BC7-BAD6-FC411B880CFB": {
+                    "name": "1. Atoms / Supplement / Clear"
+                },
+                "A954B7CD-54BD-4F53-9E78-CE0E35F8C30D": {
+                    "name": "1. Atoms / Button Asset / Center / Icon-Right"
+                },
+                "35914E0B-3345-4481-8F1F-7A3557B294F1": {
+                    "name": "1. Atoms / Button Asset / Stack / Double-02px"
+                },
+                "CA2AA7C1-EEEF-4362-A33E-7736E79880ED": {
+                    "name": "1. Atoms / Icon Font / FA-Brands-Great"
+                },
+                "8940C15D-AA20-4AD4-A73D-337E4F0EC6E4": {
+                    "name": "1. Atoms / Icon Font / FA-Light-Small"
+                },
+                "14C12168-19FC-4ECF-A2CE-D1AC63CD6A32": {
+                    "name": "1. Atoms / Background / Divider / Basic-Symbol"
+                },
+                "7D79D46B-DFE4-4186-8889-67333773CB9B": {
+                    "name": "1. Atoms / Background / Nozzle / Bubble-TL"
+                },
+                "31EA34AE-62D7-4D2D-93A4-EC8D13C84BC2": {
+                    "name": "1. Atoms / Background / Frame / Soft-Bottom"
+                },
+                "023F9470-E785-4172-BD96-298DF9831203": {
+                    "name": "1. Atoms / Background / Frame / Hard"
+                },
+                "25B85FB6-A0D0-44DC-81FA-F8C9FAF352A9": {
+                    "name": "1. Atoms / Background / Opacity / T-1-05%"
+                },
+                "098408FB-F60B-4C7A-95A4-A1D883DB124A": {
+                    "name": "1. Atoms / Icon Font / FA-Light-Medium"
+                },
+                "DF81E922-5D5C-4BD8-9989-6C54F1861269": {
+                    "name": "1. Atoms / Card Asset / Stack / Tripple-04px"
+                },
+                "3D97D054-2D93-428A-B95A-248BA1BD5D19": {
+                    "name": "1. Atoms / Button Asset / Right / Media-Right-Large"
+                },
+                "1F9799D8-1A27-45F1-8D57-4D33365EF6F5": {
+                    "name": "1. Atoms / Background / Row"
+                },
+                "3F56862C-73DA-4602-9059-56F9AD4C73F2": {
+                    "name": "1. Atoms / Card Asset / Bullet / Right"
+                },
+                "E226606A-B377-4FCB-92CD-2762413A7342": {
+                    "name": "1. Atoms / Miscellaneous / Spinner-Default"
+                },
+                "A206F484-4178-4422-9F15-7ADAB11EB57F": {
+                    "name": "1. Atoms / Supplement / Calendar"
+                },
+                "F19BB417-A0B6-406C-91F7-025ADFCC78A4": {
+                    "name": "1. Atoms / Table Cell / Head-Right"
+                },
+                "DC28D5A2-C219-43E4-943C-6D158BA9CC63": {
+                    "name": "1. Atoms / Calendar Asset / Range-Begin"
+                },
+                "11D24325-05FB-4CFC-B55A-52A3672A51DA": {
+                    "name": "1. Atoms / Calendar Asset / Basic-Large"
+                },
+                "ABE8A55D-0E8E-4F5C-9A5F-42B532AD91FC": {
+                    "name": "1. Atoms / Form Option / Radio-Default-Unselected"
+                },
+                "07D1EE5E-7CE4-4FB6-8B9A-FAFDE052DF4E": {
+                    "name": "1. Atoms / Card Asset / Media / Right-Small"
+                },
+                "9C3159E1-00E2-4833-BF49-D031BD4F8CF6": {
+                    "name": "1. Atoms / Badge / Ribbon-Right"
+                },
+                "649911AE-B416-4C8B-A258-F87D7B8D763F": {
+                    "name": "1. Atoms / Card Asset / Basic / Header"
+                },
+                "4177FC67-BCBC-4F40-8B17-3806D9D8F756": {
+                    "name": "1. Atoms / Button Asset / Left / Media-Left-Large"
+                },
+                "41AAEC4F-9D60-4A43-8EDE-4B8CF959FE30": {
+                    "name": "1. Atoms / Button Asset / Thumb / Icon-Small"
+                },
+                "FE571810-18FB-48BD-8AC7-9ECAF2DBC58D": {
+                    "name": "1. Atoms / Button Asset / Basic / Definition"
+                },
+                "90020C33-4F6B-4ACC-82A6-7E5C9BE09436": {
+                    "name": "1. Atoms / Placeholder / Icon-Check"
+                },
+                "AC501C31-F9C5-4B4A-B228-E8F215581B46": {
+                    "name": "1. Atoms / Table Cell / Head-Bsic"
+                },
+                "A862988F-966A-4CD7-BB7E-E877E927B317": {
+                    "name": "1. Atoms / Background / Nozzle / Tooltip-Top-Left"
+                },
+                "C21AC59B-745A-40C0-970A-8D8EFE66706F": {
+                    "name": "1. Atoms / Background / Form / Joint-Left-Common"
+                },
+                "58BBD8D8-0877-48FC-8B82-C8883C8B55D0": {
+                    "name": "1. Atoms / Background / Frame / Round"
+                },
+                "BB1A1EA9-6981-483E-9A68-B929AA0F41F9": {
+                    "name": "1. Atoms / Card Asset / Mugshot / Center-Small"
+                },
+                "612AEAF6-580A-441A-900A-FAFC778F8F34": {
+                    "name": "1. Atoms / Background / Notch / Frame-Left"
+                },
+                "E1954872-E0B0-4DC8-AA23-7A52518D4A04": {
+                    "name": "1. Atoms / Card Asset / Media / Right-Large"
+                },
+                "3FEC2877-4DCA-4A88-8F14-B1CD31A093D9": {
+                    "name": "1. Atoms / Card Asset / Bullet / Left"
+                },
+                "E6348241-7D67-493F-A407-54100450BD93": {
+                    "name": "1. Atoms / Card Asset / Thumb / Center"
+                },
+                "93630C61-98A1-4BE1-A69B-7C52587B2C3E": {
+                    "name": "1. Atoms / Placeholder / Media-Mugshot-Initials"
+                },
+                "BC33B3DD-0BB6-4D10-BCB7-AB5DCE366EAF": {
+                    "name": "1. Atoms / Placeholder / Media-Basic"
+                },
+                "4491BD91-C86B-4BD7-9E36-40959D1FFEB3": {
+                    "name": "1. Atoms / Icon Font / FA-Light-Tiny"
+                },
+                "9B28E26A-D4DA-437A-B32E-01A3DD10EAFA": {
+                    "name": "1. Atoms / Button Asset / Left / Icon-Left-Large"
+                },
+                "B15ADB4F-AECA-4590-A760-8F06734D23E1": {
+                    "name": "1. Atoms / Glyph / E-Devlet-Alt"
+                },
+                "B382A113-E807-4BD8-9EFE-3390F1C8B633": {
+                    "name": "1. Atoms / Calendar Asset / Basic-Small"
+                },
+                "48C315FF-B472-4D45-B949-AB4C9A5D1C32": {
+                    "name": "1. Atoms / Calendar Asset / Weekday"
+                },
+                "41A7098E-5E7C-4EBD-B091-FF8927F34422": {
+                    "name": "1. Atoms / Button Asset / Stack / Double-04px"
+                },
+                "1980EAD2-6D2D-4529-9989-5F3D9F875477": {
+                    "name": "1. Atoms / Background / Opacity / T-300 (20%)"
+                },
+                "52B924AE-92C5-4A55-A6F0-55E19F63AC4F": {
+                    "name": "1. Atoms / Placeholder / Icon-Fail"
+                },
+                "8C49AC80-20F5-40D6-B39D-2A4C9D588A86": {
+                    "name": "1. Atoms / Button Asset / Stack / Double-00px"
+                },
+                "439F487E-0B7D-4BA5-AF2B-85256858D4B8": {
+                    "name": "1. Atoms / Icon Font / FA-Brands-Large"
+                },
+                "E0E831D4-5DC8-4E1D-9548-E29D51A85E40": {
+                    "name": "1. Atoms / Button Asset / Right / Icon-Left"
+                },
+                "5ACB837C-E0A2-4892-9580-83B49EE9882C": {
+                    "name": "1. Atoms / Supplement / Icon-Medium"
+                },
+                "DC2CFE96-E15C-499B-BF9C-04E9F8CB3161": {
+                    "name": "1. Atoms / Button Asset / Stack / Tripple-08px"
+                },
+                "B964EEC8-BE55-4AFD-91D2-29DB7EACE33A": {
+                    "name": "1. Atoms / Button Asset / Left / Bullet"
+                },
+                "EDCEECEF-A642-48E1-AEDA-CE10AE59A12D": {
+                    "name": "1. Atoms / Glyph / Social-Facebook"
+                },
+                "E95FB19D-A091-438B-8699-D1DB04D7553B": {
+                    "name": "1. Atoms / Supplement / Chevron"
+                },
+                "755ADB9D-326D-43A5-8897-06201FF6BF80": {
+                    "name": "1. Atoms / Supplement / Widget"
+                },
+                "9AD55026-2D55-489A-8029-8B641BCD580C": {
+                    "name": "1. Atoms / Switch / Label-On"
+                },
+                "84D1669C-AA77-4529-82F2-2A0BFA08C583": {
+                    "name": "1. Atoms / Table Cell / Complex"
+                },
+                "A1A9BB53-A1AA-42A9-BF22-CBC608CCDBF1": {
+                    "name": "1. Atoms / Badge / Cap-Right-Icon"
+                },
+                "60BE9745-46DF-49B1-8882-59281E40DA1B": {
+                    "name": "1. Atoms / Card Asset / Bullet / Left-Large"
+                },
+                "FA7A481F-5AEC-492C-8024-F74DED1D9B1F": {
+                    "name": "1. Atoms / Glyph / QR Code"
+                },
+                "ACE01F30-4858-4BDC-9F46-59C651009A00": {
+                    "name": "1. Atoms / Background / Button / Set-Right-Round"
+                },
+                "87EFB5D6-CA00-4094-99CB-EA54A35462CD": {
+                    "name": "1. Atoms / Background / Frame / Soft-Left"
+                },
+                "343471C2-9E48-4612-8708-1B88B6DB6F68": {
+                    "name": "1. Atoms / Card Asset / Mugshot / Left"
+                },
+                "AE1D37F4-8B52-4F31-8D8B-5B8E1675AC94": {
+                    "name": "1. Atoms / Background / Frame / Round-Left"
+                },
+                "6E02E037-EC21-442C-B3A2-8D7B6350DDB3": {
+                    "name": "1. Atoms / Glyph / Social-YouTube"
+                },
+                "F92E6335-5915-4C45-A9A9-79F6C83CE67A": {
+                    "name": "1. Atoms / Background / Opacity / T-200 (10%)"
+                },
+                "91123087-DC78-4CE2-A231-192152E5B9EA": {
+                    "name": "1. Atoms / Payment Service / AmEx"
+                },
+                "28C842EE-CAD7-4CB5-893C-2D00540E046B": {
+                    "name": "1. Atoms / Placeholder / Media-Photo"
+                },
+                "B27B2F57-7ACD-4637-925B-577342E03EA1": {
+                    "name": "1. Atoms / Placeholder / Media-Video"
+                },
+                "73F1E436-EA3C-462F-B754-1C98A04B412A": {
+                    "name": "1. Atoms / Card Asset / Bullet / Left-Small"
+                },
+                "29B913AB-886F-4CE1-9DFE-69D531F01FD0": {
+                    "name": "1. Atoms / Supplement / _"
+                },
+                "76237F9A-EC36-4DEF-B539-1360C274E92F": {
+                    "name": "1. Atoms / Background / Nozzle / Bubble-TR"
+                },
+                "E61169E5-770F-4B13-BD7C-87E649D7EAF8": {
+                    "name": "1. Atoms / Button Asset / Right / Bullet"
+                },
+                "F154BC27-A6FD-475F-9996-1A0A9E01A8FD": {
+                    "name": "1. Atoms / Miscellaneous / Cursor-Base"
+                },
+                "4CF33135-62CE-4625-8C46-0E7570C8D86A": {
+                    "name": "1. Atoms / Button Asset / Basic / Inline-Center-Large"
+                },
+                "8A86E081-34F8-4DA2-A7EC-E4152A269272": {
+                    "name": "1. Atoms / Background / Form / Joint-Right-Common"
+                },
+                "5EEC5EF9-5C1E-498D-82FA-E428753850F6": {
+                    "name": "1. Atoms / Glyph / E-Devlet"
+                },
+                "DDECD94A-C9A1-4B9B-8850-4DCF5F1F769E": {
+                    "name": "1. Atoms / Glyph / Currency-TL"
+                },
+                "3DDC4B8A-9EB3-4D31-96D2-996DA81517BA": {
+                    "name": "1. Atoms / Form Option / Checkbox-Disabled-Checked"
+                },
+                "63011ED8-6EBC-40D8-B989-3EEB920C7914": {
+                    "name": "1. Atoms / Background / Button / Hard"
+                },
+                "F08AD5DE-DDBE-4A06-AEC3-6C8204C93374": {
+                    "name": "1. Atoms / Supplement / Collapse"
+                },
+                "14A4B377-561F-4961-A99B-DFBE7245DFCC": {
+                    "name": "1. Atoms / Button Asset / Right / Bullet-Large"
+                },
+                "E3EC47D4-62B1-4189-9035-A3E6F0A52024": {
+                    "name": "1. Atoms / Button Asset / Basic / Inline-Right-Small"
+                },
+                "197753DF-1CA2-40F7-A139-787482AF2B92": {
+                    "name": "1. Atoms / Glyph / Social-Google+"
+                },
+                "DD5226D6-CC2C-49C8-B4CD-D53C31443624": {
+                    "name": "1. Atoms / Icon Font / FA-Regular-Large"
+                },
+                "B6293C8C-5316-42CB-A0B3-8295360B8AD0": {
+                    "name": "1. Atoms / Miscellaneous / Mandatory-Optional"
+                },
+                "01208DED-2E4C-40F6-8535-3A2E71D2BCFB": {
+                    "name": "1. Atoms / Button Asset / Left / Bullet-Small"
+                },
+                "F1BE38CF-9D03-4592-BB0D-99EA31F1B788": {
+                    "name": "1. Atoms / Background / Frame / Polygon"
+                },
+                "ED75A3E3-45D2-4A65-A407-D83B6DBB3F94": {
+                    "name": "1. Atoms / Payment Service / PayPal"
+                },
+                "07D01B45-3F29-4B92-A6CE-307570F15870": {
+                    "name": "1. Atoms / Background / Nozzle / Tooltip-Right"
+                },
+                "47FD740A-0021-4EC6-BB76-229B5946E59A": {
+                    "name": "1. Atoms / Icon Font / FA-Solid-Tiny"
+                },
+                "3A40CDEF-6CC0-42F5-A38D-F338CED65994": {
+                    "name": "1. Atoms / Icon Font / SF-Regular-Large"
+                },
+                "CE584D43-0199-4AA8-B9B7-4BDB2178F1F2": {
+                    "name": "1. Atoms / Button Asset / Center / Icon-Left-Small"
+                },
+                "B090B2DD-604B-47D4-AAD3-EA4CFDF5DE5C": {
+                    "name": "1. Atoms / Card Asset / Stack / Double-12px"
+                },
+                "D38BDF79-8E08-4A08-B157-CB2FE69E37B4": {
+                    "name": "1. Atoms / Supplement / Icon-Tiny"
+                },
+                "26C46950-AF56-4F47-AF1A-E62C21C1A1CA": {
+                    "name": "1. Atoms / Miscellaneous / Mandatory-Base"
+                },
+                "0E2CFD74-3360-4521-B093-F49F1C2DA9E7": {
+                    "name": "1. Atoms / Card Asset / Basic / Definition-Large"
+                },
+                "30D32212-1DE8-4E83-AA1E-9C3EC2D4368B": {
+                    "name": "1. Atoms / Background / Table"
+                },
+                "BCF40D61-9A64-4DDA-ABD5-8B7DC270845E": {
+                    "name": "1. Atoms / Background / Base / Double-Symbol"
+                },
+                "6E5212E3-F43E-499D-8618-33C0DC7858D3": {
+                    "name": "1. Atoms / Card Asset / Thumb / Left-Small"
+                },
+                "347500C4-52C8-4FD7-B778-7379AEE72CC2": {
+                    "name": "1. Atoms / Table Cell / Basic"
+                },
+                "C5644A39-0948-433B-A59D-5A7C223DDE13": {
+                    "name": "1. Atoms / Miscellaneous / Dot"
+                },
+                "2EFF5C08-4BD9-4BAE-9233-8DBD0936F664": {
+                    "name": "1. Atoms / Card Asset / Media / Left-Large"
+                },
+                "911A8108-A2AD-4FB4-AE67-27ABC8093B47": {
+                    "name": "1. Atoms / Button Asset / Basic / Inline-Left-Large"
+                },
+                "76CE08BB-1186-400C-AC2E-F78095C2CAD1": {
+                    "name": "1. Atoms / Card Asset / Basic / Definition-Small"
+                },
+                "EA250F72-1DB7-4F72-ADF4-DAA5B627B7FA": {
+                    "name": "1. Atoms / Card Asset / Media / Top-Small"
+                },
+                "311E12FA-4805-48E9-991B-8745D88752C5": {
+                    "name": "1. Atoms / Background / Base / Indicator-Vertical"
+                },
+                "1AB37568-0C26-4DBC-88E3-CC7208CA2F88": {
+                    "name": "1. Atoms / Card Asset / Media / Right"
+                },
+                "F3EE92C9-3E76-423C-A6A3-7591D48CB226": {
+                    "name": "1. Atoms / Table Cell / Head-Center"
+                },
+                "64ED07CD-6A13-4F7C-BF90-6356E20ACC34": {
+                    "name": "1. Atoms / Miscellaneous / Mandatory-Required"
+                },
+                "9E55CD15-95AA-49B1-A11C-9108D1D4C48C": {
+                    "name": "1. Atoms / Background / Opacity / T-500 (50%)"
+                },
+                "57CCA106-E405-40B4-AFCD-5A66036C05C0": {
+                    "name": "1. Atoms / Button Asset / Stack / Tripple-04px"
+                },
+                "83407062-22D1-4990-9429-4A8D7C6CA6B2": {
+                    "name": "1. Atoms / Table Cell / Option"
+                },
+                "AABC68EE-D1DB-41A0-8998-9BCB51ED4B45": {
+                    "name": "1. Atoms / Button Asset / Stack / Double-16px"
+                },
+                "1CFA3891-7E20-4294-AF58-4E7E2838CED5": {
+                    "name": "1. Atoms / Button Asset / Basic / Inline-Left"
+                },
+                "D320CE1B-FD2E-4553-9FD1-5B136B9338C6": {
+                    "name": "1. Atoms / Background / Notch / Frame-Bottom"
+                },
+                "A18FF24B-4ED1-4B7A-8EC6-EB9A12BDF99F": {
+                    "name": "1. Atoms / Button Asset / Basic / Default"
+                },
+                "E47EC5E3-8864-4E58-A0D0-2805B47DDBB7": {
+                    "name": "1. Atoms / Background / Button / Set-Left-Common"
+                },
+                "9F40CD56-A523-4479-871D-529542A3750D": {
+                    "name": "1. Atoms / Background / Divider / Regular-24px"
+                },
+                "07AF122B-191F-4EAD-AFC9-EF2959CE97CD": {
+                    "name": "1. Atoms / Icon Font / FA-Solid-Large"
+                },
+                "98FDC910-18C5-4196-B2CE-DDA97E0F77BC": {
+                    "name": "1. Atoms / Background / Divider / Indent-72px"
+                },
+                "49ACD999-B34D-4001-A32C-EEA1950BED40": {
+                    "name": "1. Atoms / Icon Font / FA-Solid-Medium"
+                },
+                "3EC28FC2-BFDA-4DE8-8F3D-5BFE4842D26A": {
+                    "name": "1. Atoms / Card Asset / Icon / Left-Small"
+                },
+                "5558CD6E-0002-46D0-9B32-E48F0DE278FF": {
+                    "name": "1. Atoms / Button Asset / Right / Media-Right-Small"
+                },
+                "6A81B39F-108E-473F-855C-19318C20EAB1": {
+                    "name": "1. Atoms / Supplement / Count"
+                },
+                "61E1ACFC-AEC0-467D-9A30-92392AADB1BB": {
+                    "name": "1. Atoms / Button Asset / Thumb / Icon"
+                },
+                "7DD6B1DE-1425-4D4C-8788-CBB7231575A9": {
+                    "name": "1. Atoms / Button Asset / Basic / Inline-Right-Large"
+                },
+                "3DBFBEE6-67A4-44C5-B164-B09C3753BC90": {
+                    "name": "1. Atoms / Background / Frame / Soft-Right"
+                },
+                "3ED6B296-0AD5-42AB-8B2C-6D8B0F822F12": {
+                    "name": "1. Atoms / Background / Opacity / T-700 (85%)"
+                },
+                "65DA64A7-EE15-4B22-B92E-8120F0DB9A97": {
+                    "name": "1. Atoms / Button Asset / Left / Icon-Left"
+                },
+                "99642C8F-581F-4824-A23F-3B13302D17D7": {
+                    "name": "1. Atoms / Badge / Cap-Left-Icon"
+                },
+                "1B5B63F2-C55D-45A9-B2FC-5213EC66FD2E": {
+                    "name": "1. Atoms / Button Asset / Right / Icon-Right"
+                },
+                "6B9740A3-E4E1-41A1-B392-41511CE75EFC": {
+                    "name": "1. Atoms / Background / Button / Round"
+                },
+                "40007095-B92E-4111-B497-F4DB7DD0A665": {
+                    "name": "1. Atoms / Miscellaneous / Spinner-Circle"
+                },
+                "ECBEE0EA-E7EB-4B87-98F1-81BE12DA5945": {
+                    "name": "1. Atoms / Icon Font / FA-Solid-Small"
+                },
+                "7F3115A2-7D7B-4A46-932F-00DF68508D44": {
+                    "name": "1. Atoms / Supplement / Icon-Small"
+                },
+                "F545661D-43DD-4CEA-86FC-98D00122F8A7": {
+                    "name": "1. Atoms / Placeholder / Media-Mugshot"
+                },
+                "053DA6ED-2C98-4755-987C-F148DB699EF1": {
+                    "name": "1. Atoms / Button Asset / Stack / Negative-04px"
+                },
+                "19A53F67-9AA8-4095-857F-578DE7A68443": {
+                    "name": "1. Atoms / Badge / Star"
+                },
+                "5EEC8C7C-1F28-4587-A2FB-F5335DC536BF": {
+                    "name": "1. Atoms / Badge / Basic-Icon"
+                },
+                "322617A3-6C50-41F8-8251-0A1C954E3E5A": {
+                    "name": "1. Atoms / Button Asset / Basic / \u03a9"
+                },
+                "6D8F2589-7C6F-4C25-9DEC-8168491CFC82": {
+                    "name": "1. Atoms / Card Asset / Mugshot / Right-Small"
+                },
+                "205E8816-514B-41B2-8A17-530F78865073": {
+                    "name": "1. Atoms / Glyph / Social-WhatsApp"
+                },
+                "72AE9BD9-94A4-47E3-BEB7-7FA2375B727D": {
+                    "name": "1. Atoms / Supplement / Search"
+                },
+                "6DA6D9FE-F2BD-4BD4-99A6-9050654EFFC5": {
+                    "name": "1. Atoms / Button Asset / Right / Icon-Right-Small"
+                },
+                "39698B3D-32A0-4A48-AA47-D43079B62BA6": {
+                    "name": "1. Atoms / Card Asset / Stack / Double-08px"
+                },
+                "51460B3A-35DB-4F14-B932-56B4429FB435": {
+                    "name": "1. Atoms / Placeholder / Icon"
+                },
+                "30099D05-8F4F-4E0D-9D0D-943272C96627": {
+                    "name": "1. Atoms / Store Badge / Monocolor-Apple"
+                },
+                "8D861DAD-8EB2-442F-8945-7BA3BE036FD5": {
+                    "name": "1. Atoms / Glyph / Dot-Small"
+                },
+                "DED82F33-AA8E-48BF-97B6-7241F425B699": {
+                    "name": "1. Atoms / Button Asset / Left / Icon-Right-Small"
+                },
+                "22AB6B2A-75FD-4632-A60B-554B595C507E": {
+                    "name": "1. Atoms / Card Asset / Thumb / Right"
+                },
+                "B6AA3AF3-B38C-4163-B8EE-F7E0ED4DE183": {
+                    "name": "1. Atoms / Icon Font / FA-Regular-Small"
+                },
+                "433BB368-A685-4DD4-B06B-1EFB94537525": {
+                    "name": "1. Atoms / Payment Service / BKM Express"
+                },
+                "46BA31E5-B1A8-4B95-A321-37A730C19E71": {
+                    "name": "1. Atoms / Scrollbar / Vertical-Default"
+                },
+                "02FD9752-ED4B-4D82-961D-337E7A84D01F": {
+                    "name": "1. Atoms / Background / Button / Set-Left-Round"
+                },
+                "0BE2C85D-0820-4120-A416-20A6B24E13EE": {
+                    "name": "1. Atoms / Icon Font / FA-Light-Large"
+                },
+                "91678137-7532-4292-89AD-8FBD16EFC187": {
+                    "name": "1. Atoms / Supplement / Dropdown"
+                },
+                "67C1B6FE-C63B-4143-B088-2CC072E7443E": {
+                    "name": "1. Atoms / Badge / Cap-Left-Text"
+                },
+                "EBC34F73-2545-443B-810A-C9B399DA58EB": {
+                    "name": "1. Atoms / Card Asset / Thumb / Center-Small"
+                },
+                "EFDB2204-107E-4D2B-ABC4-F39FBD08901E": {
+                    "name": "1. Atoms / Miscellaneous / Icon-Badge Large"
+                },
+                "CFF49F5E-62D9-4B2C-B510-25FE407D6E6B": {
+                    "name": "1. Atoms / Background / Frame / Circle"
+                },
+                "123AC144-195F-4B22-A51D-585A7B1F3E9A": {
+                    "name": "1. Atoms / Card Asset / Thumb / Left"
+                },
+                "98B2CE45-CA50-4D63-B8A0-18B8319DF77D": {
+                    "name": "1. Atoms / Glyph / Car"
+                },
+                "607AF719-726D-4B56-A5DB-DEC7848C756C": {
+                    "name": "1. Atoms / Card Asset / Stack / Tripple-12px"
+                },
+                "9B96512B-F081-4E54-91DD-E5FDD79F5116": {
+                    "name": "1. Atoms / Card Asset / Media / Top-Large"
+                },
+                "B368BD29-A02E-4E23-969F-E2F97B1CB45C": {
+                    "name": "1. Atoms / Background / Button / Common"
+                },
+                "9D9B3826-9946-4AD5-B6C4-AFCF1348FA96": {
+                    "name": "1. Atoms / Background / Button / Set-Left-Soft"
+                },
+                "D75C1C37-97A2-4E74-840E-003210E2949B": {
+                    "name": "1. Atoms / Form Option / Checkbox-Error"
+                },
+                "E25C81AB-6043-486F-88E4-BD014B5742CE": {
+                    "name": "1. Atoms / Supplement / Exclamation-Circle"
+                },
+                "F37C9400-63EB-43EF-9B2B-F5D5E9D505B4": {
+                    "name": "1. Atoms / Background / Frame / Basic-Top"
+                },
+                "F1606D34-86E0-4D2F-85DF-A8510543D147": {
+                    "name": "1. Atoms / Background / Divider / Indent-80px"
+                },
+                "ACD81E3A-B5FD-40AA-AC4C-492CD515296A": {
+                    "name": "1. Atoms / Button Asset / Left / Icon-Left-Small"
+                },
+                "C7EB0DCC-BDD4-4B9C-8BBD-42CACC15A09C": {
+                    "name": "1. Atoms / Glyph / Shield-Alt"
+                },
+                "90480153-206D-46A2-855E-7E762D4998F9": {
+                    "name": "1. Atoms / Miscellaneous / Icon-Badge"
+                },
+                "E368949D-FF5B-4C9D-A6F5-83FA3D146A9C": {
+                    "name": "1. Atoms / Supplement / Select"
+                },
+                "BECF4311-2C39-4688-A6B5-ABA3EB641FBB": {
+                    "name": "1. Atoms / Payment Service / MasterCard"
+                },
+                "FAA67701-5C88-4530-9466-D8E1655D7278": {
+                    "name": "1. Atoms / Button Asset / Stack / Double-08px"
+                },
+                "1C49CA6B-E7B3-48E4-9744-0B575C05A13C": {
+                    "name": "1. Atoms / Card Asset / Icon / Left-Large"
+                },
+                "F58E5528-1D43-4692-B489-3FFC44FA32DE": {
+                    "name": "1. Atoms / Supplement / Exclamation"
+                },
+                "4A07D329-C0AD-4789-8681-FD8CD2917138": {
+                    "name": "1. Atoms / Glyph / Currency-USD-Alt"
+                },
+                "11E9E0F4-6CB8-4429-85CF-05EE3334B03A": {
+                    "name": "1. Atoms / Background / Form / Joint-Right-Round"
+                },
+                "5E06E612-7CCC-478A-B9FE-B3520F05C601": {
+                    "name": "1. Atoms / Button Asset / Left / Icon-Right"
+                },
+                "DE99C565-D4F9-4121-A1CC-413F414D0B84": {
+                    "name": "1. Atoms / Table Cell / Head-Left"
+                },
+                "4DA585CD-873E-458A-A587-2EAE7C495937": {
+                    "name": "1. Atoms / Calendar Asset / Range-Default"
+                },
+                "7D336F4A-2061-4344-BAAF-04B9F1BA6A80": {
+                    "name": "1. Atoms / Background / Base / Tint"
+                },
+                "3E4DADDE-03C4-48D4-8BC2-3F20CAEBB955": {
+                    "name": "1. Atoms / Placeholder / Media-Complex"
+                },
+                "985A8CA1-D6A5-41BD-9AF8-0343A1697300": {
+                    "name": "1. Atoms / Store Badge / Monocolor-Google"
+                },
+                "A4159297-AC0A-4E9B-936C-5F93D8AC4FFD": {
+                    "name": "1. Atoms / Background / Frame / Soft"
+                },
+                "EEADB680-73EC-4F26-AC42-79F0F0F10ED9": {
+                    "name": "1. Atoms / Form Option / Radio-Default-Selected"
+                },
+                "B83046BD-0001-40C2-B17E-E0D7B5C54731": {
+                    "name": "1. Atoms / Button Asset / Thumb / Icon-Thumb-Large"
+                },
+                "FD472EA4-B6A4-4E18-81BC-1190E9CEA5B6": {
+                    "name": "1. Atoms / Glyph / Pointer-Mouse-Circle"
+                },
+                "F7D32944-C7BA-494A-BD28-E7F9F90FB19A": {
+                    "name": "1. Atoms / Button Asset / Left / Icon-Right-Large"
+                },
+                "671A7B8E-858E-4C2B-81F4-B77B2AFFBD44": {
+                    "name": "1. Atoms / Button Asset / Thumb / Media-Large"
+                },
+                "6008D96D-1D19-404E-8F08-5BC2D6C7F0FC": {
+                    "name": "1. Atoms / Background / Divider / Indent-16px"
+                },
+                "060EB313-31B7-4D38-9062-19979EA9D7C3": {
+                    "name": "1. Atoms / Background / Frame / Basic-Left"
+                },
+                "6EBF95A2-B975-4E6F-8820-A9CF49006E1E": {
+                    "name": "1. Atoms / Calendar Asset / Event-Large"
+                },
+                "57A3F547-62DC-4080-848D-389040B9E22D": {
+                    "name": "1. Atoms / Miscellaneous / Fingerprint"
+                },
+                "1EA80323-77F8-42C0-B164-AE2FFDD6D40D": {
+                    "name": "1. Atoms / Form Option / Radio-Disabled-Selected"
+                },
+                "D65106D1-6011-4288-A8B4-4C9EF94EBE1B": {
+                    "name": "1. Atoms / Button Asset / Stack / Tripple-00px"
+                },
+                "85BD400B-413B-4EE8-8AAF-A3D29F73FF26": {
+                    "name": "1. Atoms / Card Asset / Icon / Right-Large"
+                },
+                "FBAEE158-0210-4393-A9DD-73DA7D4B91B9": {
+                    "name": "1. Atoms / Background / Form / Field-Round"
+                },
+                "166CE3D1-9CEE-4036-A286-109E66276BAD": {
+                    "name": "1. Atoms / Card Asset / Thumb / Right-Small"
+                },
+                "3BCB627E-388C-490D-B147-8D9D3CED8838": {
+                    "name": "1. Atoms / Supplement / More"
+                },
+                "BBC1C0F5-17CE-4215-8E25-ABAA0E123CC2": {
+                    "name": "1. Atoms / Supplement / Check"
+                },
+                "7026473D-8873-4407-931F-423B47264967": {
+                    "name": "1. Atoms / Background / Frame / Basic-Bottom"
+                },
+                "C64CE3B2-C00E-465F-9F3F-F497D1CE915B": {
+                    "name": "1. Atoms / Button Asset / Stack / Negative-02px"
+                },
+                "E07A89AB-A15F-4CAD-AB7D-BFCDE5FF9A36": {
+                    "name": "1. Atoms / Button Asset / Center / Icon-Right-Large"
+                },
+                "D03BE462-30C0-4ACA-9BEC-C02D20607E5A": {
+                    "name": "1. Atoms / Badge / Ribbon-Left"
+                },
+                "CBDEFEAE-E639-43C5-B2D0-1D13B07BA18B": {
+                    "name": "1. Atoms / Icon Font / FA-Regular-Tiny"
+                },
+                "EFA7DAA3-C21A-45A5-B188-35FC8431D08E": {
+                    "name": "1. Atoms / Glyph / Pointer-Hand-Circle"
+                },
+                "010AA8E9-902E-47BD-A1FC-65051A1C0103": {
+                    "name": "1. Atoms / Background / Base / Double-Layer"
+                },
+                "CCE65F92-6DFD-4D5E-8562-C7356A595D9A": {
+                    "name": "1. Atoms / Icon Font / FA-Solid-Great"
+                },
+                "FCD289A0-7DA3-4B23-8B1D-D62613938835": {
+                    "name": "1. Atoms / Background / Button / Soft"
+                },
+                "275CDC02-3664-4B69-81F5-6AF96F8EAC0D": {
+                    "name": "1. Atoms / Background / Nozzle / Tooltip-Top-Left Copy"
+                },
+                "9109FF01-8066-4D66-8F79-61654C6347F4": {
+                    "name": "1. Atoms / Background / Nozzle / Tooltip-Top-Right"
+                },
+                "1C237CB3-32EC-4DE4-AADD-1A18247AD138": {
+                    "name": "1. Atoms / Background / Notch / Line-Bottom"
+                },
+                "725C78C3-EC09-4400-976A-0DA0DA55FCE5": {
+                    "name": "1. Atoms / Card Asset / Stack / Double-00px"
+                },
+                "31A618BE-833A-48BE-9386-FC969C8F02D1": {
+                    "name": "1. Atoms / Store Badge / Original-Google"
+                },
+                "037AEB23-A577-4F7E-9AB5-7F82FC0B1E42": {
+                    "name": "1. Atoms / Background / Base / Rotate-Layer-Left"
+                },
+                "7D952ADF-056B-46A2-92ED-77D1E8AC26DC": {
+                    "name": "1. Atoms / Supplement / Close"
+                },
+                "EFBAB43B-0844-43FD-AF68-15CD1892E6A6": {
+                    "name": "1. Atoms / Glyph / Social-Linked In"
+                },
+                "4343F8EA-550F-4E76-8AFF-583EFB1E8BC9": {
+                    "name": "1. Atoms / Button Asset / Left / Media-Left"
+                },
+                "40F9BAB3-AC02-4910-8803-1AD3E3EB537A": {
+                    "name": "1. Atoms / Form Option / Checkbox-Primary-Partial"
+                },
+                "AD2F2940-74E8-4C99-9D64-BAE27D7BD09C": {
+                    "name": "1. Atoms / Background / Divider / Indent-60px"
+                },
+                "5C4370F8-E96D-433B-82CA-EB303C742E80": {
+                    "name": "1. Atoms / Background / Form / Joint-Middle"
+                },
+                "8ABD735C-203A-4054-B433-502F6E62B674": {
+                    "name": "1. Atoms / Card Asset / Mugshot / Left-Small"
+                },
+                "57D07EB1-3A68-4A74-9718-5E6B4ADB5AEE": {
+                    "name": "1. Atoms / Glyph / Currency-TL-Alt"
+                },
+                "828D8F21-61D7-4452-8BD4-14F715B7BB9A": {
+                    "name": "1. Atoms / Card Asset / Stack / Double-04px"
+                },
+                "707E5F7A-3DA1-4947-9B1A-A7F3E11B9988": {
+                    "name": "1. Atoms / Button Asset / Basic / Inline-Center-Small"
+                },
+                "6E4DDD6D-2FC0-40FD-A6DD-99718EF299C8": {
+                    "name": "1. Atoms / Payment Service / BKM"
+                },
+                "BFA4B602-D1B0-4025-A6F6-071D29FE439D": {
+                    "name": "1. Atoms / Calendar Asset / Range-End"
+                },
+                "A4C19402-2AEA-48A4-BA70-6451D8B24EC1": {
+                    "name": "1. Atoms / Button Asset / Center / Icon-Left"
+                },
+                "F795A085-0A65-4327-AE63-A4479FF81404": {
+                    "name": "1. Atoms / Background / Frame / Round-Top"
+                },
+                "916B9F00-4DC2-44E5-B9E6-7752F9DE9C60": {
+                    "name": "1. Atoms / Card Asset / Mugshot / Center"
+                },
+                "6C6E7B76-8B4E-49B7-B5F2-52A45489D329": {
+                    "name": "1. Atoms / Placeholder / Icon-Image"
+                },
+                "DB9C45D8-6D8B-49E7-AD4E-D7AF11BCAED6": {
+                    "name": "1. Atoms / Button Asset / Basic / Inline-Left-Small"
+                },
+                "81DAF598-CAF0-426C-9325-D94F619C178C": {
+                    "name": "1. Atoms / Form Option / Checkbox-Disabled-Partial"
+                },
+                "F075D7B6-343A-4BE9-A89E-145508FEB0A1": {
+                    "name": "1. Atoms / Card Asset / Media / Left-Small"
+                },
+                "89B389B0-B8A8-44E6-A8FD-958075843B4F": {
+                    "name": "1. Atoms / Background / Frame / Basic-Right"
+                },
+                "E88C7EBC-92BE-4B87-A4F9-B73DC2D72D85": {
+                    "name": "1. Atoms / Supplement / Check-Circle"
+                },
+                "93DB993D-E61D-4999-AFCD-C6E6A557C37F": {
+                    "name": "1. Atoms / Switch / Default-Off"
+                },
+                "B8D6198D-A937-4DA9-A4C9-D9EFEC901326": {
+                    "name": "1. Atoms / Background / Frame / Basic"
+                },
+                "FECA906F-F70A-4F13-82EE-C82BFA17B0C1": {
+                    "name": "1. Atoms / Button Asset / Right / Bullet-Small"
+                },
+                "6B844063-4EA3-48DC-AB89-573A942C9FD0": {
+                    "name": "1. Atoms / Glyph / Pointer-Mouse"
+                },
+                "2F8DCFE8-7AF8-4F65-B26B-99420B08F67D": {
+                    "name": "1. Atoms / Icon Font / FA-Brands-Tiny"
+                },
+                "CD746180-CF08-4F30-A8AF-188FCD0FAC5B": {
+                    "name": "1. Atoms / Background / Button / Set-Right-Soft"
+                },
+                "5715FD0F-7161-412F-BFFB-7AA590B65D86": {
+                    "name": "1. Atoms / Switch / Default-On"
+                },
+                "3CD202EC-5196-4547-A61D-89148CC5A2A2": {
+                    "name": "1. Atoms / Icon Font / SF-Regular-Medium"
+                },
+                "4C97C077-CE6B-4E8C-A709-61CF275C8046": {
+                    "name": "1. Atoms / Background / Opacity / T-400 (35%)"
+                },
+                "2E4ACDF5-3021-46A6-AD92-FFDE8F497A04": {
+                    "name": "1. Atoms / Badge / Cap-Right-Text"
+                },
+                "0FFBAEA8-9151-433C-B013-35D67D37C99A": {
+                    "name": "1. Atoms / Background / Divider / Basic-Layer"
+                },
+                "AB974554-6933-45A6-B849-DDB62992A6B9": {
+                    "name": "1. Atoms / Card Asset / Bullet / Right-Large"
+                },
+                "3CFFE61F-BB5C-436F-B102-49684DB45E33": {
+                    "name": "1. Atoms / Glyph / Social-Twitter"
+                },
+                "EC1DD449-B1DE-43E3-87B4-3F7B0325971F": {
+                    "name": "1. Atoms / Store Badge / Monocolor-Microsoft"
+                },
+                "0F89A604-8B15-44AE-A8C0-D7E553FF5016": {
+                    "name": "1. Atoms / Background / Notch / Line-Left"
+                },
+                "AB1DC8F5-B252-4D84-9910-CC1FBE3B9787": {
+                    "name": "1. Atoms / Calendar Asset / Event-Small"
+                },
+                "18DC18A8-B0AF-4CBE-B189-6F6A0653607F": {
+                    "name": "1. Atoms / Glyph / Social-Pinterest"
+                },
+                "4081CF5D-E4F2-461D-B969-6A5718D873A1": {
+                    "name": "1. Atoms / Miscellaneous / Cursor-Blue"
+                },
+                "116A5350-37EE-41E3-88E2-480476D94237": {
+                    "name": "1. Atoms / Background / Notch / Frame-Right"
+                },
+                "FBBD6348-1C92-4506-84DC-D71AEFA9BD2C": {
+                    "name": "1. Atoms / Card Asset / Basic / Default"
+                },
+                "803C6372-560C-44C1-8A2C-A0F23FA2B6B5": {
+                    "name": "1. Atoms / Button Asset / Center / Icon-Right-Small"
+                },
+                "8E05EC9C-777B-415A-B14C-BB7D96F559A8": {
+                    "name": "1. Atoms / Background / Notch / Line-Top"
+                },
+                "EA0B27AB-9F82-4E45-829B-7DE194CFDDC0": {
+                    "name": "1. Atoms / Supplement / Icon-Large"
+                },
+                "545654D7-F6FF-4AED-8136-B1445511AD3F": {
+                    "name": "1. Atoms / Supplement / Icon-Great"
+                },
+                "CD1BA500-7919-4771-B0E9-824CE66F7509": {
+                    "name": "1. Atoms / Card Asset / Stack / Tripple-08px"
+                },
+                "108BE1C4-E194-4D06-8737-965B4A27E527": {
+                    "name": "1. Atoms / Card Asset / Bullet / Right-Small"
+                },
+                "5115C13C-7434-41E8-A646-E0364FB0C35F": {
+                    "name": "1. Atoms / Button Asset / Right / Media-Right"
+                },
+                "5237018F-9CE9-490A-AAFD-06F5AEA56737": {
+                    "name": "1. Atoms / Button Asset / Right / Icon-Left-Large"
+                },
+                "F8136D27-9049-4D78-AA7D-266ED1AC9A0A": {
+                    "name": "1. Atoms / Form Option / Checkbox-Default-Partial"
+                },
+                "BE274F2B-4FC0-4C40-B9F0-11CBC92EDD2B": {
+                    "name": "1. Atoms / Background / Divider / Regular-16px"
+                },
+                "9FCC136B-6F24-4A8C-B7A1-679684AA10AE": {
+                    "name": "1. Atoms / Background / Frame / Round-Right"
+                },
+                "745554B6-B3DD-4B3F-BC53-0BAE9C5E7D93": {
+                    "name": "1. Atoms / Icon Font / FA-Regular-Medium"
+                },
+                "231EAA67-9EE0-4502-A7CA-5DC91185125E": {
+                    "name": "1. Atoms / Card Asset / Icon / Left"
+                },
+                "6D4E4A70-5897-4711-BE4D-D691461B58F2": {
+                    "name": "1. Atoms / Form Option / Radio-Error"
+                },
+                "F357D5FB-604F-481C-832A-E79036A49D92": {
+                    "name": "1. Atoms / Miscellaneous / Resizer"
+                },
+                "E8BE6F9C-A1B4-4E5C-B455-9B38C0D35340": {
+                    "name": "1. Atoms / Background / Base / Flip-Layer"
+                },
+                "66840DE1-F8F8-4CFB-A73C-6746F2A938CD": {
+                    "name": "1. Atoms / Button Asset / Left / Bullet-Large"
+                },
+                "5C2CB585-4FBF-4F70-81B7-89CA624E2B21": {
+                    "name": "1. Atoms / Form Option / Checkbox-Default-Unchecked"
+                },
+                "332D23E1-BE8F-4F1D-ACFF-0CDAE14FE045": {
+                    "name": "1. Atoms / Card Asset / Basic / Definition"
+                },
+                "FCCB3457-81CB-44F4-ADF2-DA484891C24C": {
+                    "name": "1. Atoms / Background / Nozzle / Tooltip-Top"
+                },
+                "3EEC596F-45DD-44AD-B1AC-90F41A8EF9F9": {
+                    "name": "1. Atoms / Icon Font / FA-Brands-Medium"
+                },
+                "C69E9070-03F4-4B66-9DE5-F46B47367492": {
+                    "name": "1. Atoms / Store Badge / Original-Apple"
+                },
+                "3BBCBAD9-3B54-46C1-B4F9-0FA44EC15772": {
+                    "name": "1. Atoms / Store Badge / Original-Microsoft"
+                },
+                "1DA50F3C-1A92-4D82-8816-ED9802707F83": {
+                    "name": "1. Atoms / Background / Opacity / T-600 (70%)"
+                },
+                "3985CEF4-28BA-4421-AD8B-37926BACE100": {
+                    "name": "1. Atoms / Icon Font / FA-Regular-Great"
+                },
+                "95FEC7CE-74E5-4671-8E26-693DEE422D38": {
+                    "name": "1. Atoms / Background / Opacity / T-800 (95%)"
+                },
+                "A41493A2-3A29-4F15-A600-D7C5FDCC5452": {
+                    "name": "1. Atoms / Glyph / Pointer-Hand"
+                },
+                "FC85373A-DD93-4EE8-B421-91729E29660F": {
+                    "name": "1. Atoms / Miscellaneous / Cursor-Yellow"
+                },
+                "E9CB9FA5-0990-4691-906C-DC3B78230C11": {
+                    "name": "1. Atoms / Background / Base / Indicator-Horizontal"
+                },
+                "C496B9CE-3F60-4A18-A876-6F7414698D19": {
+                    "name": "1. Atoms / Button Asset / Basic / Inline-Right"
+                },
+                "99D8E798-9E17-4480-82BF-FC1E9C5DC2B9": {
+                    "name": "1. Atoms / Card Asset / Icon / Right-Small"
+                },
+                "C8BC6E96-36A1-4B0E-80EB-D9D00D445895": {
+                    "name": "1. Atoms / Form Option / Radio-Primary"
+                },
+                "47730269-D24D-4FFA-843C-AF23A5887CDB": {
+                    "name": "1. Atoms / Form Option / Checkbox-Primary"
+                },
+                "944A36D0-EECB-4C0F-8F8B-82981845C808": {
+                    "name": "1. Atoms / Background / Frame / Soft-Top"
+                },
+                "4ECFF449-17AF-4926-A8CE-6133B8C38335": {
+                    "name": "1. Atoms / Payment Service / JCB"
+                },
+                "F3D6D7C9-F22C-41B8-BE94-09B40F26F0C5": {
+                    "name": "1. Atoms / Button Asset / Basic / Inline-Center"
+                },
+                "FF9F907E-42BB-4990-9C93-ACBED8D7901D": {
+                    "name": "1. Atoms / Background / Base / Flip-Symbol"
+                },
+                "98C868DD-6A14-45E5-B89B-103E11B24428": {
+                    "name": "1. Atoms / Button Asset / Thumb / Media"
+                },
+                "F9747651-3038-4734-86E1-4DAA4DE9AB26": {
+                    "name": "1. Atoms / Background / Nozzle / Tooltip-Left"
+                },
+                "BA14CE40-CAB8-4046-9EFA-8696C59F22BB": {
+                    "name": "1. Atoms / Button Asset / Left / Media-Left-Small"
+                },
+                "62540832-2377-4323-BCD8-FCCAB9B6411D": {
+                    "name": "1. Atoms / Background / Form / Joint-Left-Round"
+                },
+                "717E6D02-3E59-46F4-A329-F76D64DC3324": {
+                    "name": "1. Atoms / Card Asset / Mugshot / Right"
+                },
+                "98AA4829-CEE8-402B-9963-03F636C59E3E": {
+                    "name": "1. Atoms / Payment Service / Visa"
+                },
+                "1C77B622-3803-4BD8-8B8E-490EFFC8054F": {
+                    "name": "1. Atoms / Background / Button / Set-Middle"
+                },
+                "0361D392-5083-4149-986F-70B9C605B514": {
+                    "name": "1. Atoms / Scrollbar / Horizontal-End"
+                },
+                "FB0F57AC-EF31-4455-BB1F-4A3910E098C4": {
+                    "name": "1. Atoms / Background / Nozzle / Tooltip-Bottom"
+                },
+                "97B2EC40-99AE-4474-98D3-E95B253AD3D0": {
+                    "name": "1. Atoms / Card Asset / Icon / Right"
+                },
+                "B33FCC9E-B9F4-4540-994C-916373A11E2B": {
+                    "name": "1. Atoms / Supplement / Basic"
+                },
+                "2D5A2D07-22C2-4010-874F-0DD7D70FECAA": {
+                    "name": "1. Atoms / Background / Notch / Frame-Top"
+                },
+                "6AE7D7B0-4B22-4F5B-950A-EEE34E5D83EF": {
+                    "name": "1. Atoms / Background / Base / Split-Vertical"
+                },
+                "C966111A-75A5-4391-A942-523F947E6D2D": {
+                    "name": "1. Atoms / Background / Notch / Line-Right"
+                },
+                "3ED36E02-D190-4A4C-A925-91CF594AF95D": {
+                    "name": "1. Atoms / Placeholder / Media-Image"
+                },
+                "DF98968C-2A65-4B67-AD95-20548C71A037": {
+                    "name": "1. Atoms / Background / Button / Set-Right-Common"
+                },
+                "E3180981-1C37-4DD5-9B7B-9EBDAFE4D0CE": {
+                    "name": "1. Atoms / Card Asset / Stack / Double-16px"
+                },
+                "2D018D19-7A9B-49D9-83EC-94FF4981F2BC": {
+                    "name": "1. Atoms / Placeholder / Icon-Info"
+                },
+                "9A54F1AB-C2B9-4216-A45B-4364ABBDC2B1": {
+                    "name": "1. Atoms / Placeholder / Media-Map"
+                },
+                "A011E9C8-F96E-4534-BDCF-4E60B20AEAE6": {
+                    "name": "1. Atoms / Scrollbar / Horizontal-Default"
+                },
+                "2BD8B275-9F44-4AF8-8DF0-3D4B94D6732D": {
+                    "name": "1. Atoms / Switch / Label-Off"
+                },
+                "F1979F3C-AF3A-4B66-957D-67E61056E041": {
+                    "name": "1. Atoms / Button Asset / Right / Icon-Right-Large"
+                },
+                "89BD4C5C-6DAB-4CFA-BD95-96D451BA8C5F": {
+                    "name": "1. Atoms / Card Asset / Media / Left"
+                },
+                "0A4472EA-10C7-44BC-9FCF-5E5D5A09FA59": {
+                    "name": "1. Atoms / Placeholder / Icon-Video"
+                },
+                "3B707A2C-C966-40C6-BE31-EE2A5612020D": {
+                    "name": "1. Atoms / Supplement / Help"
+                },
+                "F31A6E75-08F4-4532-B780-D08D76A7837E": {
+                    "name": "1. Atoms / Miscellaneous / Smart Text"
+                },
+                "F4691F11-B783-465C-8C2E-C43A6BC89C41": {
+                    "name": "1. Atoms / Background / Base / Rotate-Symbol-Right"
+                }
+            }
+        },
+        "B7608404-6BBD-46EA-9238-DF783D2F4516": {
+            "name": "Organisms",
+            "artboards": {
+                "5B266BBD-029B-422E-A915-4AB5EC315C23": {
+                    "name": "3. Organisms / Carousel / Small / Regular"
+                },
+                "4821891B-805B-41C2-BD67-95F57C65D8EC": {
+                    "name": "3. Organisms / Mobile / Alert / iOS / Alert-Scroll"
+                },
+                "310A863A-C1E7-4B34-ACBE-CB767C65FAEF": {
+                    "name": "3. Organisms / Navigation / Small / Breadcrump-Category"
+                },
+                "7DD63F6F-F0A8-4DD0-8EED-095B8AF3E0EE": {
+                    "name": "3. Organisms / Calendar / Light / Picker-Months"
+                },
+                "99F6BEA0-E7EA-413F-B6AA-BFF99E8FFE93": {
+                    "name": "3. Organisms / Mobile / Nav Bar / iPhone / Dark / 4 tems"
+                },
+                "B4291BB2-B753-4988-AB6A-93A48FC49F29": {
+                    "name": "3. Organisms / Mobile / App Bar / Light / Base -iPhone"
+                },
+                "DF45E5D6-0DDE-4B18-962D-D871ECE34147": {
+                    "name": "3. Organisms / Mobile / Nav Bar / iPhone / Light / 5 Items"
+                },
+                "D7638F75-D765-46A2-BFBB-B05C87417040": {
+                    "name": "3. Organisms / Mobile / Nav Bar / Android / Light / 3 Items"
+                },
+                "A56913BF-CB9F-4F8C-9D04-635B86F79B0E": {
+                    "name": "3. Organisms / Mobile / App Bar / Light / Large-iPhone"
+                },
+                "9ADF5EFC-23F6-4237-BC9C-CAA5E6FA1B7A": {
+                    "name": "3. Organisms / Navigation / Large / Navbar"
+                },
+                "1955111D-E420-4BE3-BB39-4874C0ECE31C": {
+                    "name": "3. Organisms / Navigation / Small / Breadcrump-Page"
+                },
+                "E4174A86-A9B8-404A-9D7D-82762FB41804": {
+                    "name": "3. Organisms / Mobile / Tool Bar / Dark / Basic-2 Actions"
+                },
+                "EFF4A0E7-C9DF-40A2-87F5-2E1D536C8C41": {
+                    "name": "3. Organisms / Mobile / Nav Bar / Android / Light / 5 Items"
+                },
+                "07E0684F-9D5D-45DC-8114-440846B09617": {
+                    "name": "3. Organisms / Mobile / Status Bar / Light / iPad"
+                },
+                "AD5217D3-FC70-4869-9B0F-286EC7718F2B": {
+                    "name": "3. Organisms / Mobile / Alert / iOS / Alert-Prompt"
+                },
+                "996A2EBF-42FD-4977-BCCD-7E51271EC642": {
+                    "name": "3. Organisms / Calendar / Light / Picker-Default"
+                },
+                "C0448E27-6F2A-427E-AC6E-AC8680B37C45": {
+                    "name": "3. Organisms / Mobile / App Bar / Dark / Toolbar-Large"
+                },
+                "ED2CAA63-1BBA-4AE5-9BCC-20D6FC1BA885": {
+                    "name": "3. Organisms / Mobile / App Bar / Dark / Large-Android"
+                },
+                "DFCD2706-17E8-4455-B6A9-F78A3FBFA0C7": {
+                    "name": "3. Organisms / Container / Default-Col"
+                },
+                "D94B3547-7C7D-4A17-8B2A-5EC173EF777D": {
+                    "name": "3. Organisms / Mobile / System / Camera / Grid"
+                },
+                "007EB484-7CCA-4ED0-B0A5-37593641EFB1": {
+                    "name": "3. Organisms / Mobile / Tool Bar / Dark / Icon-2 Actions"
+                },
+                "3142EE9A-5BB2-4D06-9DF7-A828A12032C1": {
+                    "name": "3. Organisms / Mobile / Alert / Android / Sheet-Grid"
+                },
+                "24858139-455F-419E-8D49-CE7B57FC828B": {
+                    "name": "3. Organisms / Mobile / Alert / iOS / Sheet-Title"
+                },
+                "AC78ED58-B485-408E-85AE-EC9F9D331A52": {
+                    "name": "3. Organisms / Mobile / System / Camera / Toolbar"
+                },
+                "6F73641D-64D9-4A85-841E-BF40B7DF1531": {
+                    "name": "3. Organisms / Mobile / Tab Bar / Light / 4 Items"
+                },
+                "8317790F-D42F-4583-BDD9-4EF5CC31C135": {
+                    "name": "3. Organisms / Mobile / Segment Bar / Dark / 2 Items"
+                },
+                "320CDFF3-5A13-400D-95B2-1D46D006BCD5": {
+                    "name": "3. Organisms / Mobile / Alert / iOS / Alert-Default"
+                },
+                "A1E4BBD7-CA37-48F3-B4E5-0F69E6786E57": {
+                    "name": "3. Organisms / Mobile / Tool Bar / Light / Large Title"
+                },
+                "99C19CBA-44DA-459D-B5AD-9AB83A264A55": {
+                    "name": "3. Organisms / Mobile / Nav Bar / iPhone / Light / 4 tems"
+                },
+                "DFF91815-AC88-4ABC-A753-54E397131851": {
+                    "name": "3. Organisms / Modal / Small / Header"
+                },
+                "9E0F1C2C-D045-4C8E-8B2F-437FC27AAA8D": {
+                    "name": "3. Organisms / Carousel / Small / Slim-Last"
+                },
+                "8D54595D-5A8C-419B-A27F-4F0CB5F3021D": {
+                    "name": "3. Organisms / Container / Smart-Row"
+                },
+                "D9C15AB2-542C-40AC-87BD-FC235C1C8C7C": {
+                    "name": "3. Organisms / Modal / Large / Footer"
+                },
+                "8F058C61-D8BC-4F4C-ACF2-F77F3555663D": {
+                    "name": "3. Organisms / Mobile / Tool Bar / Dark / Basic-3 Actions"
+                },
+                "24D43249-FDD1-436A-A0BF-727DDB8BDBC3": {
+                    "name": "3. Organisms / Mobile / App Bar / Light / Toolbar-Base"
+                },
+                "C0BB4F07-5C9C-4122-B69A-B4C866A05D5C": {
+                    "name": "3. Organisms / Mobile / Nav Bar / Android / Light / 4 tems"
+                },
+                "5590006D-0543-4911-86F9-A1FA2D2924C4": {
+                    "name": "3. Organisms / Mobile / Alert / Android / Alert-Scroll"
+                },
+                "EC4AE6CD-1E48-4975-8627-F9A40511E919": {
+                    "name": "3. Organisms / Mobile / Tool Bar / Light / Icon-3 Actions"
+                },
+                "8225D1B9-FD5B-46AA-9F75-37FE7D1260A0": {
+                    "name": "3. Organisms / Carousel / Large / Slim-Last"
+                },
+                "37D21E42-6B45-4FC0-9156-56E6A0F0A438": {
+                    "name": "3. Organisms / Page Footer / Large / Mega"
+                },
+                "7291D577-2CFE-4DF2-B10E-8890ED8A086E": {
+                    "name": "3. Organisms / Mobile / System / Home Button / Light"
+                },
+                "99025A22-1475-4CB4-8F50-ACF418EF96AD": {
+                    "name": "3. Organisms / Container / Default-Cell"
+                },
+                "1CE70B37-DD61-412B-987E-0A78EE55E466": {
+                    "name": "3. Organisms / Page Footer / Small / Follow"
+                },
+                "977DD51C-6F24-4F95-86F0-B061F60B188D": {
+                    "name": "3. Organisms / Mobile / App Bar / Light / Large -iPad"
+                },
+                "C18C8675-F628-43FE-BC7E-75009FE3BDCF": {
+                    "name": "3. Organisms / Mobile / Status Bar / Light / iPhone-Active"
+                },
+                "7C800727-0116-4B3A-A7B2-66675A66CB34": {
+                    "name": "3. Organisms / Mobile / Tab Bar / Light / Scroll"
+                },
+                "3369AAD8-65F2-4F42-932A-F8E64A4E405D": {
+                    "name": "3. Organisms / Mobile / Tool Bar / Light / Icon-4 Actions"
+                },
+                "499120C2-D585-4BD7-ADC6-AE06E866F25C": {
+                    "name": "3. Organisms / Comment / Slim-Small"
+                },
+                "2290E1AC-F51D-4ABC-A743-D2B4A9F4182A": {
+                    "name": "3. Organisms / Mobile / Status Bar / Dark / iPhone"
+                },
+                "FC981C2A-6FA6-417D-BCA8-B1B8EF425FAE": {
+                    "name": "3. Organisms / Page Header / Large / Mast-Error"
+                },
+                "8C5728E2-4AE9-42CC-B2A6-14860D9A39D6": {
+                    "name": "3. Organisms / Auth / Login"
+                },
+                "0F7728AB-0BF6-4797-857F-A1716CA4122C": {
+                    "name": "3. Organisms / Mobile / Tool Bar / Light / Complex-2 Actions"
+                },
+                "CBEB0827-C4A9-4C41-A3DB-34471200CA10": {
+                    "name": "3. Organisms / Navigation / Small / Breadcrump-Back"
+                },
+                "73E96CC7-208A-45F5-8BFD-3AF3813CB582": {
+                    "name": "3. Organisms / Container / Smart-Cell"
+                },
+                "BD42E4BC-0F11-40D5-A76C-A8E54661ABAC": {
+                    "name": "3. Organisms / Navigation / Small / Breadcrump-Base"
+                },
+                "C6E6DA48-74E8-4367-8224-663C762AFD9F": {
+                    "name": "3. Organisms / Mobile / Tool Bar / Light / Basic-3 Actions"
+                },
+                "AA776CD3-9770-48F2-AFF1-A6CA1F1CD7D9": {
+                    "name": "3. Organisms / Mobile / App Bar / Dark / Base-Android"
+                },
+                "6FB3EF8E-6CE7-4CAC-A968-1C51C9A1BC0C": {
+                    "name": "3. Organisms / Mobile / App Bar / Dark / Toolbar-Small"
+                },
+                "AB4AFFF4-310D-4832-872F-3B3FCE5873D3": {
+                    "name": "3. Organisms / Page Header / Large / Mast-Wizard"
+                },
+                "DE3AE88C-AA1A-4A75-9560-0CB8CAB6C21B": {
+                    "name": "3. Organisms / Pagination / Large-Regular"
+                },
+                "DA964684-1EF3-4FA2-9792-07125243814A": {
+                    "name": "3. Organisms / Navigation / Large / Breadcrump-Back"
+                },
+                "AE4A8845-3DE8-4065-BE0B-A5D56DAA5719": {
+                    "name": "3. Organisms / Mobile / Tab Bar / Light / 2 Items"
+                },
+                "8407EDED-7780-4CCD-9723-23AC8E1123B9": {
+                    "name": "3. Organisms / Mobile / System / Keyboard / iOS / Alphabetic"
+                },
+                "C54267E3-D661-4CC2-860D-C0636898F6D6": {
+                    "name": "3. Organisms / Mobile / Tool Bar / Dark / Search-Focus-Label"
+                },
+                "8B72DB2A-6D3E-4D67-8F86-EFC87E205044": {
+                    "name": "3. Organisms / Mobile / System / Home Button / Default"
+                },
+                "48D3F15D-14AF-4FDC-A140-12706DF07641": {
+                    "name": "3. Organisms / Modal / Large / Simple"
+                },
+                "3566B821-680D-40FF-B321-A066E005C245": {
+                    "name": "3. Organisms / Mobile / App Bar / Light / Base-Android"
+                },
+                "909CC401-0DBA-420F-A6EF-60D50C7C0865": {
+                    "name": "3. Organisms / Calendar / Dark / Picker-Range"
+                },
+                "9FCC38E1-9C1D-4EB0-B390-06BA50EDEAC9": {
+                    "name": "3. Organisms / Mobile / Tool Bar / Dark / Search-Results"
+                },
+                "0DECF8E2-3E14-45B7-B3DE-F797B86D5BA6": {
+                    "name": "3. Organisms / Mobile / Nav Bar / iPhone / Light / 2 Items"
+                },
+                "08A5ABEE-6E90-4225-B9BE-D242D67DC719": {
+                    "name": "3. Organisms / Mobile / App Bar / Light / Base -iPad"
+                },
+                "2EA909B4-EB4A-47DD-8937-5F391CD0D2B9": {
+                    "name": "3. Organisms / Mobile / Nav Bar / iPhone / Dark / 2 Items"
+                },
+                "8EB613AB-DA30-4007-BAD3-F33C4A7F5844": {
+                    "name": "3. Organisms / Mobile / Tool Bar / Light / Icon-2 Actions"
+                },
+                "D7A84B51-6C17-40E4-ABE9-7D3C2960A5D8": {
+                    "name": "3. Organisms / Mobile / Segment Bar / Light / 3 Items"
+                },
+                "13E3458C-4CA4-47D0-AA07-813B34D2E721": {
+                    "name": "3. Organisms / Mobile / Tool Bar / Light / Search-Focus-Label"
+                },
+                "751CA5CA-FE69-42BC-A573-A768B5685779": {
+                    "name": "3. Organisms / Carousel / Large / Slim-First"
+                },
+                "16817BD1-1960-452D-971A-4837C7152526": {
+                    "name": "3. Organisms / Comment / Regular-Large"
+                },
+                "CE662983-8013-45FE-BBC9-FA0DD084F5D2": {
+                    "name": "3. Organisms / Auth / New Password"
+                },
+                "65A76257-06B2-4FF3-A213-25C3AC0E0DF0": {
+                    "name": "3. Organisms / Auth / Change Password"
+                },
+                "CC7DB71A-ABDF-456A-B88C-BAC8B3F53D54": {
+                    "name": "3. Organisms / Page Footer / Small / Mega-Base"
+                },
+                "C2DB94E1-9CBD-4249-9B09-FEF54635E3E2": {
+                    "name": "3. Organisms / Mobile / Tool Bar / Light / Search-Results"
+                },
+                "9B6BB776-E014-44DB-90C6-40A1CC2F6421": {
+                    "name": "3. Organisms / Mobile / Status Bar / Light / iPhone"
+                },
+                "B432ADC4-B73C-4750-BB74-FCA669890F2F": {
+                    "name": "3. Organisms / Mobile / Tool Bar / Dark / Search-Focus-Icon"
+                },
+                "03CE91D7-E164-4569-B918-30D8ED74E810": {
+                    "name": "3. Organisms / Mobile / Nav Bar / Android / Dark / 4 tems"
+                },
+                "459E48B7-2537-4C7B-B3F8-0D02067FF6D0": {
+                    "name": "3. Organisms / Modal / Large / Header"
+                },
+                "5D4BC121-68D7-4936-ACCE-B15E4775E79B": {
+                    "name": "3. Organisms / Navigation / Large / Breadcrump-Category"
+                },
+                "CB5AF0B5-9B9E-4BC2-8E67-3D3607ECF9B9": {
+                    "name": "3. Organisms / Mobile / Nav Bar / iPhone / Light / 3 Items"
+                },
+                "8F0FC9E2-0AE5-4CB3-9434-CF23A927CD16": {
+                    "name": "3. Organisms / Mobile / App Bar / Light / Toolbar-Small"
+                },
+                "A5FA8D6D-DC79-451E-9028-E3A9C08965E8": {
+                    "name": "3. Organisms / Mobile / Tab Bar / Dark / Scroll"
+                },
+                "20251C2F-BBD4-4E92-BC0D-84C5C67789DC": {
+                    "name": "3. Organisms / Mobile / Alert / Android / Alert-Multi"
+                },
+                "BD7B5B15-23AA-47CC-80C0-D7747EB26F64": {
+                    "name": "3. Organisms / Page Footer / Small / Copyright"
+                },
+                "9752C328-3538-4158-AABF-AAD3221A5B04": {
+                    "name": "3. Organisms / Mobile / Tool Bar / Dark / Icon-5 Actions"
+                },
+                "197C08F3-B396-4065-A466-EB910F944518": {
+                    "name": "3. Organisms / Mobile / Tool Bar / Dark / Complex-2 Actions"
+                },
+                "BBAD5C06-F2F0-4DAA-89B7-E324BEAF40A6": {
+                    "name": "3. Organisms / Mobile / System / Keyboard / Android / Main"
+                },
+                "E30ACFAB-6B7A-43C1-808F-BB1FD04180D0": {
+                    "name": "3. Organisms / Dropdowns / Search-Regular"
+                },
+                "F9A778D1-4FBD-4CD1-900D-121F7E6BCF5C": {
+                    "name": "3. Organisms / Chart / Line-12"
+                },
+                "C70127E3-7DE6-411F-A2D4-01624C9E42B1": {
+                    "name": "3. Organisms / Mobile / System / Keyboard / iOS / Collapsed"
+                },
+                "0798E999-2003-4A52-A4E0-C6418F3FA2B9": {
+                    "name": "3. Organisms / Modal / Small / Footer"
+                },
+                "B90015B2-5E41-4ED6-9599-1B64EA62E1DE": {
+                    "name": "3. Organisms / Mobile / Tool Bar / Dark / Icon-3 Actions"
+                },
+                "9F43FC0C-9432-4948-99D1-76A66A615ABA": {
+                    "name": "3. Organisms / Mobile / App Bar / Dark / Base -iPad"
+                },
+                "75D1524A-5CA6-4D3A-8DEF-5D9B77F73E25": {
+                    "name": "3. Organisms / Page Footer / Large / Copyright"
+                },
+                "BFF5B34B-A908-4D0D-AEA9-06C163D1A2D5": {
+                    "name": "3. Organisms / Mobile / Tool Bar / Dark / Search-Base"
+                },
+                "866C4FBA-3EC7-4FB6-8970-BC391657367B": {
+                    "name": "3. Organisms / Mobile / Nav Bar / Android / Dark / 5 Items"
+                },
+                "0FF639F4-1C96-4599-BA0E-51D6851B02D9": {
+                    "name": "3. Organisms / Calendar / Dark / Picker-Months"
+                },
+                "BE10380C-2756-4844-936E-B7BF62A6D4D7": {
+                    "name": "3. Organisms / Mobile / Segment Bar / Light / 2 Items"
+                },
+                "BDE0FB98-4C08-4FD3-9612-720B00401029": {
+                    "name": "3. Organisms / Mobile / System / Keyboard / iOS / Suggestions-4 Items"
+                },
+                "E7B698B0-22F4-4DE7-9B78-BCB9F3976DFA": {
+                    "name": "3. Organisms / Mobile / Tool Bar / Light / Basic-2 Actions"
+                },
+                "010F9855-6C32-4C88-A058-7CDE38294E40": {
+                    "name": "3. Organisms / Mobile / App Bar / Light / Large-Android"
+                },
+                "C51043BB-A3CB-4E30-B0B9-5F47228006D2": {
+                    "name": "3. Organisms / Mobile / Status Bar / Dark / Android"
+                },
+                "317E0289-09F6-4FA8-8351-25C473AD699A": {
+                    "name": "3. Organisms / Mobile / Segment Bar / Dark / 3 Items"
+                },
+                "BD4223BC-996C-4DF7-A6D6-A6F7765FD45D": {
+                    "name": "3. Organisms / Comment / Slim-Large"
+                },
+                "E3F6C58F-2865-4940-AB1A-B19277FD9297": {
+                    "name": "3. Organisms / Mobile / Tab Bar / Dark / 4 Items"
+                },
+                "DF4CDBA0-0082-4651-B1F3-40B7696C417F": {
+                    "name": "3. Organisms / Mobile / App Bar / Dark / Modal-Stack"
+                },
+                "C431DF83-12EF-439A-AEEE-1078C45E3D29": {
+                    "name": "3. Organisms / Pagination / Large-Slim"
+                },
+                "2F02B5A4-DEA6-4CC9-BC37-AC8A729C8D8A": {
+                    "name": "3. Organisms / Mobile / Alert / Android / Alert-Prompt"
+                },
+                "1DDAD3F1-9504-419B-BC93-DDD5506A5AEC": {
+                    "name": "3. Organisms / Page Header / Small / Mast-Wizard"
+                },
+                "98420955-1AD1-4C09-A97B-ED5D4418716F": {
+                    "name": "3. Organisms / Page Footer / Large / Sticky"
+                },
+                "0924C092-65BA-4876-9ABC-DA74406119E4": {
+                    "name": "3. Organisms / Mobile / System / Keyboard / iOS / Numeric"
+                },
+                "016F89E4-3321-4777-A62C-4E32CEE2D045": {
+                    "name": "3. Organisms / Mobile / Nav Bar / Android / Light / 2 Items"
+                },
+                "69074222-194B-4FBF-AE1C-0DA4E38A2E4E": {
+                    "name": "3. Organisms / Mobile / App Bar / Light / Toolbar-Large"
+                },
+                "A7A32CB7-51E9-4E41-B47D-8A1C53A7B802": {
+                    "name": "3. Organisms / Comment / Regular-Small"
+                },
+                "7839D3EF-069F-4C80-8D6D-DD4797D1C767": {
+                    "name": "3. Organisms / Mobile / App Bar / Dark / Large -iPad"
+                },
+                "46533B99-EE1D-4D3B-8BDB-14B903D1E4ED": {
+                    "name": "3. Organisms / Carousel / Small / Slim-First"
+                },
+                "B7D35931-3B0E-4CD8-8565-85B37976E35F": {
+                    "name": "3. Organisms / Mobile / Alert / iOS / Sheet-Grid"
+                },
+                "1AB11E2F-2C06-413B-8E6A-5DF936FAA5F7": {
+                    "name": "3. Organisms / Carousel / Large / Slim"
+                },
+                "1E3CFFEC-228B-44D9-9968-2967E32DDD92": {
+                    "name": "3. Organisms / Mobile / Tool Bar / Light / Icon-5 Actions"
+                },
+                "03AED807-CEF3-40ED-83EA-2510A7CAD752": {
+                    "name": "3. Organisms / Mobile / Tool Bar / Light / Basic-Bar Actions"
+                },
+                "DB2387E4-90BA-48DC-AC4B-22EED0C163AE": {
+                    "name": "3. Organisms / Mobile / App Bar / Dark / Toolbar-Base"
+                },
+                "8375C31C-1515-4EE2-8088-E701C215F059": {
+                    "name": "3. Organisms / Carousel / Large / Regular-Last"
+                },
+                "1CF2380C-520C-4230-9653-C3AC073D4F79": {
+                    "name": "3. Organisms / Modal / Small / Default"
+                },
+                "DED13E90-5D7C-4928-98D2-50CD652A9BF4": {
+                    "name": "3. Organisms / Mobile / System / Keyboard / iOS / Dialer"
+                },
+                "04767398-CCDF-4091-AB99-453BAF167689": {
+                    "name": "3. Organisms / Dropdowns / Default"
+                },
+                "890B2BD7-CC77-42AE-944A-D7D177C6C5DC": {
+                    "name": "3. Organisms / Page Header / Small / Mast-Error"
+                },
+                "1D2FEFD6-7074-4D6B-A6C9-35A168FFB8D8": {
+                    "name": "3. Organisms / Mobile / App Bar / Light / Modal-Stack"
+                },
+                "6331F0F5-0688-428D-A701-3419F65EEF7C": {
+                    "name": "3. Organisms / Mobile / Status Bar / Dark / iPad"
+                },
+                "AB86B75D-DFA4-4F74-9344-D99B951D9847": {
+                    "name": "3. Organisms / Mobile / Nav Bar / Android / Dark / 2 Items"
+                },
+                "4E0F4267-D1BB-451B-9888-987C729F0F1A": {
+                    "name": "3. Organisms / Mobile / Tool Bar / Light / Search-Base"
+                },
+                "4F2B1AD7-E00C-4A03-A66D-4508D1DF368B": {
+                    "name": "3. Organisms / Carousel / Small / Slim"
+                },
+                "C3642028-4426-4AF7-BE06-DEDCCA69B7E3": {
+                    "name": "3. Organisms / Page Footer / Small / Sticky"
+                },
+                "8D9D6D36-7D87-4A0D-8627-7BC91F483B73": {
+                    "name": "3. Organisms / Mobile / Nav Bar / iPhone / Dark / 5 Items"
+                },
+                "A7E52B0F-8A84-421B-9EC4-9CF99B1B334C": {
+                    "name": "3. Organisms / Mobile / Tool Bar / Dark / Icon-4 Actions"
+                },
+                "A7CFB9E4-430A-4784-844E-86834C4D30B8": {
+                    "name": "3. Organisms / Mobile / Tab Bar / Dark / 3 Items"
+                },
+                "D05EB194-AD34-489F-8B89-B2F44FEED608": {
+                    "name": "3. Organisms / Mobile / System / Keyboard / iOS / Emoji"
+                },
+                "BBC23627-901E-4CF7-BCE4-390E7ACC1CC9": {
+                    "name": "3. Organisms / Page Header / Large / Mast-Base"
+                },
+                "4DF75430-FDD7-43B9-AB19-829CAD65B1AC": {
+                    "name": "3. Organisms / Mobile / Tool Bar / Light / Search-Focus-Icon"
+                },
+                "352425CD-10AB-408F-91D3-542B41F2DE19": {
+                    "name": "3. Organisms / Mobile / System / Home Button / Dark"
+                },
+                "C065B5D9-1B2E-4009-8610-705F7DCDB793": {
+                    "name": "3. Organisms / Mobile / Alert / iOS / Alert-Multi"
+                },
+                "0AD23559-538D-4E94-92D8-953F2B0C8795": {
+                    "name": "3. Organisms / Pagination / Small"
+                },
+                "D9C05CDC-BD33-4000-B6ED-610F5E81B57C": {
+                    "name": "3. Organisms / Page Footer / Large / Follow"
+                },
+                "10FF5A8E-E989-4381-8A11-DFE773FC4311": {
+                    "name": "3. Organisms / Navigation / Large / Breadcrump-Page"
+                },
+                "47878414-60B0-45B1-88E4-54265BE1B6C9": {
+                    "name": "3. Organisms / Calendar / Light / Picker-Range"
+                },
+                "A78E196D-9A69-4947-8A5D-0BBDB64E82B7": {
+                    "name": "3. Organisms / Mobile / Nav Bar / Android / Dark / 3 Items"
+                },
+                "0D15BEB4-4A70-4D3D-8E33-0C2DFFF1B379": {
+                    "name": "3. Organisms / Mobile / System / Keyboard / iOS / Dictation"
+                },
+                "037E9569-964D-42C3-B4DB-65076DE106D7": {
+                    "name": "3. Organisms / Page Header / Small / Mast-Base"
+                },
+                "14333E3C-8085-4159-96BE-34D4049FF260": {
+                    "name": "3. Organisms / Mobile / System / Keyboard / Android / Numbers"
+                },
+                "46682924-D177-40F6-8467-71E3F5A4B467": {
+                    "name": "3. Organisms / Container / Default-Slim"
+                },
+                "E47AABEC-C86D-4AB4-ADA1-612C856ACFA3": {
+                    "name": "3. Organisms / Mobile / Nav Bar / iPhone / Dark / 3 Items"
+                },
+                "3112CDA8-C790-4A76-9A9A-1C0040C934C1": {
+                    "name": "3. Organisms / Mobile / Alert / Android / Alert-Default"
+                },
+                "398F634A-903D-4C24-A7C4-86016C05BBC0": {
+                    "name": "3. Organisms / Mobile / App Bar / Dark / Large-iPhone"
+                },
+                "DE3BDEFB-CFD1-461A-8B2E-50D593B43A3F": {
+                    "name": "3. Organisms / Pagination / Basic-Regular"
+                },
+                "57C9C150-31C8-46F5-A869-449AF2DE1F5E": {
+                    "name": "3. Organisms / Mobile / Tool Bar / Dark / Basic-Bar Actions"
+                },
+                "C76ABF1D-F1BD-4DB8-A935-8A7904355883": {
+                    "name": "3. Organisms / Mobile / Status Bar / Light / Android"
+                },
+                "811FFEFB-6B1C-405E-A399-AC432DCBCBEA": {
+                    "name": "3. Organisms / Carousel / Large / Regular-First"
+                },
+                "8B8F6D92-2290-4ED0-A3CB-EAE2BCD4F16B": {
+                    "name": "3. Organisms / Carousel / Small / Regular-First"
+                },
+                "E5CD6113-987A-425E-AC5A-361730C823B6": {
+                    "name": "3. Organisms / Mobile / Status Bar / Dark / iPhone-Active"
+                },
+                "E351BFB4-A9DC-4134-83A2-5F5D561ECBE2": {
+                    "name": "3. Organisms / Mobile / App Bar / Dark / Base -iPhone"
+                },
+                "2D540919-5C98-4749-908E-82E4D058137C": {
+                    "name": "3. Organisms / Navigation / Large / Sidebar"
+                },
+                "62A4C878-B459-429E-99B0-30D60B52599C": {
+                    "name": "3. Organisms / Pagination / Basic-Slim"
+                },
+                "D480CADF-93DB-4BC2-BBF7-D6456FA131C1": {
+                    "name": "3. Organisms / Modal / Small / Alert"
+                },
+                "77E1E2F9-356C-4446-A5CD-E01C5882511B": {
+                    "name": "3. Organisms / Calendar / Light / Picker-Double"
+                },
+                "76ECAB78-01C7-49F5-A1CF-6022CDFDD4FB": {
+                    "name": "3. Organisms / Mobile / System / Keyboard / iOS / Suggestions-3 Items"
+                },
+                "7A829139-FB4A-431D-A3DD-5FC4AB6322DC": {
+                    "name": "3. Organisms / Container / Smart-Col"
+                },
+                "37683093-B781-413B-9CA2-D95B2130CDDB": {
+                    "name": "3. Organisms / Modal / Large / Alert"
+                },
+                "3DFF3BB8-EF1C-420F-A5A4-99C7D005848F": {
+                    "name": "3. Organisms / Dropdowns / Search-Slim"
+                },
+                "E0456587-621A-4F3C-854F-C1A947B616D1": {
+                    "name": "3. Organisms / Modal / Small / Simple"
+                },
+                "6EDB53C0-FEA2-40DF-90C5-5BCB2F1668B4": {
+                    "name": "3. Organisms / Container / Smart-Slim"
+                },
+                "3D341375-1129-4A52-925E-616588EE2B70": {
+                    "name": "3. Organisms / Calendar / Dark / Picker-Default"
+                },
+                "1B5528C3-B27E-4A93-8272-F06A6B89423F": {
+                    "name": "3. Organisms / Auth / Verify GSM"
+                },
+                "F3E4567A-D430-4A2C-8AAE-89A750D61077": {
+                    "name": "3. Organisms / Mobile / Tab Bar / Dark / 2 Items"
+                },
+                "14D8A2A1-80BF-4E0D-B7BC-4B71A31F27CA": {
+                    "name": "3. Organisms / Navigation / Small / Navbar"
+                },
+                "A47A2118-66C8-4F6A-ADC8-95831426E644": {
+                    "name": "3. Organisms / Auth / Reset Password"
+                },
+                "C63C763B-DA3C-48BB-A5C2-0DB9C187D73B": {
+                    "name": "3. Organisms / Navigation / Small / Sidebar"
+                },
+                "84D9053F-9AA6-42AE-9876-F6FA9CD1CB1B": {
+                    "name": "3. Organisms / Carousel / Large / Regular"
+                },
+                "8B43B0C1-CA5F-4DFE-9A3F-A199FF72B3B9": {
+                    "name": "3. Organisms / Modal / Large / Default"
+                },
+                "60E26771-034E-4897-A6BD-97AAB4FC700B": {
+                    "name": "3. Organisms / Mobile / Tool Bar / Dark / Large Title"
+                },
+                "9930EE29-3DAF-459C-9593-C60D1252038F": {
+                    "name": "3. Organisms / Navigation / Large / Breadcrump-Base"
+                },
+                "C9DE3ABE-ACA2-40CB-A002-074DE50F8603": {
+                    "name": "3. Organisms / Carousel / Small / Regular-Last"
+                },
+                "A5FFF442-CE7C-4C70-93DB-AC3FF74541B1": {
+                    "name": "3. Organisms / Mobile / Tab Bar / Light / 3 Items"
+                },
+                "B0BC2F94-6CD8-49CE-A0F8-5C173F7547B3": {
+                    "name": "3. Organisms / Calendar / Dark / Picker-Double"
+                },
+                "A19821FF-1CC6-44B8-B474-B2334654AE72": {
+                    "name": "3. Organisms / Container / Default-Row"
+                },
+                "9F4808E0-30E7-44D0-BA39-FC7EF9A26779": {
+                    "name": "3. Organisms / Auth / Register"
+                },
+                "AC3AF38A-9E7E-488A-8BB8-A093236D5962": {
+                    "name": "3. Organisms / Chart / Bar-12"
+                },
+                "DDF6B42D-8402-4BF9-B1BE-7545DB0C1E10": {
+                    "name": "3. Organisms / Mobile / Alert / Android / Sheet-Title"
+                }
+            }
+        },
+        "A635CEAB-E2D2-480A-97D7-E1FD89B3DFBD": {
+            "name": "Styles",
+            "artboards": {}
+        },
+        "3F68ACDF-0B48-4C9A-8DED-475A144D8781": {
+            "name": "Guides",
+            "artboards": {
+                "AC20BAF2-A6AD-4A84-AE5B-9585C8D578AE": {
+                    "name": "5. Guides / Grid / Page / 1280px"
+                },
+                "069F4420-93F4-483A-95F7-3D607A28A94A": {
+                    "name": "5. Guides / Grid / Page / 1024px"
+                },
+                "D9DA2E13-E28E-45E8-AFB3-E590491AAF2B": {
+                    "name": "5. Guides / Wireflow / Layout / Grid-4x3"
+                },
+                "83BA0E29-997C-42A5-84C0-E61BE43E5869": {
+                    "name": "5. Guides / Grid / Page / 1440px"
+                },
+                "2FEA83DA-E75C-40F6-83F6-E48E5492AA3E": {
+                    "name": "5. Guides / Wireflow / Layout / Common-Masonry"
+                },
+                "00A8BAD3-E58D-4288-8FCF-EC9E94F22791": {
+                    "name": "5. Guides / Wireflow / Page / Text-Image"
+                },
+                "35C7C674-5CD1-4FF6-9BF9-0A4715095788": {
+                    "name": "5. Guides / Spec / Size-Height-Right"
+                },
+                "D6E7EC7F-5E74-4589-B719-B40D1CE138C8": {
+                    "name": "5. Guides / Wireflow / Page / Sidebar-Article"
+                },
+                "32A3381E-6A00-44C2-BC08-4D7EFF10786D": {
+                    "name": "5. Guides / IA / Area / Conditional"
+                },
+                "048CF51A-EDEA-4DB9-BB4F-E6020DA498A8": {
+                    "name": "5. Guides / Wireflow / Page / Banner-Image"
+                },
+                "584FA3FF-D998-4810-9FC8-862CE00E1207": {
+                    "name": "5. Guides / Wireflow / Layout / Hero-2x1"
+                },
+                "D8DBEAA0-962B-4969-8059-E65D8BE44241": {
+                    "name": "5. Guides / IA / Elements / Continue-Vertical"
+                },
+                "76AB5026-5289-407C-94D8-2EB2A0846A2A": {
+                    "name": "5. Guides / Wireflow / Page / Banner-4x2"
+                },
+                "1E959AE1-340B-4C56-9499-8A6CBA1B4D49": {
+                    "name": "5. Guides / Wireflow / Page / Base-Text"
+                },
+                "353E9ECB-C5E3-4239-AEC3-1B111A947C7F": {
+                    "name": "5. Guides / Palette / Wheel-Tone"
+                },
+                "90C4B16D-F439-469F-BEEB-04771E8AFEDB": {
+                    "name": "5. Guides / Wireflow / Browser / Medium"
+                },
+                "DBCE32C9-8A2D-4DF9-8819-61320CDBF25E": {
+                    "name": "5. Guides / Utility / Exporter"
+                },
+                "C85B1323-7EC7-419D-993C-A4770814580B": {
+                    "name": "5. Guides / Wireflow / Layout / Hero-3x1"
+                },
+                "75C3C82B-183F-4370-A4F1-6E43F6F037A9": {
+                    "name": "5. Guides / IA / Area / Iterative"
+                },
+                "3BDE7C53-9A30-409E-97BC-5D7CF84E89CA": {
+                    "name": "5. Guides / Wireflow / Layout / Grid-2x2"
+                },
+                "F72B01F5-D12C-4856-93E3-E657D1CE7D3B": {
+                    "name": "5. Guides / Pointers / Tap"
+                },
+                "B080581E-D88C-4199-8321-AA130F03B65B": {
+                    "name": "5. Guides / Spec / Marking-Down"
+                },
+                "8D471772-65D9-453A-9BAA-CD9D59054CFD": {
+                    "name": "5. Guides / Spec / Marking-Down-Right"
+                },
+                "50980C67-1556-4E39-87AD-2767D274CAD2": {
+                    "name": "5. Guides / IA / Connector / Dashed / L-Horizontal"
+                },
+                "C202EAE7-BEE9-44C2-95B9-C9B0EB815732": {
+                    "name": "5. Guides / Grid / Page / 1440px-Sidebar"
+                },
+                "7F6AEFBF-CD45-4EF9-94FB-2AC9E73E7237": {
+                    "name": "5. Guides / Palette / Color-Tint-Basic"
+                },
+                "74AE6D03-A5F3-4B2E-AD10-6EEFF3B24F4C": {
+                    "name": "5. Guides / Wireflow / Page / Base-Table"
+                },
+                "FF7952CA-D63D-457B-BA4E-F7757B79694D": {
+                    "name": "5. Guides / Wireflow / Page / Payment-Form"
+                },
+                "1113526E-1434-46BE-A744-04E6D727325C": {
+                    "name": "5. Guides / Wireflow / Page / Modal-Form"
+                },
+                "F305C570-EC95-4888-B3BA-039CD70853F2": {
+                    "name": "5. Guides / IA / Connector / Basic / P-Horizontal"
+                },
+                "5A7A7431-0FB6-4F71-8062-5FD24DB18A46": {
+                    "name": "5. Guides / Wireflow / Layout / Hero-Sidebar-Aside"
+                },
+                "10B0C5E1-7029-41E7-BA46-2FFF6BE77A78": {
+                    "name": "5. Guides / Palette / Style-Text-Basic"
+                },
+                "A7FB3591-1685-4C0C-9F01-68F58F5D552A": {
+                    "name": "5. Guides / IA / \u03a9 Resources / Default / P-Horizontal"
+                },
+                "091FB5EE-735A-49E2-9905-055E8C5A323F": {
+                    "name": "5. Guides / Wireflow / Page / Text-Video"
+                },
+                "3D58B5B9-9C9B-4816-A7FC-C59636C7D070": {
+                    "name": "5. Guides / Wireflow / Page / Common-Comments"
+                },
+                "E37CD15C-BA0E-4978-B52F-08C6B84F38D3": {
+                    "name": "5. Guides / Wireflow / Page / Common-Status-Success"
+                },
+                "AB284898-9D80-4375-9455-4B2E448513B3": {
+                    "name": "5. Guides / IA / Elements / Page Stack"
+                },
+                "9C5A0553-C222-47D4-96C7-663BA53EE325": {
+                    "name": "5. Guides / Wireflow / Page / Modal-Status-Success"
+                },
+                "5CD78465-922B-4417-8091-F325F9F98569": {
+                    "name": "5. Guides / Wireflow / Page / Compare-4"
+                },
+                "E166AF16-418F-4C1A-B5CA-CA98C5342818": {
+                    "name": "5. Guides / IA / Area / Section-Default-Vertical"
+                },
+                "6AFEAEFA-0F23-462C-9F76-C272AB87C9CD": {
+                    "name": "5. Guides / Fold / 720"
+                },
+                "B92147D5-56EF-4CCB-BB3F-AEA0A8F03EBC": {
+                    "name": "5. Guides / Container / Default"
+                },
+                "11E5218D-E059-4284-B36A-ABAA1FDB72D1": {
+                    "name": "5. Guides / IA / Elements / File"
+                },
+                "FF5936BD-CDF9-4113-81BE-E57878F8D796": {
+                    "name": "5. Guides / IA / Mark / Inform-Alt"
+                },
+                "383AD72A-79E0-4F43-9041-BE57EC0EF708": {
+                    "name": "5. Guides / Wireflow / Browser / Small"
+                },
+                "3D53F9B8-5E4D-488C-BD02-52E076ACF448": {
+                    "name": "5. Guides / IA / Area / Section-Dashed-Vertical"
+                },
+                "B4645372-6B56-4616-B66C-80769E4442B3": {
+                    "name": "5. Guides / Grid / Column / Gutter-08px"
+                },
+                "F564BB6D-D090-4699-83E1-C35B0FDE0CFC": {
+                    "name": "5. Guides / IA / Connector / Dashed / U-Vertical"
+                },
+                "953A32DF-521A-45FA-9400-D5A9F4098553": {
+                    "name": "5. Guides / Wireflow / Page / Text-Accordion"
+                },
+                "4C9A14F5-A190-42F5-9E59-4EFCDA809443": {
+                    "name": "5. Guides / Legend / IA-English"
+                },
+                "353D4676-67B3-4D13-9B6D-61D8087351A0": {
+                    "name": "5. Guides / Palette / Color-Style-Custom"
+                },
+                "6D9D8903-64E4-4677-B460-35F90807093E": {
+                    "name": "5. Guides / IA / Connector / Basic / P-Vertical"
+                },
+                "95FE0A59-2898-46A1-B3F0-2A2D13F1A246": {
+                    "name": "5. Guides / Wireflow / Layout / Common-Calendar"
+                },
+                "73A17511-0155-410F-942E-D28F02267EBF": {
+                    "name": "5. Guides / Wireflow / Page / Modal-Status-Error"
+                },
+                "935D2DE9-B890-4B25-B2C6-6045B3EBF837": {
+                    "name": "5. Guides / Wireflow / Page / Base-Tabs"
+                },
+                "7F6D59B5-78C4-4913-985C-4E67301FA327": {
+                    "name": "5. Guides / Spec / Annotation-Large"
+                },
+                "3AFD470F-260C-4D4B-BC56-62C7B1179F77": {
+                    "name": "5. Guides / IA / Mark / Label"
+                },
+                "A0F70BD3-C7D0-446A-B029-2A35DB1F2F57": {
+                    "name": "5. Guides / Wireflow / Page / Banner-Accordion"
+                },
+                "AE2CEDDE-B390-4D4F-9DC8-40660AB3BA87": {
+                    "name": "5. Guides / Spec / Marker"
+                },
+                "0E03AEFF-7FF8-4520-808E-67CF543DB46C": {
+                    "name": "5. Guides / IA / Condition / Decision"
+                },
+                "D7D1759A-B769-4D17-82E7-54EEEB1764F2": {
+                    "name": "5. Guides / Spec / Marking-Up-Right"
+                },
+                "A64F4448-52D3-4956-8ED0-B0FCF1CBBA10": {
+                    "name": "5. Guides / Spec / Marking-Up"
+                },
+                "600EBC5C-6BD0-4D6F-A8A6-A5F54682445E": {
+                    "name": "5. Guides / IA / Connector / Basic / L-Horizontal"
+                },
+                "AD842C23-74BD-4936-9657-ADD0AEE60C44": {
+                    "name": "5. Guides / IA / Mark / Caution-Alt"
+                },
+                "1EED3F80-F053-4AB0-BAB1-5C99CC9EBD8F": {
+                    "name": "5. Guides / Wireflow / Layout / Base-Body"
+                },
+                "4F73E5C9-0F85-4AE9-A578-88F24CDC1611": {
+                    "name": "5. Guides / Wireflow / Page / Base-List"
+                },
+                "C8395042-A49B-4002-A0FE-7D2197751987": {
+                    "name": "5. Guides / Wireflow / Layout / Common-Sidebar-Right"
+                },
+                "044B1F9F-1134-4274-86EB-6174806778A9": {
+                    "name": "5. Guides / IA / \u03a9 Resources / Default / L-Horizontal"
+                },
+                "FF869453-8AF9-4F2E-8F1E-F13BDA1E6247": {
+                    "name": "5. Guides / Spec / Marking-Left"
+                },
+                "6B075A6C-7BB5-4D55-B832-362F6AA64573": {
+                    "name": "5. Guides / Container / Inverse"
+                },
+                "8058B2D5-4CA0-4F81-A45C-9D8202F9F560": {
+                    "name": "5. Guides / IA / \u03a9 Resources / Default / D-Vertical"
+                },
+                "8C6E7DB7-A6DA-4E1C-86CE-16EDAFDE03BB": {
+                    "name": "5. Guides / Grid / Column / Gutter-12px"
+                },
+                "74FFE389-73C3-4BE1-B1A2-8BD5D15EF19B": {
+                    "name": "5. Guides / Wireflow / Layout / Base-Row-2"
+                },
+                "3C60C5C9-8E49-4343-9F8E-7D89322435EB": {
+                    "name": "5. Guides / Wireflow / Page / Shopping Chart"
+                },
+                "021E6552-FA61-47DC-A355-D2CE78F8CA0B": {
+                    "name": "5. Guides / IA / \u03a9 Resources / Point / Horizontal / Arrow"
+                },
+                "074AD08D-3149-4687-AA3B-0E2C937F0F5B": {
+                    "name": "5. Guides / Wireflow / Layout / Hero-Sidebar"
+                },
+                "026A26DD-EE2D-4463-9BD0-742C1ADE2124": {
+                    "name": "5. Guides / Wireflow / Layout / Common-Sidebar-Double"
+                },
+                "08FAF1A5-AB7F-4AB9-9F39-C6D474AF584D": {
+                    "name": "5. Guides / Spec / Marking-Up-Left"
+                },
+                "6A77A8C8-0D46-4D03-8FBB-BA07B8A5C949": {
+                    "name": "5. Guides / IA / Connector / Basic / D-Vertical"
+                },
+                "AC6EC7D8-ED87-4F5C-9112-8CF6AA9BF4C7": {
+                    "name": "5. Guides / Page Template / Cover-Basic"
+                },
+                "EDD3C046-7E7F-4343-9BAB-9FF34A2DDDD2": {
+                    "name": "5. Guides / Palette / Color-Style-Detailed"
+                },
+                "0E27E615-DC92-436D-8886-8BD0004E0D91": {
+                    "name": "5. Guides / Legend / IA-Turkish"
+                },
+                "FAED9E26-BE7E-4622-BC39-1F4DCCA12B4A": {
+                    "name": "5. Guides / IA / Condition / Selector"
+                },
+                "D907B920-C98F-424F-8B6A-EE260FB24369": {
+                    "name": "5. Guides / IA / \u03a9 Resources / Point / Vertical / Basic"
+                },
+                "C7E6B893-988A-428D-BC5E-0253BB9D61D6": {
+                    "name": "5. Guides / IA / Connector / Basic / L-Vertical"
+                },
+                "92FFC1DE-E5A6-433C-B6C0-E749AB21F0E6": {
+                    "name": "5. Guides / IA / Connector / Dashed / D-Horizontal"
+                },
+                "83CBD486-1AD7-4316-BB9D-EB4F1BC53366": {
+                    "name": "5. Guides / IA / \u03a9 Resources / Point / Vertical / Block"
+                },
+                "EEFC9584-3B9D-4C1B-AB84-161CD895F1D9": {
+                    "name": "5. Guides / IA / Elements / Page"
+                },
+                "7A63E236-955D-4C51-A645-7B143220661F": {
+                    "name": "5. Guides / IA / Connector / Basic / D-Horizontal"
+                },
+                "17CFDFB9-579F-4E0C-9149-C21EC9A01649": {
+                    "name": "5. Guides / Utility / Desaturator"
+                },
+                "A3B7ABC8-ACC0-4419-9C80-7F3192ED0333": {
+                    "name": "5. Guides / Palette / Wheel-Opacity"
+                },
+                "B89BCE29-B140-49F2-954D-F56F80FFED76": {
+                    "name": "5. Guides / Wireflow / Page / Base-3x4"
+                },
+                "E22A8D73-7FD2-4F69-89E2-51CAD71BAE27": {
+                    "name": "5. Guides / Pointers / Click"
+                },
+                "C2769191-D9D2-46EC-B89F-9B98F7727325": {
+                    "name": "5. Guides / Wireflow / Page / Modal-List"
+                },
+                "69D283EC-8995-43CE-B9FE-D7DF5F2F027C": {
+                    "name": "5. Guides / IA / Mark / Caution"
+                },
+                "F414A51D-EB74-4EFF-B448-96E13C0BA3CC": {
+                    "name": "5. Guides / Fold / 640"
+                },
+                "7648E55D-0BB2-4434-BA55-6B53F5822A45": {
+                    "name": "5. Guides / Wireflow / Page / Base-2x3"
+                },
+                "7938EA29-82DB-4E8D-B247-8625CF00A9D0": {
+                    "name": "5. Guides / IA / Condition / Branch"
+                },
+                "296CAD4C-2B2D-4608-99B8-B355A4E28857": {
+                    "name": "5. Guides / Grid / Page / 360px"
+                },
+                "A39FC974-A7D4-43DA-B402-3FED61437338": {
+                    "name": "5. Guides / Grid / Page / 1280px-Sidebar"
+                },
+                "813C598A-BC6B-445D-8C18-62AB840FB953": {
+                    "name": "5. Guides / Wireflow / Page / Base-Search"
+                },
+                "CD3E870E-FD2A-4EDC-8D38-FF3B16796F80": {
+                    "name": "5. Guides / IA / Connector / Dashed / P-Vertical"
+                },
+                "5B8F0508-454C-4B97-84FC-8F808AEC4437": {
+                    "name": "5. Guides / IA / \u03a9 Resources / Point / Vertical / Circle"
+                },
+                "B4C59742-72BF-414F-98B3-D73D3E3C80C9": {
+                    "name": "5. Guides / Palette / Style-Layer-Basic"
+                },
+                "EA99BC98-47CD-447F-9FCB-E266A8607BC9": {
+                    "name": "5. Guides / Wireflow / Page / Modal-Media-Image"
+                },
+                "32B59657-0571-4802-A50E-1C89114372E3": {
+                    "name": "5. Guides / IA / \u03a9 Resources / Point / Horizontal / Direct"
+                },
+                "C545EC5E-E3BB-4C46-A244-1F8CB53DFBE8": {
+                    "name": "5. Guides / IA / \u03a9 Resources / Default / P-Vertical"
+                },
+                "40242C70-59EB-408B-B672-5CCDEBD3830A": {
+                    "name": "5. Guides / Wireflow / Layout / Grid-3x3"
+                },
+                "FDBFE31B-71ED-4B4D-A7B5-16736BF31769": {
+                    "name": "5. Guides / Wireflow / Layout / Hero-List"
+                },
+                "8B6EC600-188E-4DBF-8ADF-7ECBE422C485": {
+                    "name": "5. Guides / Wireflow / Page / Banner-Text"
+                },
+                "113BED98-6B2A-44C7-B08B-6306550E5F0D": {
+                    "name": "5. Guides / Wireflow / Layout / Base-Row-4"
+                },
+                "7F190393-18C9-434A-A1A9-D827C9A004F1": {
+                    "name": "5. Guides / Wireflow / Layout / Common-Sidebar-Left"
+                },
+                "48DFA01C-2EB8-4DAB-B7AA-B1552526D42D": {
+                    "name": "5. Guides / Spec / Marking-Left-Down"
+                },
+                "F851F65F-6D65-4352-B112-18B2978A83C5": {
+                    "name": "5. Guides / Wireflow / Page / Base-Article Comments"
+                },
+                "3056203C-C60B-4421-808C-74633073DB4D": {
+                    "name": "5. Guides / Wireflow / Layout / Base-Col-4"
+                },
+                "5EC5CFED-A2F9-4B61-B90A-032533698BAE": {
+                    "name": "5. Guides / Palette / Wheel-Color"
+                },
+                "C1079390-1434-4973-86A0-635D97B8F813": {
+                    "name": "5. Guides / Wireflow / Page / Form-Contact"
+                },
+                "D38DA122-58C9-4CE2-A5D0-58E4B3292079": {
+                    "name": "5. Guides / Wireflow / Layout / Hero-Aside"
+                },
+                "85164CC4-2059-4973-A0C1-A2149A7B76E8": {
+                    "name": "5. Guides / Wireflow / Page / Banner-4x1"
+                },
+                "6335D884-4638-4E25-AD92-BD0E032B18B7": {
+                    "name": "5. Guides / Grid / Column / Gutter-32px"
+                },
+                "F2E50B84-5E60-4911-9CC8-B526E2F086C2": {
+                    "name": "5. Guides / Palette / Style-Layer-Full"
+                },
+                "B389ADCA-A567-477E-86D8-4C58DF02EF40": {
+                    "name": "5. Guides / Wireflow / Page / Hero-Sidebar-Text"
+                },
+                "8AFDDA6B-6068-47A2-AB48-F94E23FEC000": {
+                    "name": "5. Guides / Wireflow / Layout / Grid-2x3"
+                },
+                "3CAFA96F-198A-46B1-B804-4DCB799226DE": {
+                    "name": "5. Guides / IA / \u03a9 Resources / Dashed / U-Horizontal"
+                },
+                "B2CE9C73-561B-4ABC-A21D-8A7578C88EF2": {
+                    "name": "5. Guides / Wireflow / Layout / Hero-4x2"
+                },
+                "A9BB1513-A857-46A3-8E46-A6E3325D0A67": {
+                    "name": "5. Guides / IA / Mark / Positive-Alt"
+                },
+                "4079E021-3312-4247-82E2-CCE1698BC3DF": {
+                    "name": "5. Guides / Wireflow / Page / Base-Article"
+                },
+                "E73B32FD-711C-4F69-9BF9-E361C55BBB75": {
+                    "name": "5. Guides / IA / \u03a9 Resources / Dashed / P-Vertical"
+                },
+                "83674822-6888-4836-A161-7D5932794084": {
+                    "name": "5. Guides / IA / \u03a9 Resources / Point / Vertical / Direct"
+                },
+                "9C391FA0-74F7-49C9-9EB3-EF51128674E9": {
+                    "name": "5. Guides / Pointers / Touch"
+                },
+                "6C4F73AB-C9E6-4508-9699-629413E98817": {
+                    "name": "5. Guides / Page Template / Spec-Page"
+                },
+                "5AB8B191-6B29-47F2-BF96-4621F8BE2EAD": {
+                    "name": "5. Guides / IA / \u03a9 Resources / Point / Horizontal / Block"
+                },
+                "51743662-31E5-43E5-B9E6-B2702735D662": {
+                    "name": "5. Guides / Wireflow / Page / Hero-Text"
+                },
+                "8AF0F340-6524-4D31-9538-9E0FBCF02D9F": {
+                    "name": "5. Guides / Wireflow / Page / Banner-Tabs"
+                },
+                "E7F47761-43CA-4214-9DEB-C16D9EAD0E41": {
+                    "name": "5. Guides / Wireflow / Layout / Grid-6x6"
+                },
+                "CA26D878-41AF-43E1-9814-BA162F8BC833": {
+                    "name": "5. Guides / Wireflow / Page / Data-Calcultion"
+                },
+                "66A0B49E-E06C-4F0F-A651-1F2D4C2E590D": {
+                    "name": "5. Guides / Spec / Marking-Right"
+                },
+                "4B6DA9A6-8BE6-4E9D-8648-81832278EEF5": {
+                    "name": "5. Guides / Fold / Default"
+                },
+                "EEDD9226-B5D4-4A0E-858A-6B6A682132EF": {
+                    "name": "5. Guides / Wireflow / Page / Banner-Video"
+                },
+                "916FCF3B-C14F-4A51-9C99-0C84BA0C06A0": {
+                    "name": "5. Guides / IA / Connector / Basic / U-Vertical"
+                },
+                "7C19DF90-97E8-4821-A1EB-C086884A7F96": {
+                    "name": "5. Guides / Grid / Page / 1024px-Sidebar"
+                },
+                "465E852A-30E9-44F1-983F-C2DA306B9358": {
+                    "name": "5. Guides / Palette / Style-Text-Extra"
+                },
+                "1004EDB6-EB2D-4B6F-B3FD-A1E5E2412E71": {
+                    "name": "5. Guides / IA / Connector / Dashed / P-Horizontal"
+                },
+                "E44451D7-9BD1-4D09-9D0A-DAA1BEC594E6": {
+                    "name": "5. Guides / IA / Mark / Negative-Alt"
+                },
+                "790CF5F1-EA92-490A-9917-4CFF0C448929": {
+                    "name": "5. Guides / Wireflow / Page / Banner-List"
+                },
+                "9657F3B4-AEFC-468C-A32C-8C0D0356BF57": {
+                    "name": "5. Guides / Pointers / Mouse"
+                },
+                "257A9F32-6F59-4F46-A066-00EC61979D08": {
+                    "name": "5. Guides / Wireflow / Page / Wizard-Dialog"
+                },
+                "D42DFA9E-1D0C-496C-9FE4-75EF5926D618": {
+                    "name": "5. Guides / Wireflow / Page / Banner-Table"
+                },
+                "5F5675ED-3DDA-4446-AB02-C0C038ECE72D": {
+                    "name": "5. Guides / IA / Elements / File Stack"
+                },
+                "01550518-A5AD-4C22-9C61-85879D8F0F39": {
+                    "name": "5. Guides / IA / \u03a9 Resources / Dashed / D-Horizontal"
+                },
+                "37BC5786-2616-4BB2-9E89-9448033312FC": {
+                    "name": "5. Guides / Wireflow / Page / Common-Status-Error"
+                },
+                "8719588D-4AF2-436B-AEE0-99E9062B549B": {
+                    "name": "5. Guides / IA / \u03a9 Resources / Dashed / D-Vertical"
+                },
+                "8DD55EAB-D663-4601-8D78-E96239508885": {
+                    "name": "5. Guides / Wireflow / Layout / Base-Row-8"
+                },
+                "59043BD2-2515-41EA-A303-0777C0C0E564": {
+                    "name": "5. Guides / IA / Connector / Basic / U-Horizontal"
+                },
+                "5094A4C9-F768-4529-82BD-805BC1CFEAEA": {
+                    "name": "5. Guides / Spec / Marking-Left-Up"
+                },
+                "86E59C15-94E2-4CDF-8E9D-2CDEE208CF94": {
+                    "name": "5. Guides / IA / Mark / Negative"
+                },
+                "E653D93C-C9E1-4FC7-AB41-0179FE9EB0A1": {
+                    "name": "5. Guides / Spec / Size-Width-Top"
+                },
+                "130B774C-D20B-4870-9D6B-F06AEB85AA93": {
+                    "name": "5. Guides / Grid / Column / Gutter-24px"
+                },
+                "C2C8A974-B3B3-4A29-A94E-0E79DCC9FF3E": {
+                    "name": "5. Guides / IA / Connector / Dashed / L-Vertical"
+                },
+                "D7465D60-530D-4313-8BF0-0FFA844F5618": {
+                    "name": "5. Guides / Wireflow / Page / Banner-3x2"
+                },
+                "7BC30380-C722-41AC-9800-954CB8A289AA": {
+                    "name": "5. Guides / Spec / Size-Height-Base"
+                },
+                "0FB275D1-F97C-455A-B23E-EE8A77EA738C": {
+                    "name": "5. Guides / Wireflow / Browser / Large"
+                },
+                "06B918D7-81A1-40A3-8CA4-D625F553A78F": {
+                    "name": "5. Guides / Wireflow / Layout / Hero-2x2"
+                },
+                "FDF508A0-547D-4730-9E2A-DC6AA82C72B8": {
+                    "name": "5. Guides / IA / Elements / Continue-Horizontal"
+                },
+                "B708E829-091D-4137-9547-898A5F7230A3": {
+                    "name": "5. Guides / Spec / Marking-Right-Down"
+                },
+                "D9D8FA93-F0E2-4F25-94A8-5EA312C85627": {
+                    "name": "5. Guides / Wireflow / Layout / Grid-4x4"
+                },
+                "85F6CCE7-744F-4B03-B681-2C69449CFDFF": {
+                    "name": "5. Guides / Wireflow / Page / Compare-3"
+                },
+                "747C132A-A5CD-4165-B575-92E6DB87D77F": {
+                    "name": "5. Guides / Wireflow / Layout / Grid-4x2"
+                },
+                "217D36C2-B03C-47A0-B0EF-7637FE1CBCFE": {
+                    "name": "5. Guides / Wireflow / Page / Common-Map"
+                },
+                "77DA305D-9F70-4030-BD52-09FFFADE9B8F": {
+                    "name": "5. Guides / Utility / Hotspot"
+                },
+                "17DA0F19-22CC-4585-8C2D-4ECAAB5F88D9": {
+                    "name": "5. Guides / Palette / Color-Tint-Detailed"
+                },
+                "AC53790F-B8A7-45D7-A21F-94D53643AF5B": {
+                    "name": "5. Guides / Wireflow / Page / Wizard-Form"
+                },
+                "571653E1-1FED-4AA4-A7B2-C30DDC3BD03A": {
+                    "name": "5. Guides / Wireflow / Page / Modal-Media-Video"
+                },
+                "17E33B3E-8823-4967-BEDD-39D49333F114": {
+                    "name": "5. Guides / Wireflow / Page / Modal-Dialog"
+                },
+                "D5FAA9DA-BC7E-4D16-9487-999C3DE75B1F": {
+                    "name": "5. Guides / Grid / Column / Gutter-16px"
+                },
+                "1524B18A-6124-44FB-A638-52EBB3468FF9": {
+                    "name": "5. Guides / IA / \u03a9 Resources / Point / Horizontal / Circle"
+                },
+                "579FD584-6BF0-43E4-94CF-6DDE050FC22C": {
+                    "name": "5. Guides / Wireflow / Page / Text-Tabs"
+                },
+                "F0CBBC55-B938-45AC-A934-F4DF474AF5BC": {
+                    "name": "5. Guides / IA / Area / Section-Dashed-Horizontal"
+                },
+                "5760F0C1-8CB6-4332-BA38-3C517A760F22": {
+                    "name": "5. Guides / Spec / Size-Height-Left"
+                },
+                "937478F2-9206-4923-8DB6-60094DDAF554": {
+                    "name": "5. Guides / IA / \u03a9 Resources / Default / U-Horizontal"
+                },
+                "360C2BCC-7256-45B4-B945-AD95BD7AE709": {
+                    "name": "5. Guides / IA / \u03a9 Resources / Default / L-Vertical"
+                },
+                "11B59321-7F10-40F2-AAE9-59FFB417C5E8": {
+                    "name": "5. Guides / IA / Mark / Action"
+                },
+                "0F18884F-FAEA-43D4-8C58-6AF0E90C1FC1": {
+                    "name": "5. Guides / IA / Area / Default"
+                },
+                "06F98996-CEF8-4FA5-97F1-7CD46B2D3646": {
+                    "name": "5. Guides / Page Template / Cover-Detailed"
+                },
+                "3015E34A-CE1A-487D-995F-6AD4A0928ABF": {
+                    "name": "5. Guides / Wireflow / Browser / Window"
+                },
+                "78B8FAEF-1976-4026-A3CB-B05B8F5FEC59": {
+                    "name": "5. Guides / Wireflow / Page / Banner-2x2"
+                },
+                "2591FA26-ACD4-4C9A-9C5B-AC739C22CC31": {
+                    "name": "5. Guides / IA / Area / IA"
+                },
+                "93FE1D5C-F848-4F7F-80D3-7DC4AF451D39": {
+                    "name": "5. Guides / Spec / Marking-Down-Left"
+                },
+                "DBE51592-74B1-472D-8D86-03776D3CA34D": {
+                    "name": "5. Guides / Wireflow / Page / Base-Accordion"
+                },
+                "5793648C-E899-4BFA-A0D9-494B394484D5": {
+                    "name": "5. Guides / Wireflow / Page / Base-3x3"
+                },
+                "C75155E4-FA2A-4C98-83E1-DE24C0623DE1": {
+                    "name": "5. Guides / Spec / Size-Width-Base"
+                },
+                "4E730F7A-C0AD-4D09-BC4A-A2227C04DB7A": {
+                    "name": "5. Guides / IA / \u03a9 Resources / Dashed / P-Horizontal"
+                },
+                "C2057AA4-E21C-4B84-AD57-EEA675147634": {
+                    "name": "5. Guides / Wireflow / Page / Form-Base"
+                },
+                "C9B9E51A-5003-43E2-BE85-8BB171FFF5F0": {
+                    "name": "5. Guides / Spec / Size-Width-Bottom"
+                },
+                "FE8240BF-6252-4BF6-966F-DE1222B84323": {
+                    "name": "5. Guides / IA / \u03a9 Resources / Default / U-Vertical"
+                },
+                "AD09C3A1-F762-433D-A5BA-C738347E821C": {
+                    "name": "5. Guides / IA / Condition / Cluster"
+                },
+                "79B4F328-D0BA-41B1-9E1F-833F0CCA1EE5": {
+                    "name": "5. Guides / IA / Mark / Positive"
+                },
+                "1FCD7D37-C09D-434D-9AE3-877F231C5AE1": {
+                    "name": "5. Guides / IA / \u03a9 Resources / Dashed / L-Horizontal"
+                },
+                "E37833CD-36C4-4D3C-8A2F-FB99533C2AB2": {
+                    "name": "5. Guides / Wireflow / Layout / Base-Row-3"
+                },
+                "94E088E9-220F-408E-BCB4-E2C8A4A886E9": {
+                    "name": "5. Guides / Wireflow / Page / Sidebar-Text"
+                },
+                "C0BBC6EE-F908-467D-955C-1BDEB708C9FA": {
+                    "name": "5. Guides / Palette / Wheel-Darks"
+                },
+                "B4B307D8-60DD-4D58-91B4-160C55C27A2B": {
+                    "name": "5. Guides / Wireflow / Page / Modal-Text"
+                },
+                "D34FA794-2933-46DF-AFF4-732FC8D3EF9B": {
+                    "name": "5. Guides / Wireflow / Page / Base-2x4"
+                },
+                "BB72D31E-41B9-4A04-AA53-3C0CB5B2BA45": {
+                    "name": "5. Guides / IA / \u03a9 Resources / Dashed / U-Vertical"
+                },
+                "F935812A-12BA-45E8-A8C2-7E2130CCCDEF": {
+                    "name": "5. Guides / Wireflow / Page / Text-Table"
+                },
+                "9612FC77-6389-472F-B221-5587C6AFC2D7": {
+                    "name": "5. Guides / Spec / Annotation-Small"
+                },
+                "FEE7457F-8068-4095-A656-7F6096573A6E": {
+                    "name": "5. Guides / Palette / Wheel-Opacity-Inverted"
+                },
+                "D6A71E71-DA22-4D86-8373-71BFFDE97155": {
+                    "name": "5. Guides / Grid / Page / 375px"
+                },
+                "BC20FCF8-0CAE-4CC2-B72A-D56E72899BAC": {
+                    "name": "5. Guides / Wireflow / Page / Text-List"
+                },
+                "066EAD20-EDB8-4BFA-B98E-D577BCBC6660": {
+                    "name": "5. Guides / IA / Mark / Inform"
+                },
+                "1D7DE137-A2DB-43A3-BC49-0CB6CA29870F": {
+                    "name": "5. Guides / Palette / Wheel-Lights"
+                },
+                "CD3CDB4F-CB15-4178-95B5-37F82426CCDE": {
+                    "name": "5. Guides / Wireflow / Page / Compare-Plans"
+                },
+                "74907DFF-36FD-492F-B241-8CDA0DC85A66": {
+                    "name": "5. Guides / IA / Condition / Concurrent"
+                },
+                "15CDB55F-3726-46BE-ABB6-85A0B2580E41": {
+                    "name": "5. Guides / Grid / Page / 768px"
+                },
+                "C355DEF7-E550-4691-A8BE-AD00CC5C9860": {
+                    "name": "5. Guides / Spec / Annotation-Medium"
+                },
+                "553411CA-F704-406F-A917-5555F4992038": {
+                    "name": "5. Guides / Grid / Page / Golden Ratio"
+                },
+                "92217D6E-E8E9-4883-A888-F746589DE117": {
+                    "name": "5. Guides / Wireflow / Layout / Hero-1x2"
+                },
+                "9667B4A7-F0FB-4E1F-A930-D284EDA0C806": {
+                    "name": "5. Guides / IA / \u03a9 Resources / Default / D-Horizontal"
+                },
+                "4C282150-1B72-4874-8960-4884B414F021": {
+                    "name": "5. Guides / Page Template / Spec-Screen"
+                },
+                "1B775B9F-733F-4FBA-902C-2E10E67EC678": {
+                    "name": "5. Guides / Wireflow / Page / Form-Auth"
+                },
+                "DFC33DD6-D492-46F4-9723-B0D04FF7FF4C": {
+                    "name": "5. Guides / IA / Connector / Dashed / D-Vertical"
+                },
+                "87B87A23-5C35-4103-90DE-72E9E38FE6C4": {
+                    "name": "5. Guides / Wireflow / Page / Text-Form"
+                },
+                "B1FC4DC7-0483-4210-BD8F-C45CEFDBE576": {
+                    "name": "5. Guides / IA / \u03a9 Resources / Dashed / L-Vertical"
+                },
+                "7E2A6587-4397-4EBC-A302-C83AAD0D23AB": {
+                    "name": "5. Guides / Wireflow / Layout / Grid-3x4"
+                },
+                "8F97C1BD-AF6C-4D34-857E-8F895553C154": {
+                    "name": "5. Guides / Wireflow / Page / Data-Chart"
+                },
+                "C7D68084-4DE4-4551-963C-8F6A54910190": {
+                    "name": "5. Guides / IA / Area / Section-Default-Horizontal"
+                },
+                "0B20113E-91D7-4085-BA7B-0DF71012D4AF": {
+                    "name": "5. Guides / Palette / Color-Style-Basic"
+                },
+                "41CCD9F5-4F20-444F-B6DD-DCD0975191BC": {
+                    "name": "5. Guides / Wireflow / Layout / Grid-3x2"
+                },
+                "899FC39F-936E-4D0E-9942-A4DAB317E2BD": {
+                    "name": "5. Guides / IA / Elements / Reference"
+                },
+                "1182FF62-552A-42A7-BFF2-55548A94A036": {
+                    "name": "5. Guides / Wireflow / Layout / Base-Col-2"
+                },
+                "3B226E40-DA0D-428C-B9A3-9F8A1E5E92DB": {
+                    "name": "5. Guides / IA / Connector / Dashed / U-Horizontal"
+                },
+                "B1B33950-36D5-4134-922C-ADDCA67A6DC6": {
+                    "name": "5. Guides / IA / Elements / Modal"
+                },
+                "5EFD5254-FB99-4803-89E3-AF6629533891": {
+                    "name": "5. Guides / Palette / Style-Text-Detsil"
+                },
+                "E6BC2CE1-EB5A-4F1E-A300-22E2D29A5D5B": {
+                    "name": "5. Guides / IA / \u03a9 Resources / Point / Horizontal / Basic"
+                },
+                "21BA9282-063E-4555-8D24-DDE8F38EC50B": {
+                    "name": "5. Guides / Grid / Column / Gutter-20px"
+                },
+                "40B2DA37-29F6-48DA-B432-BB2CE16EC5D0": {
+                    "name": "5. Guides / Spec / Marking-Right-Up"
+                },
+                "6E906951-AD9B-4F90-A2F5-88BB265DBA46": {
+                    "name": "5. Guides / Wireflow / Page / Common-Chat"
+                },
+                "A562AF3B-27CA-45A2-B7F8-E84922AB6D6D": {
+                    "name": "5. Guides / Wireflow / Layout / Hero-4x1"
+                },
+                "1E5E73AF-F6AE-4B16-93F9-3A412A198324": {
+                    "name": "5. Guides / Wireflow / Layout / Base-Col-3"
+                },
+                "1F482BDA-1860-4934-BF16-D43741C10CA8": {
+                    "name": "5. Guides / Wireflow / Page / Banner-3x1"
+                },
+                "92F66BEE-462C-4B86-B3B3-6A1056D85703": {
+                    "name": "5. Guides / Palette / Color-Tint-Custom"
+                },
+                "27163D4E-60DF-46C6-AD75-6AB13282F334": {
+                    "name": "5. Guides / Wireflow / Layout / Hero-3x2"
+                },
+                "9F60D39B-7247-4D70-8AB2-9281B7DA0AF6": {
+                    "name": "5. Guides / IA / \u03a9 Resources / Point / Vertical / Arrow"
+                },
+                "4D55B6E7-1D5C-4E74-A78B-71D5EA4C99C9": {
+                    "name": "5. Guides / Wireflow / Layout / Grid-2x4"
+                },
+                "0DAF775D-7751-4123-8104-D958D8B980A9": {
+                    "name": "5. Guides / IA / Mark / Number"
+                }
+            }
+        }
+    },
+    "version": 134,
+    "fonts": [
+        "NunitoSans-Bold",
+        "NunitoSans-Regular",
+        "Merriweather-Regular",
+        "Roboto-Medium",
+        "NunitoSans-SemiBold",
+        "NunitoSans-ExtraBold",
+        "SFProText-Semibold",
+        "PTMono-Regular",
+        "FontAwesome5Pro-Light",
+        "NunitoSans-LightItalic",
+        "AppleColorEmoji",
+        "SFProText-Regular",
+        "SFProText-Medium",
+        "FontAwesome5Pro-Regular",
+        "FontAwesome5Pro-Solid",
+        "Roboto-Regular",
+        "FontAwesome5Brands-Regular",
+        "LucidaGrande",
+        "NunitoSans-Light"
+    ],
+    "compatibilityVersion": 99,
+    "app": "com.bohemiancoding.sketch3.beta",
+    "autosaved": 0,
+    "variant": "BETA",
+    "created": {
+        "commit": "4ce3e13174580c57042bcaac59c5203c443ba826",
+        "appVersion": "69",
+        "build": 106729,
+        "app": "com.bohemiancoding.sketch3.beta",
+        "compatibilityVersion": 99,
+        "version": 134,
+        "variant": "BETA"
+    },
+    "saveHistory": [
+        "BETA.106729"
+    ],
+    "appVersion": "69",
+    "build": 106729
+}
