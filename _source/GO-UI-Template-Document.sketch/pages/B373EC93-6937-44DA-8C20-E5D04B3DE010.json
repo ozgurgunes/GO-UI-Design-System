@@ -244,8 +244,8 @@
             "presetDictionary": {
                 "allowResizedMatching": 0,
                 "offersLandscapeVariant": 0,
-                "width": 1440,
                 "name": "Web - Desktop",
+                "width": 1440,
                 "height": 1024
             },
             "resizesContent": true,
@@ -477,9 +477,9 @@
             "presetDictionary": {
                 "allowResizedMatching": 0,
                 "offersLandscapeVariant": 0,
-                "name": "Apple TV",
+                "width": 1920,
                 "height": 1080,
-                "width": 1920
+                "name": "Apple TV"
             },
             "resizesContent": true,
             "backgroundColor": {

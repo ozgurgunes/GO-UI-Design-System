@@ -24,7 +24,7 @@
                             "blue": 1,
                             "green": 1,
                             "red": 1,
-                            "swatchID": "A2ACB4AA-0F6C-4DC2-A3A3-04F895462726"
+                            "swatchID": "7E28AC32-53C5-4456-8B8E-ED7940034CF8"
                         },
                         "paragraphStyle": {
                             "_class": "paragraphStyle",
@@ -104,7 +104,7 @@
                             "blue": 1,
                             "green": 1,
                             "red": 1,
-                            "swatchID": "A2ACB4AA-0F6C-4DC2-A3A3-04F895462726"
+                            "swatchID": "7E28AC32-53C5-4456-8B8E-ED7940034CF8"
                         },
                         "paragraphStyle": {
                             "_class": "paragraphStyle",
@@ -139,16 +139,16 @@
                         "MSAttributedStringColorAttribute": {
                             "_class": "color",
                             "alpha": 1,
-                            "blue": 0.1882352941176471,
-                            "green": 0.1882352941176471,
-                            "red": 0.8470588235294118,
+                            "blue": 0.07058823529411759,
+                            "green": 0.1764705882352941,
+                            "red": 0.8784313725490196,
                             "swatchID": "4077AD3C-2617-42EF-A268-0BD380E664FA"
                         },
                         "paragraphStyle": {
                             "_class": "paragraphStyle",
-                            "alignment": 0,
                             "maximumLineHeight": 44,
-                            "minimumLineHeight": 44
+                            "minimumLineHeight": 44,
+                            "alignment": 0
                         },
                         "MSAttributedStringTextTransformAttribute": 0
                     }
@@ -182,7 +182,7 @@
                             "blue": 1,
                             "green": 1,
                             "red": 1,
-                            "swatchID": "7E59A8E9-3171-485F-8F00-96712485C821"
+                            "swatchID": "4572ADB7-BC3D-4B4F-961F-9360C83FEE1A"
                         },
                         "paragraphStyle": {
                             "_class": "paragraphStyle",
@@ -216,16 +216,16 @@
                         "MSAttributedStringColorAttribute": {
                             "_class": "color",
                             "alpha": 1,
-                            "blue": 0.1882352941176471,
-                            "green": 0.1882352941176471,
-                            "red": 0.8470588235294118,
+                            "blue": 0.07058823529411759,
+                            "green": 0.1764705882352941,
+                            "red": 0.8784313725490196,
                             "swatchID": "4077AD3C-2617-42EF-A268-0BD380E664FA"
                         },
                         "paragraphStyle": {
                             "_class": "paragraphStyle",
-                            "alignment": 0,
                             "maximumLineHeight": 44,
-                            "minimumLineHeight": 44
+                            "minimumLineHeight": 44,
+                            "alignment": 0
                         },
                         "MSAttributedStringTextTransformAttribute": 0
                     }
@@ -259,15 +259,7 @@
                             "blue": 1,
                             "green": 1,
                             "red": 1,
-                            "swatchID": "A2ACB4AA-0F6C-4DC2-A3A3-04F895462726"
-                        },
-                        "paragraphStyle": {
-                            "_class": "paragraphStyle",
-                            "alignment": 0,
-                            "maximumLineHeight": 24,
-                            "minimumLineHeight": 24,
-                            "tighteningFactorForTruncation": 0.05,
-                            "allowsDefaultTighteningForTruncation": 0
+                            "swatchID": "7E28AC32-53C5-4456-8B8E-ED7940034CF8"
                         },
                         "MSAttributedStringStrokeColorAttribute": {
                             "_class": "color",
@@ -275,6 +267,14 @@
                             "blue": 0.1462419927120209,
                             "green": 0.1462444067001343,
                             "red": 0.1462399661540985
+                        },
+                        "paragraphStyle": {
+                            "_class": "paragraphStyle",
+                            "maximumLineHeight": 24,
+                            "minimumLineHeight": 24,
+                            "tighteningFactorForTruncation": 0.05,
+                            "allowsDefaultTighteningForTruncation": 0,
+                            "alignment": 0
                         }
                     }
                 }
@@ -307,7 +307,7 @@
                             "blue": 1,
                             "green": 1,
                             "red": 1,
-                            "swatchID": "A2ACB4AA-0F6C-4DC2-A3A3-04F895462726"
+                            "swatchID": "7E28AC32-53C5-4456-8B8E-ED7940034CF8"
                         },
                         "paragraphStyle": {
                             "_class": "paragraphStyle",
@@ -348,8 +348,8 @@
                         },
                         "paragraphStyle": {
                             "_class": "paragraphStyle",
-                            "alignment": 2,
-                            "allowsDefaultTighteningForTruncation": 0
+                            "allowsDefaultTighteningForTruncation": 0,
+                            "alignment": 2
                         }
                     }
                 }

@@ -1,5 +1,5 @@
 {
-    "commit": "1ef0fe5fdb78c719d7e445fffdaec60c65960d54",
+    "commit": "0e43b7da470ea4a1c394aab792112de49a64176e",
     "pagesAndArtboards": {
         "AEB2C399-739E-4B83-893B-B1C789E52416": {
             "name": "Single",
@@ -26,7 +26,7 @@
                     "name": "-- Single - Current Selection"
                 },
                 "47C120AB-4A3E-4CFE-9C91-0D68BFB88203": {
-                    "name": "-- Months"
+                    "name": "-- Single"
                 },
                 "307C1194-2CCA-4BBB-8AB4-292E143AFEA7": {
                     "name": "-- Single - Plus 4"
@@ -43,65 +43,35 @@
         "552F3D9B-BDC4-4151-913F-F7E70BF2D5BA": {
             "name": "Date and Time",
             "artboards": {
-                "87EDFCD7-42E1-4C0F-8229-3506A8726E6A": {
-                    "name": "-- Datetime-2 - Minus 4"
-                },
-                "04104437-6B0A-4541-877A-A954F2A5C65D": {
-                    "name": "-- DateTime - Plus 1"
-                },
-                "BB08E09B-5CFA-4A97-97FB-DCE4949A944D": {
-                    "name": "-- Datetime-2 - Minus 1"
-                },
-                "46D46A05-7C7A-4970-AAB9-D238F9B9AEEC": {
-                    "name": "-- Datetime-2 - Minus 3"
-                },
-                "A84FBA69-3122-42E4-A2D2-092D72D1C0BD": {
-                    "name": "-- DateTime - Minus 4"
-                },
-                "DDCB33AC-576C-4105-A7BF-6702A39ACDFB": {
-                    "name": "-- DateTime - Plus 4"
+                "2918EED0-8625-406E-AF41-36B4F2D0B6EC": {
+                    "name": "-- DateTime - Minus 2"
                 },
                 "37475C91-DA04-43D3-BF72-770D18FE737A": {
                     "name": "-- DateTime - Current Selection"
                 },
-                "0E01EA64-2438-4CE6-940C-90C555474503": {
-                    "name": "-- DateTime - Plus 2"
-                },
-                "E4372CDC-F5BD-4F52-A94B-F24B9105E9B3": {
-                    "name": "-- Datetime-2 - Plus 4"
-                },
-                "CE230A9A-6BF0-417B-A145-B84D0545A910": {
-                    "name": "-- Datetime-2 - Minus 2"
-                },
-                "3D946968-5400-485B-9407-564D298A487D": {
-                    "name": "-- Datetime-2 - Plus 3"
-                },
-                "E16DB532-EBF5-4688-8FE3-CE594A98065C": {
-                    "name": "-- Datetime-2 - Current Selection"
-                },
-                "2918EED0-8625-406E-AF41-36B4F2D0B6EC": {
-                    "name": "-- DateTime - Minus 2"
-                },
-                "B73A339B-D480-43B1-81AD-39F2ADE99B20": {
-                    "name": "-- DateTime - Plus 3"
-                },
-                "BEE79E76-D801-4F11-A3F0-5C32BDDB89B0": {
-                    "name": "-- Date and Time"
-                },
-                "DA3D4E57-442D-4AF7-BA9D-5D4A1A1611BE": {
-                    "name": "-- Datetime-2 - Plus 1"
+                "2006A16D-9979-4C56-8BA3-40545B86B214": {
+                    "name": "-- DateTime - Minus 1"
                 },
                 "56F5B762-CEDD-4E0F-B831-1F3DDCB76E7C": {
                     "name": "-- Date and Time"
                 },
-                "2006A16D-9979-4C56-8BA3-40545B86B214": {
-                    "name": "-- DateTime - Minus 1"
+                "DDCB33AC-576C-4105-A7BF-6702A39ACDFB": {
+                    "name": "-- DateTime - Plus 4"
+                },
+                "04104437-6B0A-4541-877A-A954F2A5C65D": {
+                    "name": "-- DateTime - Plus 1"
+                },
+                "A84FBA69-3122-42E4-A2D2-092D72D1C0BD": {
+                    "name": "-- DateTime - Minus 4"
+                },
+                "0E01EA64-2438-4CE6-940C-90C555474503": {
+                    "name": "-- DateTime - Plus 2"
                 },
                 "C395A603-C0FC-4FCF-8D1B-C45735D89E52": {
                     "name": "-- DateTime - Minus 3"
                 },
-                "0D62091C-0085-43C0-A762-CD9B7794533E": {
-                    "name": "-- Datetime-2 - Plus 2"
+                "B73A339B-D480-43B1-81AD-39F2ADE99B20": {
+                    "name": "-- DateTime - Plus 3"
                 }
             }
         },
@@ -214,27 +184,28 @@
     },
     "version": 134,
     "fonts": [
+        "SFProDisplay-Regular",
         "NunitoSans-SemiBold",
         "NunitoSans-Regular",
         "NunitoSans-Bold",
         "SFProText-Regular"
     ],
     "compatibilityVersion": 99,
-    "app": "com.bohemiancoding.sketch3.beta",
+    "app": "com.bohemiancoding.sketch3",
     "autosaved": 0,
-    "variant": "BETA",
+    "variant": "NONAPPSTORE",
     "created": {
-        "commit": "1ef0fe5fdb78c719d7e445fffdaec60c65960d54",
-        "appVersion": "69",
-        "build": 106724,
-        "app": "com.bohemiancoding.sketch3.beta",
+        "commit": "0e43b7da470ea4a1c394aab792112de49a64176e",
+        "appVersion": "70.6",
+        "build": 109241,
+        "app": "com.bohemiancoding.sketch3",
         "compatibilityVersion": 99,
         "version": 134,
-        "variant": "BETA"
+        "variant": "NONAPPSTORE"
     },
     "saveHistory": [
-        "BETA.106724"
+        "NONAPPSTORE.109241"
     ],
-    "appVersion": "69",
-    "build": 106724
+    "appVersion": "70.6",
+    "build": 109241
 }

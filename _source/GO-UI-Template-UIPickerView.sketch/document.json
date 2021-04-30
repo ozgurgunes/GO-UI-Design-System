@@ -70,6 +70,26 @@
         },
         {
             "_class": "fontReference",
+            "do_objectID": "20C83FA3-6159-4B16-BFEB-89874DBB8947",
+            "fontFamilyName": "SF Pro Display",
+            "fontFileName": "SF-Pro-Display-LightItalic.otf",
+            "options": 0,
+            "postscriptNames": [
+                "SFProDisplay-LightItalic"
+            ]
+        },
+        {
+            "_class": "fontReference",
+            "do_objectID": "287E0054-F351-402A-9FC7-B66BE8EBC740",
+            "fontFamilyName": "SF Pro Display",
+            "fontFileName": "SF-Pro-Display-HeavyItalic.otf",
+            "options": 0,
+            "postscriptNames": [
+                "SFProDisplay-HeavyItalic"
+            ]
+        },
+        {
+            "_class": "fontReference",
             "do_objectID": "2A22F4D9-56BA-445E-8383-34E945862F3A",
             "fontFamilyName": "Nunito Sans",
             "fontFileName": "NunitoSans-SemiBoldItalic.ttf",
@@ -120,6 +140,16 @@
         },
         {
             "_class": "fontReference",
+            "do_objectID": "428E3844-58E7-4991-8174-7CC6BCDCD4F6",
+            "fontFamilyName": "SF Pro Display",
+            "fontFileName": "SF-Pro-Display-SemiboldItalic.otf",
+            "options": 0,
+            "postscriptNames": [
+                "SFProDisplay-SemiboldItalic"
+            ]
+        },
+        {
+            "_class": "fontReference",
             "do_objectID": "4CBC5D6E-6428-4043-AC61-50B7B9C5FB7C",
             "fontFamilyName": "Nunito Sans",
             "fontFileName": "NunitoSans-ExtraBoldItalic.ttf",
@@ -156,6 +186,36 @@
             "options": 0,
             "postscriptNames": [
                 "SFProText-LightItalic"
+            ]
+        },
+        {
+            "_class": "fontReference",
+            "do_objectID": "587CE5D5-0BD9-4C26-9A8B-2DCC6CD9BE6B",
+            "fontFamilyName": "SF Pro Display",
+            "fontFileName": "SF-Pro-Display-Heavy.otf",
+            "options": 0,
+            "postscriptNames": [
+                "SFProDisplay-Heavy"
+            ]
+        },
+        {
+            "_class": "fontReference",
+            "do_objectID": "5E6BF7E8-225D-4277-9D65-88FF7E0B72DE",
+            "fontFamilyName": "SF Pro Display",
+            "fontFileName": "SF-Pro-Display-Semibold.otf",
+            "options": 0,
+            "postscriptNames": [
+                "SFProDisplay-Semibold"
+            ]
+        },
+        {
+            "_class": "fontReference",
+            "do_objectID": "66246408-7F49-4AB8-91E6-CA3446EBB061",
+            "fontFamilyName": "SF Pro Display",
+            "fontFileName": "SF-Pro-Display-Ultralight.otf",
+            "options": 0,
+            "postscriptNames": [
+                "SFProDisplay-Ultralight"
             ]
         },
         {
@@ -240,6 +300,56 @@
         },
         {
             "_class": "fontReference",
+            "do_objectID": "8E873BBD-3C54-4897-A698-0590B486CA51",
+            "fontFamilyName": "SF Pro Display",
+            "fontFileName": "SF-Pro-Display-Thin.otf",
+            "options": 0,
+            "postscriptNames": [
+                "SFProDisplay-Thin"
+            ]
+        },
+        {
+            "_class": "fontReference",
+            "do_objectID": "8FFFF879-264C-42A6-869F-984DF1884845",
+            "fontFamilyName": "SF Pro Display",
+            "fontFileName": "SF-Pro-Display-BlackItalic.otf",
+            "options": 0,
+            "postscriptNames": [
+                "SFProDisplay-BlackItalic"
+            ]
+        },
+        {
+            "_class": "fontReference",
+            "do_objectID": "9047284F-51A3-40C9-8E8F-0A3DA8E06FEF",
+            "fontFamilyName": "SF Pro Display",
+            "fontFileName": "SF-Pro-Display-ThinItalic.otf",
+            "options": 0,
+            "postscriptNames": [
+                "SFProDisplay-ThinItalic"
+            ]
+        },
+        {
+            "_class": "fontReference",
+            "do_objectID": "9090D77C-41C2-4A3E-B784-F2D20D7A1D2C",
+            "fontFamilyName": "SF Pro Display",
+            "fontFileName": "SF-Pro-Display-Light.otf",
+            "options": 0,
+            "postscriptNames": [
+                "SFProDisplay-Light"
+            ]
+        },
+        {
+            "_class": "fontReference",
+            "do_objectID": "933F5E40-9786-4C4A-8DEF-F4847746330F",
+            "fontFamilyName": "SF Pro Display",
+            "fontFileName": "SF-Pro-Display-MediumItalic.otf",
+            "options": 0,
+            "postscriptNames": [
+                "SFProDisplay-MediumItalic"
+            ]
+        },
+        {
+            "_class": "fontReference",
             "do_objectID": "9C70E45D-1C54-4655-B7BC-62532F23736E",
             "fontFamilyName": "SF Pro Text",
             "fontFileName": "SF-Pro-Text-Thin.otf",
@@ -270,6 +380,16 @@
         },
         {
             "_class": "fontReference",
+            "do_objectID": "A5376BBE-347F-4289-95A7-62A8E54BEA83",
+            "fontFamilyName": "SF Pro Display",
+            "fontFileName": "SF-Pro-Display-Black.otf",
+            "options": 0,
+            "postscriptNames": [
+                "SFProDisplay-Black"
+            ]
+        },
+        {
+            "_class": "fontReference",
             "do_objectID": "B0BAF9A1-E3EA-41DB-A01D-05B891A9CA64",
             "fontFamilyName": "Nunito Sans",
             "fontFileName": "NunitoSans-Regular.ttf",
@@ -290,12 +410,42 @@
         },
         {
             "_class": "fontReference",
+            "do_objectID": "B2E9C728-B9EE-4692-8924-4991BBEA1A38",
+            "fontFamilyName": "SF Pro Display",
+            "fontFileName": "SF-Pro-Display-Medium.otf",
+            "options": 0,
+            "postscriptNames": [
+                "SFProDisplay-Medium"
+            ]
+        },
+        {
+            "_class": "fontReference",
             "do_objectID": "C7C13CBB-AA6B-42B1-99E3-091E551BE251",
             "fontFamilyName": "SF Pro Text",
             "fontFileName": "SF-Pro-Text-SemiboldItalic.otf",
             "options": 0,
             "postscriptNames": [
                 "SFProText-SemiboldItalic"
+            ]
+        },
+        {
+            "_class": "fontReference",
+            "do_objectID": "C93AD5FB-64B3-43EB-A367-D0C43782AE7E",
+            "fontFamilyName": "SF Pro Display",
+            "fontFileName": "SF-Pro-Display-UltralightItalic.otf",
+            "options": 0,
+            "postscriptNames": [
+                "SFProDisplay-UltralightItalic"
+            ]
+        },
+        {
+            "_class": "fontReference",
+            "do_objectID": "C9ABB460-5388-4D86-9988-828FEEE2F3F3",
+            "fontFamilyName": "SF Pro Display",
+            "fontFileName": "SF-Pro-Display-Bold.otf",
+            "options": 0,
+            "postscriptNames": [
+                "SFProDisplay-Bold"
             ]
         },
         {
@@ -310,12 +460,42 @@
         },
         {
             "_class": "fontReference",
+            "do_objectID": "D2447CB3-3B49-434B-9A16-CAA0D8BB9D08",
+            "fontFamilyName": "SF Pro Display",
+            "fontFileName": "SF-Pro-Display-RegularItalic.otf",
+            "options": 0,
+            "postscriptNames": [
+                "SFProDisplay-RegularItalic"
+            ]
+        },
+        {
+            "_class": "fontReference",
             "do_objectID": "D4C94DB4-4602-410A-A5FA-A46AE94E378E",
             "fontFamilyName": "SF Pro Text",
             "fontFileName": "SF-Pro-Text-Medium.otf",
             "options": 0,
             "postscriptNames": [
                 "SFProText-Medium"
+            ]
+        },
+        {
+            "_class": "fontReference",
+            "do_objectID": "D745FF75-E160-4FCD-983E-4C6BD80E3263",
+            "fontFamilyName": "SF Pro Display",
+            "fontFileName": "SF-Pro-Display-BoldItalic.otf",
+            "options": 0,
+            "postscriptNames": [
+                "SFProDisplay-BoldItalic"
+            ]
+        },
+        {
+            "_class": "fontReference",
+            "do_objectID": "ED1A7FC7-841C-44AF-82C3-7EDD8AA259D5",
+            "fontFamilyName": "SF Pro Display",
+            "fontFileName": "SF-Pro-Display-Regular.otf",
+            "options": 2,
+            "postscriptNames": [
+                "SFProDisplay-Regular"
             ]
         },
         {
@@ -342,7 +522,232 @@
     "foreignLayerStyles": [
         {
             "_class": "MSImmutableForeignLayerStyle",
-            "do_objectID": "A1791E1C-3FB8-4DD0-96C6-487F59C3C487",
+            "do_objectID": "BF52AE15-0745-4640-998E-B9D1E0E97EDB",
+            "libraryID": "470B037F-5BDA-4864-B378-AEBAD347603B",
+            "sourceLibraryName": "GO-UI-Library",
+            "symbolPrivate": false,
+            "remoteStyleID": "8868B304-CF78-4D0F-B045-4A576BB191EB",
+            "localSharedStyle": {
+                "_class": "sharedStyle",
+                "do_objectID": "A98D8064-84FE-41B7-9044-F7BF3FA5D988",
+                "name": "06. Gradient / 1. Black / L-Vertical",
+                "value": {
+                    "_class": "style",
+                    "do_objectID": "A652CCAF-03FC-4119-8832-37FFA7C12A2F",
+                    "endMarkerType": 0,
+                    "miterLimit": 10,
+                    "startMarkerType": 0,
+                    "windingRule": 1,
+                    "blur": {
+                        "_class": "blur",
+                        "isEnabled": false,
+                        "center": "{0.5, 0.5}",
+                        "motionAngle": 0,
+                        "radius": 10,
+                        "saturation": 1,
+                        "type": 0
+                    },
+                    "borderOptions": {
+                        "_class": "borderOptions",
+                        "isEnabled": true,
+                        "dashPattern": [],
+                        "lineCapStyle": 0,
+                        "lineJoinStyle": 0
+                    },
+                    "borders": [],
+                    "colorControls": {
+                        "_class": "colorControls",
+                        "isEnabled": true,
+                        "brightness": 0,
+                        "contrast": 1,
+                        "hue": 0,
+                        "saturation": 1
+                    },
+                    "contextSettings": {
+                        "_class": "graphicsContextSettings",
+                        "blendMode": 0,
+                        "opacity": 1
+                    },
+                    "fills": [
+                        {
+                            "_class": "fill",
+                            "isEnabled": true,
+                            "fillType": 1,
+                            "color": {
+                                "_class": "color",
+                                "alpha": 1,
+                                "blue": 0,
+                                "green": 0,
+                                "red": 0
+                            },
+                            "contextSettings": {
+                                "_class": "graphicsContextSettings",
+                                "blendMode": 0,
+                                "opacity": 1
+                            },
+                            "gradient": {
+                                "_class": "gradient",
+                                "elipseLength": 0,
+                                "from": "{0.5, 0}",
+                                "gradientType": 0,
+                                "to": "{0.5, 1}",
+                                "stops": [
+                                    {
+                                        "_class": "gradientStop",
+                                        "position": 0,
+                                        "color": {
+                                            "_class": "color",
+                                            "alpha": 1,
+                                            "blue": 0,
+                                            "green": 0,
+                                            "red": 0
+                                        }
+                                    },
+                                    {
+                                        "_class": "gradientStop",
+                                        "position": 1,
+                                        "color": {
+                                            "_class": "color",
+                                            "alpha": 0,
+                                            "blue": 0,
+                                            "green": 0,
+                                            "red": 0
+                                        }
+                                    }
+                                ]
+                            },
+                            "image": {
+                                "_class": "MSJSONFileReference",
+                                "_ref_class": "MSImageData",
+                                "_ref": "images/853732577995ec08625706620b0235b0184b90e8.pdf"
+                            },
+                            "noiseIndex": 0,
+                            "noiseIntensity": 0,
+                            "patternFillType": 1,
+                            "patternTileScale": 1
+                        }
+                    ],
+                    "innerShadows": [],
+                    "shadows": []
+                }
+            }
+        },
+        {
+            "_class": "MSImmutableForeignLayerStyle",
+            "do_objectID": "2367458B-57F1-4D77-8DBA-0BC9F51D66A6",
+            "libraryID": "470B037F-5BDA-4864-B378-AEBAD347603B",
+            "sourceLibraryName": "GO-UI-Library",
+            "symbolPrivate": false,
+            "remoteStyleID": "734E5D6D-7713-44BC-8E40-DA8811548BFD",
+            "localSharedStyle": {
+                "_class": "sharedStyle",
+                "do_objectID": "B82A384E-05A0-4BC5-8DE3-DF12B14862D6",
+                "name": "04. Color / 1. Black / T-20",
+                "value": {
+                    "_class": "style",
+                    "do_objectID": "F7BA4AAD-6227-47F0-9107-76B678FF5C99",
+                    "endMarkerType": 0,
+                    "miterLimit": 10,
+                    "startMarkerType": 0,
+                    "windingRule": 1,
+                    "blur": {
+                        "_class": "blur",
+                        "isEnabled": false,
+                        "center": "{0.5, 0.5}",
+                        "motionAngle": 0,
+                        "radius": 10,
+                        "saturation": 1,
+                        "type": 0
+                    },
+                    "borderOptions": {
+                        "_class": "borderOptions",
+                        "isEnabled": true,
+                        "dashPattern": [],
+                        "lineCapStyle": 0,
+                        "lineJoinStyle": 0
+                    },
+                    "borders": [],
+                    "colorControls": {
+                        "_class": "colorControls",
+                        "isEnabled": true,
+                        "brightness": 0,
+                        "contrast": 1,
+                        "hue": 0,
+                        "saturation": 1
+                    },
+                    "contextSettings": {
+                        "_class": "graphicsContextSettings",
+                        "blendMode": 0,
+                        "opacity": 1
+                    },
+                    "fills": [
+                        {
+                            "_class": "fill",
+                            "isEnabled": true,
+                            "fillType": 0,
+                            "color": {
+                                "_class": "color",
+                                "alpha": 0.1,
+                                "blue": 0,
+                                "green": 0,
+                                "red": 0,
+                                "swatchID": "D4F9E28B-EFB2-46E1-9EE7-F5F036D78F2F"
+                            },
+                            "contextSettings": {
+                                "_class": "graphicsContextSettings",
+                                "blendMode": 0,
+                                "opacity": 1
+                            },
+                            "gradient": {
+                                "_class": "gradient",
+                                "elipseLength": 0,
+                                "from": "{0.5, 0}",
+                                "gradientType": 0,
+                                "to": "{0.5, 1}",
+                                "stops": [
+                                    {
+                                        "_class": "gradientStop",
+                                        "position": 0,
+                                        "color": {
+                                            "_class": "color",
+                                            "alpha": 0,
+                                            "blue": 0,
+                                            "green": 0,
+                                            "red": 0
+                                        }
+                                    },
+                                    {
+                                        "_class": "gradientStop",
+                                        "position": 1,
+                                        "color": {
+                                            "_class": "color",
+                                            "alpha": 1,
+                                            "blue": 0,
+                                            "green": 0,
+                                            "red": 0
+                                        }
+                                    }
+                                ]
+                            },
+                            "image": {
+                                "_class": "MSJSONFileReference",
+                                "_ref_class": "MSImageData",
+                                "_ref": "images/853732577995ec08625706620b0235b0184b90e8.pdf"
+                            },
+                            "noiseIndex": 0,
+                            "noiseIntensity": 0,
+                            "patternFillType": 1,
+                            "patternTileScale": 1
+                        }
+                    ],
+                    "innerShadows": [],
+                    "shadows": []
+                }
+            }
+        },
+        {
+            "_class": "MSImmutableForeignLayerStyle",
+            "do_objectID": "7B435082-F223-49B8-8C6F-D80F602B5075",
             "libraryID": "470B037F-5BDA-4864-B378-AEBAD347603B",
             "sourceLibraryName": "go-ui-library",
             "symbolPrivate": true,
@@ -350,7 +755,7 @@
             "localSharedStyle": {
                 "_class": "sharedStyle",
                 "do_objectID": "AD33866D-4B5B-4D25-99B1-E967E084E564[D099EFB1-324B-42E8-93A3-2005DA99FBF9]",
-                "name": "04. Color / 4. Gray / S-70",
+                "name": "04. Color / 4. Secondary / S-70",
                 "value": {
                     "_class": "style",
                     "do_objectID": "4443BD4C-0B4A-46A4-8769-90C01FABA805",
@@ -396,10 +801,10 @@
                             "color": {
                                 "_class": "color",
                                 "alpha": 1,
-                                "blue": 0.1333333333333333,
-                                "green": 0.1333333333333333,
-                                "red": 0.1333333333333333,
-                                "swatchID": "F0BEB428-13DF-4B5F-AFBC-8847E9861C44"
+                                "blue": 0.1568627450980392,
+                                "green": 0.1568627450980392,
+                                "red": 0.1568627450980392,
+                                "swatchID": "68FF115B-6150-4F23-A203-E3922E2F4BB7"
                             },
                             "contextSettings": {
                                 "_class": "graphicsContextSettings",
@@ -465,13 +870,93 @@
             "localSwatch": {
                 "_class": "swatch",
                 "do_objectID": "4077AD3C-2617-42EF-A268-0BD380E664FA",
-                "name": "Solid Colors/05. Red S-50",
+                "name": "3. Solid Colors/05. Destructive S-50",
                 "value": {
                     "_class": "color",
                     "alpha": 1,
-                    "blue": 0.1882352941176471,
-                    "green": 0.1882352941176471,
-                    "red": 0.8470588235294118
+                    "blue": 0.07058823529411759,
+                    "green": 0.1764705882352941,
+                    "red": 0.8784313725490196
+                }
+            }
+        },
+        {
+            "_class": "MSImmutableForeignSwatch",
+            "do_objectID": "0F97209D-3216-46BA-AB34-8CBC22BA8112",
+            "libraryID": "470B037F-5BDA-4864-B378-AEBAD347603B",
+            "sourceLibraryName": "GO-UI-Library",
+            "symbolPrivate": false,
+            "remoteSwatchID": "8997C99D-1D20-4276-BBC6-3D7E37858CBF",
+            "localSwatch": {
+                "_class": "swatch",
+                "do_objectID": "D4F9E28B-EFB2-46E1-9EE7-F5F036D78F2F",
+                "name": "4. Transparent Colors/01. Black T-20",
+                "value": {
+                    "_class": "color",
+                    "alpha": 0.1,
+                    "blue": 0,
+                    "green": 0,
+                    "red": 0
+                }
+            }
+        },
+        {
+            "_class": "MSImmutableForeignSwatch",
+            "do_objectID": "F4844C1F-40D0-4438-B8D3-387F3110907D",
+            "libraryID": "470B037F-5BDA-4864-B378-AEBAD347603B",
+            "sourceLibraryName": "GO-UI-Library",
+            "symbolPrivate": false,
+            "remoteSwatchID": "F0BEB428-13DF-4B5F-AFBC-8847E9861C44",
+            "localSwatch": {
+                "_class": "swatch",
+                "do_objectID": "68FF115B-6150-4F23-A203-E3922E2F4BB7",
+                "name": "3. Solid Colors/04. Secondary S-70",
+                "value": {
+                    "_class": "color",
+                    "alpha": 1,
+                    "blue": 0.1568627450980392,
+                    "green": 0.1568627450980392,
+                    "red": 0.1568627450980392
+                }
+            }
+        },
+        {
+            "_class": "MSImmutableForeignSwatch",
+            "do_objectID": "AD0E2158-DFEB-4392-A6D6-94ADDE6A8300",
+            "libraryID": "470B037F-5BDA-4864-B378-AEBAD347603B",
+            "sourceLibraryName": "GO-UI-Library",
+            "symbolPrivate": false,
+            "remoteSwatchID": "A2ACB4AA-0F6C-4DC2-A3A3-04F895462726",
+            "localSwatch": {
+                "_class": "swatch",
+                "do_objectID": "FD31A382-E4F5-4058-AE70-90CD0CD6C7F3",
+                "name": "4. Transparent Colors/02. White T-50",
+                "value": {
+                    "_class": "color",
+                    "alpha": 0.5,
+                    "blue": 1,
+                    "green": 1,
+                    "red": 1
+                }
+            }
+        },
+        {
+            "_class": "MSImmutableForeignSwatch",
+            "do_objectID": "E303DFA6-A848-45E5-A8B6-368838FDA5C4",
+            "libraryID": "470B037F-5BDA-4864-B378-AEBAD347603B",
+            "sourceLibraryName": "GO-UI-Library",
+            "symbolPrivate": false,
+            "remoteSwatchID": "7E59A8E9-3171-485F-8F00-96712485C821",
+            "localSwatch": {
+                "_class": "swatch",
+                "do_objectID": "84123A94-406C-40E9-AD75-B7D77DBBC70A",
+                "name": "2. Elements/02. Inverse",
+                "value": {
+                    "_class": "color",
+                    "alpha": 1,
+                    "blue": 1,
+                    "green": 1,
+                    "red": 1
                 }
             }
         }
@@ -512,7 +997,7 @@
                     "constrainProportions": false,
                     "height": 1080,
                     "width": 1920,
-                    "x": 8277,
+                    "x": 8891,
                     "y": 0
                 },
                 "clippingMaskMode": 0,
@@ -642,9 +1127,9 @@
                                     "color": {
                                         "_class": "color",
                                         "alpha": 1,
-                                        "blue": 0.1333333333333333,
-                                        "green": 0.1333333333333333,
-                                        "red": 0.1333333333333333,
+                                        "blue": 0.1568627450980392,
+                                        "green": 0.1568627450980392,
+                                        "red": 0.1568627450980392,
                                         "swatchID": "F0BEB428-13DF-4B5F-AFBC-8847E9861C44"
                                     },
                                     "contextSettings": {
@@ -1145,11 +1630,11 @@
                                                     },
                                                     "paragraphStyle": {
                                                         "_class": "paragraphStyle",
-                                                        "alignment": 0,
                                                         "maximumLineHeight": 36,
                                                         "minimumLineHeight": 36,
                                                         "tighteningFactorForTruncation": 0.05,
-                                                        "allowsDefaultTighteningForTruncation": 0
+                                                        "allowsDefaultTighteningForTruncation": 0,
+                                                        "alignment": 0
                                                     },
                                                     "MSAttributedStringStrokeColorAttribute": {
                                                         "_class": "color",
@@ -1195,11 +1680,11 @@
                                                         },
                                                         "paragraphStyle": {
                                                             "_class": "paragraphStyle",
-                                                            "alignment": 0,
                                                             "maximumLineHeight": 36,
                                                             "minimumLineHeight": 36,
                                                             "tighteningFactorForTruncation": 0.05,
-                                                            "allowsDefaultTighteningForTruncation": 0
+                                                            "allowsDefaultTighteningForTruncation": 0,
+                                                            "alignment": 0
                                                         }
                                                     }
                                                 }
@@ -1638,9 +2123,9 @@
                 "presetDictionary": {
                     "height": 1080,
                     "offersLandscapeVariant": 0,
-                    "width": 1920,
+                    "name": "Apple TV",
                     "allowResizedMatching": 0,
-                    "name": "Apple TV"
+                    "width": 1920
                 },
                 "resizesContent": true,
                 "backgroundColor": {
@@ -1681,12 +2166,17 @@
                     {
                         "_class": "MSImmutableOverrideProperty",
                         "canOverride": true,
-                        "overrideName": "4B6DDAC1-AE14-46B6-86DF-8B2C2E16E180_stringValue"
+                        "overrideName": "47237CD6-4E2E-41AB-A242-4BF851A3E7FE_stringValue"
                     },
                     {
                         "_class": "MSImmutableOverrideProperty",
                         "canOverride": true,
-                        "overrideName": "037DDDF1-820D-4666-BB64-1209183C4D98_stringValue"
+                        "overrideName": "2D1649DB-6C3F-462B-BFCD-DD67A5707A72_layerStyle"
+                    },
+                    {
+                        "_class": "MSImmutableOverrideProperty",
+                        "canOverride": true,
+                        "overrideName": "4B6DDAC1-AE14-46B6-86DF-8B2C2E16E180_stringValue"
                     },
                     {
                         "_class": "MSImmutableOverrideProperty",
@@ -1696,12 +2186,7 @@
                     {
                         "_class": "MSImmutableOverrideProperty",
                         "canOverride": true,
-                        "overrideName": "47237CD6-4E2E-41AB-A242-4BF851A3E7FE_stringValue"
-                    },
-                    {
-                        "_class": "MSImmutableOverrideProperty",
-                        "canOverride": true,
-                        "overrideName": "2D1649DB-6C3F-462B-BFCD-DD67A5707A72_layerStyle"
+                        "overrideName": "037DDDF1-820D-4666-BB64-1209183C4D98_stringValue"
                     },
                     {
                         "_class": "MSImmutableOverrideProperty",
@@ -1740,7 +2225,7 @@
                     "constrainProportions": false,
                     "height": 1080,
                     "width": 1920,
-                    "x": 8277,
+                    "x": 8891,
                     "y": 0
                 },
                 "clippingMaskMode": 0,
@@ -1870,10 +2355,10 @@
                                     "color": {
                                         "_class": "color",
                                         "alpha": 1,
-                                        "blue": 0.1333333333333333,
-                                        "green": 0.1333333333333333,
-                                        "red": 0.1333333333333333,
-                                        "swatchID": "F0BEB428-13DF-4B5F-AFBC-8847E9861C44"
+                                        "blue": 0.1568627450980392,
+                                        "green": 0.1568627450980392,
+                                        "red": 0.1568627450980392,
+                                        "swatchID": "68FF115B-6150-4F23-A203-E3922E2F4BB7"
                                     },
                                     "contextSettings": {
                                         "_class": "graphicsContextSettings",
@@ -2064,7 +2549,7 @@
                                         "blue": 1,
                                         "green": 1,
                                         "red": 1,
-                                        "swatchID": "A2ACB4AA-0F6C-4DC2-A3A3-04F895462726"
+                                        "swatchID": "FD31A382-E4F5-4058-AE70-90CD0CD6C7F3"
                                     },
                                     "paragraphStyle": {
                                         "_class": "paragraphStyle",
@@ -2097,7 +2582,7 @@
                                             "blue": 1,
                                             "green": 1,
                                             "red": 1,
-                                            "swatchID": "A2ACB4AA-0F6C-4DC2-A3A3-04F895462726"
+                                            "swatchID": "FD31A382-E4F5-4058-AE70-90CD0CD6C7F3"
                                         },
                                         "paragraphStyle": {
                                             "_class": "paragraphStyle",
@@ -2369,15 +2854,16 @@
                                                         "alpha": 0.5,
                                                         "blue": 1,
                                                         "green": 1,
-                                                        "red": 1
+                                                        "red": 1,
+                                                        "swatchID": "FD31A382-E4F5-4058-AE70-90CD0CD6C7F3"
                                                     },
                                                     "paragraphStyle": {
                                                         "_class": "paragraphStyle",
-                                                        "alignment": 0,
                                                         "maximumLineHeight": 36,
                                                         "minimumLineHeight": 36,
                                                         "tighteningFactorForTruncation": 0.05,
-                                                        "allowsDefaultTighteningForTruncation": 0
+                                                        "allowsDefaultTighteningForTruncation": 0,
+                                                        "alignment": 0
                                                     },
                                                     "MSAttributedStringStrokeColorAttribute": {
                                                         "_class": "color",
@@ -2412,7 +2898,15 @@
                                                             "blue": 1,
                                                             "green": 1,
                                                             "red": 1,
-                                                            "swatchID": "A2ACB4AA-0F6C-4DC2-A3A3-04F895462726"
+                                                            "swatchID": "FD31A382-E4F5-4058-AE70-90CD0CD6C7F3"
+                                                        },
+                                                        "paragraphStyle": {
+                                                            "_class": "paragraphStyle",
+                                                            "maximumLineHeight": 36,
+                                                            "minimumLineHeight": 36,
+                                                            "tighteningFactorForTruncation": 0.05,
+                                                            "allowsDefaultTighteningForTruncation": 0,
+                                                            "alignment": 0
                                                         },
                                                         "MSAttributedStringStrokeColorAttribute": {
                                                             "_class": "color",
@@ -2420,14 +2914,6 @@
                                                             "blue": 0.1462419927120209,
                                                             "green": 0.1462444067001343,
                                                             "red": 0.1462399661540985
-                                                        },
-                                                        "paragraphStyle": {
-                                                            "_class": "paragraphStyle",
-                                                            "alignment": 0,
-                                                            "maximumLineHeight": 36,
-                                                            "minimumLineHeight": 36,
-                                                            "tighteningFactorForTruncation": 0.05,
-                                                            "allowsDefaultTighteningForTruncation": 0
                                                         }
                                                     }
                                                 }
@@ -2528,7 +3014,8 @@
                                                         "alpha": 0.5,
                                                         "blue": 1,
                                                         "green": 1,
-                                                        "red": 1
+                                                        "red": 1,
+                                                        "swatchID": "FD31A382-E4F5-4058-AE70-90CD0CD6C7F3"
                                                     },
                                                     "paragraphStyle": {
                                                         "_class": "paragraphStyle",
@@ -2561,7 +3048,7 @@
                                                             "blue": 1,
                                                             "green": 1,
                                                             "red": 1,
-                                                            "swatchID": "A2ACB4AA-0F6C-4DC2-A3A3-04F895462726"
+                                                            "swatchID": "FD31A382-E4F5-4058-AE70-90CD0CD6C7F3"
                                                         },
                                                         "paragraphStyle": {
                                                             "_class": "paragraphStyle",
@@ -2670,7 +3157,7 @@
                                                 "blue": 1,
                                                 "green": 1,
                                                 "red": 1,
-                                                "swatchID": "A2ACB4AA-0F6C-4DC2-A3A3-04F895462726"
+                                                "swatchID": "FD31A382-E4F5-4058-AE70-90CD0CD6C7F3"
                                             },
                                             "paragraphStyle": {
                                                 "_class": "paragraphStyle",
@@ -2702,7 +3189,7 @@
                                                     "blue": 1,
                                                     "green": 1,
                                                     "red": 1,
-                                                    "swatchID": "A2ACB4AA-0F6C-4DC2-A3A3-04F895462726"
+                                                    "swatchID": "FD31A382-E4F5-4058-AE70-90CD0CD6C7F3"
                                                 },
                                                 "paragraphStyle": {
                                                     "_class": "paragraphStyle",
@@ -2808,7 +3295,7 @@
                                                 "blue": 1,
                                                 "green": 1,
                                                 "red": 1,
-                                                "swatchID": "7E59A8E9-3171-485F-8F00-96712485C821"
+                                                "swatchID": "84123A94-406C-40E9-AD75-B7D77DBBC70A"
                                             },
                                             "paragraphStyle": {
                                                 "_class": "paragraphStyle",
@@ -2840,7 +3327,7 @@
                                                     "blue": 1,
                                                     "green": 1,
                                                     "red": 1,
-                                                    "swatchID": "7E59A8E9-3171-485F-8F00-96712485C821"
+                                                    "swatchID": "84123A94-406C-40E9-AD75-B7D77DBBC70A"
                                                 },
                                                 "paragraphStyle": {
                                                     "_class": "paragraphStyle",
@@ -2866,9 +3353,9 @@
                 "presetDictionary": {
                     "height": 1080,
                     "offersLandscapeVariant": 0,
-                    "width": 1920,
+                    "name": "Apple TV",
                     "allowResizedMatching": 0,
-                    "name": "Apple TV"
+                    "width": 1920
                 },
                 "resizesContent": true,
                 "backgroundColor": {
@@ -2909,12 +3396,17 @@
                     {
                         "_class": "MSImmutableOverrideProperty",
                         "canOverride": true,
-                        "overrideName": "4B6DDAC1-AE14-46B6-86DF-8B2C2E16E180_stringValue"
+                        "overrideName": "47237CD6-4E2E-41AB-A242-4BF851A3E7FE_stringValue"
                     },
                     {
                         "_class": "MSImmutableOverrideProperty",
                         "canOverride": true,
-                        "overrideName": "037DDDF1-820D-4666-BB64-1209183C4D98_stringValue"
+                        "overrideName": "2D1649DB-6C3F-462B-BFCD-DD67A5707A72_layerStyle"
+                    },
+                    {
+                        "_class": "MSImmutableOverrideProperty",
+                        "canOverride": true,
+                        "overrideName": "4B6DDAC1-AE14-46B6-86DF-8B2C2E16E180_stringValue"
                     },
                     {
                         "_class": "MSImmutableOverrideProperty",
@@ -2924,12 +3416,7 @@
                     {
                         "_class": "MSImmutableOverrideProperty",
                         "canOverride": true,
-                        "overrideName": "47237CD6-4E2E-41AB-A242-4BF851A3E7FE_stringValue"
-                    },
-                    {
-                        "_class": "MSImmutableOverrideProperty",
-                        "canOverride": true,
-                        "overrideName": "2D1649DB-6C3F-462B-BFCD-DD67A5707A72_layerStyle"
+                        "overrideName": "037DDDF1-820D-4666-BB64-1209183C4D98_stringValue"
                     },
                     {
                         "_class": "MSImmutableOverrideProperty",

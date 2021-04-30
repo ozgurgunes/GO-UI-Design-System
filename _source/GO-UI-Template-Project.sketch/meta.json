@@ -1,5 +1,5 @@
 {
-    "commit": "4ce3e13174580c57042bcaac59c5203c443ba826",
+    "commit": "0e43b7da470ea4a1c394aab792112de49a64176e",
     "pagesAndArtboards": {
         "690414CF-0915-45A8-8465-4FA8A273682F": {
             "name": " ",
@@ -50,9 +50,16 @@
                 }
             }
         },
-        "860C2EE7-0CA1-4BE7-A738-E03DEAEE80F9": {
-            "name": "Styles",
-            "artboards": {}
+        "B373EC93-6937-44DA-8C20-E5D04B3DE010": {
+            "name": "Guide",
+            "artboards": {
+                "906670F5-BFD5-48A5-A152-E3A726AE191F": {
+                    "name": "- Guide"
+                },
+                "B09EC8C3-1800-4E6F-ACC8-545671E7FB2C": {
+                    "name": "Desktop"
+                }
+            }
         },
         "1A277C60-3346-470E-BEC4-01E907117CAD": {
             "name": "Website",
@@ -64,17 +71,6 @@
                     "name": "Mobile"
                 },
                 "574530BE-53C4-469E-B7EC-5B8EC2ADF7EA": {
-                    "name": "Desktop"
-                }
-            }
-        },
-        "B373EC93-6937-44DA-8C20-E5D04B3DE010": {
-            "name": "Guide",
-            "artboards": {
-                "906670F5-BFD5-48A5-A152-E3A726AE191F": {
-                    "name": "- Guide"
-                },
-                "B09EC8C3-1800-4E6F-ACC8-545671E7FB2C": {
                     "name": "Desktop"
                 }
             }
@@ -94,37 +90,49 @@
         "05BF0C98-BE87-4122-9148-F5BD9275C84B": {
             "name": "Symbols",
             "artboards": {}
+        },
+        "DB425E61-B50C-473B-A351-025A701CED62": {
+            "name": "Styles",
+            "artboards": {}
         }
     },
     "version": 134,
     "fonts": [
-        "NunitoSans-Light",
-        "Merriweather-Regular",
-        "PTMono-Regular",
-        "SFProText-Semibold",
         "NunitoSans-Bold",
-        "NunitoSans-SemiBold",
+        "Inter-Regular",
+        "Bitter-ExtraBold",
         "NunitoSans-Regular",
-        "LucidaGrande",
-        "NunitoSans-LightItalic",
-        "NunitoSans-ExtraBold"
+        "Inter-LightItalic",
+        "Inter-Light",
+        "PTMono-Regular",
+        "NunitoSans-SemiBold",
+        "NunitoSans-ExtraBold",
+        "Bitter-Bold",
+        "Bitter-Light",
+        "Inter-SemiBold",
+        "Bitter-Regular",
+        "Inter-ExtraLight",
+        "Inter-Medium",
+        "Bitter-SemiBold",
+        "Inter-Bold",
+        "Inter-ExtraBold"
     ],
     "compatibilityVersion": 99,
-    "app": "com.bohemiancoding.sketch3.beta",
+    "app": "com.bohemiancoding.sketch3",
     "autosaved": 0,
-    "variant": "BETA",
+    "variant": "NONAPPSTORE",
     "created": {
-        "commit": "4ce3e13174580c57042bcaac59c5203c443ba826",
-        "appVersion": "69",
-        "build": 106729,
-        "app": "com.bohemiancoding.sketch3.beta",
+        "commit": "0e43b7da470ea4a1c394aab792112de49a64176e",
+        "appVersion": "70.6",
+        "build": 109241,
+        "app": "com.bohemiancoding.sketch3",
         "compatibilityVersion": 99,
         "version": 134,
-        "variant": "BETA"
+        "variant": "NONAPPSTORE"
     },
     "saveHistory": [
-        "BETA.106729"
+        "NONAPPSTORE.109241"
     ],
-    "appVersion": "69",
-    "build": 106729
+    "appVersion": "70.6",
+    "build": 109241
 }

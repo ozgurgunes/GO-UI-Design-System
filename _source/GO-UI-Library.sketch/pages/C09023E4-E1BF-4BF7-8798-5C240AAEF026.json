@@ -105,7 +105,7 @@
                 "constrainProportions": false,
                 "height": 160,
                 "width": 160,
-                "x": 0,
+                "x": 24,
                 "y": 0
             },
             "clippingMaskMode": 0,
@@ -151,7 +151,7 @@
                 "innerShadows": [],
                 "shadows": []
             },
-            "hasClickThrough": true,
+            "hasClickThrough": false,
             "groupLayout": {
                 "_class": "MSImmutableFreeformGroupLayout"
             },
@@ -172,6 +172,14 @@
                     "resizingType": 0,
                     "rotation": 0,
                     "shouldBreakMaskChain": false,
+                    "userInfo": {
+                        "com.sketch.detach": {
+                            "sharedStyle": {
+                                "sharedStyleName": "04. Color / 3. Blue / S-60",
+                                "sharedStyleId": "6F1A79AA-5409-488E-91DC-3741C3AB76C1"
+                            }
+                        }
+                    },
                     "exportOptions": {
                         "_class": "exportOptions",
                         "includedLayerIds": [],
@@ -189,7 +197,6 @@
                     },
                     "clippingMaskMode": 0,
                     "hasClippingMask": false,
-                    "sharedStyleID": "6F1A79AA-5409-488E-91DC-3741C3AB76C1",
                     "style": {
                         "_class": "style",
                         "do_objectID": "A7F3CD40-8A7D-4AD7-B9DF-331E7EBD8391",
@@ -235,10 +242,10 @@
                                 "color": {
                                     "_class": "color",
                                     "alpha": 1,
-                                    "blue": 0.4196078431372549,
-                                    "green": 0.1843137254901961,
-                                    "red": 0,
-                                    "swatchID": "93EF78AB-1F61-46B4-A72B-F1D56CCA37A9"
+                                    "blue": 0.3058823529411765,
+                                    "green": 0.1568627450980393,
+                                    "red": 0.0235294117647059,
+                                    "swatchID": "65BF393E-BDAE-470F-9013-37B1280D9B79"
                                 },
                                 "contextSettings": {
                                     "_class": "graphicsContextSettings",
@@ -367,9 +374,9 @@
                         "_class": "rect",
                         "constrainProportions": false,
                         "height": 48,
-                        "width": 63,
+                        "width": 67,
                         "x": 20,
-                        "y": 88
+                        "y": 87
                     },
                     "clippingMaskMode": 0,
                     "hasClippingMask": false,
@@ -419,7 +426,7 @@
                                 "MSAttributedStringFontAttribute": {
                                     "_class": "fontDescriptor",
                                     "attributes": {
-                                        "name": "NunitoSans-SemiBold",
+                                        "name": "Inter-Medium",
                                         "size": 32
                                     }
                                 },
@@ -428,14 +435,15 @@
                                     "alpha": 0.5,
                                     "blue": 1,
                                     "green": 1,
-                                    "red": 1
+                                    "red": 1,
+                                    "swatchID": "A50C14EF-CCD7-4F72-9089-3AD5F520ED24"
                                 },
                                 "MSAttributedStringTextTransformAttribute": 0,
                                 "paragraphStyle": {
                                     "_class": "paragraphStyle",
-                                    "alignment": 0,
                                     "maximumLineHeight": 48,
-                                    "minimumLineHeight": 48
+                                    "minimumLineHeight": 48,
+                                    "alignment": 0
                                 }
                             },
                             "verticalAlignment": 0
@@ -443,7 +451,7 @@
                     },
                     "attributedString": {
                         "_class": "attributedString",
-                        "string": "v0.5",
+                        "string": "v0.6",
                         "attributes": [
                             {
                                 "_class": "stringAttribute",
@@ -453,7 +461,7 @@
                                     "MSAttributedStringFontAttribute": {
                                         "_class": "fontDescriptor",
                                         "attributes": {
-                                            "name": "NunitoSans-SemiBold",
+                                            "name": "Inter-Medium",
                                             "size": 32
                                         }
                                     },
@@ -462,13 +470,14 @@
                                         "alpha": 0.5,
                                         "blue": 1,
                                         "green": 1,
-                                        "red": 1
+                                        "red": 1,
+                                        "swatchID": "A50C14EF-CCD7-4F72-9089-3AD5F520ED24"
                                     },
                                     "paragraphStyle": {
                                         "_class": "paragraphStyle",
-                                        "alignment": 0,
                                         "maximumLineHeight": 48,
-                                        "minimumLineHeight": 48
+                                        "minimumLineHeight": 48,
+                                        "alignment": 0
                                     },
                                     "MSAttributedStringTextTransformAttribute": 0
                                 }
@@ -477,7 +486,7 @@
                     },
                     "automaticallyDrawOnUnderlyingPath": false,
                     "dontSynchroniseWithSymbol": false,
-                    "glyphBounds": "{{0, 12}, {62, 24}}",
+                    "glyphBounds": "{{0, 12}, {65, 25}}",
                     "lineSpacingBehaviour": 3,
                     "textBehaviour": 0
                 },
@@ -509,9 +518,9 @@
                         "_class": "rect",
                         "constrainProportions": false,
                         "height": 56,
-                        "width": 114,
-                        "x": 20,
-                        "y": 32
+                        "width": 112,
+                        "x": 21,
+                        "y": 30
                     },
                     "clippingMaskMode": 0,
                     "hasClippingMask": false,
@@ -561,7 +570,7 @@
                                 "MSAttributedStringFontAttribute": {
                                     "_class": "fontDescriptor",
                                     "attributes": {
-                                        "name": "NunitoSans-ExtraBold",
+                                        "name": "Inter-SemiBold",
                                         "size": 40
                                     }
                                 },
@@ -570,14 +579,15 @@
                                     "alpha": 1,
                                     "blue": 1,
                                     "green": 1,
-                                    "red": 1
+                                    "red": 1,
+                                    "swatchID": "7E59A8E9-3171-485F-8F00-96712485C821"
                                 },
                                 "MSAttributedStringTextTransformAttribute": 0,
                                 "paragraphStyle": {
                                     "_class": "paragraphStyle",
-                                    "alignment": 2,
                                     "maximumLineHeight": 56,
-                                    "minimumLineHeight": 56
+                                    "minimumLineHeight": 56,
+                                    "alignment": 2
                                 }
                             },
                             "verticalAlignment": 0
@@ -595,7 +605,7 @@
                                     "MSAttributedStringFontAttribute": {
                                         "_class": "fontDescriptor",
                                         "attributes": {
-                                            "name": "NunitoSans-ExtraBold",
+                                            "name": "Inter-SemiBold",
                                             "size": 40
                                         }
                                     },
@@ -604,13 +614,14 @@
                                         "alpha": 1,
                                         "blue": 1,
                                         "green": 1,
-                                        "red": 1
+                                        "red": 1,
+                                        "swatchID": "7E59A8E9-3171-485F-8F00-96712485C821"
                                     },
                                     "paragraphStyle": {
                                         "_class": "paragraphStyle",
-                                        "alignment": 2,
                                         "maximumLineHeight": 56,
-                                        "minimumLineHeight": 56
+                                        "minimumLineHeight": 56,
+                                        "alignment": 2
                                     },
                                     "MSAttributedStringTextTransformAttribute": 0
                                 }
@@ -619,7 +630,7 @@
                     },
                     "automaticallyDrawOnUnderlyingPath": false,
                     "dontSynchroniseWithSymbol": false,
-                    "glyphBounds": "{{2, 12}, {109, 30}}",
+                    "glyphBounds": "{{2, 13}, {107, 31}}",
                     "lineSpacingBehaviour": 3,
                     "textBehaviour": 0
                 }

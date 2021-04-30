@@ -1,18 +1,22 @@
 {
     "B9BC9CB0-01A4-4451-8DBE-FDDDCFC29C3E": {
-        "scrollOrigin": "{1026, 982}",
+        "scrollOrigin": "{1481, 1600}",
         "zoomValue": 1
     },
     "690414CF-0915-45A8-8465-4FA8A273682F": {
         "scrollOrigin": "{40, 40}",
         "zoomValue": 1
     },
+    "0111A3AA-E994-40A0-AFAC-2D882B17D29C": {
+        "scrollOrigin": "{-18678, 18977}",
+        "zoomValue": 20.82291666666667
+    },
     "C1151F18-F919-44F4-B002-ECE8BA9D9B0F": {
         "scrollOrigin": "{40, 40}",
         "zoomValue": 1
     },
     "document": {
-        "pageListHeight": 329,
+        "pageListHeight": 268,
         "componentSidebarTreeStructure": 0,
         "pageListCollapsed": 0
     },
@@ -21,23 +25,23 @@
         "zoomValue": 1
     },
     "05BF0C98-BE87-4122-9148-F5BD9275C84B": {
-        "scrollOrigin": "{907, 929}",
+        "scrollOrigin": "{1362, 1503}",
         "zoomValue": 1
     },
     "B373EC93-6937-44DA-8C20-E5D04B3DE010": {
-        "scrollOrigin": "{256, 59}",
-        "zoomValue": 0.08231634362287629
+        "scrollOrigin": "{274, 58}",
+        "zoomValue": 0.08114558472553698
     },
     "B018BF32-445F-4A52-AB67-D56799A06481": {
         "scrollOrigin": "{40, 40}",
         "zoomValue": 1
     },
     "4AB926DB-1696-456E-AC9A-63E5595DD974": {
-        "scrollOrigin": "{571, 394}",
+        "scrollOrigin": "{817, 584}",
         "zoomValue": 1
     },
     "53E51EA0-56EC-4E88-A087-6DECCD7A5FAA": {
-        "scrollOrigin": "{296, 251}",
+        "scrollOrigin": "{280, 230}",
         "zoomValue": 1
     }
 }

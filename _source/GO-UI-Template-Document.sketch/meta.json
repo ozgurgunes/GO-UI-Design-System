@@ -1,5 +1,5 @@
 {
-    "commit": "1ef0fe5fdb78c719d7e445fffdaec60c65960d54",
+    "commit": "0e43b7da470ea4a1c394aab792112de49a64176e",
     "pagesAndArtboards": {
         "690414CF-0915-45A8-8465-4FA8A273682F": {
             "name": " ",
@@ -94,26 +94,28 @@
     },
     "version": 134,
     "fonts": [
+        "Inter-Bold",
+        "NunitoSans-SemiBold",
         "NunitoSans-Regular",
         "NunitoSans-Bold",
-        "NunitoSans-SemiBold"
+        "Inter-Regular"
     ],
     "compatibilityVersion": 99,
-    "app": "com.bohemiancoding.sketch3.beta",
+    "app": "com.bohemiancoding.sketch3",
     "autosaved": 0,
-    "variant": "BETA",
+    "variant": "NONAPPSTORE",
     "created": {
-        "commit": "1ef0fe5fdb78c719d7e445fffdaec60c65960d54",
-        "appVersion": "69",
-        "build": 106724,
-        "app": "com.bohemiancoding.sketch3.beta",
+        "commit": "0e43b7da470ea4a1c394aab792112de49a64176e",
+        "appVersion": "70.6",
+        "build": 109241,
+        "app": "com.bohemiancoding.sketch3",
         "compatibilityVersion": 99,
         "version": 134,
-        "variant": "BETA"
+        "variant": "NONAPPSTORE"
     },
     "saveHistory": [
-        "BETA.106724"
+        "NONAPPSTORE.109241"
     ],
-    "appVersion": "69",
-    "build": 106724
+    "appVersion": "70.6",
+    "build": 109241
 }

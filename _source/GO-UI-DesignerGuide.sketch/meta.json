@@ -1,5 +1,5 @@
 {
-    "commit": "4ce3e13174580c57042bcaac59c5203c443ba826",
+    "commit": "0e43b7da470ea4a1c394aab792112de49a64176e",
     "pagesAndArtboards": {
         "B9BC9CB0-01A4-4451-8DBE-FDDDCFC29C3E": {
             "name": "Library",
@@ -90,13 +90,13 @@
                     "name": "Layer Styles - 09"
                 },
                 "CF3BE2B1-276C-4E63-A9D2-FE557D4BFE39": {
-                    "name": "Color System - 02"
+                    "name": "Color System - 03"
                 },
                 "3E434507-7220-4D2B-A68D-D2AE4900595B": {
                     "name": "- Cover: Text Styles"
                 },
                 "E3DD1852-D5F4-42B8-9BFA-99C801D24144": {
-                    "name": "Atomic Approach - 02 Copy"
+                    "name": "Atomic Approach - 03"
                 },
                 "241F594C-5063-4160-8646-110E8C7F08AE": {
                     "name": "Buttons - 01"
@@ -111,7 +111,7 @@
                     "name": "Layer Styles - 05"
                 },
                 "B651E279-FC8F-41EF-A8D6-12F3B8EE9338": {
-                    "name": "Text Styles - 03"
+                    "name": "Text Styles - 04"
                 },
                 "F853D301-D78C-46C5-B9DE-8C2185391F0E": {
                     "name": "Buttons - 04"
@@ -125,6 +125,9 @@
                 "0A490DD1-DCAD-45FE-A386-2037160BEA7D": {
                     "name": "Pre-Built Organisms - 03"
                 },
+                "CC4B5176-D1AF-4C0E-9D43-9B8F951E3A17": {
+                    "name": "Text Styles - 02"
+                },
                 "8F5D1E55-2B74-4510-AD93-05A33386462A": {
                     "name": "Other Molecules - 02"
                 },
@@ -132,7 +135,7 @@
                     "name": "Other Molecules - 04"
                 },
                 "C338AD50-BB9C-4746-83C8-F12A19D749A7": {
-                    "name": "Text Styles - 04"
+                    "name": "Text Styles - 05"
                 },
                 "6FD68AAA-7882-465D-A63E-A90893B63A52": {
                     "name": "Layer Styles - 12"
@@ -158,8 +161,8 @@
                 "2DBE1F42-BBEC-4772-AD17-65CB9F5CD6AC": {
                     "name": "Layer Styles - 01"
                 },
-                "E6E7E10A-BCE9-4EF2-B7A2-BA50CC625B0C": {
-                    "name": "Color System - 03"
+                "70D48038-3803-4234-A3C0-558024211E8F": {
+                    "name": "Layer Styles - 07"
                 },
                 "F4A12BF4-0878-41A3-ABFF-6D9428AE1AF4": {
                     "name": "Layer Styles - 08"
@@ -170,8 +173,8 @@
                 "B6FED611-B072-4C35-8724-B41308C8C5DA": {
                     "name": "- Cover: Layer Styles"
                 },
-                "70D48038-3803-4234-A3C0-558024211E8F": {
-                    "name": "Layer Styles - 07"
+                "868DAD6F-6ED0-47DE-A66B-92A4A7EE6B8E": {
+                    "name": "Color System - 02"
                 },
                 "1C6884B2-3F40-49D3-87C7-FDC9793DBD28": {
                     "name": "Cards - 01"
@@ -179,11 +182,11 @@
                 "C3619993-EE81-4855-9580-6B46626C921E": {
                     "name": "- Cover: Buttons"
                 },
-                "868DAD6F-6ED0-47DE-A66B-92A4A7EE6B8E": {
+                "E6E7E10A-BCE9-4EF2-B7A2-BA50CC625B0C": {
                     "name": "Color System - 01"
                 },
                 "06FC8B9B-4E15-4540-BDBE-A359BFD5D7BC": {
-                    "name": "Text Styles - 02"
+                    "name": "Text Styles - 03"
                 },
                 "CBE6DE24-8224-4F82-82E5-E22BE8E8E9A8": {
                     "name": "Pre-Built Organisms - 01"
@@ -217,32 +220,41 @@
     },
     "version": 134,
     "fonts": [
-        "NunitoSans-Light",
-        "FontAwesome5Pro-Regular",
-        "PTMono-Regular",
-        "FontAwesome5Pro-Solid",
-        "NunitoSans-SemiBold",
         "NunitoSans-Bold",
         "NunitoSans-Regular",
-        "NunitoSans-LightItalic",
-        "NunitoSans-ExtraBold"
+        "Inter-Regular",
+        "Inter-LightItalic",
+        "Inter-Light",
+        "PTMono-Regular",
+        "NunitoSans-SemiBold",
+        "Bitter-Bold",
+        "Bitter-Light",
+        "Inter-SemiBold",
+        "Inter-ExtraLight",
+        "Bitter-Regular",
+        "FontAwesome5Pro-Regular",
+        "Inter-Medium",
+        "FontAwesome5Pro-Solid",
+        "Bitter-SemiBold",
+        "Inter-Bold",
+        "Inter-ExtraBold"
     ],
     "compatibilityVersion": 99,
-    "app": "com.bohemiancoding.sketch3.beta",
+    "app": "com.bohemiancoding.sketch3",
     "autosaved": 0,
-    "variant": "BETA",
+    "variant": "NONAPPSTORE",
     "created": {
-        "commit": "4ce3e13174580c57042bcaac59c5203c443ba826",
-        "appVersion": "69",
-        "build": 106729,
-        "app": "com.bohemiancoding.sketch3.beta",
+        "commit": "0e43b7da470ea4a1c394aab792112de49a64176e",
+        "appVersion": "70.6",
+        "build": 109241,
+        "app": "com.bohemiancoding.sketch3",
         "compatibilityVersion": 99,
         "version": 134,
-        "variant": "BETA"
+        "variant": "NONAPPSTORE"
     },
     "saveHistory": [
-        "BETA.106729"
+        "NONAPPSTORE.109241"
     ],
-    "appVersion": "69",
-    "build": 106729
+    "appVersion": "70.6",
+    "build": 109241
 }

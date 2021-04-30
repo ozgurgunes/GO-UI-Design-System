@@ -161,11 +161,11 @@
             "includeInCloudUpload": true,
             "isFlowHome": false,
             "presetDictionary": {
-                "height": 640,
+                "allowResizedMatching": 0,
                 "offersLandscapeVariant": 1,
                 "name": "Android",
-                "width": 360,
-                "allowResizedMatching": 0
+                "height": 640,
+                "width": 360
             },
             "resizesContent": false,
             "backgroundColor": {
@@ -270,11 +270,11 @@
             "includeInCloudUpload": true,
             "isFlowHome": false,
             "presetDictionary": {
-                "height": 568,
+                "allowResizedMatching": 1,
                 "offersLandscapeVariant": 1,
                 "name": "iPhone SE",
-                "width": 320,
-                "allowResizedMatching": 1
+                "height": 568,
+                "width": 320
             },
             "resizesContent": false,
             "backgroundColor": {
@@ -379,11 +379,11 @@
             "includeInCloudUpload": true,
             "isFlowHome": false,
             "presetDictionary": {
-                "height": 568,
+                "allowResizedMatching": 1,
                 "offersLandscapeVariant": 1,
                 "name": "iPhone SE",
-                "width": 320,
-                "allowResizedMatching": 1
+                "height": 568,
+                "width": 320
             },
             "resizesContent": false,
             "backgroundColor": {
@@ -488,11 +488,11 @@
             "includeInCloudUpload": true,
             "isFlowHome": false,
             "presetDictionary": {
-                "height": 667,
+                "allowResizedMatching": 1,
                 "offersLandscapeVariant": 1,
                 "name": "iPhone 8",
-                "width": 375,
-                "allowResizedMatching": 1
+                "height": 667,
+                "width": 375
             },
             "resizesContent": false,
             "backgroundColor": {
@@ -597,11 +597,11 @@
             "includeInCloudUpload": true,
             "isFlowHome": false,
             "presetDictionary": {
-                "height": 736,
+                "allowResizedMatching": 1,
                 "offersLandscapeVariant": 1,
                 "name": "iPhone 8 Plus",
-                "width": 414,
-                "allowResizedMatching": 1
+                "height": 736,
+                "width": 414
             },
             "resizesContent": false,
             "backgroundColor": {
@@ -706,11 +706,11 @@
             "includeInCloudUpload": true,
             "isFlowHome": false,
             "presetDictionary": {
-                "height": 812,
+                "allowResizedMatching": 1,
                 "offersLandscapeVariant": 1,
                 "name": "iPhone 11 Pro",
-                "width": 375,
-                "allowResizedMatching": 1
+                "height": 812,
+                "width": 375
             },
             "resizesContent": false,
             "backgroundColor": {
@@ -815,11 +815,11 @@
             "includeInCloudUpload": true,
             "isFlowHome": false,
             "presetDictionary": {
-                "height": 896,
+                "allowResizedMatching": 1,
                 "offersLandscapeVariant": 1,
                 "name": "iPhone 11",
-                "width": 414,
-                "allowResizedMatching": 1
+                "height": 896,
+                "width": 414
             },
             "resizesContent": false,
             "backgroundColor": {
@@ -924,11 +924,11 @@
             "includeInCloudUpload": true,
             "isFlowHome": false,
             "presetDictionary": {
-                "height": 640,
+                "allowResizedMatching": 0,
                 "offersLandscapeVariant": 1,
                 "name": "Android",
-                "width": 360,
-                "allowResizedMatching": 0
+                "height": 640,
+                "width": 360
             },
             "resizesContent": false,
             "backgroundColor": {
@@ -1033,11 +1033,11 @@
             "includeInCloudUpload": true,
             "isFlowHome": false,
             "presetDictionary": {
-                "height": 224,
+                "name": "Apple Watch 44mm",
                 "offersLandscapeVariant": 0,
                 "width": 184,
-                "allowResizedMatching": 0,
-                "name": "Apple Watch 44mm"
+                "height": 224,
+                "allowResizedMatching": 0
             },
             "resizesContent": false,
             "backgroundColor": {
@@ -1142,11 +1142,11 @@
             "includeInCloudUpload": true,
             "isFlowHome": false,
             "presetDictionary": {
-                "height": 568,
+                "allowResizedMatching": 1,
                 "offersLandscapeVariant": 1,
                 "name": "iPhone SE",
-                "width": 320,
-                "allowResizedMatching": 1
+                "height": 568,
+                "width": 320
             },
             "resizesContent": false,
             "backgroundColor": {
@@ -1251,11 +1251,11 @@
             "includeInCloudUpload": true,
             "isFlowHome": false,
             "presetDictionary": {
-                "height": 667,
+                "allowResizedMatching": 1,
                 "offersLandscapeVariant": 1,
                 "name": "iPhone 8",
-                "width": 375,
-                "allowResizedMatching": 1
+                "height": 667,
+                "width": 375
             },
             "resizesContent": false,
             "backgroundColor": {
@@ -1360,11 +1360,11 @@
             "includeInCloudUpload": true,
             "isFlowHome": false,
             "presetDictionary": {
-                "height": 736,
+                "allowResizedMatching": 1,
                 "offersLandscapeVariant": 1,
                 "name": "iPhone 8 Plus",
-                "width": 414,
-                "allowResizedMatching": 1
+                "height": 736,
+                "width": 414
             },
             "resizesContent": false,
             "backgroundColor": {
@@ -1469,11 +1469,11 @@
             "includeInCloudUpload": true,
             "isFlowHome": false,
             "presetDictionary": {
-                "height": 812,
+                "allowResizedMatching": 1,
                 "offersLandscapeVariant": 1,
                 "name": "iPhone 11 Pro",
-                "width": 375,
-                "allowResizedMatching": 1
+                "height": 812,
+                "width": 375
             },
             "resizesContent": false,
             "backgroundColor": {
@@ -1578,11 +1578,11 @@
             "includeInCloudUpload": true,
             "isFlowHome": false,
             "presetDictionary": {
-                "height": 896,
+                "allowResizedMatching": 1,
                 "offersLandscapeVariant": 1,
                 "name": "iPhone 11",
-                "width": 414,
-                "allowResizedMatching": 1
+                "height": 896,
+                "width": 414
             },
             "resizesContent": false,
             "backgroundColor": {

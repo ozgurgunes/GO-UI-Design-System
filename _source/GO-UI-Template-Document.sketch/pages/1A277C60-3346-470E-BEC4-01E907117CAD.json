@@ -161,9 +161,9 @@
             "includeInCloudUpload": true,
             "isFlowHome": false,
             "presetDictionary": {
-                "name": "Web - Mobile",
-                "offersLandscapeVariant": 0,
                 "width": 360,
+                "offersLandscapeVariant": 0,
+                "name": "Web - Mobile",
                 "height": 1024,
                 "allowResizedMatching": 0
             },
@@ -285,9 +285,9 @@
             "includeInCloudUpload": true,
             "isFlowHome": false,
             "presetDictionary": {
-                "name": "Web - Desktop",
-                "offersLandscapeVariant": 0,
                 "width": 1440,
+                "offersLandscapeVariant": 0,
+                "name": "Web - Desktop",
                 "height": 1024,
                 "allowResizedMatching": 0
             },

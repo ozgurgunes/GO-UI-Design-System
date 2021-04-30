@@ -2,6 +2,21 @@
 
 System is being improved and fixed frequently. Here is the list of what have been done:
 
+## Version 0.6 (4.1.2021)
+
+* Base font changed to Inter (https://fonts.google.com/specimen/Inter).
+* Line height of small text styles set to 20px.
+* Text style names are more semantic now.
+* Added Regular 20px & 24px list items.
+* Added new smart height list items.
+* Added new accordion sizes.
+* Added smart layout spacer symbols.
+* Added hotspot symbols with animation direction and keep scrolling alternatives.
+* Fixed smart width of some button assets.
+* Fixed smart height of some form fields.
+* Layer styles now being used for tint overrides of text layers instead of color variables directly.
+* Base colors changed to fulfill the WCAG 2.1 AA criteria on black and white both.
+
 ## Version 0.5 (4.9.2020)
 
 * Project name fixed to GO UI Design System.

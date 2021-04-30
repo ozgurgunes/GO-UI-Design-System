@@ -164,8 +164,8 @@
                 "allowResizedMatching": 0,
                 "offersLandscapeVariant": 0,
                 "name": "Web - Mobile",
-                "width": 360,
-                "height": 1024
+                "height": 1024,
+                "width": 360
             },
             "resizesContent": true,
             "backgroundColor": {
@@ -288,8 +288,8 @@
                 "allowResizedMatching": 0,
                 "offersLandscapeVariant": 0,
                 "name": "Web - Desktop",
-                "width": 1440,
-                "height": 1024
+                "height": 1024,
+                "width": 1440
             },
             "resizesContent": true,
             "backgroundColor": {

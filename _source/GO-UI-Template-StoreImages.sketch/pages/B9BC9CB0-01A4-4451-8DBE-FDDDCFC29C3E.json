@@ -163,17 +163,17 @@
                         "MSAttributedStringColorAttribute": {
                             "_class": "color",
                             "alpha": 1,
-                            "blue": 0.1882352941176471,
-                            "green": 0.1882352941176471,
-                            "red": 0.8470588235294118,
+                            "blue": 0.07058823529411759,
+                            "green": 0.1764705882352941,
+                            "red": 0.8784313725490196,
                             "swatchID": "4077AD3C-2617-42EF-A268-0BD380E664FA"
                         },
                         "MSAttributedStringTextTransformAttribute": 0,
                         "paragraphStyle": {
                             "_class": "paragraphStyle",
-                            "alignment": 0,
                             "maximumLineHeight": 44,
-                            "minimumLineHeight": 44
+                            "minimumLineHeight": 44,
+                            "alignment": 0
                         }
                     },
                     "verticalAlignment": 0
@@ -198,16 +198,16 @@
                             "MSAttributedStringColorAttribute": {
                                 "_class": "color",
                                 "alpha": 1,
-                                "blue": 0.1882352941176471,
-                                "green": 0.1882352941176471,
-                                "red": 0.8470588235294118,
+                                "blue": 0.07058823529411759,
+                                "green": 0.1764705882352941,
+                                "red": 0.8784313725490196,
                                 "swatchID": "4077AD3C-2617-42EF-A268-0BD380E664FA"
                             },
                             "paragraphStyle": {
                                 "_class": "paragraphStyle",
-                                "alignment": 0,
                                 "maximumLineHeight": 44,
-                                "minimumLineHeight": 44
+                                "minimumLineHeight": 44,
+                                "alignment": 0
                             },
                             "MSAttributedStringTextTransformAttribute": 0
                         }
@@ -1338,11 +1338,11 @@
             "includeInCloudUpload": true,
             "isFlowHome": false,
             "presetDictionary": {
-                "height": 812,
+                "name": "iPhone 11 Pro",
                 "offersLandscapeVariant": 1,
                 "width": 375,
-                "allowResizedMatching": 1,
-                "name": "iPhone 11 Pro"
+                "height": 812,
+                "allowResizedMatching": 1
             },
             "resizesContent": false,
             "backgroundColor": {
@@ -2209,8 +2209,8 @@
                                 },
                                 "paragraphStyle": {
                                     "_class": "paragraphStyle",
-                                    "alignment": 2,
-                                    "allowsDefaultTighteningForTruncation": 0
+                                    "allowsDefaultTighteningForTruncation": 0,
+                                    "alignment": 2
                                 }
                             },
                             "verticalAlignment": 1
@@ -2242,8 +2242,8 @@
                                     },
                                     "paragraphStyle": {
                                         "_class": "paragraphStyle",
-                                        "alignment": 2,
-                                        "allowsDefaultTighteningForTruncation": 0
+                                        "allowsDefaultTighteningForTruncation": 0,
+                                        "alignment": 2
                                     }
                                 }
                             }
@@ -2544,11 +2544,11 @@
             "includeInCloudUpload": true,
             "isFlowHome": false,
             "presetDictionary": {
-                "height": 896,
+                "name": "iPhone 11",
                 "offersLandscapeVariant": 1,
                 "width": 414,
-                "allowResizedMatching": 1,
-                "name": "iPhone 11"
+                "height": 896,
+                "allowResizedMatching": 1
             },
             "resizesContent": false,
             "backgroundColor": {

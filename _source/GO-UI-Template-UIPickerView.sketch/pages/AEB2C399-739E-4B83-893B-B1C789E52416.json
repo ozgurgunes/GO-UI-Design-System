@@ -86,8 +86,8 @@
             "isFlippedVertical": false,
             "isLocked": false,
             "isVisible": true,
-            "layerListExpandedType": 2,
-            "name": "-- Months",
+            "layerListExpandedType": 1,
+            "name": "-- Single",
             "nameIsFixed": true,
             "resizingConstraint": 63,
             "resizingType": 0,
@@ -95,7 +95,7 @@
             "shouldBreakMaskChain": true,
             "userInfo": {
                 "io.magicsketch.mirror": {
-                    "highestQuality": 2
+                    "highestQuality": -1
                 }
             },
             "exportOptions": {
@@ -118,8 +118,8 @@
             "frame": {
                 "_class": "rect",
                 "constrainProportions": false,
-                "height": 217,
-                "width": 414,
+                "height": 216,
+                "width": 375,
                 "x": -129,
                 "y": -390
             },
@@ -166,11 +166,194 @@
                 "innerShadows": [],
                 "shadows": []
             },
-            "hasClickThrough": false,
+            "hasClickThrough": true,
             "groupLayout": {
                 "_class": "MSImmutableFreeformGroupLayout"
             },
             "layers": [
+                {
+                    "_class": "rectangle",
+                    "do_objectID": "0295FB7F-F450-431C-8D7D-286601C5AB00",
+                    "booleanOperation": -1,
+                    "isFixedToViewport": false,
+                    "isFlippedHorizontal": false,
+                    "isFlippedVertical": false,
+                    "isLocked": true,
+                    "isVisible": true,
+                    "layerListExpandedType": 0,
+                    "name": "Selection Highlight",
+                    "nameIsFixed": true,
+                    "resizingConstraint": 45,
+                    "resizingType": 0,
+                    "rotation": 0,
+                    "shouldBreakMaskChain": false,
+                    "exportOptions": {
+                        "_class": "exportOptions",
+                        "includedLayerIds": [],
+                        "layerOptions": 0,
+                        "shouldTrim": false,
+                        "exportFormats": []
+                    },
+                    "frame": {
+                        "_class": "rect",
+                        "constrainProportions": false,
+                        "height": 36,
+                        "width": 343,
+                        "x": 16,
+                        "y": 90
+                    },
+                    "clippingMaskMode": 0,
+                    "hasClippingMask": false,
+                    "sharedStyleID": "B82A384E-05A0-4BC5-8DE3-DF12B14862D6",
+                    "style": {
+                        "_class": "style",
+                        "do_objectID": "2507A8A8-2D86-4BD9-9DD8-F893CB241F1E",
+                        "endMarkerType": 0,
+                        "miterLimit": 10,
+                        "startMarkerType": 0,
+                        "windingRule": 1,
+                        "blur": {
+                            "_class": "blur",
+                            "isEnabled": false,
+                            "center": "{0.5, 0.5}",
+                            "motionAngle": 0,
+                            "radius": 10,
+                            "saturation": 1,
+                            "type": 0
+                        },
+                        "borderOptions": {
+                            "_class": "borderOptions",
+                            "isEnabled": true,
+                            "dashPattern": [],
+                            "lineCapStyle": 0,
+                            "lineJoinStyle": 0
+                        },
+                        "borders": [],
+                        "colorControls": {
+                            "_class": "colorControls",
+                            "isEnabled": true,
+                            "brightness": 0,
+                            "contrast": 1,
+                            "hue": 0,
+                            "saturation": 1
+                        },
+                        "contextSettings": {
+                            "_class": "graphicsContextSettings",
+                            "blendMode": 0,
+                            "opacity": 1
+                        },
+                        "fills": [
+                            {
+                                "_class": "fill",
+                                "isEnabled": true,
+                                "fillType": 0,
+                                "color": {
+                                    "_class": "color",
+                                    "alpha": 0.1,
+                                    "blue": 0,
+                                    "green": 0,
+                                    "red": 0,
+                                    "swatchID": "D4F9E28B-EFB2-46E1-9EE7-F5F036D78F2F"
+                                },
+                                "contextSettings": {
+                                    "_class": "graphicsContextSettings",
+                                    "blendMode": 0,
+                                    "opacity": 1
+                                },
+                                "gradient": {
+                                    "_class": "gradient",
+                                    "elipseLength": 0,
+                                    "from": "{0.5, 0}",
+                                    "gradientType": 0,
+                                    "to": "{0.5, 1}",
+                                    "stops": [
+                                        {
+                                            "_class": "gradientStop",
+                                            "position": 0,
+                                            "color": {
+                                                "_class": "color",
+                                                "alpha": 0,
+                                                "blue": 0,
+                                                "green": 0,
+                                                "red": 0
+                                            }
+                                        },
+                                        {
+                                            "_class": "gradientStop",
+                                            "position": 1,
+                                            "color": {
+                                                "_class": "color",
+                                                "alpha": 1,
+                                                "blue": 0,
+                                                "green": 0,
+                                                "red": 0
+                                            }
+                                        }
+                                    ]
+                                },
+                                "image": {
+                                    "_class": "MSJSONFileReference",
+                                    "_ref_class": "MSImageData",
+                                    "_ref": "images/853732577995ec08625706620b0235b0184b90e8.pdf"
+                                },
+                                "noiseIndex": 0,
+                                "noiseIntensity": 0,
+                                "patternFillType": 1,
+                                "patternTileScale": 1
+                            }
+                        ],
+                        "innerShadows": [],
+                        "shadows": []
+                    },
+                    "edited": false,
+                    "isClosed": true,
+                    "pointRadiusBehaviour": 2,
+                    "points": [
+                        {
+                            "_class": "curvePoint",
+                            "cornerRadius": 8,
+                            "curveFrom": "{0, 0}",
+                            "curveMode": 1,
+                            "curveTo": "{0, 0}",
+                            "hasCurveFrom": false,
+                            "hasCurveTo": false,
+                            "point": "{0, 0}"
+                        },
+                        {
+                            "_class": "curvePoint",
+                            "cornerRadius": 8,
+                            "curveFrom": "{1, 0}",
+                            "curveMode": 1,
+                            "curveTo": "{1, 0}",
+                            "hasCurveFrom": false,
+                            "hasCurveTo": false,
+                            "point": "{1, 0}"
+                        },
+                        {
+                            "_class": "curvePoint",
+                            "cornerRadius": 8,
+                            "curveFrom": "{1, 1}",
+                            "curveMode": 1,
+                            "curveTo": "{1, 1}",
+                            "hasCurveFrom": false,
+                            "hasCurveTo": false,
+                            "point": "{1, 1}"
+                        },
+                        {
+                            "_class": "curvePoint",
+                            "cornerRadius": 8,
+                            "curveFrom": "{0, 1}",
+                            "curveMode": 1,
+                            "curveTo": "{0, 1}",
+                            "hasCurveFrom": false,
+                            "hasCurveTo": false,
+                            "point": "{0, 1}"
+                        }
+                    ],
+                    "fixedRadius": 8,
+                    "needsConvertionToNewRoundCorners": false,
+                    "hasConvertedToNewRoundCorners": true
+                },
                 {
                     "_class": "group",
                     "do_objectID": "1DCBE9A6-23D4-41D0-A53C-4449B0DB63FB",
@@ -180,7 +363,7 @@
                     "isFlippedVertical": false,
                     "isLocked": false,
                     "isVisible": true,
-                    "layerListExpandedType": 2,
+                    "layerListExpandedType": 0,
                     "name": "Plus",
                     "nameIsFixed": true,
                     "resizingConstraint": 45,
@@ -199,7 +382,7 @@
                         "constrainProportions": false,
                         "height": 80,
                         "width": 375,
-                        "x": 19.5,
+                        "x": 0,
                         "y": 126
                     },
                     "clippingMaskMode": 0,
@@ -239,7 +422,7 @@
                         "contextSettings": {
                             "_class": "graphicsContextSettings",
                             "blendMode": 0,
-                            "opacity": 1
+                            "opacity": 0.4000000059604645
                         },
                         "fills": [],
                         "innerShadows": [],
@@ -288,7 +471,7 @@
                             },
                             "clippingMaskMode": 1,
                             "hasClippingMask": true,
-                            "sharedStyleID": "7430C79D-5A25-4C66-8826-3AD74D04E3A3",
+                            "sharedStyleID": "A98D8064-84FE-41B7-9044-F7BF3FA5D988",
                             "style": {
                                 "_class": "style",
                                 "do_objectID": "D30130C5-58EE-4DC1-AF5F-000074B45A0F",
@@ -334,9 +517,9 @@
                                         "color": {
                                             "_class": "color",
                                             "alpha": 1,
-                                            "blue": 0.847,
-                                            "green": 0.847,
-                                            "red": 0.847
+                                            "blue": 0,
+                                            "green": 0,
+                                            "red": 0
                                         },
                                         "contextSettings": {
                                             "_class": "graphicsContextSettings",
@@ -355,7 +538,7 @@
                                                     "position": 0,
                                                     "color": {
                                                         "_class": "color",
-                                                        "alpha": 0.4,
+                                                        "alpha": 1,
                                                         "blue": 0,
                                                         "green": 0,
                                                         "red": 0
@@ -374,57 +557,10 @@
                                                 }
                                             ]
                                         },
-                                        "noiseIndex": 0,
-                                        "noiseIntensity": 0,
-                                        "patternFillType": 0,
-                                        "patternTileScale": 1
-                                    },
-                                    {
-                                        "_class": "fill",
-                                        "isEnabled": false,
-                                        "fillType": 0,
-                                        "color": {
-                                            "_class": "color",
-                                            "alpha": 0.6,
-                                            "blue": 1,
-                                            "green": 1,
-                                            "red": 1
-                                        },
-                                        "contextSettings": {
-                                            "_class": "graphicsContextSettings",
-                                            "blendMode": 0,
-                                            "opacity": 1
-                                        },
-                                        "gradient": {
-                                            "_class": "gradient",
-                                            "elipseLength": 0,
-                                            "from": "{0.5, 0}",
-                                            "gradientType": 0,
-                                            "to": "{0.5, 1}",
-                                            "stops": [
-                                                {
-                                                    "_class": "gradientStop",
-                                                    "position": 0,
-                                                    "color": {
-                                                        "_class": "color",
-                                                        "alpha": 0.5,
-                                                        "blue": 1,
-                                                        "green": 1,
-                                                        "red": 1
-                                                    }
-                                                },
-                                                {
-                                                    "_class": "gradientStop",
-                                                    "position": 1,
-                                                    "color": {
-                                                        "_class": "color",
-                                                        "alpha": 0.5,
-                                                        "blue": 0,
-                                                        "green": 0,
-                                                        "red": 0
-                                                    }
-                                                }
-                                            ]
+                                        "image": {
+                                            "_class": "MSJSONFileReference",
+                                            "_ref_class": "MSImageData",
+                                            "_ref": "images/853732577995ec08625706620b0235b0184b90e8.pdf"
                                         },
                                         "noiseIndex": 0,
                                         "noiseIntensity": 0,
@@ -502,7 +638,14 @@
                             "shouldBreakMaskChain": false,
                             "userInfo": {
                                 "io.magicsketch.mirror": {
-                                    "artboardID": "66D29F41-0ACF-40B4-9570-F94275559E87"
+                                    "artboardID": "307C1194-2CCA-4BBB-8AB4-292E143AFEA7"
+                                },
+                                "io.designcode.Angle": {
+                                    "guessed-rotation": 1,
+                                    "rotation": 0,
+                                    "artboard-id": "307C1194-2CCA-4BBB-8AB4-292E143AFEA7",
+                                    "pixel-density": 0,
+                                    "compression-ratio": 0
                                 },
                                 "design.magicmirror": {
                                     "imageQuality": 0,
@@ -521,10 +664,10 @@
                             "frame": {
                                 "_class": "rect",
                                 "constrainProportions": false,
-                                "height": 7,
-                                "width": 319.0000000000001,
-                                "x": 28.00000000000003,
-                                "y": 67
+                                "height": 4,
+                                "width": 347,
+                                "x": 13.99999999999994,
+                                "y": 68
                             },
                             "clippingMaskMode": 0,
                             "hasClippingMask": false,
@@ -616,7 +759,7 @@
                                         "image": {
                                             "_class": "MSJSONFileReference",
                                             "_ref_class": "MSImageData",
-                                            "_ref": "images/3ccf825af08a8bfe7938428f2e90a75e8e1cbfae.png"
+                                            "_ref": "images/df08e2f2db9a603f309c0d765868870ada390378.png"
                                         },
                                         "noiseIndex": 0,
                                         "noiseIntensity": 0,
@@ -634,12 +777,12 @@
                                 {
                                     "_class": "curvePoint",
                                     "cornerRadius": 0,
-                                    "curveFrom": "{0, 0}",
+                                    "curveFrom": "{5.3271508242100584e-17, 0}",
                                     "curveMode": 1,
-                                    "curveTo": "{0, 0}",
+                                    "curveTo": "{5.3271508242100584e-17, 0}",
                                     "hasCurveFrom": false,
                                     "hasCurveTo": false,
-                                    "point": "{0, 0}"
+                                    "point": "{5.3271508242100584e-17, 0}"
                                 },
                                 {
                                     "_class": "curvePoint",
@@ -654,22 +797,22 @@
                                 {
                                     "_class": "curvePoint",
                                     "cornerRadius": 0,
-                                    "curveFrom": "{0.98746081504702199, 1}",
+                                    "curveFrom": "{0.95389048991354464, 1}",
                                     "curveMode": 1,
-                                    "curveTo": "{0.98746081504702199, 1}",
+                                    "curveTo": "{0.95389048991354464, 1}",
                                     "hasCurveFrom": false,
                                     "hasCurveTo": false,
-                                    "point": "{0.98746081504702199, 1}"
+                                    "point": "{0.95389048991354464, 1}"
                                 },
                                 {
                                     "_class": "curvePoint",
                                     "cornerRadius": 0,
-                                    "curveFrom": "{0.015673981191222566, 1}",
+                                    "curveFrom": "{0.046109510086455419, 1.0000000000000036}",
                                     "curveMode": 1,
-                                    "curveTo": "{0.015673981191222566, 1}",
+                                    "curveTo": "{0.046109510086455419, 1.0000000000000036}",
                                     "hasCurveFrom": false,
                                     "hasCurveTo": false,
-                                    "point": "{0.015673981191222566, 1}"
+                                    "point": "{0.046109510086455419, 1.0000000000000036}"
                                 }
                             ],
                             "fixedRadius": 0,
@@ -694,7 +837,14 @@
                             "shouldBreakMaskChain": false,
                             "userInfo": {
                                 "io.magicsketch.mirror": {
-                                    "artboardID": "78E90D63-49B5-4B1F-8246-6FDC2AE34ADB"
+                                    "artboardID": "FD9E3F41-A904-4D84-AEF2-E9C6AB549E9E"
+                                },
+                                "io.designcode.Angle": {
+                                    "guessed-rotation": 1,
+                                    "rotation": 0,
+                                    "artboard-id": "FD9E3F41-A904-4D84-AEF2-E9C6AB549E9E",
+                                    "pixel-density": 0,
+                                    "compression-ratio": 0
                                 },
                                 "design.magicmirror": {
                                     "imageQuality": 0,
@@ -713,9 +863,9 @@
                             "frame": {
                                 "_class": "rect",
                                 "constrainProportions": false,
-                                "height": 15,
-                                "width": 336.9999999999998,
-                                "x": 19,
+                                "height": 16,
+                                "width": 363,
+                                "x": 5.999999999999943,
                                 "y": 52
                             },
                             "clippingMaskMode": 0,
@@ -808,7 +958,7 @@
                                         "image": {
                                             "_class": "MSJSONFileReference",
                                             "_ref_class": "MSImageData",
-                                            "_ref": "images/12c6c0ddf8d3252605dce74e4aa5cc3912a29ce8.png"
+                                            "_ref": "images/2edda8b284cc9cb941330d614202a720d7cd8adf.png"
                                         },
                                         "noiseIndex": 0,
                                         "noiseIntensity": 0,
@@ -846,22 +996,22 @@
                                 {
                                     "_class": "curvePoint",
                                     "cornerRadius": 0,
-                                    "curveFrom": "{0.97329376854599403, 1}",
+                                    "curveFrom": "{0.97796143250688705, 1.0000000000000036}",
                                     "curveMode": 1,
-                                    "curveTo": "{0.97329376854599403, 1}",
+                                    "curveTo": "{0.97796143250688705, 1.0000000000000036}",
                                     "hasCurveFrom": false,
                                     "hasCurveTo": false,
-                                    "point": "{0.97329376854599403, 1}"
+                                    "point": "{0.97796143250688705, 1.0000000000000036}"
                                 },
                                 {
                                     "_class": "curvePoint",
                                     "cornerRadius": 0,
-                                    "curveFrom": "{0.026706231454005951, 1}",
+                                    "curveFrom": "{0.022038567493112934, 1.000000000000002}",
                                     "curveMode": 1,
-                                    "curveTo": "{0.026706231454005951, 1}",
+                                    "curveTo": "{0.022038567493112934, 1.000000000000002}",
                                     "hasCurveFrom": false,
                                     "hasCurveTo": false,
-                                    "point": "{0.026706231454005951, 1}"
+                                    "point": "{0.022038567493112934, 1.000000000000002}"
                                 }
                             ],
                             "fixedRadius": 0,
@@ -886,7 +1036,14 @@
                             "shouldBreakMaskChain": false,
                             "userInfo": {
                                 "io.magicsketch.mirror": {
-                                    "artboardID": "4BFDE887-EA64-4933-8F0A-1C34E054F103"
+                                    "artboardID": "07366C4D-093A-40F3-B594-927B84EE91E8"
+                                },
+                                "io.designcode.Angle": {
+                                    "guessed-rotation": 1,
+                                    "rotation": 0,
+                                    "artboard-id": "07366C4D-093A-40F3-B594-927B84EE91E8",
+                                    "pixel-density": 0,
+                                    "compression-ratio": 0
                                 },
                                 "design.magicmirror": {
                                     "imageQuality": 0,
@@ -905,10 +1062,10 @@
                             "frame": {
                                 "_class": "rect",
                                 "constrainProportions": false,
-                                "height": 23,
-                                "width": 357,
-                                "x": 9,
-                                "y": 29
+                                "height": 24,
+                                "width": 371,
+                                "x": 1.999999999999972,
+                                "y": 28
                             },
                             "clippingMaskMode": 0,
                             "hasClippingMask": false,
@@ -1000,7 +1157,7 @@
                                         "image": {
                                             "_class": "MSJSONFileReference",
                                             "_ref_class": "MSImageData",
-                                            "_ref": "images/e289eb45b2aa5b04b25007a6bef21ff3da655693.png"
+                                            "_ref": "images/ee168a8b52040694b6be9a491387e2f85ed883f5.png"
                                         },
                                         "noiseIndex": 0,
                                         "noiseIntensity": 0,
@@ -1038,22 +1195,22 @@
                                 {
                                     "_class": "curvePoint",
                                     "cornerRadius": 0,
-                                    "curveFrom": "{0.97206703910614511, 1}",
+                                    "curveFrom": "{0.98921832884097027, 1}",
                                     "curveMode": 1,
-                                    "curveTo": "{0.97206703910614511, 1}",
+                                    "curveTo": "{0.98921832884097027, 1}",
                                     "hasCurveFrom": false,
                                     "hasCurveTo": false,
-                                    "point": "{0.97206703910614511, 1}"
+                                    "point": "{0.98921832884097027, 1}"
                                 },
                                 {
                                     "_class": "curvePoint",
                                     "cornerRadius": 0,
-                                    "curveFrom": "{0.027932960893854761, 1}",
+                                    "curveFrom": "{0.010781671159029562, 1}",
                                     "curveMode": 1,
-                                    "curveTo": "{0.027932960893854761, 1}",
+                                    "curveTo": "{0.010781671159029562, 1}",
                                     "hasCurveFrom": false,
                                     "hasCurveTo": false,
-                                    "point": "{0.027932960893854761, 1}"
+                                    "point": "{0.010781671159029562, 1}"
                                 }
                             ],
                             "fixedRadius": 0,
@@ -1078,7 +1235,14 @@
                             "shouldBreakMaskChain": false,
                             "userInfo": {
                                 "io.magicsketch.mirror": {
-                                    "artboardID": "9E3C6C61-CD2D-47E0-9EEC-D5D3B9B7F307"
+                                    "artboardID": "359283F0-471F-4FA1-96D9-7ABB9B7888D2"
+                                },
+                                "io.designcode.Angle": {
+                                    "guessed-rotation": 1,
+                                    "rotation": 0,
+                                    "artboard-id": "359283F0-471F-4FA1-96D9-7ABB9B7888D2",
+                                    "pixel-density": 0,
+                                    "compression-ratio": 0
                                 },
                                 "design.magicmirror": {
                                     "imageQuality": 0,
@@ -1097,8 +1261,8 @@
                             "frame": {
                                 "_class": "rect",
                                 "constrainProportions": false,
-                                "height": 29,
-                                "width": 374.9999999999998,
+                                "height": 28,
+                                "width": 375,
                                 "x": 0,
                                 "y": 0
                             },
@@ -1192,7 +1356,7 @@
                                         "image": {
                                             "_class": "MSJSONFileReference",
                                             "_ref_class": "MSImageData",
-                                            "_ref": "images/44933d39cc4c77fae23fc160707a8205abaebf9c.png"
+                                            "_ref": "images/684e5017f5d55a07bb6cdd437f90ead39499ec6b.png"
                                         },
                                         "noiseIndex": 0,
                                         "noiseIntensity": 0,
@@ -1220,32 +1384,32 @@
                                 {
                                     "_class": "curvePoint",
                                     "cornerRadius": 0,
-                                    "curveFrom": "{1, 0}",
+                                    "curveFrom": "{0.99999999999999911, 0}",
                                     "curveMode": 1,
-                                    "curveTo": "{1, 0}",
+                                    "curveTo": "{0.99999999999999911, 0}",
                                     "hasCurveFrom": false,
                                     "hasCurveTo": false,
-                                    "point": "{1, 0}"
+                                    "point": "{0.99999999999999911, 0}"
                                 },
                                 {
                                     "_class": "curvePoint",
                                     "cornerRadius": 0,
-                                    "curveFrom": "{0.97600000000000031, 1}",
+                                    "curveFrom": "{0.99466666666666659, 1}",
                                     "curveMode": 1,
-                                    "curveTo": "{0.97600000000000031, 1}",
+                                    "curveTo": "{0.99466666666666659, 1}",
                                     "hasCurveFrom": false,
                                     "hasCurveTo": false,
-                                    "point": "{0.97600000000000031, 1}"
+                                    "point": "{0.99466666666666659, 1}"
                                 },
                                 {
                                     "_class": "curvePoint",
                                     "cornerRadius": 0,
-                                    "curveFrom": "{0.024000000000000014, 1}",
+                                    "curveFrom": "{0.0053333333333332456, 1}",
                                     "curveMode": 1,
-                                    "curveTo": "{0.024000000000000014, 1}",
+                                    "curveTo": "{0.0053333333333332456, 1}",
                                     "hasCurveFrom": false,
                                     "hasCurveTo": false,
-                                    "point": "{0.024000000000000014, 1}"
+                                    "point": "{0.0053333333333332456, 1}"
                                 }
                             ],
                             "fixedRadius": 0,
@@ -1263,7 +1427,7 @@
                     "isFlippedVertical": false,
                     "isLocked": false,
                     "isVisible": true,
-                    "layerListExpandedType": 2,
+                    "layerListExpandedType": 0,
                     "name": "Minus",
                     "nameIsFixed": true,
                     "resizingConstraint": 45,
@@ -1282,8 +1446,8 @@
                         "constrainProportions": false,
                         "height": 80,
                         "width": 375,
-                        "x": 19.5,
-                        "y": 11
+                        "x": 0,
+                        "y": 10
                     },
                     "clippingMaskMode": 0,
                     "hasClippingMask": false,
@@ -1322,7 +1486,7 @@
                         "contextSettings": {
                             "_class": "graphicsContextSettings",
                             "blendMode": 0,
-                            "opacity": 1
+                            "opacity": 0.4000000059604645
                         },
                         "fills": [],
                         "innerShadows": [],
@@ -1371,7 +1535,7 @@
                             },
                             "clippingMaskMode": 1,
                             "hasClippingMask": true,
-                            "sharedStyleID": "7430C79D-5A25-4C66-8826-3AD74D04E3A3",
+                            "sharedStyleID": "A98D8064-84FE-41B7-9044-F7BF3FA5D988",
                             "style": {
                                 "_class": "style",
                                 "do_objectID": "29DA0774-4DA0-4D80-B27E-AEDF32D4BF89",
@@ -1417,9 +1581,9 @@
                                         "color": {
                                             "_class": "color",
                                             "alpha": 1,
-                                            "blue": 0.847,
-                                            "green": 0.847,
-                                            "red": 0.847
+                                            "blue": 0,
+                                            "green": 0,
+                                            "red": 0
                                         },
                                         "contextSettings": {
                                             "_class": "graphicsContextSettings",
@@ -1438,7 +1602,7 @@
                                                     "position": 0,
                                                     "color": {
                                                         "_class": "color",
-                                                        "alpha": 0.4,
+                                                        "alpha": 1,
                                                         "blue": 0,
                                                         "green": 0,
                                                         "red": 0
@@ -1457,57 +1621,10 @@
                                                 }
                                             ]
                                         },
-                                        "noiseIndex": 0,
-                                        "noiseIntensity": 0,
-                                        "patternFillType": 0,
-                                        "patternTileScale": 1
-                                    },
-                                    {
-                                        "_class": "fill",
-                                        "isEnabled": false,
-                                        "fillType": 0,
-                                        "color": {
-                                            "_class": "color",
-                                            "alpha": 0.6,
-                                            "blue": 1,
-                                            "green": 1,
-                                            "red": 1
-                                        },
-                                        "contextSettings": {
-                                            "_class": "graphicsContextSettings",
-                                            "blendMode": 0,
-                                            "opacity": 1
-                                        },
-                                        "gradient": {
-                                            "_class": "gradient",
-                                            "elipseLength": 0,
-                                            "from": "{0.5, 0}",
-                                            "gradientType": 0,
-                                            "to": "{0.5, 1}",
-                                            "stops": [
-                                                {
-                                                    "_class": "gradientStop",
-                                                    "position": 0,
-                                                    "color": {
-                                                        "_class": "color",
-                                                        "alpha": 0.5,
-                                                        "blue": 1,
-                                                        "green": 1,
-                                                        "red": 1
-                                                    }
-                                                },
-                                                {
-                                                    "_class": "gradientStop",
-                                                    "position": 1,
-                                                    "color": {
-                                                        "_class": "color",
-                                                        "alpha": 0.5,
-                                                        "blue": 0,
-                                                        "green": 0,
-                                                        "red": 0
-                                                    }
-                                                }
-                                            ]
+                                        "image": {
+                                            "_class": "MSJSONFileReference",
+                                            "_ref_class": "MSImageData",
+                                            "_ref": "images/853732577995ec08625706620b0235b0184b90e8.pdf"
                                         },
                                         "noiseIndex": 0,
                                         "noiseIntensity": 0,
@@ -1585,7 +1702,14 @@
                             "shouldBreakMaskChain": false,
                             "userInfo": {
                                 "io.magicsketch.mirror": {
-                                    "artboardID": "812EF987-DB04-4DF3-93A6-53ABC9FEF925"
+                                    "artboardID": "2D78A8AA-7796-45EE-B186-F393B63DC4E9"
+                                },
+                                "io.designcode.Angle": {
+                                    "guessed-rotation": 1,
+                                    "rotation": 0,
+                                    "artboard-id": "2D78A8AA-7796-45EE-B186-F393B63DC4E9",
+                                    "pixel-density": 0,
+                                    "compression-ratio": 0
                                 },
                                 "design.magicmirror": {
                                     "imageQuality": 0,
@@ -1604,10 +1728,10 @@
                             "frame": {
                                 "_class": "rect",
                                 "constrainProportions": false,
-                                "height": 29,
+                                "height": 28,
                                 "width": 375,
                                 "x": 0,
-                                "y": 51
+                                "y": 52
                             },
                             "clippingMaskMode": 0,
                             "hasClippingMask": false,
@@ -1699,7 +1823,7 @@
                                         "image": {
                                             "_class": "MSJSONFileReference",
                                             "_ref_class": "MSImageData",
-                                            "_ref": "images/9dce52a65bffecfb77bdc57cfa1444cbe3dad3ca.png"
+                                            "_ref": "images/704e82bedff46ea603d7b7c61df633ca563a6b57.png"
                                         },
                                         "noiseIndex": 0,
                                         "noiseIntensity": 0,
@@ -1717,22 +1841,22 @@
                                 {
                                     "_class": "curvePoint",
                                     "cornerRadius": 0,
-                                    "curveFrom": "{0.024000000000000021, 0}",
+                                    "curveFrom": "{0.0053333333333333011, 0}",
                                     "curveMode": 1,
-                                    "curveTo": "{0.024000000000000021, 0}",
+                                    "curveTo": "{0.0053333333333333011, 0}",
                                     "hasCurveFrom": false,
                                     "hasCurveTo": false,
-                                    "point": "{0.024000000000000021, 0}"
+                                    "point": "{0.0053333333333333011, 0}"
                                 },
                                 {
                                     "_class": "curvePoint",
                                     "cornerRadius": 0,
-                                    "curveFrom": "{0.97599999999999998, 0}",
+                                    "curveFrom": "{0.99466666666666581, 0}",
                                     "curveMode": 1,
-                                    "curveTo": "{0.97599999999999998, 0}",
+                                    "curveTo": "{0.99466666666666581, 0}",
                                     "hasCurveFrom": false,
                                     "hasCurveTo": false,
-                                    "point": "{0.97599999999999998, 0}"
+                                    "point": "{0.99466666666666581, 0}"
                                 },
                                 {
                                     "_class": "curvePoint",
@@ -1777,7 +1901,14 @@
                             "shouldBreakMaskChain": false,
                             "userInfo": {
                                 "io.magicsketch.mirror": {
-                                    "artboardID": "C685F3E1-4AA1-4E86-84AC-AEE9946F9D4F"
+                                    "artboardID": "9FFCB423-6767-4B80-BE8D-31FEADC421BF"
+                                },
+                                "io.designcode.Angle": {
+                                    "guessed-rotation": 1,
+                                    "rotation": 0,
+                                    "artboard-id": "9FFCB423-6767-4B80-BE8D-31FEADC421BF",
+                                    "pixel-density": 0,
+                                    "compression-ratio": 0
                                 },
                                 "design.magicmirror": {
                                     "imageQuality": 0,
@@ -1796,9 +1927,9 @@
                             "frame": {
                                 "_class": "rect",
                                 "constrainProportions": false,
-                                "height": 23,
-                                "width": 356.9999999999999,
-                                "x": 9,
+                                "height": 24,
+                                "width": 371,
+                                "x": 1.999999999999972,
                                 "y": 28
                             },
                             "clippingMaskMode": 0,
@@ -1891,7 +2022,7 @@
                                         "image": {
                                             "_class": "MSJSONFileReference",
                                             "_ref_class": "MSImageData",
-                                            "_ref": "images/322442788d59e567270bccf3585e6116f381e17c.png"
+                                            "_ref": "images/ed1eba5247f8c7db9035b797cfd6c5dee333b6a9.png"
                                         },
                                         "noiseIndex": 0,
                                         "noiseIntensity": 0,
@@ -1909,42 +2040,42 @@
                                 {
                                     "_class": "curvePoint",
                                     "cornerRadius": 0,
-                                    "curveFrom": "{0.028011204481792722, 0}",
+                                    "curveFrom": "{0.010781671159029626, 0}",
                                     "curveMode": 1,
-                                    "curveTo": "{0.028011204481792722, 0}",
+                                    "curveTo": "{0.010781671159029626, 0}",
                                     "hasCurveFrom": false,
                                     "hasCurveTo": false,
-                                    "point": "{0.028011204481792722, 0}"
+                                    "point": "{0.010781671159029626, 0}"
                                 },
                                 {
                                     "_class": "curvePoint",
                                     "cornerRadius": 0,
-                                    "curveFrom": "{0.97198879551820738, 0}",
+                                    "curveFrom": "{0.98921832884096961, 0}",
                                     "curveMode": 1,
-                                    "curveTo": "{0.97198879551820738, 0}",
+                                    "curveTo": "{0.98921832884096961, 0}",
                                     "hasCurveFrom": false,
                                     "hasCurveTo": false,
-                                    "point": "{0.97198879551820738, 0}"
+                                    "point": "{0.98921832884096961, 0}"
                                 },
                                 {
                                     "_class": "curvePoint",
                                     "cornerRadius": 0,
-                                    "curveFrom": "{1, 1}",
+                                    "curveFrom": "{0.99999999999999922, 1}",
                                     "curveMode": 1,
-                                    "curveTo": "{1, 1}",
+                                    "curveTo": "{0.99999999999999922, 1}",
                                     "hasCurveFrom": false,
                                     "hasCurveTo": false,
-                                    "point": "{1, 1}"
+                                    "point": "{0.99999999999999922, 1}"
                                 },
                                 {
                                     "_class": "curvePoint",
                                     "cornerRadius": 0,
-                                    "curveFrom": "{0, 1}",
+                                    "curveFrom": "{0, 1.0000000000000002}",
                                     "curveMode": 1,
-                                    "curveTo": "{0, 1}",
+                                    "curveTo": "{0, 1.0000000000000002}",
                                     "hasCurveFrom": false,
                                     "hasCurveTo": false,
-                                    "point": "{0, 1}"
+                                    "point": "{0, 1.0000000000000002}"
                                 }
                             ],
                             "fixedRadius": 0,
@@ -1969,7 +2100,14 @@
                             "shouldBreakMaskChain": false,
                             "userInfo": {
                                 "io.magicsketch.mirror": {
-                                    "artboardID": "06E6AB41-AC79-4457-8B30-915B39524FB4"
+                                    "artboardID": "E6C732D2-7C58-455A-BAD2-1727BD18E678"
+                                },
+                                "io.designcode.Angle": {
+                                    "guessed-rotation": 1,
+                                    "rotation": 0,
+                                    "artboard-id": "E6C732D2-7C58-455A-BAD2-1727BD18E678",
+                                    "pixel-density": 0,
+                                    "compression-ratio": 0
                                 },
                                 "design.magicmirror": {
                                     "imageQuality": 0,
@@ -1988,10 +2126,10 @@
                             "frame": {
                                 "_class": "rect",
                                 "constrainProportions": false,
-                                "height": 15,
-                                "width": 337,
-                                "x": 19,
-                                "y": 13
+                                "height": 16,
+                                "width": 363,
+                                "x": 5.999999999999943,
+                                "y": 12
                             },
                             "clippingMaskMode": 0,
                             "hasClippingMask": false,
@@ -2083,7 +2221,7 @@
                                         "image": {
                                             "_class": "MSJSONFileReference",
                                             "_ref_class": "MSImageData",
-                                            "_ref": "images/a30580d205b51dfcdbde39edf7542aaffe8a5fc6.png"
+                                            "_ref": "images/92047a29945453e1400a16f80dc100140c298304.png"
                                         },
                                         "noiseIndex": 0,
                                         "noiseIntensity": 0,
@@ -2101,42 +2239,42 @@
                                 {
                                     "_class": "curvePoint",
                                     "cornerRadius": 0,
-                                    "curveFrom": "{0.023738872403560835, 0}",
+                                    "curveFrom": "{0.022038567493113014, 0}",
                                     "curveMode": 1,
-                                    "curveTo": "{0.023738872403560835, 0}",
+                                    "curveTo": "{0.022038567493113014, 0}",
                                     "hasCurveFrom": false,
                                     "hasCurveTo": false,
-                                    "point": "{0.023738872403560835, 0}"
+                                    "point": "{0.022038567493113014, 0}"
                                 },
                                 {
                                     "_class": "curvePoint",
                                     "cornerRadius": 0,
-                                    "curveFrom": "{0.97626112759643913, 0}",
+                                    "curveFrom": "{0.97796143250688639, 0}",
                                     "curveMode": 1,
-                                    "curveTo": "{0.97626112759643913, 0}",
+                                    "curveTo": "{0.97796143250688639, 0}",
                                     "hasCurveFrom": false,
                                     "hasCurveTo": false,
-                                    "point": "{0.97626112759643913, 0}"
+                                    "point": "{0.97796143250688639, 0}"
                                 },
                                 {
                                     "_class": "curvePoint",
                                     "cornerRadius": 0,
-                                    "curveFrom": "{1, 1}",
+                                    "curveFrom": "{0.99999999999999933, 1}",
                                     "curveMode": 1,
-                                    "curveTo": "{1, 1}",
+                                    "curveTo": "{0.99999999999999933, 1}",
                                     "hasCurveFrom": false,
                                     "hasCurveTo": false,
-                                    "point": "{1, 1}"
+                                    "point": "{0.99999999999999933, 1}"
                                 },
                                 {
                                     "_class": "curvePoint",
                                     "cornerRadius": 0,
-                                    "curveFrom": "{0, 1}",
+                                    "curveFrom": "{5.352314857008334e-17, 1.0000000000000013}",
                                     "curveMode": 1,
-                                    "curveTo": "{0, 1}",
+                                    "curveTo": "{5.352314857008334e-17, 1.0000000000000013}",
                                     "hasCurveFrom": false,
                                     "hasCurveTo": false,
-                                    "point": "{0, 1}"
+                                    "point": "{5.352314857008334e-17, 1.0000000000000013}"
                                 }
                             ],
                             "fixedRadius": 0,
@@ -2161,7 +2299,14 @@
                             "shouldBreakMaskChain": false,
                             "userInfo": {
                                 "io.magicsketch.mirror": {
-                                    "artboardID": "0E7DB1C8-1F3E-439E-B8C8-7B7504E93CD4"
+                                    "artboardID": "4A54291F-554C-453D-8A21-F5231D372550"
+                                },
+                                "io.designcode.Angle": {
+                                    "guessed-rotation": 1,
+                                    "rotation": 0,
+                                    "artboard-id": "4A54291F-554C-453D-8A21-F5231D372550",
+                                    "pixel-density": 0,
+                                    "compression-ratio": 0
                                 },
                                 "design.magicmirror": {
                                     "imageQuality": 0,
@@ -2180,10 +2325,10 @@
                             "frame": {
                                 "_class": "rect",
                                 "constrainProportions": false,
-                                "height": 7,
-                                "width": 321.0000000000001,
-                                "x": 27.00000000000003,
-                                "y": 6
+                                "height": 4,
+                                "width": 347,
+                                "x": 13.99999999999997,
+                                "y": 8
                             },
                             "clippingMaskMode": 0,
                             "hasClippingMask": false,
@@ -2275,7 +2420,7 @@
                                         "image": {
                                             "_class": "MSJSONFileReference",
                                             "_ref_class": "MSImageData",
-                                            "_ref": "images/fbb78182adc81db183f29d0a56816858538a4e9c.png"
+                                            "_ref": "images/7d988dce3f6c57465b62072003e0d568fe83799a.png"
                                         },
                                         "noiseIndex": 0,
                                         "noiseIntensity": 0,
@@ -2293,42 +2438,42 @@
                                 {
                                     "_class": "curvePoint",
                                     "cornerRadius": 0,
-                                    "curveFrom": "{0.015576323987538936, 0}",
+                                    "curveFrom": "{0.046109510086455342, 0}",
                                     "curveMode": 1,
-                                    "curveTo": "{0.015576323987538936, 0}",
+                                    "curveTo": "{0.046109510086455342, 0}",
                                     "hasCurveFrom": false,
                                     "hasCurveTo": false,
-                                    "point": "{0.015576323987538936, 0}"
+                                    "point": "{0.046109510086455342, 0}"
                                 },
                                 {
                                     "_class": "curvePoint",
                                     "cornerRadius": 0,
-                                    "curveFrom": "{0.98442367601246106, 0}",
+                                    "curveFrom": "{0.95389048991354375, 0}",
                                     "curveMode": 1,
-                                    "curveTo": "{0.98442367601246106, 0}",
+                                    "curveTo": "{0.95389048991354375, 0}",
                                     "hasCurveFrom": false,
                                     "hasCurveTo": false,
-                                    "point": "{0.98442367601246106, 0}"
+                                    "point": "{0.95389048991354375, 0}"
                                 },
                                 {
                                     "_class": "curvePoint",
                                     "cornerRadius": 0,
-                                    "curveFrom": "{1, 1}",
+                                    "curveFrom": "{0.99999999999999922, 1}",
                                     "curveMode": 1,
-                                    "curveTo": "{1, 1}",
+                                    "curveTo": "{0.99999999999999922, 1}",
                                     "hasCurveFrom": false,
                                     "hasCurveTo": false,
-                                    "point": "{1, 1}"
+                                    "point": "{0.99999999999999922, 1}"
                                 },
                                 {
                                     "_class": "curvePoint",
                                     "cornerRadius": 0,
-                                    "curveFrom": "{-2.0751832235984225e-18, 1}",
+                                    "curveFrom": "{-1.6697338356664372e-18, 1.0000000000000004}",
                                     "curveMode": 1,
-                                    "curveTo": "{-2.0751832235984225e-18, 1}",
+                                    "curveTo": "{-1.6697338356664372e-18, 1.0000000000000004}",
                                     "hasCurveFrom": false,
                                     "hasCurveTo": false,
-                                    "point": "{0, 1}"
+                                    "point": "{0, 1.0000000000000004}"
                                 }
                             ],
                             "fixedRadius": 0,
@@ -2355,7 +2500,14 @@
                     "shouldBreakMaskChain": false,
                     "userInfo": {
                         "io.magicsketch.mirror": {
-                            "artboardID": "1C2A5E06-7067-4327-9BEB-839835527E20"
+                            "artboardID": "7BF71426-7619-45D4-835E-2BB3F5C3D65C"
+                        },
+                        "io.designcode.Angle": {
+                            "guessed-rotation": 1,
+                            "rotation": 0,
+                            "artboard-id": "7BF71426-7619-45D4-835E-2BB3F5C3D65C",
+                            "pixel-density": 0,
+                            "compression-ratio": 0
                         },
                         "design.magicmirror": {
                             "imageQuality": 0,
@@ -2374,10 +2526,10 @@
                     "frame": {
                         "_class": "rect",
                         "constrainProportions": false,
-                        "height": 35,
+                        "height": 36,
                         "width": 375,
-                        "x": 19.5,
-                        "y": 91
+                        "x": 0,
+                        "y": 90
                     },
                     "clippingMaskMode": 0,
                     "hasClippingMask": false,
@@ -2469,7 +2621,7 @@
                                 "image": {
                                     "_class": "MSJSONFileReference",
                                     "_ref_class": "MSImageData",
-                                    "_ref": "images/4a1e8ccc6823bcc11e59c136fe6c906dd42f924c.png"
+                                    "_ref": "images/d14ef71992f0a9eaed96f1252efb555cf941c41a.png"
                                 },
                                 "noiseIndex": 0,
                                 "noiseIntensity": 0,
@@ -2528,224 +2680,6 @@
                     "fixedRadius": 0,
                     "needsConvertionToNewRoundCorners": false,
                     "hasConvertedToNewRoundCorners": true
-                },
-                {
-                    "_class": "rectangle",
-                    "do_objectID": "D260636F-DD2E-48AA-A449-FED29DCC6B18",
-                    "booleanOperation": -1,
-                    "isFixedToViewport": false,
-                    "isFlippedHorizontal": false,
-                    "isFlippedVertical": false,
-                    "isLocked": true,
-                    "isVisible": true,
-                    "layerListExpandedType": 0,
-                    "name": "Selection Overlay",
-                    "nameIsFixed": true,
-                    "resizingConstraint": 63,
-                    "resizingType": 0,
-                    "rotation": 0,
-                    "shouldBreakMaskChain": false,
-                    "exportOptions": {
-                        "_class": "exportOptions",
-                        "includedLayerIds": [],
-                        "layerOptions": 0,
-                        "shouldTrim": false,
-                        "exportFormats": []
-                    },
-                    "frame": {
-                        "_class": "rect",
-                        "constrainProportions": false,
-                        "height": 35,
-                        "width": 414,
-                        "x": 0,
-                        "y": 91
-                    },
-                    "clippingMaskMode": 0,
-                    "hasClippingMask": false,
-                    "sharedStyleID": "674AECE2-84FF-4CC7-9D65-65855D31665D",
-                    "style": {
-                        "_class": "style",
-                        "do_objectID": "8FDC5283-D7A2-43C4-A0D4-EE723D246758",
-                        "endMarkerType": 0,
-                        "miterLimit": 10,
-                        "startMarkerType": 0,
-                        "windingRule": 1,
-                        "blur": {
-                            "_class": "blur",
-                            "isEnabled": false,
-                            "center": "{0.5, 0.5}",
-                            "motionAngle": 0,
-                            "radius": 5,
-                            "saturation": 1,
-                            "type": 0
-                        },
-                        "borderOptions": {
-                            "_class": "borderOptions",
-                            "isEnabled": true,
-                            "dashPattern": [],
-                            "lineCapStyle": 0,
-                            "lineJoinStyle": 0
-                        },
-                        "borders": [],
-                        "colorControls": {
-                            "_class": "colorControls",
-                            "isEnabled": true,
-                            "brightness": 0,
-                            "contrast": 1,
-                            "hue": 0,
-                            "saturation": 1
-                        },
-                        "contextSettings": {
-                            "_class": "graphicsContextSettings",
-                            "blendMode": 0,
-                            "opacity": 1
-                        },
-                        "fills": [
-                            {
-                                "_class": "fill",
-                                "isEnabled": false,
-                                "fillType": 0,
-                                "color": {
-                                    "_class": "color",
-                                    "alpha": 1,
-                                    "blue": 0.847,
-                                    "green": 0.847,
-                                    "red": 0.847
-                                },
-                                "contextSettings": {
-                                    "_class": "graphicsContextSettings",
-                                    "blendMode": 0,
-                                    "opacity": 1
-                                },
-                                "gradient": {
-                                    "_class": "gradient",
-                                    "elipseLength": 0,
-                                    "from": "{0.5, 0}",
-                                    "gradientType": 0,
-                                    "to": "{0.5, 1}",
-                                    "stops": [
-                                        {
-                                            "_class": "gradientStop",
-                                            "position": 0,
-                                            "color": {
-                                                "_class": "color",
-                                                "alpha": 1,
-                                                "blue": 1,
-                                                "green": 1,
-                                                "red": 1
-                                            }
-                                        },
-                                        {
-                                            "_class": "gradientStop",
-                                            "position": 1,
-                                            "color": {
-                                                "_class": "color",
-                                                "alpha": 1,
-                                                "blue": 0,
-                                                "green": 0,
-                                                "red": 0
-                                            }
-                                        }
-                                    ]
-                                },
-                                "noiseIndex": 0,
-                                "noiseIntensity": 0,
-                                "patternFillType": 1,
-                                "patternTileScale": 1
-                            }
-                        ],
-                        "innerShadows": [
-                            {
-                                "_class": "innerShadow",
-                                "isEnabled": true,
-                                "blurRadius": 0,
-                                "offsetX": 0,
-                                "offsetY": -0.5,
-                                "spread": 0,
-                                "color": {
-                                    "_class": "color",
-                                    "alpha": 0.2,
-                                    "blue": 0,
-                                    "green": 0,
-                                    "red": 0
-                                },
-                                "contextSettings": {
-                                    "_class": "graphicsContextSettings",
-                                    "blendMode": 0,
-                                    "opacity": 1
-                                }
-                            },
-                            {
-                                "_class": "innerShadow",
-                                "isEnabled": true,
-                                "blurRadius": 0,
-                                "offsetX": 0,
-                                "offsetY": 0.5,
-                                "spread": 0,
-                                "color": {
-                                    "_class": "color",
-                                    "alpha": 0.2,
-                                    "blue": 0,
-                                    "green": 0,
-                                    "red": 0
-                                },
-                                "contextSettings": {
-                                    "_class": "graphicsContextSettings",
-                                    "blendMode": 0,
-                                    "opacity": 1
-                                }
-                            }
-                        ],
-                        "shadows": []
-                    },
-                    "edited": false,
-                    "isClosed": true,
-                    "pointRadiusBehaviour": 1,
-                    "points": [
-                        {
-                            "_class": "curvePoint",
-                            "cornerRadius": 0,
-                            "curveFrom": "{0, 0}",
-                            "curveMode": 1,
-                            "curveTo": "{0, 0}",
-                            "hasCurveFrom": false,
-                            "hasCurveTo": false,
-                            "point": "{0, 0}"
-                        },
-                        {
-                            "_class": "curvePoint",
-                            "cornerRadius": 0,
-                            "curveFrom": "{1, 0}",
-                            "curveMode": 1,
-                            "curveTo": "{1, 0}",
-                            "hasCurveFrom": false,
-                            "hasCurveTo": false,
-                            "point": "{1, 0}"
-                        },
-                        {
-                            "_class": "curvePoint",
-                            "cornerRadius": 0,
-                            "curveFrom": "{1, 1}",
-                            "curveMode": 1,
-                            "curveTo": "{1, 1}",
-                            "hasCurveFrom": false,
-                            "hasCurveTo": false,
-                            "point": "{1, 1}"
-                        },
-                        {
-                            "_class": "curvePoint",
-                            "cornerRadius": 0,
-                            "curveFrom": "{0, 1}",
-                            "curveMode": 1,
-                            "curveTo": "{0, 1}",
-                            "hasCurveFrom": false,
-                            "hasCurveTo": false,
-                            "point": "{0, 1}"
-                        }
-                    ],
-                    "fixedRadius": 0,
-                    "needsConvertionToNewRoundCorners": false,
-                    "hasConvertedToNewRoundCorners": true
                 }
             ],
             "hasBackgroundColor": false,
@@ -2781,7 +2715,7 @@
             "isFlippedVertical": false,
             "isLocked": false,
             "isVisible": true,
-            "layerListExpandedType": 2,
+            "layerListExpandedType": 1,
             "name": "-- Single - Plus 4",
             "nameIsFixed": true,
             "resizingConstraint": 63,
@@ -2791,7 +2725,8 @@
             "userInfo": {
                 "io.magicsketch.mirror": {
                     "linkedLayers": [
-                        "576064E5-C847-48BF-AB07-F61CA3C34730"
+                        "576064E5-C847-48BF-AB07-F61CA3C34730",
+                        "C471C555-B392-4F21-B4DE-1E503E01D994"
                     ],
                     "highestQuality": -1,
                     "included": 1
@@ -2855,7 +2790,7 @@
                 "innerShadows": [],
                 "shadows": []
             },
-            "hasClickThrough": false,
+            "hasClickThrough": true,
             "groupLayout": {
                 "_class": "MSImmutableFreeformGroupLayout"
             },
@@ -2870,8 +2805,8 @@
                     "isLocked": false,
                     "isVisible": true,
                     "layerListExpandedType": 0,
-                    "name": "August",
-                    "nameIsFixed": false,
+                    "name": "Text",
+                    "nameIsFixed": true,
                     "resizingConstraint": 47,
                     "resizingType": 0,
                     "rotation": 0,
@@ -2891,10 +2826,10 @@
                     "frame": {
                         "_class": "rect",
                         "constrainProportions": false,
-                        "height": 29,
-                        "width": 74,
-                        "x": 151,
-                        "y": 3
+                        "height": 26,
+                        "width": 41,
+                        "x": 167,
+                        "y": 5
                     },
                     "clippingMaskMode": 0,
                     "hasClippingMask": false,
@@ -2944,43 +2879,43 @@
                                 "MSAttributedStringFontAttribute": {
                                     "_class": "fontDescriptor",
                                     "attributes": {
-                                        "name": "SFProText-Regular",
-                                        "size": 24
+                                        "name": "SFProDisplay-Regular",
+                                        "size": 22
                                     }
                                 },
                                 "paragraphStyle": {
                                     "_class": "paragraphStyle",
-                                    "alignment": 2,
                                     "tighteningFactorForTruncation": 0.05,
-                                    "allowsDefaultTighteningForTruncation": 0
+                                    "allowsDefaultTighteningForTruncation": 0,
+                                    "alignment": 2
                                 },
-                                "kerning": -1
+                                "kerning": 0.2
                             },
                             "verticalAlignment": 0
                         }
                     },
                     "attributedString": {
                         "_class": "attributedString",
-                        "string": "August",
+                        "string": "May",
                         "attributes": [
                             {
                                 "_class": "stringAttribute",
                                 "location": 0,
-                                "length": 6,
+                                "length": 3,
                                 "attributes": {
                                     "MSAttributedStringFontAttribute": {
                                         "_class": "fontDescriptor",
                                         "attributes": {
-                                            "name": "SFProText-Regular",
-                                            "size": 24
+                                            "name": "SFProDisplay-Regular",
+                                            "size": 22
                                         }
                                     },
-                                    "kerning": -1,
+                                    "kerning": 0.2,
                                     "paragraphStyle": {
                                         "_class": "paragraphStyle",
-                                        "alignment": 2,
                                         "tighteningFactorForTruncation": 0.05,
-                                        "allowsDefaultTighteningForTruncation": 0
+                                        "allowsDefaultTighteningForTruncation": 0,
+                                        "alignment": 2
                                     }
                                 }
                             }
@@ -2988,8 +2923,8 @@
                     },
                     "automaticallyDrawOnUnderlyingPath": false,
                     "dontSynchroniseWithSymbol": false,
-                    "glyphBounds": "{{0, 6}, {74, 22}}",
-                    "lineSpacingBehaviour": 1,
+                    "glyphBounds": "{{1, 5}, {39, 21}}",
+                    "lineSpacingBehaviour": 3,
                     "textBehaviour": 0
                 }
             ],
@@ -3026,7 +2961,7 @@
             "isFlippedVertical": false,
             "isLocked": false,
             "isVisible": true,
-            "layerListExpandedType": 2,
+            "layerListExpandedType": 1,
             "name": "-- Single - Plus 3",
             "nameIsFixed": true,
             "resizingConstraint": 63,
@@ -3036,7 +2971,8 @@
             "userInfo": {
                 "io.magicsketch.mirror": {
                     "linkedLayers": [
-                        "9D8FEE4B-4195-43E3-BB3C-3683AB913F3F"
+                        "9D8FEE4B-4195-43E3-BB3C-3683AB913F3F",
+                        "7C6B3F95-03D7-485F-9EF5-9FF738C2BC8D"
                     ],
                     "included": 1
                 }
@@ -3099,7 +3035,7 @@
                 "innerShadows": [],
                 "shadows": []
             },
-            "hasClickThrough": false,
+            "hasClickThrough": true,
             "groupLayout": {
                 "_class": "MSImmutableFreeformGroupLayout"
             },
@@ -3114,8 +3050,8 @@
                     "isLocked": false,
                     "isVisible": true,
                     "layerListExpandedType": 0,
-                    "name": "July",
-                    "nameIsFixed": false,
+                    "name": "Text",
+                    "nameIsFixed": true,
                     "resizingConstraint": 47,
                     "resizingType": 0,
                     "rotation": 0,
@@ -3135,10 +3071,10 @@
                     "frame": {
                         "_class": "rect",
                         "constrainProportions": false,
-                        "height": 29,
+                        "height": 26,
                         "width": 43,
-                        "x": 166.5,
-                        "y": 3
+                        "x": 166,
+                        "y": 5
                     },
                     "clippingMaskMode": 0,
                     "hasClippingMask": false,
@@ -3188,43 +3124,43 @@
                                 "MSAttributedStringFontAttribute": {
                                     "_class": "fontDescriptor",
                                     "attributes": {
-                                        "name": "SFProText-Regular",
-                                        "size": 24
+                                        "name": "SFProDisplay-Regular",
+                                        "size": 22
                                     }
                                 },
                                 "paragraphStyle": {
                                     "_class": "paragraphStyle",
-                                    "alignment": 2,
                                     "tighteningFactorForTruncation": 0.05,
-                                    "allowsDefaultTighteningForTruncation": 0
+                                    "allowsDefaultTighteningForTruncation": 0,
+                                    "alignment": 2
                                 },
-                                "kerning": -1
+                                "kerning": 0.2
                             },
                             "verticalAlignment": 0
                         }
                     },
                     "attributedString": {
                         "_class": "attributedString",
-                        "string": "July",
+                        "string": "April",
                         "attributes": [
                             {
                                 "_class": "stringAttribute",
                                 "location": 0,
-                                "length": 4,
+                                "length": 5,
                                 "attributes": {
                                     "MSAttributedStringFontAttribute": {
                                         "_class": "fontDescriptor",
                                         "attributes": {
-                                            "name": "SFProText-Regular",
-                                            "size": 24
+                                            "name": "SFProDisplay-Regular",
+                                            "size": 22
                                         }
                                     },
-                                    "kerning": -1,
+                                    "kerning": 0.2,
                                     "paragraphStyle": {
                                         "_class": "paragraphStyle",
-                                        "alignment": 2,
                                         "tighteningFactorForTruncation": 0.05,
-                                        "allowsDefaultTighteningForTruncation": 0
+                                        "allowsDefaultTighteningForTruncation": 0,
+                                        "alignment": 2
                                     }
                                 }
                             }
@@ -3232,8 +3168,8 @@
                     },
                     "automaticallyDrawOnUnderlyingPath": false,
                     "dontSynchroniseWithSymbol": false,
-                    "glyphBounds": "{{1, 5}, {42, 23}}",
-                    "lineSpacingBehaviour": 1,
+                    "glyphBounds": "{{0, 5}, {42, 20}}",
+                    "lineSpacingBehaviour": 3,
                     "textBehaviour": 0
                 }
             ],
@@ -3270,7 +3206,7 @@
             "isFlippedVertical": false,
             "isLocked": false,
             "isVisible": true,
-            "layerListExpandedType": 2,
+            "layerListExpandedType": 1,
             "name": "-- Single - Plus 2",
             "nameIsFixed": true,
             "resizingConstraint": 63,
@@ -3280,7 +3216,8 @@
             "userInfo": {
                 "io.magicsketch.mirror": {
                     "linkedLayers": [
-                        "C0BAB752-0D77-4E82-8107-58402EF18ABB"
+                        "C0BAB752-0D77-4E82-8107-58402EF18ABB",
+                        "DC4593F8-079E-445A-B905-924092232C83"
                     ],
                     "included": 1
                 }
@@ -3343,7 +3280,7 @@
                 "innerShadows": [],
                 "shadows": []
             },
-            "hasClickThrough": false,
+            "hasClickThrough": true,
             "groupLayout": {
                 "_class": "MSImmutableFreeformGroupLayout"
             },
@@ -3358,8 +3295,8 @@
                     "isLocked": false,
                     "isVisible": true,
                     "layerListExpandedType": 0,
-                    "name": "June",
-                    "nameIsFixed": false,
+                    "name": "Text",
+                    "nameIsFixed": true,
                     "resizingConstraint": 47,
                     "resizingType": 0,
                     "rotation": 0,
@@ -3379,10 +3316,10 @@
                     "frame": {
                         "_class": "rect",
                         "constrainProportions": false,
-                        "height": 29,
-                        "width": 51,
-                        "x": 162.5,
-                        "y": 3
+                        "height": 26,
+                        "width": 60,
+                        "x": 157.5,
+                        "y": 5
                     },
                     "clippingMaskMode": 0,
                     "hasClippingMask": false,
@@ -3432,43 +3369,43 @@
                                 "MSAttributedStringFontAttribute": {
                                     "_class": "fontDescriptor",
                                     "attributes": {
-                                        "name": "SFProText-Regular",
-                                        "size": 24
+                                        "name": "SFProDisplay-Regular",
+                                        "size": 22
                                     }
                                 },
                                 "paragraphStyle": {
                                     "_class": "paragraphStyle",
-                                    "alignment": 2,
                                     "tighteningFactorForTruncation": 0.05,
-                                    "allowsDefaultTighteningForTruncation": 0
+                                    "allowsDefaultTighteningForTruncation": 0,
+                                    "alignment": 2
                                 },
-                                "kerning": -1
+                                "kerning": 0.2
                             },
                             "verticalAlignment": 0
                         }
                     },
                     "attributedString": {
                         "_class": "attributedString",
-                        "string": "June",
+                        "string": "March",
                         "attributes": [
                             {
                                 "_class": "stringAttribute",
                                 "location": 0,
-                                "length": 4,
+                                "length": 5,
                                 "attributes": {
                                     "MSAttributedStringFontAttribute": {
                                         "_class": "fontDescriptor",
                                         "attributes": {
-                                            "name": "SFProText-Regular",
-                                            "size": 24
+                                            "name": "SFProDisplay-Regular",
+                                            "size": 22
                                         }
                                     },
-                                    "kerning": -1,
+                                    "kerning": 0.2,
                                     "paragraphStyle": {
                                         "_class": "paragraphStyle",
-                                        "alignment": 2,
                                         "tighteningFactorForTruncation": 0.05,
-                                        "allowsDefaultTighteningForTruncation": 0
+                                        "allowsDefaultTighteningForTruncation": 0,
+                                        "alignment": 2
                                     }
                                 }
                             }
@@ -3476,8 +3413,8 @@
                     },
                     "automaticallyDrawOnUnderlyingPath": false,
                     "dontSynchroniseWithSymbol": false,
-                    "glyphBounds": "{{1, 6}, {50, 18}}",
-                    "lineSpacingBehaviour": 1,
+                    "glyphBounds": "{{1, 5}, {57, 17}}",
+                    "lineSpacingBehaviour": 3,
                     "textBehaviour": 0
                 }
             ],
@@ -3514,7 +3451,7 @@
             "isFlippedVertical": false,
             "isLocked": false,
             "isVisible": true,
-            "layerListExpandedType": 2,
+            "layerListExpandedType": 1,
             "name": "-- Single - Plus 1",
             "nameIsFixed": true,
             "resizingConstraint": 63,
@@ -3524,7 +3461,8 @@
             "userInfo": {
                 "io.magicsketch.mirror": {
                     "linkedLayers": [
-                        "74F64640-24A2-43C4-AB46-7444065935B9"
+                        "74F64640-24A2-43C4-AB46-7444065935B9",
+                        "29BD661A-6245-4E36-BD50-4307E39FEFD9"
                     ],
                     "included": 1
                 }
@@ -3587,7 +3525,7 @@
                 "innerShadows": [],
                 "shadows": []
             },
-            "hasClickThrough": false,
+            "hasClickThrough": true,
             "groupLayout": {
                 "_class": "MSImmutableFreeformGroupLayout"
             },
@@ -3602,8 +3540,8 @@
                     "isLocked": false,
                     "isVisible": true,
                     "layerListExpandedType": 0,
-                    "name": "May",
-                    "nameIsFixed": false,
+                    "name": "Text",
+                    "nameIsFixed": true,
                     "resizingConstraint": 47,
                     "resizingType": 0,
                     "rotation": 0,
@@ -3623,10 +3561,10 @@
                     "frame": {
                         "_class": "rect",
                         "constrainProportions": false,
-                        "height": 29,
-                        "width": 44,
-                        "x": 166,
-                        "y": 3
+                        "height": 26,
+                        "width": 84,
+                        "x": 145.5,
+                        "y": 5
                     },
                     "clippingMaskMode": 0,
                     "hasClippingMask": false,
@@ -3676,43 +3614,43 @@
                                 "MSAttributedStringFontAttribute": {
                                     "_class": "fontDescriptor",
                                     "attributes": {
-                                        "name": "SFProText-Regular",
-                                        "size": 24
+                                        "name": "SFProDisplay-Regular",
+                                        "size": 22
                                     }
                                 },
                                 "paragraphStyle": {
                                     "_class": "paragraphStyle",
-                                    "alignment": 2,
                                     "tighteningFactorForTruncation": 0.05,
-                                    "allowsDefaultTighteningForTruncation": 0
+                                    "allowsDefaultTighteningForTruncation": 0,
+                                    "alignment": 2
                                 },
-                                "kerning": -1
+                                "kerning": 0.2
                             },
                             "verticalAlignment": 0
                         }
                     },
                     "attributedString": {
                         "_class": "attributedString",
-                        "string": "May",
+                        "string": "February",
                         "attributes": [
                             {
                                 "_class": "stringAttribute",
                                 "location": 0,
-                                "length": 3,
+                                "length": 8,
                                 "attributes": {
                                     "MSAttributedStringFontAttribute": {
                                         "_class": "fontDescriptor",
                                         "attributes": {
-                                            "name": "SFProText-Regular",
-                                            "size": 24
+                                            "name": "SFProDisplay-Regular",
+                                            "size": 22
                                         }
                                     },
-                                    "kerning": -1,
+                                    "kerning": 0.2,
                                     "paragraphStyle": {
                                         "_class": "paragraphStyle",
-                                        "alignment": 2,
                                         "tighteningFactorForTruncation": 0.05,
-                                        "allowsDefaultTighteningForTruncation": 0
+                                        "allowsDefaultTighteningForTruncation": 0,
+                                        "alignment": 2
                                     }
                                 }
                             }
@@ -3720,8 +3658,8 @@
                     },
                     "automaticallyDrawOnUnderlyingPath": false,
                     "dontSynchroniseWithSymbol": false,
-                    "glyphBounds": "{{2, 6}, {42, 22}}",
-                    "lineSpacingBehaviour": 1,
+                    "glyphBounds": "{{1, 5}, {82, 21}}",
+                    "lineSpacingBehaviour": 3,
                     "textBehaviour": 0
                 }
             ],
@@ -3758,7 +3696,7 @@
             "isFlippedVertical": false,
             "isLocked": false,
             "isVisible": true,
-            "layerListExpandedType": 2,
+            "layerListExpandedType": 1,
             "name": "-- Single - Current Selection",
             "nameIsFixed": true,
             "resizingConstraint": 63,
@@ -3768,7 +3706,8 @@
             "userInfo": {
                 "io.magicsketch.mirror": {
                     "linkedLayers": [
-                        "48748CC8-06A7-4704-9243-FAA725E47CED"
+                        "48748CC8-06A7-4704-9243-FAA725E47CED",
+                        "19E20AEE-3AF5-4C76-A680-E8E91A556E5A"
                     ],
                     "highestQuality": -1,
                     "included": 1
@@ -3832,7 +3771,7 @@
                 "innerShadows": [],
                 "shadows": []
             },
-            "hasClickThrough": false,
+            "hasClickThrough": true,
             "groupLayout": {
                 "_class": "MSImmutableFreeformGroupLayout"
             },
@@ -3847,8 +3786,8 @@
                     "isLocked": false,
                     "isVisible": true,
                     "layerListExpandedType": 0,
-                    "name": "April",
-                    "nameIsFixed": false,
+                    "name": "Text",
+                    "nameIsFixed": true,
                     "resizingConstraint": 47,
                     "resizingType": 0,
                     "rotation": 0,
@@ -3869,9 +3808,9 @@
                         "_class": "rect",
                         "constrainProportions": false,
                         "height": 29,
-                        "width": 47,
-                        "x": 164.5,
-                        "y": 3
+                        "width": 93,
+                        "x": 141,
+                        "y": 3.5
                     },
                     "clippingMaskMode": 0,
                     "hasClippingMask": false,
@@ -3927,23 +3866,23 @@
                                 },
                                 "paragraphStyle": {
                                     "_class": "paragraphStyle",
-                                    "alignment": 2,
                                     "tighteningFactorForTruncation": 0.05,
-                                    "allowsDefaultTighteningForTruncation": 0
+                                    "allowsDefaultTighteningForTruncation": 0,
+                                    "alignment": 2
                                 },
-                                "kerning": -1
+                                "kerning": 0.4
                             },
                             "verticalAlignment": 0
                         }
                     },
                     "attributedString": {
                         "_class": "attributedString",
-                        "string": "April",
+                        "string": "January",
                         "attributes": [
                             {
                                 "_class": "stringAttribute",
                                 "location": 0,
-                                "length": 5,
+                                "length": 7,
                                 "attributes": {
                                     "MSAttributedStringFontAttribute": {
                                         "_class": "fontDescriptor",
@@ -3952,12 +3891,12 @@
                                             "size": 24
                                         }
                                     },
-                                    "kerning": -1,
+                                    "kerning": 0.4,
                                     "paragraphStyle": {
                                         "_class": "paragraphStyle",
-                                        "alignment": 2,
                                         "tighteningFactorForTruncation": 0.05,
-                                        "allowsDefaultTighteningForTruncation": 0
+                                        "allowsDefaultTighteningForTruncation": 0,
+                                        "alignment": 2
                                     }
                                 }
                             }
@@ -3965,8 +3904,8 @@
                     },
                     "automaticallyDrawOnUnderlyingPath": false,
                     "dontSynchroniseWithSymbol": false,
-                    "glyphBounds": "{{0, 5}, {46, 23}}",
-                    "lineSpacingBehaviour": 1,
+                    "glyphBounds": "{{1, 6}, {91, 22}}",
+                    "lineSpacingBehaviour": 3,
                     "textBehaviour": 0
                 }
             ],
@@ -4003,7 +3942,7 @@
             "isFlippedVertical": false,
             "isLocked": false,
             "isVisible": true,
-            "layerListExpandedType": 2,
+            "layerListExpandedType": 1,
             "name": "-- Single - Minus 1",
             "nameIsFixed": true,
             "resizingConstraint": 63,
@@ -4013,9 +3952,11 @@
             "userInfo": {
                 "io.magicsketch.mirror": {
                     "linkedLayers": [
-                        "044DDFE4-B339-4466-A840-EFEBE7FDCF87"
+                        "044DDFE4-B339-4466-A840-EFEBE7FDCF87",
+                        "D6974D1D-648D-45BF-AEAB-80C528838632"
                     ],
-                    "included": 1
+                    "included": 1,
+                    "highestQuality": -1
                 }
             },
             "exportOptions": {
@@ -4076,7 +4017,7 @@
                 "innerShadows": [],
                 "shadows": []
             },
-            "hasClickThrough": false,
+            "hasClickThrough": true,
             "groupLayout": {
                 "_class": "MSImmutableFreeformGroupLayout"
             },
@@ -4091,8 +4032,8 @@
                     "isLocked": false,
                     "isVisible": true,
                     "layerListExpandedType": 0,
-                    "name": "March",
-                    "nameIsFixed": false,
+                    "name": "Text",
+                    "nameIsFixed": true,
                     "resizingConstraint": 47,
                     "resizingType": 0,
                     "rotation": 0,
@@ -4112,10 +4053,10 @@
                     "frame": {
                         "_class": "rect",
                         "constrainProportions": false,
-                        "height": 29,
-                        "width": 66,
-                        "x": 155,
-                        "y": 3
+                        "height": 26,
+                        "width": 99,
+                        "x": 138,
+                        "y": 5
                     },
                     "clippingMaskMode": 0,
                     "hasClippingMask": false,
@@ -4165,43 +4106,43 @@
                                 "MSAttributedStringFontAttribute": {
                                     "_class": "fontDescriptor",
                                     "attributes": {
-                                        "name": "SFProText-Regular",
-                                        "size": 24
+                                        "name": "SFProDisplay-Regular",
+                                        "size": 22
                                     }
                                 },
                                 "paragraphStyle": {
                                     "_class": "paragraphStyle",
-                                    "alignment": 2,
                                     "tighteningFactorForTruncation": 0.05,
-                                    "allowsDefaultTighteningForTruncation": 0
+                                    "allowsDefaultTighteningForTruncation": 0,
+                                    "alignment": 2
                                 },
-                                "kerning": -1
+                                "kerning": 0.2
                             },
                             "verticalAlignment": 0
                         }
                     },
                     "attributedString": {
                         "_class": "attributedString",
-                        "string": "March",
+                        "string": "December",
                         "attributes": [
                             {
                                 "_class": "stringAttribute",
                                 "location": 0,
-                                "length": 5,
+                                "length": 8,
                                 "attributes": {
                                     "MSAttributedStringFontAttribute": {
                                         "_class": "fontDescriptor",
                                         "attributes": {
-                                            "name": "SFProText-Regular",
-                                            "size": 24
+                                            "name": "SFProDisplay-Regular",
+                                            "size": 22
                                         }
                                     },
-                                    "kerning": -1,
+                                    "kerning": 0.2,
                                     "paragraphStyle": {
                                         "_class": "paragraphStyle",
-                                        "alignment": 2,
                                         "tighteningFactorForTruncation": 0.05,
-                                        "allowsDefaultTighteningForTruncation": 0
+                                        "allowsDefaultTighteningForTruncation": 0,
+                                        "alignment": 2
                                     }
                                 }
                             }
@@ -4209,8 +4150,8 @@
                     },
                     "automaticallyDrawOnUnderlyingPath": false,
                     "dontSynchroniseWithSymbol": false,
-                    "glyphBounds": "{{2, 5}, {63, 19}}",
-                    "lineSpacingBehaviour": 1,
+                    "glyphBounds": "{{1, 5}, {97, 17}}",
+                    "lineSpacingBehaviour": 3,
                     "textBehaviour": 0
                 }
             ],
@@ -4247,7 +4188,7 @@
             "isFlippedVertical": false,
             "isLocked": false,
             "isVisible": true,
-            "layerListExpandedType": 2,
+            "layerListExpandedType": 1,
             "name": "-- Single - Minus 2",
             "nameIsFixed": true,
             "resizingConstraint": 63,
@@ -4257,10 +4198,11 @@
             "userInfo": {
                 "io.magicsketch.mirror": {
                     "linkedLayers": [
-                        "CE533DE4-1E25-47BC-A326-9C4FCEFC6DD7"
+                        "CE533DE4-1E25-47BC-A326-9C4FCEFC6DD7",
+                        "21D06F8E-E2A5-4BB2-8934-30E0FF1577CB"
                     ],
                     "included": 1,
-                    "highestQuality": 2
+                    "highestQuality": -1
                 }
             },
             "exportOptions": {
@@ -4321,7 +4263,7 @@
                 "innerShadows": [],
                 "shadows": []
             },
-            "hasClickThrough": false,
+            "hasClickThrough": true,
             "groupLayout": {
                 "_class": "MSImmutableFreeformGroupLayout"
             },
@@ -4336,8 +4278,8 @@
                     "isLocked": false,
                     "isVisible": true,
                     "layerListExpandedType": 0,
-                    "name": "February",
-                    "nameIsFixed": false,
+                    "name": "Text",
+                    "nameIsFixed": true,
                     "resizingConstraint": 47,
                     "resizingType": 0,
                     "rotation": 0,
@@ -4357,10 +4299,10 @@
                     "frame": {
                         "_class": "rect",
                         "constrainProportions": false,
-                        "height": 29,
-                        "width": 93,
-                        "x": 141.5,
-                        "y": 3
+                        "height": 26,
+                        "width": 98,
+                        "x": 138.5,
+                        "y": 5
                     },
                     "clippingMaskMode": 0,
                     "hasClippingMask": false,
@@ -4410,24 +4352,24 @@
                                 "MSAttributedStringFontAttribute": {
                                     "_class": "fontDescriptor",
                                     "attributes": {
-                                        "name": "SFProText-Regular",
-                                        "size": 24
+                                        "name": "SFProDisplay-Regular",
+                                        "size": 22
                                     }
                                 },
                                 "paragraphStyle": {
                                     "_class": "paragraphStyle",
-                                    "alignment": 2,
                                     "tighteningFactorForTruncation": 0.05,
-                                    "allowsDefaultTighteningForTruncation": 0
+                                    "allowsDefaultTighteningForTruncation": 0,
+                                    "alignment": 2
                                 },
-                                "kerning": -1
+                                "kerning": 0.2
                             },
                             "verticalAlignment": 0
                         }
                     },
                     "attributedString": {
                         "_class": "attributedString",
-                        "string": "February",
+                        "string": "November",
                         "attributes": [
                             {
                                 "_class": "stringAttribute",
@@ -4437,16 +4379,16 @@
                                     "MSAttributedStringFontAttribute": {
                                         "_class": "fontDescriptor",
                                         "attributes": {
-                                            "name": "SFProText-Regular",
-                                            "size": 24
+                                            "name": "SFProDisplay-Regular",
+                                            "size": 22
                                         }
                                     },
-                                    "kerning": -1,
+                                    "kerning": 0.2,
                                     "paragraphStyle": {
                                         "_class": "paragraphStyle",
-                                        "alignment": 2,
                                         "tighteningFactorForTruncation": 0.05,
-                                        "allowsDefaultTighteningForTruncation": 0
+                                        "allowsDefaultTighteningForTruncation": 0,
+                                        "alignment": 2
                                     }
                                 }
                             }
@@ -4454,8 +4396,8 @@
                     },
                     "automaticallyDrawOnUnderlyingPath": false,
                     "dontSynchroniseWithSymbol": false,
-                    "glyphBounds": "{{2, 5}, {91, 23}}",
-                    "lineSpacingBehaviour": 1,
+                    "glyphBounds": "{{1, 5}, {97, 17}}",
+                    "lineSpacingBehaviour": 3,
                     "textBehaviour": 0
                 }
             ],
@@ -4492,7 +4434,7 @@
             "isFlippedVertical": false,
             "isLocked": false,
             "isVisible": true,
-            "layerListExpandedType": 2,
+            "layerListExpandedType": 1,
             "name": "-- Single - Minus 3",
             "nameIsFixed": true,
             "resizingConstraint": 63,
@@ -4502,7 +4444,8 @@
             "userInfo": {
                 "io.magicsketch.mirror": {
                     "linkedLayers": [
-                        "19F99A82-79C5-4EA7-9461-581B389D1E73"
+                        "19F99A82-79C5-4EA7-9461-581B389D1E73",
+                        "4AB8CCED-DC58-492B-B88F-598AA0E3E1CA"
                     ],
                     "included": 1,
                     "highestQuality": 2
@@ -4566,7 +4509,7 @@
                 "innerShadows": [],
                 "shadows": []
             },
-            "hasClickThrough": false,
+            "hasClickThrough": true,
             "groupLayout": {
                 "_class": "MSImmutableFreeformGroupLayout"
             },
@@ -4581,8 +4524,8 @@
                     "isLocked": false,
                     "isVisible": true,
                     "layerListExpandedType": 0,
-                    "name": "January",
-                    "nameIsFixed": false,
+                    "name": "Text",
+                    "nameIsFixed": true,
                     "resizingConstraint": 47,
                     "resizingType": 0,
                     "rotation": 0,
@@ -4602,10 +4545,10 @@
                     "frame": {
                         "_class": "rect",
                         "constrainProportions": false,
-                        "height": 29,
-                        "width": 83,
-                        "x": 146.5,
-                        "y": 3
+                        "height": 26,
+                        "width": 77,
+                        "x": 149,
+                        "y": 5
                     },
                     "clippingMaskMode": 0,
                     "hasClippingMask": false,
@@ -4655,24 +4598,24 @@
                                 "MSAttributedStringFontAttribute": {
                                     "_class": "fontDescriptor",
                                     "attributes": {
-                                        "name": "SFProText-Regular",
-                                        "size": 24
+                                        "name": "SFProDisplay-Regular",
+                                        "size": 22
                                     }
                                 },
                                 "paragraphStyle": {
                                     "_class": "paragraphStyle",
-                                    "alignment": 2,
                                     "tighteningFactorForTruncation": 0.05,
-                                    "allowsDefaultTighteningForTruncation": 0
+                                    "allowsDefaultTighteningForTruncation": 0,
+                                    "alignment": 2
                                 },
-                                "kerning": -1
+                                "kerning": 0.2
                             },
                             "verticalAlignment": 0
                         }
                     },
                     "attributedString": {
                         "_class": "attributedString",
-                        "string": "January",
+                        "string": "October",
                         "attributes": [
                             {
                                 "_class": "stringAttribute",
@@ -4682,16 +4625,16 @@
                                     "MSAttributedStringFontAttribute": {
                                         "_class": "fontDescriptor",
                                         "attributes": {
-                                            "name": "SFProText-Regular",
-                                            "size": 24
+                                            "name": "SFProDisplay-Regular",
+                                            "size": 22
                                         }
                                     },
-                                    "kerning": -1,
+                                    "kerning": 0.2,
                                     "paragraphStyle": {
                                         "_class": "paragraphStyle",
-                                        "alignment": 2,
                                         "tighteningFactorForTruncation": 0.05,
-                                        "allowsDefaultTighteningForTruncation": 0
+                                        "allowsDefaultTighteningForTruncation": 0,
+                                        "alignment": 2
                                     }
                                 }
                             }
@@ -4699,8 +4642,8 @@
                     },
                     "automaticallyDrawOnUnderlyingPath": false,
                     "dontSynchroniseWithSymbol": false,
-                    "glyphBounds": "{{1, 6}, {82, 22}}",
-                    "lineSpacingBehaviour": 1,
+                    "glyphBounds": "{{0, 5}, {77, 17}}",
+                    "lineSpacingBehaviour": 3,
                     "textBehaviour": 0
                 }
             ],
@@ -4737,7 +4680,7 @@
             "isFlippedVertical": false,
             "isLocked": false,
             "isVisible": true,
-            "layerListExpandedType": 2,
+            "layerListExpandedType": 1,
             "name": "-- Single - Minus 4",
             "nameIsFixed": true,
             "resizingConstraint": 63,
@@ -4747,10 +4690,11 @@
             "userInfo": {
                 "io.magicsketch.mirror": {
                     "linkedLayers": [
-                        "99C16EC5-D3A6-4927-90AC-C8FB3C25AC8F"
+                        "99C16EC5-D3A6-4927-90AC-C8FB3C25AC8F",
+                        "44662150-167D-4D06-B1A4-3A3470902BC1"
                     ],
                     "included": 1,
-                    "highestQuality": 2
+                    "highestQuality": -1
                 }
             },
             "exportOptions": {
@@ -4811,7 +4755,7 @@
                 "innerShadows": [],
                 "shadows": []
             },
-            "hasClickThrough": false,
+            "hasClickThrough": true,
             "groupLayout": {
                 "_class": "MSImmutableFreeformGroupLayout"
             },
@@ -4826,8 +4770,8 @@
                     "isLocked": false,
                     "isVisible": true,
                     "layerListExpandedType": 0,
-                    "name": "December",
-                    "nameIsFixed": false,
+                    "name": "Text",
+                    "nameIsFixed": true,
                     "resizingConstraint": 47,
                     "resizingType": 0,
                     "rotation": 0,
@@ -4847,10 +4791,10 @@
                     "frame": {
                         "_class": "rect",
                         "constrainProportions": false,
-                        "height": 29,
-                        "width": 109,
-                        "x": 133.5,
-                        "y": 3
+                        "height": 26,
+                        "width": 104,
+                        "x": 135.5,
+                        "y": 5
                     },
                     "clippingMaskMode": 0,
                     "hasClippingMask": false,
@@ -4900,43 +4844,43 @@
                                 "MSAttributedStringFontAttribute": {
                                     "_class": "fontDescriptor",
                                     "attributes": {
-                                        "name": "SFProText-Regular",
-                                        "size": 24
+                                        "name": "SFProDisplay-Regular",
+                                        "size": 22
                                     }
                                 },
                                 "paragraphStyle": {
                                     "_class": "paragraphStyle",
-                                    "alignment": 2,
                                     "tighteningFactorForTruncation": 0.05,
-                                    "allowsDefaultTighteningForTruncation": 0
+                                    "allowsDefaultTighteningForTruncation": 0,
+                                    "alignment": 2
                                 },
-                                "kerning": -1
+                                "kerning": 0.2
                             },
                             "verticalAlignment": 0
                         }
                     },
                     "attributedString": {
                         "_class": "attributedString",
-                        "string": "December",
+                        "string": "September",
                         "attributes": [
                             {
                                 "_class": "stringAttribute",
                                 "location": 0,
-                                "length": 8,
+                                "length": 9,
                                 "attributes": {
                                     "MSAttributedStringFontAttribute": {
                                         "_class": "fontDescriptor",
                                         "attributes": {
-                                            "name": "SFProText-Regular",
-                                            "size": 24
+                                            "name": "SFProDisplay-Regular",
+                                            "size": 22
                                         }
                                     },
-                                    "kerning": -1,
+                                    "kerning": 0.2,
                                     "paragraphStyle": {
                                         "_class": "paragraphStyle",
-                                        "alignment": 2,
                                         "tighteningFactorForTruncation": 0.05,
-                                        "allowsDefaultTighteningForTruncation": 0
+                                        "allowsDefaultTighteningForTruncation": 0,
+                                        "alignment": 2
                                     }
                                 }
                             }
@@ -4944,8 +4888,8 @@
                     },
                     "automaticallyDrawOnUnderlyingPath": false,
                     "dontSynchroniseWithSymbol": false,
-                    "glyphBounds": "{{2, 5}, {108, 19}}",
-                    "lineSpacingBehaviour": 1,
+                    "glyphBounds": "{{0, 5}, {104, 20}}",
+                    "lineSpacingBehaviour": 3,
                     "textBehaviour": 0
                 }
             ],

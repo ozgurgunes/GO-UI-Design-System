@@ -1,15 +1,11 @@
 # GO UI Design System
 
-> :warning: This repository **does not contain actual Sketch files** but unzipped JSON sources. To download the Sketch files, please see the [release][release] page.
-
-> :warning: Sketch files have been saved with Sketch 69. Older versions probably can open the files without any problem after confirming a warning dialog but can not use latest Sketch features like color variables. 
+> :warning: *This repository **does not contain actual Sketch files** but unzipped JSON sources. To download the Sketch files, please see the [release][release] page.*
 
 GO UI Design System is aimed to create rapid UX & UI designs for large scale projects. 
 It can not be considered as a UI Kit itself, instead it helps to create uniqe UI kits and manage them easily.
 
-The system combines the power of Sketch styles and symbols to create highly functional components to be used along your design process in a large range of needs.
-
-It uses atoms, molecules and organisms to replicate design patterns or create originals.
+The system combines the power of Sketch's styles and symbols to create highly functional components to be used along your design process in a large range of needs.
 
 ## [Add Library to Sketch][library]
 
@@ -42,19 +38,11 @@ Your clone is ready for Git actions. Checkout anything to generate Sketch files.
 
 ## Getting Started
 
-### Atomic Approach
+GO UI Design System relies on Brad Frost's atomic design concept. It uses atom, molecule, organism and template symbols to replicate design patterns or create originals.
 
-GO UI Design System relies on Brad Frost's atomic design concept.
+Styles and symbols are named carefully for reducing the effort on navigating Sketch’s flyout menus to minimum.
 
-It has several atom symbols such a background layer, a text asset, an icon etc. These atoms does not have a meaning nor a function alone themselves.
-
-A molecule symbol brings those together. Takes the background atom and applies a button layer style. Takes button asset atom and applies a button text style. Now we have a button. We can later override this molecules styles to create various buttons like primary, ghost, destructive etc. Whenever we want to give our button a rounded corner, just we have to change the background atom.
-
-An orgnism symbol takes this button molecule, put it below a textarea molecule and wraps them with another background atom. Now we have a basic form.
-
-A template symbol takes this form organism, put it below some comment molecules, puts title molecule to top of comments. Now we have comments template.
-
-We can use this comments template in our product detail page or blog post page with our header and footer organisms. When we do a change in comment form, all of our pages will be updated. We can also easily override the comments templates title such as "Product reviews" or "Thoughts about this post". When we change the title font, all pages will be updated but the title wording stay intact.
+The hierarchy has been structured by taking the usage pattern and frequency into account, such as switching to contextual alternates or variations easy and fast.
 
 ### Background Symbols
 
@@ -76,30 +64,40 @@ This structure allows to create a wide range of design pattern variations with o
 
 ### Customizing Symbols
 
-The symbols library provide, mostly need customizatons for a complete elegant design.
-It’s possible to create a new symbol without detaching it from the library after customizing its components and styles by overriding.
+The symbols, library provide, mostly need customizatons for a complete elegant design.
+It’s possible to create a new symbol without detaching it from the library, after customizing its components and styles by overriding.
 
 The main advantage of this method is, editing a symbol in the library also syncs the project document as well.
 This may cause some minor performance disadvantage because of using too many nested symbols in design.
 
-On the other hand, for more advanced customization and better performance, we can make the symbol local for document by detaching it from the library.
-By this way, making a change in the library will not be reflected to the project as a disadvantage.
-
-Lastly, and may be the most efficient way is using the Symbol States plugin.
-This plugins saves the overrides of a symbol as a state and makes possible to quickly apply that state to other instances of the symbol when need to use.
-Plugin can be downloaded from: https://github.com/ozgurgunes/Sketch-Symbol-States
+On the other hand, for more advanced customization and better performance, we can make the symbol local for document, by detaching it from the library.
+With this way, as a disadvantage, making a change in the library will not be reflected to the project.
 
 ## Color System
 
-### Base Colors
+### Base Colors & Elements
 
-A total of 9 base colors have been used, including black, white and 7 contextual colors.
-Color tones created by adding blacks and whites on a base color.
-Each color palette has 8 tones including 1 base color, 3 dark tones and 4 light tones.
+A total of 8 base colors have been defined in the system as black, white and 6 contextual colors.
+
+Library have some dark & light shades and transparency definitions as element colors, which are used in components for texts, backgrounds and objects like separators or chevrons.
+
+S1 and S2 colors are for giving a small distinction to elements from background or siblings such as alternating table rows, highlighted cards etc. 
+T1 is used for background dimmers and background blurs. 
+T2 is used for secondary texts. 
+T3 is used for list detail chevrons. 
+T4 is used for tertiary texts. 
+T5 is used for separator lines and some backgrounds like scrollbar etc. 
+
+Naming these colors as black and white have been avoided and used the names as “default” and “inverse” instead. Thus if a Sketch document switch between two or more libraries for color themes such as light and dark, colors may remain semantically consistent.
+
+### Solid Colors
+
+All contextual base colors have a contrast ratio of at least 4.5:1 with both black and white.
+Color tones are created by adding blacks and whites on a base color.
+Each color except black and white has 8 tones including 1 base color, 3 dark tones and 4 light tones.
 The black and white opacity values added to the base color shown on the color wheels.
 Tones are named in multiples of 10 with 50 being the base color and an S prefix as abbreviation of solid.
 This allows to create semitones like S-35 whether needed.
-Colors also have an alternate contextual name used in components such as alerts, buttons, form fields etc.
 
 ### Opacities
 
@@ -108,30 +106,22 @@ Opacity values are same for all colors and named with a T prefix as an abbreviat
 Color opacities, except black and white, are named with 4 digits; first 2 represent the color tone, second 2 represent the opacity of tone. Thus, its possible to create a blue T-7030 when a transparency of darker tone is needed.
 Since there are no tones of black and white, only 2 digits used for their opacities.
 
-### Special Colors
-
-There are some special colors that are frequently used in the system.
-These colors have been picked from system palettes and named for specific uses.
-Base is the main background color of library which is set to white.
-Divider Color is optimized to use on both dark and light backgrounds. It is used in components such as list items, table rows, some headers etc.
-Shades and Tints used to give small distinction to elements from background or siblings such as alternating table rows, highlighted cards etc.
-
 ## Layer Styles
 
 ### Background Layer Styles
 
-There are 52 defined layer styles for using to set a quick background to elements and components.
-Divider, grid, row and table styles use 1px inner shadows in Divider Color.
+There are 53 defined layer styles for using to set a quick background to elements and components.
+Divider, column and grid styles use 1px inner shadow in Divider Color.
 
 ### Button Layer Styles
 
-There are 5 contextual button styles with their states.
-The library also have 5 other button styles for custom needs.
+There are 6 contextual button styles with their states.
+The library also have 5 additional button styles for custom needs.
 Neumorphic buttons also created for experimental purposes by using Sketch specific shadow and layer blend features to use on any background color.
 
 ### Text Input Layer Styles
 
-The library have 2 types of input styles with their states and default fill alternates.
+The library have 2 types of input styles with their states and default fill alternates. Material Design's Floating input styles use -2px inner shadow on Y axis to create the underline.
 
 ### Gradient Layer Styles
 
@@ -183,11 +173,22 @@ Image placeholder is filled with a transparent image file. Any layer with this s
 
 ### Basic Text Styles
 
-The library has a total of 252 basic text styles for using in components and design elements.
+The library has a total of 288 basic text styles for using in components and design elements.
 There are 8 font sizes including 1 base size, 4 larges and 3 smalls.
-Most used sizes have 4 weights including regular, bold, heavy and light. The smallest 2 sizes have regular and bold weights only.
+All sizes have 4 weights including regular, bold, heavy and light.
 All of these have both horizontal and vertical alignment variations which makes a total of 9 for each.
 These are the basic text styles which library provides for general purposes or wireframing.
+Most likely, every project will have its own text styles with different font, weight and even colors.
+Text styles in symbols can be overridden by custom text styles without any problem as long as they preserve the same line heights.
+Different line heights may cause some vertical alignment problems in some symbols such as buttons and form fields.
+
+### Display Text Styles
+
+The library has a total of 288 display text styles for using in components and design elements.
+There are 8 font sizes including 1 base size, 4 larges and 3 smalls.
+All sizes have 4 weights including regular, bold, heavy and light.
+All of these have both horizontal and vertical alignment variations which makes a total of 9 for each.
+These are the display text styles which library provides for headings and titles.
 Most likely, every project will have its own text styles with different font, weight and even colors.
 Text styles in symbols can be overridden by custom text styles without any problem as long as they preserve the same line heights.
 Different line heights may cause some vertical alignment problems in some symbols such as buttons and form fields.
@@ -210,7 +211,7 @@ Library have separate text styles for various form inputs and their states.
 ### Buttons
 
 Library have 2 types of smart buttons, regular and slim, and 3 sizes of them.
-It doesn't have contextual buttons like primary or ghost nor their states like disabled or hover as symbols. 
+It doesn't have contextual button symbols like primary or ghost, nor their states like disabled or hover. 
 Instead of this, it makes styling the buttons very easy for any contextual needs.
 Slim buttons are ideal for tab bars toolbars.
 
@@ -223,14 +224,14 @@ Complex buttons use assets and supplements, so they are highly customizable to u
 #### Button Styling
 
 Button background and text styles are named specially to make overrides in a quick way. 
-You can generate 5 contextual buttons and their 5 states very fast and easy.
+We can generate 5 contextual buttons and their 5 states very fast and easy.
 
 #### More With Buttons
 
-You can override button background symbol to create different types of buttonsets very fast.
-You can use flat buttons in a tab bar with spacing, or use regular buttons for contiguous tabs by overriding their backgrounds symbols to base or none.
-Buttons named “common” don’t use Sketch’s smart layout feuture. You can use them for giving a custom width to your buttons.
-Complex buttons use assets and supplements. Usage areas of those are totally up to your imagination.
+We can override button background symbol to create different types of buttonsets very fast.
+We can use flat buttons in a tab bar with spacing, or use regular buttons for contiguous tabs by overriding their backgrounds symbols to base or none.
+Buttons named “common” don’t use Sketch’s smart layout feuture. We can use them for giving a custom width to our buttons.
+Complex buttons use assets and supplements. Usage areas of those are totally up to our imagination.
 
 ### Cards
 
